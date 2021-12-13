@@ -11,7 +11,23 @@ hr{
   height: 3px !important;
   opacity: 1 !important;
 }
+.series-image-list {
+  position: relative;
+  display: flex;
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x mandatory;
+  margin-right: 50px;
+}
+.series-image-list img {
+  width: 100vh;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 
+  transition: all .2s ease-in-out;
+}
 .home,
 .prestige,
 .server {

@@ -5,7 +5,7 @@ function Server() {
     return (
         <div className='server '>
             <div class="container">
-                <div class="row ">
+                <div class="row series-image-list ">
 
                     STARTER-GUIDE
                     <br/>
