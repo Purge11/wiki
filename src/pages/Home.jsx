@@ -6,21 +6,21 @@ export default function Home() {
             <div class="container">
                 <div class="row series-image-list ">
 
-                  <div class="rules-section top">
+                    <div class="rules-section top">
                         <h1>1- General Information</h1>
-                      
+
                         1.1: Successful registration for your nosvoid account equals to accepting the
                         rules and regulations as stated below.
                         <br/>
-                        1.2: NosVoid server is an international server stated for large communities.
-                        Our Official language is English.
+                        1.2: NosVoid server is an international server stated for large communities. Our
+                        Official language is English.
                         <br/>
                         1.3: The NosVoid staff is not responsible for how players behave outside of
                         community.[example: discord private messages or dms /phone calls
-                        </div>
+                    </div>
                     <div class="rules-section">
                         <h1>2 - In game Behavior:</h1>
-                   
+
                         2.1: Respect other players! Insulting, trolling, racist, homophobic and
                         derogatory comments are strictly forbidden.
                         <br/>
@@ -33,8 +33,8 @@ export default function Home() {
                         2.4: You may not discuss hacks, bugs , exploits or any other harmful topics
                         in-game including our discord server.
                         <br/>
-                        2.5: Lending items to another player is at your own risk! Under no
-                        circumstances will your items be recovered.
+                        2.5: Lending items to another player is at your own risk! Under no circumstances
+                        will your items be recovered.
                         <br/>
                         2.6: Spreading, using, or trying to reproduce any kind of bug will be strictly
                         punished. Based on the bug spread/used/tried/methods to reproduce.
@@ -47,12 +47,12 @@ export default function Home() {
                     </div>
                     <div class="rules-section">
                         <h1>3 - Accounts</h1>
-                   
-                        3.1: Players are allowed to log in 3 accounts at time. We set up this rule
-                        since we don't want to limit players.
+
+                        3.1: Players are allowed to log in 3 accounts at time. We set up this rule since
+                        we don't want to limit players.
                         <br/>
-                        3.2: - You can share your account (not sell, just share). But know that if it
-                        is stolen, there won't be any refund. NosVoid staff team takes right to freeze,
+                        3.2: - You can share your account (not sell, just share). But know that if it is
+                        stolen, there won't be any refund. NosVoid staff team takes right to freeze,
                         block access or delete your account.
                         <br/>
                         3.3: - It's strictly prohibited to sell, trade or give your account to third
@@ -68,7 +68,7 @@ export default function Home() {
 
                     <div class="rules-section">
                         <h1>4 - Client manipulation - hacking, packet logging, botting... etc</h1>
-                      
+
                         4.1: Hacking is strictly forbidden and hackers will be permanently banned.
                         <br/>
                         4.2: Abusing bugs or glitches is not allowed. Any bugs have to be reported
@@ -79,8 +79,7 @@ export default function Home() {
                         <br/>
                         4.5: You may not use any mechanic that involves afk farming.
                         <br/>
-                        4.6: You may not use any mechanic that involves automation your ingame
-                        progress.
+                        4.6: You may not use any mechanic that involves automation your ingame progress.
                         <br/>
                         4.7: The usage and abuse of any Bug, Macro, Cheat, Exploits of in-game
                         mechanics, 3rd Party Programs to gain unfair advantage will be strictly
@@ -96,7 +95,7 @@ export default function Home() {
                     </div>
                     <div class="rules-section">
                         <h1>5- Events/Raids/Contents</h1>
-                
+
                         5.1: You are not allowed to be with more than 2 Chars/Acc in All
                         Raids/Caligor/WorldBoss/(AT THE SAME TIME) . You are not allowed to be with more
                         than 1 Char in AoT + RBB. You are not allowed to be with more than 1 char in
@@ -106,24 +105,23 @@ export default function Home() {
                         <br/>
                         5.3: You are not allowed to join with more than 1 acc/character in Bomb Runner.
                         <br/>
-                        5.4: You are not allowed to be afk in RBB + AOT. (Refer to 8.15 for
-                        punishments)
+                        5.4: You are not allowed to be afk in RBB + AOT. (Refer to 8.15 for punishments)
                     </div>
                     <div class="rules-section">
                         <h1>6 - Real World Trading</h1>
-                      
+
                         6.1: Account selling is not allowed. It is considered as Real World Trading.
                         Same goes for trading items/golds for other private/official server items/golds.
                         <br/>
                         6.2: Real world trading items/golds is not allowed either, both buying and
                         selling is equally punished.
                         <br/>
-                        6.3: Buying/Selling/Trading items/golds/accounts for other game
-                        currencies/other game accounts and etc. is considered Real World Trading.
+                        6.3: Buying/Selling/Trading items/golds/accounts for other game currencies/other
+                        game accounts and etc. is considered Real World Trading.
                         <br/>
-                        6.4: Any kind of proofs will be judged by staff members. Proofs include:
-                        discord chats, whatsapp messages, videos, facebook and in-game messages etc.
-                        Proofs will be judged extremely cautiously by us.
+                        6.4: Any kind of proofs will be judged by staff members. Proofs include: discord
+                        chats, whatsapp messages, videos, facebook and in-game messages etc. Proofs will
+                        be judged extremely cautiously by us.
                         <br/>
                         6.5: Faking real world trading proofs will lead to a strict punishment.
                         <br/>
@@ -136,19 +134,19 @@ export default function Home() {
                     </div>
                     <div class="rules-section">
                         <h1>7 - Discord Rules</h1>
-                       
+
                         7.1: In the event of any form of racism, we reserve the right to permanently
                         ban/remove the respective persons from the "NosVoid" platforms.
                         <br/>
-                        7.2: The rules game are also valid in discord. (Racism, swearing, insulting
-                        will be strictly punished)
+                        7.2: The rules game are also valid in discord. (Racism, swearing, insulting will
+                        be strictly punished)
                         <br/>
                         7.3: If you get a permanent ban, you have the rights to appeal after 7 Days.
                         <br/>
                     </div>
                     <div class="rules-section">
                         <h1>8 - Punishments</h1>
-                      
+
                         8.1: Bot Using [punishment may vary depending on the situation]
                         <br/>
                         8.2: Stealing Mobs
@@ -202,12 +200,12 @@ export default function Home() {
                 </div>
             </div>
             <div className="footer">
-            <div className="text-center p-3"> © 2021 Copyright: <a class="text-black" href="https://nosvoid.com/"
-         >Nosvoid</a>
-    </div>
+                <div className="text-center p-3">
+                    © 2021 Copyright:
+                    <a class="nosvoid-color" href="https://nosvoid.com/">Nosvoid</a>
+                </div>
             </div>
         </div>
-        
 
     )
 }

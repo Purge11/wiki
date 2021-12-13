@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
+
   
 
 }
@@ -30,6 +31,11 @@ hr{
 
   transition: all .2s ease-in-out;
 }
+.accesory{
+  img{
+max-width: 80px;
+  }
+}
 .accesory,
 .act4,
 .badgee,
@@ -51,7 +57,8 @@ hr{
 .shell,
 .sp,
 .tatto,
-.wings {
+.wings,
+.teammembers {
   height: 20vh;
   margin-top: 50px;
   margin-left: 27%;
@@ -88,9 +95,10 @@ hr{
   .shell,
   .sp,
   .tatto,
-  .wings { 
+  .wings,
+  .teammembers { 
   margin-right: 0%;
-  margin-left: 25%;
+  margin-left: 0%;
   }
 }
 .home{
@@ -114,5 +122,15 @@ hr{
   .prestige,
   .server {
     margin-left: 10px;
+  }
+}
+.accesory{
+  img{
+    position:absolute; 
+    text-align:center; 
+    vertical-align:middle;
+    z-index: 9999;
+   
+    border-radius: 15px;
   }
 }

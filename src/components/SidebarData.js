@@ -1,13 +1,13 @@
-/* eslint-disable no-unused-vars */
-import React from 'react';
-import * as FaIcons from 'react-icons/fa';
-import * as AiIcons from 'react-icons/ai';
-import * as IoIcons from 'react-icons/io';
 
 export const SidebarData = [
   {
     title: 'Rules',
     path: '/',
+    cName: 'ownnav-text'
+  },
+  {
+    title: 'Team Members',
+    path: '/teammembers',
     cName: 'ownnav-text'
   },
   {

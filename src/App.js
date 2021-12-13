@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.scss';
+import './TableColor.scss';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
@@ -24,6 +25,8 @@ import Shell from './pages/Shell';
 import SP from './pages/SP';
 import Tatto from './pages/Tatto';
 import Wings from './pages/Wings';
+import TeamMembers from './pages/TeamMembers';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
@@ -33,6 +36,7 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
+          <Route path='/teammembers' component={TeamMembers} />
           <Route path='/customFeatures' component={CustomFeatures} />
           <Route path='/accesory' component={Accesory} />
           <Route path='/act4' component={Act4} />
