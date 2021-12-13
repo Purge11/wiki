@@ -6,7 +6,7 @@ function Prestige() {
             <div class="container">
                 <div class="row ">
 
-                    <h1>Prestige</h1>
+                    <h1>15</h1>
                 </div>
             </div>
         </div>

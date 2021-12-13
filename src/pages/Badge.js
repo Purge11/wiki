@@ -1,18 +1,18 @@
 import React from 'react';
 
 
-function Home() {
+function Badge() {
   return (
-    <div className='home'>
+    <div className='badgee'>
         <div class="container">
             <div class="row ">
 
-                <h1>12</h1>
+                <h1>3</h1>
             </div>
         </div>
     </div>
   );
 }
 
-export default Home;
+export default Badge;
 
