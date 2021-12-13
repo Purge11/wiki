@@ -102,7 +102,7 @@ function Server() {
                 </div>
             </div>
             <div className="footer">
-            <div className="text-center p-3"> © 2021 Copyright: <a class="text-black" href="https://mdbootstrap.com/"
+            <div className="text-center p-3"> © 2021 Copyright: <a class="text-black" href="https://nosvoid.com/"
          >Nosvoid</a>
     </div>
             </div>

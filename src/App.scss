@@ -61,7 +61,37 @@ hr{
   a {
     text-decoration: none;
   }
+  
 
+}
+
+@media (max-width: 600px) {
+
+  .accesory,
+  .act4,
+  .badgee,
+  .books,
+  .box,
+  .c50,
+  .c55,
+  .customfeatures,
+  .equipment,
+  .faires,
+  .fish,
+  .home,
+  .maps,
+  .perfection,
+  .prestige,
+  .resistance,
+  .rune,
+  .server,
+  .shell,
+  .sp,
+  .tatto,
+  .wings { 
+  margin-right: 0%;
+  margin-left: 25%;
+  }
 }
 .home{
   .rules-section{
