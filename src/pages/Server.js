@@ -5,7 +5,7 @@ function Server() {
     return (
         <div className='server '>
             <div class="container">
-                <div class="row series-image-list ">
+                <div class="row">
 
                     STARTER-GUIDE
                     <br/>
@@ -51,7 +51,9 @@ function Server() {
                     will appear on this map:
                     <br/>
                     <br/>
+                    <section>
                     <img src="asset/server_1.png" alt=""/>
+                    </section>
                     <br/>
                     FIRST MAP
                     <br/>
@@ -76,8 +78,9 @@ function Server() {
                     Pack NPC:
                     <br/>
                     <br/>
+                    <section>
                     <img src="asset/server_2.png" alt=""/>
-
+                    </section>
                 </div>
             </div>
             <div className="footer">
