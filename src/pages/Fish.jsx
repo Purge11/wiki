@@ -7,7 +7,7 @@ export default function Fish() {
                 <div class="container d-flex justify-content-center">
                     <div class="row series-image-list1  ">
 
-                        to start your fishing adventure you have to go to the fish area portal located
+                        Hey, to start your fishing adventure you have to go to the fish area portal located
                         on the nosville map
                         <img src="asset/fish/fish1.png" alt=""/>
                         then you have to help the Fisherman Winnie to complete the task
