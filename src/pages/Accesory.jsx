@@ -4,7 +4,7 @@ export default function Accesory() {
     return (
         <div className='accesory'>
             <div class="container">
-                <div class="row mt-5 table-responsive">
+                <div class="row mt-5 ">
 
                      <table class="table "> 
                         <thead>
