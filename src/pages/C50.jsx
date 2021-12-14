@@ -40,8 +40,7 @@ export default function C50() {
                     <br/>
                     <div>
                         Follow
-                        <a href="$">《🔔》schedule</a>
-                        for Caligor hours..
+                        <a href="schedule">《🔔》schedule</a> for Caligor hours..
                     </div>
                     <br/>
                     <img src="asset/c50.png" alt=""/>

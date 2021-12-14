@@ -31,7 +31,7 @@ export default function Act4() {
                         <br/>
                         -You can join the Caligor raid.
 
-                        <a href="$">《🔔》schedule
+                        <a href="schedule">《🔔》schedule
                         </a>
 
                         <br/>

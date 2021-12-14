@@ -47,7 +47,7 @@ export default function Tatto() {
                     <br/>
                     <div>
                         Tattoo material drops world boss.
-                        <a href="$">《🔔》schedule</a>
+                        <a href="schedule">《🔔》schedule</a>
                     </div>
 
                     <br/>

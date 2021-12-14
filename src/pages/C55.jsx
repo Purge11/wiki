@@ -42,8 +42,7 @@ export default function C55() {
                     <br/>
                     <div>
                         X1 C50 Equipment
-                        <a href="c50">《📘》c50-guide</a>
-                        for Caligor hours..
+                        <a href="c50">《📘》c50-guide</a> for Caligor hours..
                     </div>
                     <br/>
                     Flame Crystal

@@ -159,7 +159,7 @@ export default function rune() {
                     <br/>
                     <div>
                         - Rune materials can be obtained from your world boss..
-                        <a href="$">《🔔》schedule</a>
+                        <a href="schedule">《🔔》schedule</a>
                     </div>
                     <br/>
                     <br/>

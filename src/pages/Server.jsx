@@ -36,7 +36,7 @@ function Server() {
                     <a href="$">
                         《🔥》rework-buffs
                     </a>
-                    <a href=".">
+                    <a href="https://wiki.nosvoid.com/">
                         《📋》rules</a>
 
                     MAKING YOUR FIRST CHARACTER

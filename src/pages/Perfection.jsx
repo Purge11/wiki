@@ -27,7 +27,7 @@ export default function Perfection() {
                     <div>
                         1-) It can be obtained with the Meteor mini-game. (The number of stones per
                         round increases.) For Meteor mini game hours
-                        <a href="$">《🔔》schedule</a>
+                        <a href="schedule">《🔔》schedule</a>
                     </div>
                     <br/>
                     2-) It can be obtained by raiding Maru. From the Maru raid box "Perfection
