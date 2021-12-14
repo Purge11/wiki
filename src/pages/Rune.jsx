@@ -163,9 +163,9 @@ export default function rune() {
                     </div>
                     <br/>
                     <br/>
-                    <img src="asset/runes2.png" alt=""/>
-                    <img src="asset/runes3.png" alt=""/>
-                    <img src="asset/runes4.png" alt=""/>
+                    <img src="asset/runes/runes2.png" alt=""/>
+                    <img src="asset/runes/runes3.png" alt=""/>
+                    <img src="asset/runes/runes4.png" alt=""/>
 
                 </div>
             </div>

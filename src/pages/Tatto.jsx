@@ -16,8 +16,8 @@ export default function Tatto() {
                     <br/>
                     If you don't like the tattoo you've got, you can remove it with :Remove: Tatto
                     Remover
-                    <img src="asset/tato1.png" alt=""/>
-                    <img src="asset/tato2.png" alt=""/>
+                    <img src="asset/tato/tato1.png" alt=""/>
+                    <img src="asset/tato/tato2.png" alt=""/>
                     <br/>
                     <br/>
                     When you have created a tattoo pattern, you need to apply it on your character.
@@ -52,7 +52,7 @@ export default function Tatto() {
 
                     <br/>
                     <br/>
-                    <img src="asset/tato3.png" alt=""/>
+                    <img src="asset/tato/tato3.png" alt=""/>
 
                 </div>
             </div>

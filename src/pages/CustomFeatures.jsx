@@ -17,7 +17,7 @@ export default function CustomFeatures() {
                 </div>
                 <br/>
                 <div class="d-flex justify-content-center">
-                    <img src="asset/feature1.gif" alt=""/>
+                    <img src="asset/feature/feature1.gif" alt=""/>
                 </div>
                 <br/>
                 <br/>
@@ -36,7 +36,7 @@ export default function CustomFeatures() {
             </div>
             <br/>
             <div class="d-flex justify-content-center">
-                <img src="asset/feature2.gif" alt=""/>
+                <img src="asset/feature/feature2.gif" alt=""/>
             </div>
 
             <div className="footer">

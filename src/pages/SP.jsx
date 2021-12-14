@@ -80,9 +80,9 @@ export default function SP() {
                     You can get the pirate expert card through the summer event.
                     <br/>
                     <br/>
-                    <img src="asset/sp1.png" alt=""/>
+                    <img src="asset/sp/sp1.png" alt=""/>
 
-                    <img src="asset/sp2.png" alt=""/>
+                    <img src="asset/sp/sp2.png" alt=""/>
 
                 </div>
             </div>

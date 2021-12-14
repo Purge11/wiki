@@ -54,7 +54,7 @@ export default function C55() {
                     <div class="text-danger">Note:Don't forget to put the C50 Equipment in the first
                         slot of your inventory while crafting.</div>
                     <br/>
-                    <img src="asset/c55.png" alt=""/>
+                    <img src="asset/c55/c55.png" alt=""/>
 
                 </div>
             </div>

@@ -16,7 +16,7 @@ function Badge() {
                     increase its upgrade...
                     <br/>
                     <br/>
-                    <img src="asset/badge1.png" alt=""/>
+                    <img src="asset/badge/badge1.png" alt=""/>
                     <h3 class="mt-3">How can I create and use rarify items?</h3>
                     <br/>
 
@@ -58,18 +58,18 @@ function Badge() {
                     randomize your options. It will no longer fail.
                     <br/>
                     Effect values ​​scale with effect level (C, B, A, S) and item upgrade.
-                    <img src="asset/badge1.gif" alt=""/>
+                    <img src="asset/badge/badge1.gif" alt=""/>
                     <br/>
-                    <img src="asset/badge2.gif" alt=""/>
-                    <br/>
-                    <br/>
-                    <img src="asset/badge2.png" alt=""/>
+                    <img src="asset/badge/badge2.gif" alt=""/>
                     <br/>
                     <br/>
-                    <img src="asset/badge3.png" alt=""/>
+                    <img src="asset/badge/badge2.png" alt=""/>
                     <br/>
                     <br/>
-                    <img src="asset/badge4.png" alt=""/>
+                    <img src="asset/badge/badge3.png" alt=""/>
+                    <br/>
+                    <br/>
+                    <img src="asset/badge/badge4.png" alt=""/>
                     <br/>
 
                 

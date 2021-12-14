@@ -52,7 +52,7 @@ function Server() {
                     will appear on this map:
                     <br/>
                     <br/>
-                    <img src="asset/server_1.png" alt=""/>
+                    <img src="asset/server/server_1.png" alt=""/>
                     <br/>
                     FIRST MAP
                     <br/>
@@ -77,7 +77,7 @@ function Server() {
                     Pack NPC:
                     <br/>
                     <br/>
-                    <img src="asset/server_2.png" alt=""/>
+                    <img src="asset/server/server_2.png" alt=""/>
                     <br/>
                     You can also notice, that we received a medal for the reputation. You can use it
                     freely. In here we can buy better equipment. The first SP card, fairies. Arrows
@@ -87,7 +87,7 @@ function Server() {
                     wait... We've crafted our partners and they're not here. Let's fix it by going
                     here:
                     <br/>
-                    <img src="asset/server_3.png" alt=""/>
+                    <img src="asse/servert/server_3.png" alt=""/>
                     <br/>
                     This is the portal to the Miniland Both NPCs sell useful stuff for the pets, but
                     We don't need any of that for now. Just enter the portal, use items You crafted
@@ -95,7 +95,7 @@ function Server() {
                     You by using the "Company" button, after targetting them. Now let's continue our
                     shopping trip and let's go to the Resistance shop:
                     <br/>
-                    <img src="asset/server_4.png" alt=""/>
+                    <img src="asset/server/server_4.png" alt=""/>
                     <br/>
                     We can't wear them now, but the levels are going to rain soon, so it will
                     sustain our survivabilty while the levels go on, it will be nice to already have
@@ -104,25 +104,25 @@ function Server() {
                     annoyed with how much I can walk "by foot" in this game. Let's get ourselves a
                     nice Mount to speed things up! Mount shop:
                     <br/>
-                    <img src="asset/server_5.png" alt=""/>
+                    <img src="asset/server/server_5.png" alt=""/>
                     <br/>
                     I recommend you buying one for now, You will be able to change it later on. You
                     can set it on Your skill bar by going to Main in Your inventory and just moving
                     it there. There are some bonuses we can still acquire. Let's go to the Costume
                     Shop:
                     <br/>
-                    <img src="asset/server_6.png" alt=""/>
-                    <img src="asset/server_7.png" alt=""/>
+                    <img src="asset/server/server_6.png" alt=""/>
+                    <img src="asset/server/server_7.png" alt=""/>
                     <br/>
                     There are two shops for costumes. Keep in mind that the bonuses may differ
                     between the costumes. Choose Yours and let's move to the Map portals:
                     <br/>
-                    <img src="asset/server_8.png" alt=""/>
+                    <img src="asset/server/server_8.png" alt=""/>
                     <br/>
                     As you can see there are two portals. For now it is better to visit Lvl Area
                     since we want to have better equipment:
                     <br/>
-                    <img src="asset/server_9.png" alt=""/>
+                    <img src="asset/server/server_9.png" alt=""/>
 
                 </div>
             </div>

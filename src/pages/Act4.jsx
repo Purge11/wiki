@@ -37,20 +37,20 @@ export default function Act4() {
                         </a>
 
                         <br/>
-                        <img src="asset/a41.png" alt=""/>
-                        <img src="asset/a42.png" alt=""/>
+                        <img src="asset/act4/a41.png" alt=""/>
+                        <img src="asset/act4/a42.png" alt=""/>
                         <br/>
-                        <img src="asset/a44.png" alt=""/>
-                        <img src="asset/a45.png" alt=""/>
+                        <img src="asset/act4/a44.png" alt=""/>
+                        <img src="asset/act4/a45.png" alt=""/>
                         <br/>
-                        <img src="asset/a46.png" alt=""/>
-                        <img src="asset/a47.png" alt=""/>
+                        <img src="asset/act4/a46.png" alt=""/>
+                        <img src="asset/act4/a47.png" alt=""/>
                         <br/>
-                        <img src="asset/a48.png" alt=""/>
-                        <img src="asset/a49.png" alt=""/>
+                        <img src="asset/act4/a48.png" alt=""/>
+                        <img src="asset/act4/a49.png" alt=""/>
                         <br/>
-                        <img src="asset/a43.png" alt=""/>
-                        <img src="asset/a4_1.png" alt=""/>
+                        <img src="asset/act4/a43.png" alt=""/>
+                        <img src="asset/act4/a4_1.png" alt=""/>
                         
                         
                         

@@ -64,9 +64,9 @@ export default function Perfection() {
                     (For perfection, you can buy from Alchemist NPC).
                     <br/>
                     <br/>
-                    <img src="asset/perfection1.png" alt=""/>
+                    <img src="asset/perfection/perfection1.png" alt=""/>
                     <br/>
-                    <img src="asset/perfection2.png" alt=""/>
+                    <img src="asset/perfection/perfection2.png" alt=""/>
 
                 </div>
             </div>

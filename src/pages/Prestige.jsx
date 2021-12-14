@@ -36,7 +36,7 @@ function Prestige() {
                     <br/>
                     <br/>
 
-                    <img src="asset/prestige1.png" alt=""/>
+                    <img src="asset/prestige/prestige1.png" alt=""/>
 
                 </div>
             </div>

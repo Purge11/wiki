@@ -43,7 +43,7 @@ export default function C50() {
                         <a href="schedule">《🔔》schedule</a> for Caligor hours..
                     </div>
                     <br/>
-                    <img src="asset/c50.png" alt=""/>
+                    <img src="asset/c50/c50.png" alt=""/>
                 </div>
             </div>
             <div className="footer">

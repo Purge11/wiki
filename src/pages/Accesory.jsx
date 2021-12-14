@@ -24,7 +24,7 @@ export default function Accesory() {
                                     <br/>
                                     Reduces damage received in PvP by 2%
                                 </td>
-                                <td ><img src="asset/accesory1_2.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory1_2.png" alt=""/></td>
                                 <td>9</td>
                                 <td>You can get Ibrahim Raid in $Warp p3</td>
                             </tr>
@@ -34,7 +34,7 @@ export default function Accesory() {
                                     <br/>
                                     Reduces damage received in PvP by 3%
                                 </td>
-                                <td ><img src="asset/accesory1_3.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory1_3.png" alt=""/></td>
                                 <td>9</td>
                                 <td>You can get Ibrahim Raid in $Warp p3</td>
                             </tr>
@@ -44,7 +44,7 @@ export default function Accesory() {
                                     <br/>
                                     Reduces damage received in PvP by 2%
                                 </td>
-                                <td ><img src="asset/accesory1_1.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory1_1.png" alt=""/></td>
                                 <td>9</td>
                                 <td>You can get Ibrahim Raid in $Warp p3</td>
                             </tr>
@@ -54,7 +54,7 @@ export default function Accesory() {
                                     <br/>
                                     Reduces damage received in PvP by 3%
                                 </td>
-                                <td ><img src="asset/accesory2_2.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory2_2.png" alt=""/></td>
                                 <td>10</td>
                                 <td>You can get $Warp from Carno raid in P6</td>
                             </tr>
@@ -64,7 +64,7 @@ export default function Accesory() {
                                     <br/>
                                     Reduces damage received in PvP by 4%
                                 </td>
-                                <td ><img src="asset/accesory2_1.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory2_1.png" alt=""/></td>
                                 <td>10</td>
                                 <td>You can get $Warp from Carno raid in P6</td>
                             </tr>
@@ -74,7 +74,7 @@ export default function Accesory() {
                                     <br/>
                                     Reduces damage received in PvP by 3%
                                 </td>
-                                <td ><img src="asset/accesory2_3.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory2_3.png" alt=""/></td>
                                 <td>10</td>
                                 <td>You can get $Warp from Carno raid in P6</td>
                             </tr>
@@ -84,7 +84,7 @@ export default function Accesory() {
                                     <br/>
                                     Damage to monster is increased by 7%
                                 </td>
-                                <td ><img src="asset/accesory3_3.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory3_3.png" alt=""/></td>
                                 <td>10</td>
                                 <td>You can have it in production from the Tower NPC in $Warp P7</td>
                             </tr>
@@ -94,7 +94,7 @@ export default function Accesory() {
                                     <br/>
                                     Chance of inflicting critical hits is increased by 2%
                                 </td>
-                                <td ><img src="asset/accesory3_2.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory3_2.png" alt=""/></td>
                                 <td>10</td>
                                 <td>You can have it in production from the Tower NPC in $Warp P7</td>
                             </tr>
@@ -104,7 +104,7 @@ export default function Accesory() {
                                     <br/>
                                     All elemental energies are increased by 70
                                 </td>
-                                <td ><img src="asset/accesory3_1.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory3_1.png" alt=""/></td>
                                 <td>10</td>
                                 <td>You can have it in production from the Tower NPC in $Warp P7</td>
                             </tr>
@@ -113,7 +113,7 @@ export default function Accesory() {
                                 <td class="item-effect">
                                     Leave purple glowing effect or you character
                                 </td>
-                                <td ><img src="asset/accesory4_1.png" alt=""/></td>
+                                <td ><img src="asset/accesory/accesory4_1.png" alt=""/></td>
                                 <td>-</td>
                                 <td>You can get it in nosmall for 999 coins</td>
                             </tr>
