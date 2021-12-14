@@ -106,7 +106,7 @@ export const SidebarData = [
     cName: 'ownnav-text'
   },
   {
-    title: 'Tatto',
+    title: 'Tattoo',
     path: '/tatto',
     cName: 'ownnav-text'
   },
