@@ -14,7 +14,7 @@ export default function Schedule() {
                         <li class="list-group-item d-flex justify-content-center">20:00</li>
                         <li class="list-group-item d-flex justify-content-center">21:30</li>
                     </ul>
-                    <ul class="list-group mt-3">
+                    <ul class="list-group mt-5">
                         <li class="list-group-item d-flex justify-content-center bg-primary text-white">[Ice Breaker Schedule]</li>
                         <li class="list-group-item d-flex justify-content-center">11:00</li>
                         <li class="list-group-item d-flex justify-content-center">15:30</li>
@@ -22,20 +22,20 @@ export default function Schedule() {
                         <li class="list-group-item d-flex justify-content-center">18:30</li>
                         <li class="list-group-item d-flex justify-content-center">21:30</li>
                     </ul>
-                    <ul class="list-group mt-3">
+                    <ul class="list-group mt-5">
                         <li class="list-group-item d-flex justify-content-center bg-dark text-white">[Talent Arena Schedule]</li>
                         <li class="list-group-item d-flex justify-content-center">15:00</li>
                         <li class="list-group-item d-flex justify-content-center">17:00</li>
 
                     </ul>
-                    <ul class="list-group mt-3">
+                    <ul class="list-group mt-5">
                         <li class="list-group-item d-flex justify-content-center bg-danger text-white">[World Boss Schedule]</li>
                         <li class="list-group-item d-flex justify-content-center">16:00</li>
                         <li class="list-group-item d-flex justify-content-center">22:45</li>
 
                     </ul>
 
-                    <ul class="list-group mt-3">
+                    <ul class="list-group mt-5">
                         <li class="list-group-item d-flex justify-content-center bg-info text-white">[Color PvP Schedule]</li>
                         <li class="list-group-item d-flex justify-content-center">12:30</li>
                         <li class="list-group-item d-flex justify-content-center">18:00</li>
@@ -43,7 +43,7 @@ export default function Schedule() {
                         <li class="list-group-item d-flex justify-content-center">00:30</li>
 
                     </ul>
-                    <ul class="list-group mt-3">
+                    <ul class="list-group mt-5">
                         <li class="list-group-item d-flex justify-content-center bg-dark text-white">[Caligor Schedule]</li>
                         <li class="list-group-item d-flex justify-content-center">13:00</li>
                         <li class="list-group-item d-flex justify-content-center">15:30</li>
@@ -52,7 +52,7 @@ export default function Schedule() {
                         <li class="list-group-item d-flex justify-content-center">00:15</li>
 
                     </ul>
-                    <ul class="list-group mt-3">
+                    <ul class="list-group mt-5">
                         <li class="list-group-item d-flex justify-content-center bg-light text-dark">[Bomb Runer Schedule]</li>
                         <li class="list-group-item d-flex justify-content-center">09:00</li>
                         <li class="list-group-item d-flex justify-content-center">13:00
@@ -61,7 +61,7 @@ export default function Schedule() {
                         <li class="list-group-item d-flex justify-content-center">23:30</li>
 
                     </ul>
-                    <ul class="list-group mt-3">
+                    <ul class="list-group mt-5">
                         <li class="list-group-item d-flex justify-content-center bg-warning text-white">[Rainbow Battle Schedule]</li>
                         <li class="list-group-item d-flex justify-content-center">13:45</li>
                         <li class="list-group-item d-flex justify-content-center">19:30
