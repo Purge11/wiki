@@ -6,7 +6,7 @@ export default function CustomFeatures() {
             <div class="container">
                 <div class="row ">
 
-                    <h1>8</h1>
+                    <h1>Soon</h1>
                 </div>
             </div>
             <div className="footer">

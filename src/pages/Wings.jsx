@@ -6,7 +6,7 @@ export default function Wings() {
             <div class="container">
                 <div class="row ">
 
-                    <h1>22</h1>
+                    <h1>Soon</h1>
                 </div>
             </div>
             <div className="footer">
