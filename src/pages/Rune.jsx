@@ -5,7 +5,7 @@ export default function rune() {
     return (
         <div className='rune'>
             <div class="container">
-                <div class="row table-responsive ">
+                <div class="row  ">
 
                     You can make your weapon even more powerful by visiting Martas. You can carve up
                     to 21 runes of 21, but only to a level 80 or higher main weapon that is attached

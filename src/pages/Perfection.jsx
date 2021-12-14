@@ -5,7 +5,7 @@ export default function Perfection() {
     return (
         <div className='perfection'>
             <div class="container">
-                <div class="row table-responsive ">
+                <div class="row  ">
 
                     <h5>What is perfection stone?</h5>
                     <br/>

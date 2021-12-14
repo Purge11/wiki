@@ -4,7 +4,7 @@ function Prestige() {
     return (
         <div className='prestige'>
             <div class="container d-flex justify-content-center">
-                <div class="row table-responsive ">
+                <div class="row  ">
 
                     <div class="container d-flex justify-content-center">
                         -For Prestige 1 you need to be 99lvl.

@@ -5,7 +5,7 @@ export default function SP() {
     return (
         <div className='sp'>
             <div class="container">
-                <div class="row table-responsive ">
+                <div class="row  ">
 
                     <h1>How ​​do I get SP cards?</h1>
                     <br/>

@@ -5,7 +5,7 @@ export default function Equipment() {
     return (
         <div className='books'>
             <div class="container">
-                <div class="row mt-5 table-responsive">
+                <div class="row mt-5 ">
 
                     <table class="table">
                         <thead>

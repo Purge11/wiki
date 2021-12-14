@@ -4,7 +4,7 @@ export default function Box() {
     return (
         <div className='box'>
             <div class="container d-flex justify-content-center">
-                <div class="row series-image-list table-responsive">
+                <div class="row series-image-list ">
 
                     <h5>Lord Draco</h5>
 

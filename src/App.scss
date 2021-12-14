@@ -73,7 +73,9 @@ max-width: 80px;
   
 
 }
-
+.table-responsive{
+  position: block !important;
+}
 @media (max-width: 600px) {
 
   .accesory,

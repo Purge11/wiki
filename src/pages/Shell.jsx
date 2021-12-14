@@ -4,7 +4,7 @@ export default function Shell() {
     return (
         <div className='shell'>
             <div class="container">
-                <div class="row table-responsive ">
+                <div class="row  ">
 
                     What are shells good for? Shells give unique abilities to our weapon/armor.
                     <br/>

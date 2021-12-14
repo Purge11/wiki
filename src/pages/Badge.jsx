@@ -5,7 +5,7 @@ function Badge() {
         <div className='badgee'>
             <div class="container">
             
-                <div class="row table-responsive ">
+                <div class="row  ">
 
                     <h3>What is Badge?<div className='text-danger'>(you can buy only two badges per character!)</div>
                     </h3>
