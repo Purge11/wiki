@@ -42,6 +42,9 @@ export default function Perfection() {
                     4-) You can get the perfection stones box by fishing.
                     <br/>
                     <br/>
+                    5-) You can get the SP9 perfection stones from the prestige 8 map ($Warp p8)
+                    <br/>
+                    <br/>
                     How ​​can I transform perfection stones into "Perfection Stones"?
                     <br/>
                     <br/>
