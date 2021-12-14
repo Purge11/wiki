@@ -26,6 +26,7 @@ import Tatto from './pages/Tatto';
 import Wings from './pages/Wings';
 import TeamMembers from './pages/TeamMembers';
 import Schedule from './pages/Schedule';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 

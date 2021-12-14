@@ -5,7 +5,7 @@ export default function Fish() {
         <div className='fish'>
             <div className='fishes'>
                 <div class="container d-flex justify-content-center">
-                    <div class="row series-image-list1 ">
+                    <div class="row series-image-list1 table-responsive ">
 
                         to start your fishing adventure you have to go to the fish area portal located
                         on the nosville map

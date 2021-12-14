@@ -16,7 +16,7 @@ function Navbar() {
   return (
     <>
       <IconContext.Provider value={{ color: '#fff' }}>
-        <div className='ownnavbar '>
+        <div className='navbar navbar-expand-lg navbar-light bg-nosvoid '>
           <Link to='#' className='ownmenu-bars'>
           <FaIcons.FaBars onClick={showSidebar} />      
           </Link>
@@ -47,8 +47,9 @@ function Navbar() {
                 <li key={index} className={item.cName}>
                   <Link to={item.path}>
                     {item.icon}
-                    <span>{item.title}</span>
+                    <span>{item.title}</span>                  
                   </Link>
+                  <hr/>
                 </li>
               );
             })}

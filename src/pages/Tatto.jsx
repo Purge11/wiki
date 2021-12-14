@@ -5,7 +5,7 @@ export default function Tatto() {
     return (
         <div className='tatto'>
             <div class="container">
-                <div class="row ">
+                <div class="row table-responsive ">
 
                     There are five tattoo categories (or tattoo patterns), each of them (exept one)
                     has 8 tattoos and every tattoo can be upgraded up to +9. You can choose two

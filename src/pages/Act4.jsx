@@ -5,7 +5,7 @@ export default function Act4() {
     return (
         <div className='act4 '>
             <div class="container d-flex justify-content-center">
-                <div class="row series-image-list">
+                <div class="row series-image-list table-responsive">
 
                     <div class="">
                         <h1>What can I do in Act4?</h1>

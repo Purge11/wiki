@@ -4,7 +4,7 @@ export default function TeamMembers() {
     return (
         <div className='teammembers '>
             <div class="container ">
-                <div class="row ">
+                <div class="row table-responsive ">
 
                     <h1 className='d-flex justify-content-center mt-5 mb-5'>NosVoid Team Members</h1>
                     <table class="table table-void text-white">

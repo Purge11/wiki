@@ -4,9 +4,9 @@ export default function Accesory() {
     return (
         <div className='accesory'>
             <div class="container">
-                <div class="row mt-5">
+                <div class="row mt-5 table-responsive">
 
-                    <table class="table">
+                     <table class="table "> 
                         <thead>
                             <tr>
                                 <th scope="col">Item</th>

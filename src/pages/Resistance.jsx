@@ -5,7 +5,7 @@ export default function Resistance() {
     return (
         <div className='resistance'>
             <div class="container ">
-                <div class="row mt-5">
+                <div class="row mt-5 table-responsive">
 
                     <table class="table  ">
                         <thead>

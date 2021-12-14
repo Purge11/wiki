@@ -4,7 +4,7 @@ export default function CustomFeatures() {
     return (
         <div className='customfeatures'>
             <div class="container">
-                <div class="row ">
+                <div class="row table-responsive ">
 
                     <h1>Soon</h1>
                 </div>

@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <div className='home'>
             <div class="container">
-                <div class="row series-image-list ">
+                <div class="row series-image-list table-responsive ">
 
                     <div class="rules-section top">
                         <h1>1- General Information</h1>

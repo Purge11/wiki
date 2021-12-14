@@ -4,7 +4,8 @@ function Badge() {
     return (
         <div className='badgee'>
             <div class="container">
-                <div class="row ">
+            
+                <div class="row table-responsive ">
 
                     <h3>What is Badge?<div className='text-danger'>(you can buy only two badges per character!)</div>
                     </h3>
@@ -71,7 +72,8 @@ function Badge() {
                     <img src="asset/badge4.png" alt=""/>
                     <br/>
 
-                </div>
+                
+            </div>
             </div>
             <div className="footer">
                 <div className="text-center p-3">

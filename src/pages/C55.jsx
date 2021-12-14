@@ -5,7 +5,7 @@ export default function C55() {
     return (
         <div className='c55'>
             <div class="container d-flex justify-content-center">
-                <div class="row series-image-list">
+                <div class="row series-image-list table-responsive">
 
                     <h5>C55 Equipment Guide</h5>
                     <br/>

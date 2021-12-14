@@ -1,3 +1,4 @@
+@import "~bootstrap/scss/bootstrap";
 * {
   box-sizing: border-box;
   margin: 0;
@@ -216,5 +217,14 @@ max-width: 80px;
     color: #8947b1;
     margin-top: 20px;
     font-weight: 400;
+  }
+}
+.accesory,
+.books{
+  max-width: 100%;
+  flex-wrap: nowrap;
+  img{
+    position: relative;
+
   }
 }

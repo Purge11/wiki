@@ -4,7 +4,7 @@ export default function Schedule() {
     return (
         <div className='schedule'>
             <div class="container d-flex justify-content-center">
-                <div class="row series-image-list">
+                <div class="row series-image-list table-responsive">
 
                     <ul class="list-group">
                         <li class="list-group-item d-flex justify-content-center bg-success text-white">[Instant Battle Schedule] GMT+1</li>

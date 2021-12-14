@@ -5,7 +5,7 @@ function Server() {
     return (
         <div className='server '>
             <div class="container">
-                <div class="row series-image-list">
+                <div class="row series-image-list table-responsive">
 
                     STARTER-GUIDE
                     <br/>
@@ -36,7 +36,7 @@ function Server() {
                     <a href="$">
                         《🔥》rework-buffs
                     </a>
-                    <a href="https://wiki.nosvoid.com/">
+                    <a href=".">
                         《📋》rules</a>
 
                     MAKING YOUR FIRST CHARACTER

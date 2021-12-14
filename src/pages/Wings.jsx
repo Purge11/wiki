@@ -4,7 +4,7 @@ export default function Wings() {
     return (
         <div className='wings'>
             <div class="container">
-                <div class="row ">
+                <div class="row table-responsive ">
 
                     <h1>Soon</h1>
                 </div>
