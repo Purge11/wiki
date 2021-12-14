@@ -39,7 +39,7 @@ ul {
   height: 100vh;
   display: flex;
   justify-content: center;
-  position: absolute;
+  position: fixed;
   overflow-y: scroll;
   top: 0;
   left: -100%;
@@ -77,6 +77,9 @@ ul {
   padding: 8px 0px 8px 16px;
   list-style: none;
   height: 60px;
+}
+.gold-text a{
+  color: gold !important;
 }
 
 

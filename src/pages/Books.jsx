@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function Books() {
     return (
-        <div className='book s'>
+        <div className='books'>
             <div class="container">
-                <div class="row mt-5 table-responsive  ">
+                <div class="row mt-5">
 
                     <table class="table">
                         <thead>

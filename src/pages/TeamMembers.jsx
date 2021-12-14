@@ -39,7 +39,7 @@ export default function TeamMembers() {
                                 <th scope="row">SvC11</th>
                                 <td>PL/ENG</td>
                                 <td>Lead Developer</td>
-                                <td>Male</td>
+                              
                             </tr>
                             <tr className='tr2'>
                                 <th scope="row">Decameron</th>

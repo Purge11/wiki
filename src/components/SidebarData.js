@@ -1,6 +1,11 @@
 
 export const SidebarData = [
   {
+    title: 'Features',
+    path: '/customFeatures',
+    cName: 'ownnav-text gold-text'
+  },
+  {
     title: 'Rules',
     path: '/',
     cName: 'ownnav-text'
@@ -8,11 +13,6 @@ export const SidebarData = [
   {
     title: 'Team Members',
     path: '/teammembers',
-    cName: 'ownnav-text'
-  },
-  {
-    title: 'Features',
-    path: '/customFeatures',
     cName: 'ownnav-text'
   },
   {
