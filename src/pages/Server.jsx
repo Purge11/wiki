@@ -28,12 +28,17 @@ function Server() {
                     <br/>
                     knowing about some in-games questions like: player commands, prestige and badges
                     <br/>
-                    <a href="$">《📜》player-commands</a>       
-                    <a href="prestige">《📑》prestige-guide </a>
-                    <a href="badge">《📑》badge-guide </a>
-                    <a href="$"> 《🔥》rework-buffs </a>
-                    <a href="."> 《📋》rules</a>
-                
+                    <a href="$">《📜》player-commands</a>
+                    <a href="prestige">《📑》prestige-guide
+                    </a>
+                    <a href="badge">《📑》badge-guide
+                    </a>
+                    <a href="$">
+                        《🔥》rework-buffs
+                    </a>
+                    <a href=".">
+                        《📋》rules</a>
+
                     MAKING YOUR FIRST CHARACTER
                     <br/>
                     <a href="https://nosvoid.com/register/">https://nosvoid.com/register/</a>
@@ -74,37 +79,58 @@ function Server() {
                     <br/>
                     <img src="asset/server_2.png" alt=""/>
                     <br/>
-                    You can also notice, that we received a medal for the reputation. You can use it freely. In here we can buy better equipment. The first SP card, fairies. Arrows if needed , but don't buy too many yet! We have some shopping to do and its quite expensive for now. I would recommend You buying some Seed of Power though, they might come in handy in some situations, 200 should be more than enough. But wait... We've crafted our partners and they're not here. Let's fix it by going here:
+                    You can also notice, that we received a medal for the reputation. You can use it
+                    freely. In here we can buy better equipment. The first SP card, fairies. Arrows
+                    if needed , but don't buy too many yet! We have some shopping to do and its
+                    quite expensive for now. I would recommend You buying some Seed of Power though,
+                    they might come in handy in some situations, 200 should be more than enough. But
+                    wait... We've crafted our partners and they're not here. Let's fix it by going
+                    here:
                     <br/>
                     <img src="asset/server_3.png" alt=""/>
                     <br/>
-                    This is the portal to the Miniland Both NPCs sell useful stuff for the pets, but We don't need any of that for now. Just enter the portal, use  items You crafted on the first map(They should be in the "Equip" tab) and You can make them follow You by using the "Company" button, after targetting them. Now let's continue our shopping trip and let's go to the Resistance shop:
+                    This is the portal to the Miniland Both NPCs sell useful stuff for the pets, but
+                    We don't need any of that for now. Just enter the portal, use items You crafted
+                    on the first map(They should be in the "Equip" tab) and You can make them follow
+                    You by using the "Company" button, after targetting them. Now let's continue our
+                    shopping trip and let's go to the Resistance shop:
                     <br/>
                     <img src="asset/server_4.png" alt=""/>
                     <br/>
-                    We can't wear them now, but the levels are going to rain soon, so it will sustain our survivabilty while the levels go on, it will be nice to already have them in our inventory, they might chunk our savings, but don't be worried about that. I don't know how about You, but this is the time for me to get already annoyed with how much I can walk "by foot" in this game. Let's get ourselves a nice Mount to speed things up! Mount shop:
+                    We can't wear them now, but the levels are going to rain soon, so it will
+                    sustain our survivabilty while the levels go on, it will be nice to already have
+                    them in our inventory, they might chunk our savings, but don't be worried about
+                    that. I don't know how about You, but this is the time for me to get already
+                    annoyed with how much I can walk "by foot" in this game. Let's get ourselves a
+                    nice Mount to speed things up! Mount shop:
                     <br/>
                     <img src="asset/server_5.png" alt=""/>
                     <br/>
-                    I recommend you buying one for now, You will be able to change it later on. You can set it on Your skill bar by going to Main in Your inventory and just moving it there. There are some bonuses we can still acquire. Let's go to the Costume Shop:
+                    I recommend you buying one for now, You will be able to change it later on. You
+                    can set it on Your skill bar by going to Main in Your inventory and just moving
+                    it there. There are some bonuses we can still acquire. Let's go to the Costume
+                    Shop:
                     <br/>
                     <img src="asset/server_6.png" alt=""/>
                     <img src="asset/server_7.png" alt=""/>
                     <br/>
-                    There are two shops for costumes. Keep in mind that the bonuses may differ between the costumes. Choose Yours and let's move to the Map portals:
+                    There are two shops for costumes. Keep in mind that the bonuses may differ
+                    between the costumes. Choose Yours and let's move to the Map portals:
                     <br/>
                     <img src="asset/server_8.png" alt=""/>
                     <br/>
-                    As you can see there are two portals. For now it is better to visit Lvl Area since we want to have better equipment:
+                    As you can see there are two portals. For now it is better to visit Lvl Area
+                    since we want to have better equipment:
                     <br/>
                     <img src="asset/server_9.png" alt=""/>
 
                 </div>
             </div>
             <div className="footer">
-            <div className="text-center p-3"> © 2021 Copyright: <a class="nosvoid-color" href="https://nosvoid.com/"
-         >Nosvoid</a>
-    </div>
+                <div className="text-center p-3">
+                    © 2021 Copyright:
+                    <a class="nosvoid-color" href="https://nosvoid.com/">Nosvoid</a>
+                </div>
             </div>
         </div>
 

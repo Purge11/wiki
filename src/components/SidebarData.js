@@ -66,11 +66,6 @@ export const SidebarData = [
     cName: 'ownnav-text'
   },
   {
-    title: 'Maps',
-    path: '/maps',
-    cName: 'ownnav-text'
-  },
-  {
     title: 'Perfection',
     path: '/perfection',
     cName: 'ownnav-text'
@@ -88,6 +83,11 @@ export const SidebarData = [
   {
     title: 'Rune',
     path: '/rune',
+    cName: 'ownnav-text'
+  },
+  {
+    title: 'Schedule',
+    path: '/schedule',
     cName: 'ownnav-text'
   },
   {

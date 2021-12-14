@@ -15,7 +15,6 @@ import C55 from './pages/C55';
 import Equipment from './pages/Equipment';
 import Faires from './pages/Faires';
 import Fish from './pages/Fish';
-import Maps from './pages/Maps';
 import Perfection from './pages/Perfection';
 import Prestige from './pages/Prestige';
 import Resistance from './pages/Resistance';
@@ -26,6 +25,7 @@ import SP from './pages/SP';
 import Tatto from './pages/Tatto';
 import Wings from './pages/Wings';
 import TeamMembers from './pages/TeamMembers';
+import Schedule from './pages/Schedule';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -48,11 +48,11 @@ function App() {
           <Route path='/equipment' component={Equipment} />
           <Route path='/faires' component={Faires} />
           <Route path='/fish' component={Fish} />
-          <Route path='/maps' component={Maps} />
           <Route path='/perfection' component={Perfection} />
           <Route path='/prestige' component={Prestige} />
           <Route path='/resistance' component={Resistance} />
           <Route path='/rune' component={Rune} />
+          <Route path='/schedule' component={Schedule} />
           <Route path='/server' component={Server} />
           <Route path='/shell' component={Shell} />
           <Route path='/sp' component={SP} />

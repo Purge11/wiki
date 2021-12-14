@@ -108,6 +108,15 @@ export default function Accesory() {
                                 <td>10</td>
                                 <td>You can have it in production from the Tower NPC in $Warp P7</td>
                             </tr>
+                            <tr>
+                                <th scope="row">Purple glowing ring</th>
+                                <td class="item-effect">
+                                    Leave purple glowing effect or you character
+                                </td>
+                                <td ><img src="asset/accesory4_1.png" alt=""/></td>
+                                <td>-</td>
+                                <td>You can get it in nosmall for 999 coins</td>
+                            </tr>
 
                         </tbody>
                     </table>
