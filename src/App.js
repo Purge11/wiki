@@ -28,6 +28,7 @@ import Wings from './pages/Wings';
 import TeamMembers from './pages/TeamMembers';
 import Schedule from './pages/Schedule';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Content from './pages/Content';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -37,9 +38,11 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
+          
           <Route path='/' exact component={Home} />
           <Route path='/Rules' exact component={Rules} />
           <Route path='/teammembers' component={TeamMembers} />
+          <Route path='/contentCreators' exact component={Content} />
           <Route path='/customFeatures' component={CustomFeatures} />
           <Route path='/accesory' component={Accesory} />
           <Route path='/act4' component={Act4} />

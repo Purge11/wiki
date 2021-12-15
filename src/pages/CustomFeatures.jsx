@@ -28,7 +28,7 @@ export default function CustomFeatures() {
                     <h2 class="nosvoid-color ">Searchbar Inventory</h2>
 
                 </div>
-                <br/>
+                <br/>   
 
                 The search bar is a new feature, that will make the item search easier. Are you
                 looking for something in particular? Just write it in the bar and it will show
@@ -41,9 +41,9 @@ export default function CustomFeatures() {
             </div>
 
             <div className="footer">
-                <div className="text-center p-3">
-                    © 2021 Copyright:
-                    <a class="nosvoid-color" href="https://nosvoid.com/">Nosvoid</a>
+                <div className="p-3">
+                  
+                   
                 </div>
             </div>
         </div>

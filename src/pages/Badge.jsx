@@ -58,7 +58,59 @@ function Badge() {
                     randomize your options. It will no longer fail.
                     <br/>
                     Effect values ​​scale with effect level (C, B, A, S) and item upgrade.
-                    <img src="asset/badge/badge1.gif" alt=""/>
+                    <br/>
+                    <br/>
+                    <h1 className='d-flex justify-content-center mt-5 mb-5'>Perfect badge bonuses<div class="youtube-icn"></div> </h1>
+                    <table class="table ">
+                    
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">Pvp Badge</th>
+                                <th scope="col ">Pve Badge</th>
+                                
+
+                               
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr className=''>
+                                <td class="text-success" scope="row danger">A/S-Increased Damage while enemy is stunned: ?%</td>
+                                <td className=' text-success'>S - Increased Damage to opposed element of your fairy</td>
+                                
+                                
+                           </tr>
+                           <tr className=''>
+                                <td  class="text-success"scope="row danger">A/S-Chance to heal ?% of your Max Hp: ?%</td>
+                                <td class="text-success">A - Increased Damage against Water and Fire element or Increased Damage against Light and Shadow Element (depends on which raids you focus on)</td>
+                               
+                                
+                           </tr>
+                           <tr className=''>
+                                <td class="text-warning">A/S-Increase all Perfection Points by: ?</td>
+                                <td class="text-warning">B/C - Increased fairy element</td>
+                             
+                                
+                           </tr> 
+                           <tr className=''>
+                                <td class="text-warning"scope="row danger">C/B-Chance to reflect 2000 Damage: ?%</td>
+                                <td class="text-warning">C/B - Increase all Perfection points</td>
+                                
+                                
+                           </tr>   
+                           <tr className=''>
+                                <td  class="tr8" scope="row danger">PVP stat: S-Increase attack and defense in PVP by: 12%</td>
+                                <td scope="row danger"></td>
+                               
+                           
+                                
+                           </tr>
+                           
+
+                        </tbody>
+                        
+                    </table>
+                    
+                    <img class="mt-5" src="asset/badge/badge1.gif" alt=""/>
                     <br/>
                     <img src="asset/badge/badge2.gif" alt=""/>
                     <br/>
@@ -76,9 +128,9 @@ function Badge() {
             </div>
             </div>
             <div className="footer">
-                <div className="text-center p-3">
-                    © 2021 Copyright:
-                    <a class="nosvoid-color" href="https://nosvoid.com/">Nosvoid</a>
+                <div className="p-3">
+                  
+                   
                 </div>
             </div>
         </div>

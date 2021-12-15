@@ -28,7 +28,19 @@ function Server() {
                     <br/>
                     knowing about some in-games questions like: player commands, prestige and badges
                     <br/>
-                    <a href="$">《📜》player-commands</a>
+                    <a href="server">《📜》player-commands</a>
+                    
+                    <br/>
+                   
+                 
+                    <ul class="list-group">
+  <li class="list-group-item">$WarpList - You can see list of Maps</li>
+  <li class="list-group-item">$Buy Cella - [amount] / Potion [amount] / Crystal [amount]</li>
+  <li class="list-group-item">$Eventtime - You can see time of Events</li>
+  <li class="list-group-item">$Buy - You can see list of items</li>
+</ul>
+<br/>
+
                     <a href="prestige">《📑》prestige-guide
                     </a>
                     <a href="badge">《📑》badge-guide
@@ -127,9 +139,9 @@ function Server() {
                 </div>
             </div>
             <div className="footer">
-                <div className="text-center p-3">
-                    © 2021 Copyright:
-                    <a class="nosvoid-color" href="https://nosvoid.com/">Nosvoid</a>
+                <div className="p-3">
+                  
+                   
                 </div>
             </div>
         </div>

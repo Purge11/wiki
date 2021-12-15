@@ -41,9 +41,9 @@ function Prestige() {
                 </div>
             </div>
             <div className="footer">
-                <div className="text-center p-3">
-                    © 2021 Copyright:
-                    <a class="nosvoid-color" href="https://nosvoid.com/">Nosvoid</a>
+                <div className="p-3">
+                  
+                   
                 </div>
             </div>
         </div>

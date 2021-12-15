@@ -8,11 +8,13 @@
   
 
 }
-hr{
+.navhr {
+  
   text-decoration: none;
   color: #fff !important;
   height: 3px !important;
   opacity: 1 !important;
+
 }
 .series-image-list {
   display: flex;
@@ -60,12 +62,14 @@ max-width: 80px;
 .tatto,
 .wings,
 .teammembers,
-.schedule {
+.schedule,
+.content {
   height: 20vh;
   margin-top: 50px;
   margin-left: 27%;
   margin-right: 27%;
   font-size: 1rem;
+
 
   a {
     text-decoration: none;
@@ -103,7 +107,8 @@ max-width: 80px;
   .tatto,
   .wings,
   .teammembers,
-  .schedule { 
+  .schedule,
+  .content { 
   margin-right: 0%;
   margin-left: 0%;
   }
@@ -238,3 +243,20 @@ max-width: 80px;
   color: #8947b1
 }
 
+.space{
+  margin-top: 200px;
+}
+.customfeatures{
+  img {
+    width: 100%;
+  }
+}
+.youtube-icn{
+  font-size: 130%;
+  margin-left:2%;
+
+}
+td 
+{
+  vertical-align: middle;
+}

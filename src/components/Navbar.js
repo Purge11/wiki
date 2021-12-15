@@ -41,7 +41,7 @@ function Navbar() {
               <AiIcons.AiOutlineClose />
               </Link>
             </li>
-            <hr/>
+            <hr className='navhr'/>
             {SidebarData.map((item, index) => {
               return (
                 <li key={index} className={item.cName}>

@@ -37,12 +37,8 @@ export default function Home() {
                     
                 </div>
             </div>
-            <div className="footer">
-                <div className="text-center p-3">
-                    © 2021 Copyright:
-                    <a class="nosvoid-color" href="https://nosvoid.com/">Nosvoid</a>
-                </div>
-            </div>
+           
+           
             </div>
             
             

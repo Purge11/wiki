@@ -17,6 +17,11 @@ export const SidebarData = [
     cName: 'ownnav-text'
   },
   {
+    title: 'Creators',
+    path: '/contentCreators',
+    cName: 'ownnav-text red-text'
+  },
+  {
     title: 'Accesory',
     path: '/accesory',
     cName: 'ownnav-text'
