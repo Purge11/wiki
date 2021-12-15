@@ -99,7 +99,7 @@ function Badge() {
                            </tr>   
                            <tr className=''>
                                 <td  class="tr8" >PVP stat: S-Increase attack and defense in PVP by: 12%</td>
-                                <td scope="row danger"></td>
+                                <td ></td>
                                
                            
                                 
