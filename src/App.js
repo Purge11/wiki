@@ -3,12 +3,13 @@ import './App.scss';
 import './TableColor.scss';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Home from './pages/Home';
+import Home from './pages/Home/Home';
 import CustomFeatures from './pages/CustomFeatures';
 import Accesory from './pages/Accesory';
 import Act4 from './pages/Act4';
 import Badge from './pages/Badge';
 import Books from './pages/Books';
+import Rules from './pages/Rules';
 import Box from './pages/Box';
 import C50 from './pages/C50';
 import C55 from './pages/C55';
@@ -37,6 +38,7 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
+          <Route path='/Rules' exact component={Rules} />
           <Route path='/teammembers' component={TeamMembers} />
           <Route path='/customFeatures' component={CustomFeatures} />
           <Route path='/accesory' component={Accesory} />

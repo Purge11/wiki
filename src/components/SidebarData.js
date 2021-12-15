@@ -5,9 +5,10 @@ export const SidebarData = [
     path: '/customFeatures',
     cName: 'ownnav-text gold-text'
   },
+ 
   {
     title: 'Rules',
-    path: '/',
+    path: '/rules',
     cName: 'ownnav-text'
   },
   {
