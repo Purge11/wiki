@@ -6,12 +6,13 @@ export default function Shell() {
             <div class="container">
                 <div class="row  ">
 
-                    What are shells good for? Shells give unique abilities to our weapon/armor.
+                <h4 class=" nosvoid-color d-flex justify-content-center"> What are shells good for?</h4>  <br/> <br/> Shells give unique abilities to our weapon/armor.
                     <br/>
                     There are red shells for weapons, and orange for armor.
                     <br/>
                     <br/>
-                    Shell and rarity
+                   <h4 class=" nosvoid-color d-flex justify-content-center">Shell and rarity</h4> 
+                    <br/>
                     <br/>
                     What does the level do?
                     <br/>
@@ -23,7 +24,7 @@ export default function Shell() {
                     equipment. Also, the rarity level is important when adding multiple shells.
                     <br/>
                     <br/>
-                    Shell Bonuses
+                    <h4 class=" nosvoid-color d-flex justify-content-center">Shell Bonuses</h4>
                     <br/>
                     <br/>
                     What do the letters S / A / B / C on the shells mean, what are they?
@@ -64,7 +65,7 @@ export default function Shell() {
                     NosMall.
                     <br/>
                     <br/>
-                    PERFUME
+                   <h4 class=" nosvoid-color d-flex justify-content-center" >PERFUME</h4> 
                     <br/>
                     <br/>
                     What does perfume do?
@@ -81,145 +82,151 @@ export default function Shell() {
                     What does this shell option do?
                     <br/>
                     <br/>
-                    Status Effects Options
+                    <h4 class=" nosvoid-color d-flex justify-content-center">Status Effects Options</h4>
                     <br/>
                     <br/>
 
-                    [Status effect]:Causes [Status effect] during x% attack with a x% chance.
+                    [Status effect]: <p class="item-effect"> Causes [Status effect] during x% attack with a x% chance.</p>
                     <br/>
                     <br/>
-                    [Status Effect] reduced chance: x% chance to prevent the enemy from inflicting
+                    [Status Effect] reduced chance:<p class="item-effect">  x% chance to prevent the enemy from inflicting</p>
                     x% [Status Effect] on you.
                     <br/>
                     <br/>
-                    Fatal Fainting: Fatal Fainting.
+                    Fatal Fainting: <p class="item-effect"> Fatal Fainting.</p>
                     <br/>
                     <br/>
-                    Fainting: Fainting.
+                    Fainting: <p class="item-effect"> Fainting.</p>
                     <br/>
                     <br/>
-                    Dead Man's Hand: Movement/attack is not possible.
+                    Dead Man's Hand:<p class="item-effect">  Movement/attack is not possible.</p>
                     <br/>
                     <br/>
-                    Blindness: Remote attack not allowed.
+                    Blindness:<p class="item-effect">  Remote attack not allowed.</p>
                     <br/>
                     <br/>
-                    Freeze: Movement/attack is not possible.
+                    Freeze:<p class="item-effect">  Movement/attack is not possible.</p>
                     <br/>
                     <br/>
-                    Shock: Attack is not possible.
+                    Shock:<p class="item-effect">  Attack is not possible.</p>
                     <br/>
                     <br/>
-                    Open Wound: Bleeding.
+                    Open Wound: <p class="item-effect"> Bleeding.</p>
                     <br/>
                     <br/>
-                    Small Open Wound: Minor Bleeding.
+                    Small Open Wound:<p class="item-effect">  Minor Bleeding.</p>
                     <br/>
                     <br/>
-                    Paralyzing Poison: No movement possible.
+                    Paralyzing Poison:<p class="item-effect">  No movement possible.</p>
                     <br/>
                     <br/>
-                    Spasm: Removes good effects.
+                    Spasm: <p class="item-effect"> Removes good effects.</p>
                     <br/>
                     <br/>
-                    Damage Boost Options
+                    <h4 class=" nosvoid-color d-flex justify-content-center">Damage Boost Options</h4>
                     <br/>
                     <br/>
-                    [Creature type] damage amplification: %s chance to increase damage to [Creature
-                    type] monsters by x%.
+                    [Creature type] damage amplification:<p class="item-effect">  %s chance to increase damage to [Creature
+                    type] monsters by x%. </p>
                     <br/>
                     <br/>
-                    Large [Creature type]: High Level [Creature type] ()
+                    Large [Creature type]: <p class="item-effect">High Level [Creature type] </p>
                     <br/>
                     <br/>
-                    Sub-Society [Creature type]: Like Kovolt, Catsy
+                    Sub-Society [Creature type]: Like <br/><br/><p class="item-effect">Kovolt</p>  <br/><p class="item-effect"> Catsy</p> 
                     <br/>
-                    Plant
+                    <p class="item-effect"> Plant</p> 
                     <br/>
-                    Enemy
+                    <p class="item-effect"> Enemy</p> 
                     <br/>
-                    Animal
+                    <p class="item-effect"> Animal</p> 
                     <br/>
-                    Undead
+                    <p class="item-effect"> Undead</p> 
                     <br/>
-                    Devils: Low Level [Mob Type] ().
+                    Devils: 
+                    
+                    <p class="item-effect">Low Level [Mob Type] </p> 
                     <br/>
                     <br/>
-                    Please note, this is not related to the actual level of the beast. Even if a
+                   <p class="text-danger"> Please note, this is not related to the actual level of the beast. Even if a
                     monster is level 99, it can be considered low-level, or a level 1 monster can be
                     considered high-level. Typically dominant bosses and minor bosses are considered
                     high-level and the rest are considered low-level. There may be exceptions to
-                    these too.. Statistical bonus increases
+                    these too.. Statistical bonus increases</p>
                     <br/>
 
-                    Enhanced SL [Property ] stat: - Treats as increased [Property] stat on SP card
+                    Enhanced SL [Property ] stat:<p class="item-effect">- Treats as increased [Property] stat on SP card
+                    <br/></p> 
+                    <br/>
+                    Increased Critical Damage: <p class="item-effect">Increases the critical damage from your current
+                    weapon by x%</p>
                     <br/>
                     <br/>
-                    Increased Critical Damage: Increases the critical damage from your current
-                    weapon by x%
+                    Increased Chance for Critical Hits: <p class="item-effect">Increases the critical strike chance of your
+                    current weapon by x%</p>
                     <br/>
                     <br/>
-                    Increased Chance for Critical Hits: Increases the critical strike chance of your
-                    current weapon by x%
+                    Reducing Critical Hit Chance:<p class="item-effect">x% chance to reduce critical hit by the enemy by
+                    x%</p> 
+                  
                     <br/>
                     <br/>
-                    Reducing Critical Hit Chance: x% chance to reduce critical hit by the enemy by
-                    x%
+                    BP / HP Regen per earn:<p class="item-effect">x BP / HP is increased when defeating monsters of +10 /
+                    -10 levels of character's level</p> 
                     <br/>
                     <br/>
-                    BP / HP Regen per earn: x BP / HP is increased when defeating monsters of +10 /
-                    -10 levels of character's level
-                    <br/>
-                    <br/>
-                    Increase BP / HP recovery Rate at Rest:BP / HP regen is increased by x% while at
+                    Increase BP / HP recovery Rate at Rest: <p class="item-effect">BP / HP regen is increased by x% while at
+                    rest.</p>
                     rest.
                     <br/>
                     <br/>
-                    Increase of normal BP / HP Heal Rate: Increases normal BP / HP regen by x%
+                    Increase of normal BP / HP Heal Rate:<p class="item-effect">Increases normal BP / HP regen by x%
+                    <br/>
+                    Increase in BP / HP Recovery</p> Increases normal BP / HP regen by x%
                     <br/>
                     Increase in BP / HP Recovery
                     <br/>
                     <br/>
-                    Rate During Defense: BP / HP regen increases by x% during battle (Available in
-                    Option S only)
+                    Rate During Defense: <p class="item-effect">BP / HP regen increases by x% during battle (Available in
+                    Option S only)</p>
                     <br/>
                     <br/>
-                    Increased Re-Matter Production: x% increases potion, snacks, and meal potency
+                    Increased Re-Matter Production:<p class="item-effect">x% increases potion, snacks, and meal potency
                     For example, Great healing potion gives 1k BP / HP, player receives 1k + 500 HP
-                    / BP under the effect of "50% Increased Regeneration".
+                    / BP under the effect of "50% Increased Regeneration".</p> 
                     <br/>
                     <br/>
-                    Increased [Element] energy: [Element] increases by x when attacking
+                    Increased [Element] energy: <p class="item-effect">[Element] increases by x when attacking</p>
                     <br/>
                     <br/>
-                    Reduced BPConsumption:Decreased BP requested by skills used by x%
+                    Reduced BPConsumption:<p class="item-effect">Decreased BP requested by skills used by x%</p>
                     <br/>
-                    Enhanced damage: increases basic attack damage whe attacking.
+                    Enhanced damage: <p class="item-effect">increases basic attack damage whe attacking.</p>
                     <br/>
                     <br/>
                     Melee / Long Range / Magic deffence rate:
                     <br/>
-                    Melee / Long Range / Magic defance rate is increased by x%
-                    <br/>
-                    Special bonuses
+                    <p class="item-effect"> Melee / Long Range / Magic defance rate is increased by x%</p>
                     <br/>
                     <br/>
+                   <h4 class=" nosvoid-color d-flex justify-content-center">Special bonuses</h4>
                     <br/>
+                    <br/>                
 
-                    (Main weapon only) Higher Gold Gain: Increases gold collected by x%
+                    (Main weapon only) Higher Gold Gain: <p class="item-effect">Increases gold collected by x%</p>
                     <br/>
                     <br/>
-                    (Main weapon only) High HP Gain: Combat and job level experience increased by x%
+                    (Main weapon only) High HP Gain: <p class="item-effect">Combat and job level experience increased by x%</p>
                     <br/>
                     <br/>
-                    (Main weapon only) High XP Gain: Job level experience increased by x%
+                    (Main weapon only) High XP Gain: <p class="item-effect">Job level experience increased by x%</p>
                     <br/>
                     <br/>
-                    Reduced Production Points Spend: Production points spent while playing minigames
-                    cost x% less.
+                    Reduced Production Points Spend: <p class="item-effect">Production points spent while playing minigames
+                    cost x% less.</p>
                     <br/>
                     <br/>
-                    Increased Chance of Crafting: X% more wins on minigame rewards
+                    Increased Chance of Crafting: <em class="item-effect-shell">X% more wins on minigame rewards</em>
                     <br/>
                     <br/>
                     (*)
