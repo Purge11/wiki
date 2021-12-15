@@ -77,7 +77,7 @@ export default function TeamMembers() {
                                 <td>Game Master</td>
                                 
                             </tr>
-                            <tr className='tr8'>
+                            <tr className='tr81'>
                                 <th scope="row">RevengeKai</th>
                                 <td>ESP/ENG</td>
                                 <td>Trial Game Master</td>
