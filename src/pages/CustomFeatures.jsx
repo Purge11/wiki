@@ -28,6 +28,7 @@ export default function CustomFeatures() {
                     <h2 class="nosvoid-color ">Searchbar Inventory</h2>
 
                 </div>
+                <br/>
 
                 The search bar is a new feature, that will make the item search easier. Are you
                 looking for something in particular? Just write it in the bar and it will show
