@@ -65,7 +65,7 @@ function Badge() {
                     
                         <thead class="thead-dark">
                             <tr>
-                                <th scope="col">Pvp Badge</th>
+                                <th scope="col  ">Pvp Badge</th>
                                 <th scope="col ">Pve Badge</th>
                                 
 
@@ -74,13 +74,13 @@ function Badge() {
                         </thead>
                         <tbody>
                             <tr className=''>
-                                <td class="text-success" scope="row danger">A/S-Increased Damage while enemy is stunned: ?%</td>
+                                <td class="text-success" >A/S-Increased Damage while enemy is stunned: ?%</td>
                                 <td className=' text-success'>S - Increased Damage to opposed element of your fairy</td>
                                 
                                 
                            </tr>
                            <tr className=''>
-                                <td  class="text-success"scope="row danger">A/S-Chance to heal ?% of your Max Hp: ?%</td>
+                                <td  class="text-success">A/S-Chance to heal ?% of your Max Hp: ?%</td>
                                 <td class="text-success">A - Increased Damage against Water and Fire element or Increased Damage against Light and Shadow Element (depends on which raids you focus on)</td>
                                
                                 
@@ -92,13 +92,13 @@ function Badge() {
                                 
                            </tr> 
                            <tr className=''>
-                                <td class="text-warning"scope="row danger">C/B-Chance to reflect 2000 Damage: ?%</td>
+                                <td class="text-warning">C/B-Chance to reflect 2000 Damage: ?%</td>
                                 <td class="text-warning">C/B - Increase all Perfection points</td>
                                 
                                 
                            </tr>   
                            <tr className=''>
-                                <td  class="tr8" scope="row danger">PVP stat: S-Increase attack and defense in PVP by: 12%</td>
+                                <td  class="tr8" >PVP stat: S-Increase attack and defense in PVP by: 12%</td>
                                 <td scope="row danger"></td>
                                
                            
