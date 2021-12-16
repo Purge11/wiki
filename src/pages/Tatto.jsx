@@ -55,9 +55,7 @@ export default function Tatto() {
 
                     <br/>
                     <br/>
-                    <div class="imgtato">
                     <img src="asset/tato/tato3.png" alt=""/>
-                    </div>
 
                 </div>
             </div>
