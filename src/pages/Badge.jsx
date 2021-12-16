@@ -7,8 +7,8 @@ function Badge() {
             
                 <div class="row  ">
 
-                    <h3>What is Badge?<div className='text-danger'>(you can buy only two badges per character!)</div>
-                    </h3>
+                    <h3 class=" nosvoid-color d-flex justify-content-center">What is Badge? </h3><div className='text-danger mt-2'>(you can buy only two badges per character!)</div>
+                   
                     <br/>
 
                     The Badge is a special equipment item that you can purchase for 1b in the Badge
@@ -17,7 +17,7 @@ function Badge() {
                     <br/>
                     <br/>
                     <img src="asset/badge/badge1.png" alt=""/>
-                    <h3 class="mt-3">How can I create and use rarify items?</h3>
+                    <h3 class=" nosvoid-color d-flex justify-content-center mt-3">How can I create and use rarify items?</h3>
                     <br/>
 
                     To craft 3x Rarify items, you need:
@@ -60,55 +60,30 @@ function Badge() {
                     Effect values ​​scale with effect level (C, B, A, S) and item upgrade.
                     <br/>
                     <br/>
-                    <h1 className='d-flex justify-content-center mt-5 mb-5'>Perfect badge bonuses<div class="youtube-icn"></div> </h1>
-                    <table class="table ">
-                    
-                        <thead class="thead-dark">
-                            <tr>
-                                <th scope="col  ">Pvp Badge</th>
-                                <th scope="col ">Pve Badge</th>
-                                
+                    <h1 className='d-flex justify-content-center mt-5 mb-5 nosvoid-color '>Perfect badge bonuses<div class="youtube-icn"></div> </h1>
 
-                               
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr className=''>
-                                <td class="text-success" >A/S-Increased Damage while enemy is stunned: ?%</td>
-                                <td className=' text-success'>S - Increased Damage to opposed element of your fairy</td>
-                                
-                                
-                           </tr>
-                           <tr className=''>
-                                <td  class="text-success">A/S-Chance to heal ?% of your Max Hp: ?%</td>
-                                <td class="text-success">A - Increased Damage against Water and Fire element or Increased Damage against Light and Shadow Element (depends on which raids you focus on)</td>
-                               
-                                
-                           </tr>
-                           <tr className=''>
-                                <td class="text-warning">A/S-Increase all Perfection Points by: ?</td>
-                                <td class="text-warning">B/C - Increased fairy element</td>
-                             
-                                
-                           </tr> 
-                           <tr className=''>
-                                <td class="text-warning">C/B-Chance to reflect 2000 Damage: ?%</td>
-                                <td class="text-warning">C/B - Increase all Perfection points</td>
-                                
-                                
-                           </tr>   
-                           <tr className=''>
-                                <td  class="tr8" >PVP stat: S-Increase attack and defense in PVP by: 12%</td>
-                                <td ></td>
-                               
-                           
-                                
-                           </tr>
-                           
-
-                        </tbody>
+                    <ul class="list-group mt-3">
+                                         
                         
-                    </table>
+                                         <li class="list-group-item d-flex justify-content-center bg-danger text-white">PVP Badge</li>
+                                         <li class="list-group-item d-flex justify-content-center  text-success">A/S-Increased Damage while enemy is stunned: ?%</li>
+                                         <li class="list-group-item d-flex justify-content-center  text-success">A/S-Chance to heal ?% of your Max Hp: ?%</li>
+                                         <li class="list-group-item d-flex justify-content-center text-warning">A/S-Increase all Perfection Points by: ?</li>
+                                         <li class="list-group-item d-flex justify-content-center text-warning">C/B-Chance to reflect 2000 Damage: ?%</li>
+                                         <li class="list-group-item d-flex justify-content-center tr8">PVP stat: S-Increase attack and defense in PVP by: 12%</li>
+                                     </ul>
+
+                                     <ul class="list-group mt-5">
+                                         
+                        
+                                         <li class="list-group-item d-flex justify-content-center bg-danger text-white">PVE Badge</li>
+                                         <li class="list-group-item d-flex justify-content-center  text-success">S - Increased Damage to opposed element of your fairy</li>
+                                         <li class="list-group-item d-flex justify-content-center  text-success">A - Increased Damage against Water and Fire element or Increased Damage against Light and Shadow Element (depends on which raids you focus on)</li>
+                                         <li class="list-group-item d-flex justify-content-center text-warning">B/C - Increased fairy element</li>
+                                         <li class="list-group-item d-flex justify-content-center text-warning">C/B - Increase all Perfection points</li>
+                                        
+                                     </ul>
+                   
                     
                     <img class="mt-5" src="asset/badge/badge1.gif" alt=""/>
                     <br/>
