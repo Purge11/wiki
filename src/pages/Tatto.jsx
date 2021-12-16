@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/accessible-emoji */
-import React from 'react'
+import React from 'react' 
+import '../App.scss';
 
 export default function Tatto() {
     return (
