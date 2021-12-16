@@ -24,8 +24,9 @@ export default function Home() {
           <h1>in a place where everything is possible</h1>
           <h3>
           
-        let's start adventure around the world <span ref={textRef}></span>
+        let's start adventure <span ref={textRef}></span>
           </h3>
+          <h3> are waiting for you</h3>
         </div>
                    
                     <a class="btn btn-first" href='customFeatures'>Let's start</a>

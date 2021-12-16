@@ -1,5 +1,10 @@
 
 export const SidebarData = [
+   /** {
+    title: 'Winter Event',
+    path: '/winter',
+    cName: 'ownnav-text winter'
+  },*/
   {
     title: 'Features',
     path: '/customFeatures',
