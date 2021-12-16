@@ -5,8 +5,9 @@ function Prestige() {
         <div className='prestige'>
             <div class="container d-flex justify-content-center">
                 <div class="row  ">
-
-                    <div class="container d-flex justify-content-center">
+                <h4 class=" nosvoid-color d-flex justify-content-center">Prestige guide</h4>
+                    <br/>
+                    <div class="container d-flex justify-content-center mt-4">
                         -For Prestige 1 you need to be 99lvl.
                         <br/>
                         -For Prestige 2 you need to be 99lvl.

@@ -7,7 +7,7 @@ export default function C55() {
             <div class="container d-flex justify-content-center">
                 <div class="row series-image-list ">
 
-                    <h5>C55 Equipment Guide</h5>
+                    <h4 class=" nosvoid-color d-flex justify-content-center">C55 Equipment Guide</h4>
                     <br/>
                     If you have become Prestige 7, you can teleport to the map by typing $warp p7.
                     <br/>

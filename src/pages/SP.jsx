@@ -7,7 +7,7 @@ export default function SP() {
             <div class="container">
                 <div class="row  ">
 
-                    <h1>How ​​do I get SP cards?</h1>
+                    <h2 class="nosvoid-color d-flex justify-content-center">How ​​do I get SP cards?</h2>
                     <br/>
                     <br/>
                     <br/>

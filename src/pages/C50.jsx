@@ -7,7 +7,7 @@ export default function C50() {
             <div class="container d-flex justify-content-center">
                 <div class="row series-image-list ">
 
-                    <h5>C50 Equipment Guide</h5>
+                    <h4 class=" nosvoid-color d-flex justify-content-center">C50 Equipment Guide</h4>
                     <br/>
                     We go to the "$Warp P6" Map. Then we click on C50 NPC. We craft by collecting
                     the materials they want from us.

@@ -7,7 +7,7 @@ export default function Perfection() {
             <div class="container">
                 <div class="row  ">
 
-                    <h5>What is perfection stone?</h5>
+                    <h4 class=" nosvoid-color d-flex justify-content-center">What is perfection stone?</h4>
                     <br/>
 
                     Excellence gives statistics and has nothing to do with skill point distribution.

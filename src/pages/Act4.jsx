@@ -8,9 +8,9 @@ export default function Act4() {
                 <div class="row series-image-list ">
 
                     <div class="">
-                        <h1>What can I do in Act4?</h1>
+                        <h1 class=" nosvoid-color d-flex justify-content-center">What can I do in Act4?</h1>
                         <br/>
-                        <br/>
+                  
                         -You can craft wings.
                         <br/>
                         -You can craft some special items.
