@@ -262,9 +262,15 @@ td
   vertical-align: middle;
 }
 img{
-    margin:auto !important;
+   
         width: 100% !important; 
         max-width: 100% !important; 
         height: auto !important;
         object-fit: cover !important;
+}
+@media (max-width: 600px) {
+img{
+   
+  margin-top: -30px;
+}
 }
