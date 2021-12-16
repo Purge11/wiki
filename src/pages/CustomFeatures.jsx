@@ -5,46 +5,38 @@ export default function CustomFeatures() {
         <div className='customfeatures'>
             <div class="container">
                 <div class="row  ">
-                    <div class="d-flex justify-content-center">
 
-                        <h2 class="nosvoid-color ">CD on skills</h2>
+                    <div class="d-flex justify-content-center mt-5">
+
+                        <h4 class="nosvoid-color ">FPS unlock</h4>
                     </div>
-                    <br/>
 
-                    The CD on skills will have a new feature, the bar will show the seconds missing
-                    for the skill to be avaiable again. Are your friends asking how many seconds are
-                    missing for your buff? Now you know!
+                    <div class="d-flex justify-content-center ">
+                        <img src="asset/feature/fps.gif" alt=""/>
+                    </div>
+
+                    <div class="d-flex justify-content-center mt-5 pt-5">
+
+                        <h4 class="nosvoid-color ">CD on skills</h4>
+                    </div>
+
+                    <div class="d-flex justify-content-center">
+                        <img src="asset/feature/feature1.gif" alt=""/>
+                    </div>
+                    <div class="d-flex justify-content-center mt-5 pt-5">
+
+                        <h4 class="nosvoid-color ">Searchbar Inventory</h4>
+                    </div>
+
+                    <div class="d-flex justify-content-center">
+                        <img src="asset/feature/feature2.gif" alt=""/>
+                    </div>
+
                 </div>
-                <br/>
-                <div class="d-flex justify-content-center">
-                    <img src="asset/feature/feature1.gif" alt=""/>
-                </div>
-                <br/>
-                <br/>
-                <br/>
-
-                <div class="d-flex justify-content-center">
-
-                    <h2 class="nosvoid-color ">Searchbar Inventory</h2>
-
-                </div>
-                <br/>   
-
-                The search bar is a new feature, that will make the item search easier. Are you
-                looking for something in particular? Just write it in the bar and it will show
-                you your item!
-
-            </div>
-            <br/>
-            <div class="d-flex justify-content-center">
-                <img src="asset/feature/feature2.gif" alt=""/>
             </div>
 
             <div className="footer">
-                <div className="p-3">
-                  
-                   
-                </div>
+                <div className="p-3"></div>
             </div>
         </div>
     )

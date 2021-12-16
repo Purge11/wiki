@@ -6,7 +6,7 @@ export const SidebarData = [
     cName: 'ownnav-text winter'
   },*/
   {
-    title: 'Features',
+    title: 'Features ⭐',
     path: '/customFeatures',
     cName: 'ownnav-text gold-text'
   },
@@ -22,7 +22,7 @@ export const SidebarData = [
     cName: 'ownnav-text'
   },
   {
-    title: 'Creators',
+    title: 'Creators ',
     path: '/contentCreators',
     cName: 'ownnav-text red-text'
   },
