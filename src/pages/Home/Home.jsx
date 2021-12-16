@@ -21,7 +21,7 @@ export default function Home() {
                 <div className='col-sm-6 banner-info'>
                 <div className="wrapper">
           <h2>Hey Welcome in Void </h2>
-          <h1>in a place where everything is possible</h1>
+          <h1>in place where everything is possible</h1>
           <h3>
           
         let's start adventure <span ref={textRef}></span>
