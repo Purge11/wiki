@@ -31,6 +31,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Content from './pages/Content';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Titles from './pages/Titles';
 
 function App() {
   return (
@@ -63,6 +64,7 @@ function App() {
           <Route path='/shell' component={Shell} />
           <Route path='/sp' component={SP} />
           <Route path='/tatto' component={Tatto} />
+          <Route path='/titles' component={Titles} />
           <Route path='/wings' component={Wings} />
         </Switch>   
       </Router>

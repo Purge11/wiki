@@ -122,6 +122,11 @@ export const SidebarData = [
     cName: 'ownnav-text'
   },
   {
+    title: 'Titles',
+    path: '/titles',
+    cName: 'ownnav-text'
+  },
+  {
     title: 'Wings',
     path: '/wings',
     cName: 'ownnav-text'
