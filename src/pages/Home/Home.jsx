@@ -11,7 +11,7 @@ export default function Home() {
           backDelay: 1500,
           backSpeed:60,
           strings: ["Accesory", "Act4", "Badge", "Books", "Boxes", "C50", "C55", "Equipment","Faires","Fishing","Perfections","Prestige","Resistances",
-        "Runes", "Shells","Sps","Tattos","Wings"],
+        "Runes", "Shells","Sps","Tattoos","Wings"],
         });
       }, []);
     return (
