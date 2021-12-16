@@ -7,7 +7,7 @@ export default function Home() {
                 <div class="row series-image-list  ">
 
                     <div class="rules-section top">
-                        <h1>1- General Information</h1>
+                        <h1 >1- General Information</h1>
 
                         1.1: Successful registration for your nosvoid account equals to accepting the
                         rules and regulations as stated below.
