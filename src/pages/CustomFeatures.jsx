@@ -18,6 +18,10 @@ export default function CustomFeatures() {
                     <div class="d-flex justify-content-center mt-5 pt-5">
 
                         <h4 class="nosvoid-color ">CD on skills</h4>
+                     <br/>
+                      The CD on skills will have a new feature, the bar will show the seconds missing for the skill to be avaiable again.
+                      Are your friends asking how many seconds are missing for your buff? Now you know!
+                      <br/>
                     </div>
 
                     <div class="d-flex justify-content-center">
