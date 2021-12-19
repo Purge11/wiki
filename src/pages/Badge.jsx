@@ -62,25 +62,25 @@ function Badge() {
                     <br/>
                     <h1 className='d-flex justify-content-center mt-5 mb-5 nosvoid-color '>Perfect badge bonuses<div class="youtube-icn"></div> </h1>
 
-                    <ul class="list-group mt-3">
+                    <ul class="list-group mt-3 ">
                                          
                         
-                                         <li class="list-group-item d-flex justify-content-center bg-danger text-white">PVP Badge</li>
-                                         <li class="list-group-item d-flex justify-content-center  text-success">A/S-Increased Damage while enemy is stunned: ?%</li>
-                                         <li class="list-group-item d-flex justify-content-center  text-success">A/S-Chance to heal ?% of your Max Hp: ?%</li>
-                                         <li class="list-group-item d-flex justify-content-center text-warning">A/S-Increase all Perfection Points by: ?</li>
-                                         <li class="list-group-item d-flex justify-content-center text-warning">C/B-Chance to reflect 2000 Damage: ?%</li>
-                                         <li class="list-group-item d-flex justify-content-center tr8">PVP stat: S-Increase attack and defense in PVP by: 12%</li>
+                                         <li class="list-group-item   bg-danger text-white">PVP Badge</li>
+                                         <li class="list-group-item  text-success">A/S-Increased Damage while enemy is stunned: ?%</li>
+                                         <li class="list-group-item   text-success">A/S-Chance to heal ?% of your Max Hp: ?%</li>
+                                         <li class="list-group-item  text-warning">A/S-Increase all Perfection Points by: ?</li>
+                                         <li class="list-group-item  text-warning">C/B-Chance to reflect 2000 Damage: ?%</li>
+                                         <li class="list-group-item  tr8">PVP stat: S-Increase attack and defense in PVP by: 12%</li>
                                      </ul>
 
                                      <ul class="list-group mt-5">
                                          
                         
-                                         <li class="list-group-item d-flex justify-content-center bg-danger text-white">PVE Badge</li>
-                                         <li class="list-group-item d-flex justify-content-center  text-success">S - Increased Damage to opposed element of your fairy</li>
-                                         <li class="list-group-item d-flex justify-content-center  text-success">A - Increased Damage against Water and Fire element or Increased Damage against Light and Shadow Element (depends on which raids you focus on)</li>
-                                         <li class="list-group-item d-flex justify-content-center text-warning">B/C - Increased fairy element</li>
-                                         <li class="list-group-item d-flex justify-content-center text-warning">C/B - Increase all Perfection points</li>
+                                         <li class="list-group-item  bg-danger text-white">PVE Badge</li>
+                                         <li class="list-group-item   text-success">S - Increased Damage to opposed element of your fairy</li>
+                                         <li class="list-group-item   text-success">A - Increased Damage against Water and Fire element or Increased Damage against Light and Shadow Element (depends on which raids you focus on)</li>
+                                         <li class="list-group-item  text-warning">B/C - Increased fairy element</li>
+                                         <li class="list-group-item  text-warning">C/B - Increase all Perfection points</li>
                                         
                                      </ul>
                    
