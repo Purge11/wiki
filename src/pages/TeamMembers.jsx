@@ -50,7 +50,7 @@ export default function TeamMembers() {
                                 <th scope="row">Decameron</th>
                                 <td>TR/ENG</td>
                                 <td>Team Manager</td>
-                                <td class="centered"><img src="asset/team/SuperGameMaster.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/Lead_team.png" alt=""/></td>
                              
                             </tr>
                             <tr className='web-dev-color'>
