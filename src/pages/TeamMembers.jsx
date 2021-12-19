@@ -57,7 +57,7 @@ export default function TeamMembers() {
                                 <th scope="row">Killrog</th>
                                 <td>PL/ENG</td>
                                 <td>Web Developer</td>
-                                <td class="centered"><img src="asset/team/SuperGameMaster.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>
                               
                             </tr>
                             <tr className='admin-color'>
