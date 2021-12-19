@@ -22,35 +22,35 @@ export default function TeamMembers() {
                                 <th scope="row danger">Purge</th>
                                 <td>TR/ENG</td>
                                 <td>Owner</td>
-                                <td class="centered"><img src="asset/team/Lead_team.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/LeadTeam.png" alt=""/></td>
                                 
                             </tr>
                             <tr className='tr1'>
                                 <th scope="row">Oge</th>
                                 <td>TR/ENG</td>
                                 <td>Game Designer</td>
-                                <td class="centered"><img src="asset/team/Lead_team.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/LeadTeam.png" alt=""/></td>
                                
                             </tr>
                             <tr className='tr1'>
                                 <th scope="row">Revox</th>
                                 <td>PL/ENG</td>
                                 <td>Client Modder</td>
-                                <td class="centered"><img src="asset/team/Lead_team.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/LeadTeam.png" alt=""/></td>
                                
                             </tr>
                             <tr className='tr1'>
                                 <th scope="row">SvC11</th>
                                 <td>PL/ENG</td>
                                 <td>Lead Developer</td>
-                                <td class="centered"><img src="asset/team/Lead_team.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/LeadTeam.png" alt=""/></td>
                               
                             </tr>
                             <tr className='tr2'>
                                 <th scope="row">Decameron</th>
                                 <td>TR/ENG</td>
                                 <td>Team Manager</td>
-                                <td class="centered"><img src="asset/team/Lead_team.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/LeadTeam.png" alt=""/></td>
                              
                             </tr>
                             <tr className='web-dev-color'>
