@@ -4,12 +4,16 @@
 
     .imgContainer {
 
-        background-color: #8947b1;
+        background-color: crimson;
         border-radius: 50%;
         display: flex;
         align-items: flex-end;
         justify-content: center;
         float: right;
+        img {
+            width: 95%;
+
+        }
 
 
 
@@ -76,7 +80,7 @@
 
                 span {
                     font-size: inherit;
-                    color: #8947b1;
+                    color: #afd6fe;
                 }
 
                 .ityped-cursor {
@@ -115,24 +119,24 @@
 
     a.btn {
         margin: 30px 10px;
-        width: 150px;
-        padding: 10px;
+        width: 350px;
+        padding: 20px;
         border-radius: 20px;
     }
 
     a.btn-first {
-        background-color: #8947b1;
+        background-color: #254197;
         color: #fff;
     }
 
     a.btn-second {
         background-color: transparent;
-        border: 1px solid #8947b1;
+        border: 1px solid #254197;
         color: #333;
     }
 
     a.btn:hover {
-        background-color: #8947b1;
+        background-color: #254197;
         border: none;
         color: #fff;
         box-shadow: 5px 5px 10px #999;
@@ -150,7 +154,7 @@
 
     span {
         font-size: inherit;
-        color: #8947b1;
+        color: crimson;
     }
 
     h1,

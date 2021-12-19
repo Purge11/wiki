@@ -10,8 +10,7 @@ export default function Home() {
           showCursor: true,
           backDelay: 1500,
           backSpeed:60,
-          strings: ["Accesory", "Act4", "Badge", "Books", "Boxes", "C50", "C55", "Equipment","Faires","Fishing","Perfections","Prestige","Resistances",
-        "Runes", "Shells","Sps","Tattoos","Wings"],
+          strings: ["Merry Christmas "],
         });
       }, []);
     return (
@@ -20,21 +19,20 @@ export default function Home() {
             <div className='row mt-5'>
                 <div className='col-sm-6 banner-info'>
                 <div className="wrapper">
-          <h2>Hey Welcome in Void </h2>
-          <h1>in place where everything is possible</h1>
+          <h2 class="">NosVoid Team</h2>
+          
           <h3>
           
-        let's start adventure <span ref={textRef}></span>
+          wishes you <span ref={textRef}></span>
           </h3>
-          <h3> are waiting for you</h3>
         </div>
                    
-                    <a class="btn btn-first" href='customFeatures'>Let's start</a>
-                    <a class="btn btn-second" href='rules'>Rules</a>
+        <a class="btn btn-first" href='winter'>Christmas Event ⛄️</a>
+                 
 
                 </div>
                 <div className='col-sm-6 banner-image imgContainer'>
-                    <img src="asset/home1.png" class="img-responsive" alt=""/>
+                    <img src="asset/christmas.png" class="img-responsive" alt=""/>
                     
                 </div>
             </div>

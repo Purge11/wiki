@@ -29,6 +29,7 @@ import TeamMembers from './pages/TeamMembers';
 import Schedule from './pages/Schedule';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Content from './pages/Content';
+import Winter from './pages/Winter';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Titles from './pages/Titles';
@@ -66,6 +67,7 @@ function App() {
           <Route path='/tatto' component={Tatto} />
           <Route path='/titles' component={Titles} />
           <Route path='/wings' component={Wings} />
+          <Route path='/winter' component={Winter} />
         </Switch>   
       </Router>
     </>
