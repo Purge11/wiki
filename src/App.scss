@@ -277,9 +277,16 @@ img{
 {
     text-align:center;
 }
+
+.card{
+  width: 30rem;
+}
 .winter{
-  img{
-    width: auto;
-    max-width: auto;
-  }
+.list-group{
+  width: 30rem !important;
+}
+img{
+  width: 30rem !important;
+}
+
 }
