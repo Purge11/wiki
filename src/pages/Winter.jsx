@@ -6,34 +6,34 @@ export default function Winter() {
             <div class="container">
                 <div class="row">
                     <h1 class="text-danger d-flex justify-content-md-center  mt-5">Buffs or craft materials may be changed til release!!!</h1>
-                
+
                     <div className='mt-5'>
                         <h5 class="winter-color">
                             How can i get raid seal?</h5>
                         - You can get craft material of raid seal from the Act4 monsters. (From Tundra)
                         <div className='d-flex justify-content-md-center'>
-                        <ul class="list-group mt-5  ">
+                            <ul class="list-group mt-5  ">
 
-                            <li
-                                class="list-group-item d-flex justify-content-md-center   bg-primary text-white">
-                                <h5>What is inside raid box?</h5>
-                            </li>
-                            <li class="list-group-item  ">5x Snow Flake 8%</li>
-                            <li class="list-group-item  ">
-                                1x Reindeer 4%</li>
-                            <li class="list-group-item ">1x Scarf 4%</li>
-                            <li class="list-group-item  ">1x Christmas Tree 4x</li>
-                            <li class="list-group-item ">Cake 9%</li>
-                            <li class="list-group-item ">Angel's Feather 20%</li>
-                            <li class="list-group-item ">Full of Moon 20%</li>
-                            <li class="list-group-item ">Gold Nugget 22%</li>
+                                <li
+                                    class="list-group-item d-flex justify-content-md-center   bg-primary text-white">
+                                    <h5>What is inside raid box?</h5>
+                                </li>
+                                <li class="list-group-item  ">5x Snow Flake 8%</li>
+                                <li class="list-group-item  ">
+                                    1x Reindeer 4%</li>
+                                <li class="list-group-item ">1x Scarf 4%</li>
+                                <li class="list-group-item  ">1x Christmas Tree 4x</li>
+                                <li class="list-group-item ">Cake 9%</li>
+                                <li class="list-group-item ">Angel's Feather 20%</li>
+                                <li class="list-group-item ">Full of Moon 20%</li>
+                                <li class="list-group-item ">Gold Nugget 22%</li>
 
-                        </ul>
+                            </ul>
 
-                    </div>
+                        </div>
                         <br/>
                         <br/>
-                        
+
                         <h5 class="winter-color">
                             What is Act4 World Boss?</h5>
 
@@ -50,22 +50,9 @@ export default function Winter() {
                         reputation and a gift box!
                         <br/>
                         <br/>
-                        
-                   
-                    <div className=' '>
-                    <h5 class="winter-color">
-                        
-                    Will we have some daily quests? Yes,</h5>
-                    - Successfully Complete the raid Snowman 45x times. Reward : Santa's Daily Mission Box 1
-                    <br/>
-- Kill monsters inside raid 120 times. Reward : Santa's Daily Mission Box 2
-<br/>
-- Bring 30x Bells to Daily Quest NPC. Reward : Santa's Daily Mission Box 3
-<br/>
-</div>
 
-<img class="mt-5 d-flex justify-content-md-center" src="asset/winter/winter18.png" alt=""/>
-                        <h5 class="winter-color mt-5">
+                        
+                        <h5 class="winter-color">
                             Okay but what can i get from Act4 World Boss?</h5>
 
                         - Xmas Coins item with 100% chance.
@@ -87,22 +74,38 @@ export default function Winter() {
 
                     </div>
                     <img class="mt-5" src="asset/winter/winter16.png" alt=""/>
-                <div className='mt-5'>
-                    <h5 class="winter-color">What is Lottery World Boss?</h5>
-                    Lottery World Boss will spawn once per week! (At random day, the world boss will
-                    be announced on the discord before spawning). You will need to kill World Boss,
-                    same as Prestige 4 World Boss.
-                    <br/>
-                    <br/>
-                    <h5 class="winter-color">Okay but what can i get from Lottery World Boss?</h5>
-                    After the boss die, only one player will get the Money Coupon which one worth
-                    for the 30 euro! So, there is will be 4 World Bosses in a month, and lucky 4
-                    person will win Money Coupon. (We will try to increase amount of Lottery World
-                    Boss, we would like to gift money to some more players, we are glad that you
-                    guys with us and supporting us. Big love from the NosVoid Team ❤️ )
+                    <div className='mt-5'>
+                        <h5 class="winter-color">What is Lottery World Boss?</h5>
+                        Lottery World Boss will spawn once per week! (At random day, the world boss will
+                        be announced on the discord before spawning). You will need to kill World Boss,
+                        same as Prestige 4 World Boss.
+                        <br/>
+                        <br/>
+                        <h5 class="winter-color">Okay but what can i get from Lottery World Boss?</h5>
+                        After the boss die, only one player will get the Money Coupon which one worth
+                        for the 30 euro! So, there is will be 4 World Bosses in a month, and lucky 4
+                        person will win Money Coupon. (We will try to increase amount of Lottery World
+                        Boss, we would like to gift money to some more players, we are glad that you
+                        guys with us and supporting us. Big love from the NosVoid Team ❤️ )
                     </div>
                     <img class="mt-5" src="asset/winter/winter17.png" alt=""/>
-                  
+                    <div className='mt-5 '>
+                            <h5 class="winter-color">
+
+                                Will we have some daily quests? Yes,</h5>
+                            - Successfully Complete the raid Snowman 45x times. Reward : Santa's Daily
+                            Mission Box 1
+                            <br/>
+                            - Kill monsters inside raid 120 times. Reward : Santa's Daily Mission Box 2
+                            <br/>
+                            - Bring 30x Bells to Daily Quest NPC. Reward : Santa's Daily Mission Box 3
+                            <br/>
+                        </div>
+
+                        <img
+                            class="mt-5 d-flex justify-content-md-center"
+                            src="asset/winter/winter18.png"
+                            alt=""/>
                     <div className='d-flex justify-content-md-center'>
                         <ul class="list-group mt-5  ">
 
@@ -112,7 +115,7 @@ export default function Winter() {
                             </li>
                             <li class="list-group-item  ">Snow Flake : Christmas Raid</li>
                             <li class="list-group-item  ">
-                            Reindeer : Christmas Raid</li>
+                                Reindeer : Christmas Raid</li>
                             <li class="list-group-item ">Scarf : Christmas Raid</li>
                             <li class="list-group-item  ">Christmas Tree : Christmas Raid</li>
                             <li class="list-group-item ">Snow Ball : Act4 World Boss Box</li>
@@ -127,17 +130,17 @@ export default function Winter() {
 
                             <li
                                 class="list-group-item d-flex justify-content-md-center   bg-primary text-white">
-                                <h5>What can i get inside Gold Box? ( P.S : You can get Gold Box inside Act4 World Boss Box)</h5>
-                                                                
+                                <h5>What can i get inside Gold Box? ( P.S : You can get Gold Box inside Act4
+                                    World Boss Box)</h5>
+
                             </li>
-                            
+
                             <li class="list-group-item  ">Santa Bushi</li>
                             <li class="list-group-item  ">
-                            1x Christmas Stone (Worth for 100kk)</li>
+                                1x Christmas Stone (Worth for 100kk)</li>
                             <li class="list-group-item ">4x Carve Runes Boxes</li>
                             <li class="list-group-item  ">4x Tattoo Boxes</li>
                             <li class="list-group-item ">Lightning Wings</li>
-
 
                         </ul>
 
@@ -173,13 +176,10 @@ export default function Winter() {
                             </li>
 
                         </ul>
-                        
 
                     </div>
-                   
-                    
+
                     <img class="mt-5" src="asset/winter/winter.gif" alt=""/>
-                
 
                     <div class="mt-5 d-flex justify-content-md-center">
                         <div class="card">
@@ -187,7 +187,7 @@ export default function Winter() {
                             <div class="card-body">
                                 <h4 class="card-title winter-color d-flex justify-content-md-center">Aegir(S)</h4>
                                 <p class="card-text">
-                                <p class="item-effect-shell">
+                                    <p class="item-effect-shell">
                                         <br/>
                                         - Melee attack increased by 5%
                                         <br/>
@@ -224,8 +224,8 @@ export default function Winter() {
                             <div class="card-body">
                                 <h4 class="card-title winter-color d-flex justify-content-md-center">Barni(S)</h4>
                                 <p class="card-text">
-                                <p class="item-effect-shell">
-                                <br/>
+                                    <p class="item-effect-shell">
+                                        <br/>
                                         - Ranged attack increased by 5%
                                         <br/>
                                         - Critical damage is increased by 5%
@@ -260,7 +260,7 @@ export default function Winter() {
                             <div class="card-body">
                                 <h4 class="card-title winter-color d-flex justify-content-md-center">Freya(S)</h4>
                                 <p class="card-text">
-                                <p class="item-effect-shell">
+                                    <p class="item-effect-shell">
                                         <br/>
                                         - Magic attack increased by 5%
                                         <br/>
@@ -295,7 +295,7 @@ export default function Winter() {
                             <div class="card-body">
                                 <h4 class="card-title winter-color d-flex justify-content-md-center">Daniel Ducats(S)</h4>
                                 <p class="card-text">
-                                <p class="item-effect-shell">
+                                    <p class="item-effect-shell">
                                         <br/>
                                         - There's a 20% chance of catching a bigger fish
                                         <br/>
@@ -487,7 +487,7 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                       
+
                                         - Increased chance of getting a nude hot milf by 99%.
                                     </p>
 
@@ -616,7 +616,6 @@ export default function Winter() {
                             </div>
                         </div>
                     </div>
-                    
 
                     <div class="mt-5 d-flex justify-content-md-center">
                         <div class="card">
@@ -653,12 +652,10 @@ export default function Winter() {
                             </li>
                             <li class="list-group-item ">5% More damage increase in Christmas Raid with Santa Bushi Pet.
                             </li>
-                           
+
                         </ul>
-                        
 
                     </div>
-                    
 
                 </div>
                 <div className="footer">
