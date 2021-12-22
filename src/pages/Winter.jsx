@@ -150,7 +150,7 @@ export default function Winter() {
 
                             <li
                                 class="list-group-item d-flex justify-content-md-center   bg-primary text-white">
-                                <h5>What is inside of Winter Event Gift Coin?</h5>
+                                <h5>What is inside of Winter Event Gift Box?</h5>
                             </li>
                             <li class="list-group-item  ">2x Random amulet box (4x)
                             </li>
