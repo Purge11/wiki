@@ -12,23 +12,23 @@ export default function Winter() {
                             How can i get raid seal?</h5>
                         - You can get craft material of raid seal from the Act4 monsters. (From Tundra)
                         <div className='d-flex justify-content-md-center'>
-                            <ul class="list-group mt-5  ">
+                        <ul class="list-group mt-5  ">
 
-                                <li
-                                    class="list-group-item d-flex justify-content-md-center   bg-primary text-white">
-                                    <h5>What is inside raid box?</h5>
-                                </li>
-                                <li class="list-group-item  ">5x Snow Flake 8%</li>
-                                <li class="list-group-item  ">
-                                    1x Reindeer 4%</li>
-                                <li class="list-group-item ">1x Scarf 4%</li>
-                                <li class="list-group-item  ">1x Christmas Tree 4x</li>
-                                <li class="list-group-item ">Cake 9%</li>
-                                <li class="list-group-item ">Angel's Feather 20%</li>
-                                <li class="list-group-item ">Full of Moon 20%</li>
-                                <li class="list-group-item ">Gold Nugget 22%</li>
+                            <li
+                                class="list-group-item d-flex justify-content-md-center   bg-primary text-white">
+                                <h5>What is inside raid box?</h5>
+                            </li>
+                            <li class="list-group-item  ">5x Snow Flake 8%</li>
+                            <li class="list-group-item  ">
+                                1x Reindeer 4%</li>
+                            <li class="list-group-item ">1x Scarf 4%</li>
+                            <li class="list-group-item  ">1x Christmas Tree 4%</li>
+                            <li class="list-group-item ">Cake 9%</li>
+                            <li class="list-group-item ">Angel's Feather 20%</li>
+                            <li class="list-group-item ">Full of Moon 20%</li>
+                            <li class="list-group-item ">Gold Nugget 22%</li>
 
-                            </ul>
+                        </ul>
 
                         </div>
                         <br/>
