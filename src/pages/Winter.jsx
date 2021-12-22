@@ -22,7 +22,7 @@ export default function Winter() {
                             <li class="list-group-item  ">
                                 1x Reindeer 4%</li>
                             <li class="list-group-item ">1x Scarf 4%</li>
-                            <li class="list-group-item  ">1x Christmas Tree 4x</li>
+                            <li class="list-group-item  ">1x Christmas Tree 4%</li>
                             <li class="list-group-item ">Cake 9%</li>
                             <li class="list-group-item ">Angel's Feather 20%</li>
                             <li class="list-group-item ">Full of Moon 20%</li>
