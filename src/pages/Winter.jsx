@@ -55,7 +55,7 @@ export default function Winter() {
                         <h5 class="winter-color">
                             Okay but what can i get from Act4 World Boss?</h5>
 
-                        - Xmas Coins item with 100% chance.
+                        - Christmas Coins item with 100% chance.
                         <br/>
                         World Boss box :
                         <br/>
@@ -119,7 +119,7 @@ export default function Winter() {
                             <li class="list-group-item ">Scarf : Christmas Raid</li>
                             <li class="list-group-item  ">Christmas Tree : Christmas Raid</li>
                             <li class="list-group-item ">Snow Ball : Act4 World Boss Box</li>
-                            <li class="list-group-item ">Xmas Coin : Act4 World Boss</li>
+                            <li class="list-group-item ">Christmas Coin : Act4 World Boss</li>
                             <li class="list-group-item ">XMAS letters : Ice Desert Map</li>
 
                         </ul>
