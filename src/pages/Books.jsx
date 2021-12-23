@@ -35,14 +35,6 @@ export default function Books() {
                                 <td>15</td>
                             </tr>
                             <tr>
-                                <th scope="row">Journal of Forgotten Hero J (1)</th>
-                                <td class="item-effect">Increases inteligence by 80
-                                </td>
-                                <td ><img src="asset/book/book3.png" alt=""/></td>
-                                <td>P1</td>
-                                <td>38</td>
-                            </tr>
-                            <tr>
                                 <th scope="row">Journal of Forgotten Hero S (1)</th>
                                 <td class="item-effect">Increases agility by 80
                                 </td>
@@ -93,6 +85,14 @@ export default function Books() {
                             <tr>
                                 <th scope="row">Journal of Forgotten Hero M (1)</th>
                                 <td class="item-effect">Increases maximum HP by 4000
+                                </td>
+                                <td ><img src="asset/book/book3.png" alt=""/></td>
+                                <td>P4</td>
+                                <td>38</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Journal of Forgotten Hero J (1)</th>
+                                <td class="item-effect">Increases inteligence by 80
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P4</td>
