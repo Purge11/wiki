@@ -388,7 +388,15 @@ export default function Winter() {
                                     <br/>
                                     - 5x Reindeer
 
-                                    <br/></p>
+                                    <br/>
+                               </p>
+
+                                </p>
+                                <p class="card-text float-end ">
+                                    <small class="text-muted ">How to get : Gold Box
+                                    </small>
+                                </p>
+
 
                             </div>
                         </div>
