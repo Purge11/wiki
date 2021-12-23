@@ -118,9 +118,11 @@ export default function Winter() {
                                 Reindeer : Christmas Raid</li>
                             <li class="list-group-item ">Scarf : Christmas Raid</li>
                             <li class="list-group-item  ">Christmas Tree : Christmas Raid</li>
+                            <li class="list-group-item ">Pillow : Christmas Raid</li>
                             <li class="list-group-item ">Snow Ball : Act4 World Boss Box</li>
                             <li class="list-group-item ">Christmas Coin : Act4 World Boss</li>
                             <li class="list-group-item ">XMAS letters : Bitoren Tundra</li>
+                            
 
                         </ul>
 
@@ -605,7 +607,7 @@ export default function Winter() {
                                     <br/>
                                     - 7x Christmas Coin
                                     <br/>
-                                    - 500x XMAS letters
+                                    - 650x XMAS letters
                                     <br/>
                                     - 4x Reindeer
                                     <br/>
