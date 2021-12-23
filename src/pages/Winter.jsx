@@ -211,7 +211,7 @@ export default function Winter() {
                                     <br/>
                                     - 1x Christmas Tree
                                     <br/>
-                                    - 50x XMAS letters
+                                    - 150x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -248,7 +248,7 @@ export default function Winter() {
                                     <br/>
                                     - 1x Christmas Tree
                                     <br/>
-                                    - 50x XMAS letters
+                                    - 150x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -283,7 +283,7 @@ export default function Winter() {
                                     <br/>
                                     - 1x Christmas Tree
                                     <br/>
-                                    - 50x XMAS letters
+                                    - 150x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -318,7 +318,7 @@ export default function Winter() {
                                     <br/>
                                     - 1x Christmas Tree
                                     <br/>
-                                    - 50x XMAS letters
+                                    - 150x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -562,9 +562,9 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 1x Snow Ball
+                                    - 3x Snow Ball
                                     <br/>
-                                    - 1x Scarf
+                                    - 3x Scarf
                                     <br/>
                                     - 1x Christmas Coin
                                     <br/>
