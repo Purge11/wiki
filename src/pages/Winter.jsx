@@ -552,7 +552,7 @@ export default function Winter() {
                         <div class="card">
                             <img class="card-img-top" src="asset/winter/winter11.png" alt=""/>
                             <div class="card-body">
-                                <h4 class="card-title winter-color d-flex justify-content-md-center">14th Anniversary Boxer Kangaroo</h4>
+                                <h4 class="card-title winter-color d-flex justify-content-md-center">14th Anniversary Boxer Kangaroo (31 Speed)</h4>
                                 <p class="card-text"></p>
                                 <p class="card-text float-end ">
                                     <small class="text-muted ">How to get : Void Mall
