@@ -562,9 +562,9 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 1x Snow Ball
+                                    - 3x Snow Ball
                                     <br/>
-                                    - 1x Scarf
+                                    - 3x Scarf
                                     <br/>
                                     - 1x Christmas Coin
                                     <br/>
