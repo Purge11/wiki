@@ -488,7 +488,7 @@ export default function Winter() {
                                     <p class="item-effect-shell">
                                         <br/>
 
-                                        - Increased chance of getting a nude hot milf by 99%.
+                                        - Increased chance of getting a nude from hot milf by 99%.
                                     </p>
 
                                     Craft materials:
