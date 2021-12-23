@@ -23,10 +23,10 @@ export default function Winter() {
                                 1x Reindeer 4%</li>
                             <li class="list-group-item ">1x Scarf 4%</li>
                             <li class="list-group-item  ">1x Christmas Tree 4%</li>
-                            <li class="list-group-item ">Cake 9%</li>
-                            <li class="list-group-item ">Angel's Feather 20%</li>
-                            <li class="list-group-item ">Full of Moon 20%</li>
-                            <li class="list-group-item ">Gold Nugget 22%</li>
+                            <li class="list-group-item ">2x Cake 9%</li>
+                            <li class="list-group-item ">150x Angel's Feather 20%</li>
+                            <li class="list-group-item ">150x Full of Moon 20%</li>
+                            <li class="list-group-item ">3x Gold Nugget 22%</li>
 
                         </ul>
 
@@ -55,7 +55,7 @@ export default function Winter() {
                         <h5 class="winter-color">
                             Okay but what can i get from Act4 World Boss?</h5>
 
-                        - Xmas Coins item with 100% chance.
+                        - Christmas Coins item with 100% chance.
                         <br/>
                         World Boss box :
                         <br/>
@@ -93,7 +93,7 @@ export default function Winter() {
                             <h5 class="winter-color">
 
                                 Will we have some daily quests? Yes,</h5>
-                            - Successfully Complete the raid Snowman 45x times. Reward : Santa's Daily
+                            - Successfully Complete the raid Snowman 15x times. Reward : Santa's Daily
                             Mission Box 1
                             <br/>
                             - Kill monsters inside raid 120 times. Reward : Santa's Daily Mission Box 2
@@ -119,8 +119,8 @@ export default function Winter() {
                             <li class="list-group-item ">Scarf : Christmas Raid</li>
                             <li class="list-group-item  ">Christmas Tree : Christmas Raid</li>
                             <li class="list-group-item ">Snow Ball : Act4 World Boss Box</li>
-                            <li class="list-group-item ">Xmas Coin : Act4 World Boss</li>
-                            <li class="list-group-item ">XMAS letters : Ice Desert Map</li>
+                            <li class="list-group-item ">Christmas Coin : Act4 World Boss</li>
+                            <li class="list-group-item ">XMAS letters : Bitoren Tundra</li>
 
                         </ul>
 
@@ -150,7 +150,7 @@ export default function Winter() {
 
                             <li
                                 class="list-group-item d-flex justify-content-md-center   bg-primary text-white">
-                                <h5>What is inside of Winter Event Gift Coin?</h5>
+                                <h5>What is inside of Winter Event Gift Box?</h5>
                             </li>
                             <li class="list-group-item  ">2x Random amulet box (4x)
                             </li>
@@ -199,9 +199,9 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 3x Scarf
+                                    - 8x Scarf
                                     <br/>
-                                    - 15x Snow Flake
+                                    - 50x Snow Flake
                                     <br/>
                                     - 2x Snow Ball
                                     <br/>
@@ -236,9 +236,9 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 3x Scarf
+                                    - 8x Scarf
                                     <br/>
-                                    - 15x Snow Flake
+                                    - 50x Snow Flake
                                     <br/>
                                     - 2x Snow Ball
                                     <br/>
@@ -271,9 +271,9 @@ export default function Winter() {
                                     </p>
                                     Craft materials:
                                     <br/>
-                                    - 3x Scarf
+                                    - 8x Scarf
                                     <br/>
-                                    - 15x Snow Flake
+                                    - 50x Snow Flake
                                     <br/>
                                     - 2x Snow Ball
                                     <br/>
@@ -306,9 +306,9 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 3x Scarf
+                                    - 8x Scarf
                                     <br/>
-                                    - 15x Snow Flake
+                                    - 50x Snow Flake
                                     <br/>
                                     - 2x Snow Ball
                                     <br/>
@@ -343,15 +343,15 @@ export default function Winter() {
                                     <br/>
                                     - 200x XMAS letters
                                     <br/>
-                                    - 4x Snow Ball
+                                    - 8x Snow Ball
                                     <br/>
                                     - 5x Christmas Coin
                                     <br/>
-                                    - 5x Scarf
+                                    - 10x Scarf
                                     <br/>
-                                    - 3x Christmas Tree
+                                    - 2x Christmas Tree
                                     <br/>
-                                    - 3x Reindeer
+                                    - 5x Reindeer
 
                                     <br/></p>
 
@@ -376,15 +376,15 @@ export default function Winter() {
                                     <br/>
                                     - 200x XMAS letters
                                     <br/>
-                                    - 4x Snow Ball
+                                    - 8x Snow Ball
                                     <br/>
                                     - 5x Christmas Coin
                                     <br/>
-                                    - 5x Scarf
+                                    - 10x Scarf
                                     <br/>
-                                    - 3x Christmas Tree
+                                    - 2x Christmas Tree
                                     <br/>
-                                    - 3x Reindeer
+                                    - 5x Reindeer
 
                                     <br/></p>
 
@@ -488,20 +488,20 @@ export default function Winter() {
                                     <p class="item-effect-shell">
                                         <br/>
 
-                                        - Increased chance of getting a nude hot milf by 99%.
+                                        - Increased chance of getting a nude from hot milf by 99%.
                                     </p>
 
                                     Craft materials:
                                     <br/>
-                                    - 2x Christmas Tree
+                                    - 10x Christmas Tree
                                     <br/>
-                                    - 3x Reindeer
+                                    - 20x Reindeer
                                     <br/>
-                                    - 2x Christmas Coin
+                                    - 8x Christmas Coin
                                     <br/>
-                                    - 400x XMAS Letters
+                                    - 800x XMAS Letters
                                     <br/>
-                                    - 2x Snow Ball
+                                    - 5x Snow Ball
 
                                     <br/></p>
 
