@@ -391,7 +391,7 @@ export default function Winter() {
                                     <br/>
                                </p>
 
-                                </p>
+                               
                                 <p class="card-text float-end ">
                                     <small class="text-muted ">How to get : Gold Box
                                     </small>
@@ -673,7 +673,8 @@ export default function Winter() {
                 </div>
 
             </div>
+            </div>
 
-        </div>
+      
     )
 }
