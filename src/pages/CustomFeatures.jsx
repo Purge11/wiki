@@ -5,6 +5,15 @@ export default function CustomFeatures() {
         <div className='customfeatures'>
             <div class="container">
                 <div class="row  ">
+                <div class="d-flex justify-content-center mt-5">
+
+<h4 class="nosvoid-color ">Discord RPC</h4>
+</div>
+
+<div class="d-flex justify-content-center mt-2 ">
+<img src="asset/feature/feature1.png" alt=""/>
+</div>
+                    
 
                     <div class="d-flex justify-content-center mt-5">
 
