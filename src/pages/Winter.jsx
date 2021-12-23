@@ -248,7 +248,7 @@ export default function Winter() {
                                     <br/>
                                     - 1x Christmas Tree
                                     <br/>
-                                    - 50x XMAS letters
+                                    - 150x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -283,7 +283,7 @@ export default function Winter() {
                                     <br/>
                                     - 1x Christmas Tree
                                     <br/>
-                                    - 50x XMAS letters
+                                    - 150x XMAS letters
                                     <br/></p>
 
                             </div>
