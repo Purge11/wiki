@@ -23,10 +23,10 @@ export default function Winter() {
                                 1x Reindeer 4%</li>
                             <li class="list-group-item ">1x Scarf 4%</li>
                             <li class="list-group-item  ">1x Christmas Tree 4%</li>
-                            <li class="list-group-item ">Cake 9%</li>
-                            <li class="list-group-item ">Angel's Feather 20%</li>
-                            <li class="list-group-item ">Full of Moon 20%</li>
-                            <li class="list-group-item ">Gold Nugget 22%</li>
+                            <li class="list-group-item ">2x Cake 9%</li>
+                            <li class="list-group-item ">150x Angel's Feather 20%</li>
+                            <li class="list-group-item ">150x Full of Moon 20%</li>
+                            <li class="list-group-item ">3x Gold Nugget 22%</li>
 
                         </ul>
 
@@ -93,7 +93,7 @@ export default function Winter() {
                             <h5 class="winter-color">
 
                                 Will we have some daily quests? Yes,</h5>
-                            - Successfully Complete the raid Snowman 45x times. Reward : Santa's Daily
+                            - Successfully Complete the raid Snowman 15x times. Reward : Santa's Daily
                             Mission Box 1
                             <br/>
                             - Kill monsters inside raid 120 times. Reward : Santa's Daily Mission Box 2
@@ -120,7 +120,7 @@ export default function Winter() {
                             <li class="list-group-item  ">Christmas Tree : Christmas Raid</li>
                             <li class="list-group-item ">Snow Ball : Act4 World Boss Box</li>
                             <li class="list-group-item ">Christmas Coin : Act4 World Boss</li>
-                            <li class="list-group-item ">XMAS letters : Ice Desert Map</li>
+                            <li class="list-group-item ">XMAS letters : Bitoren Tundra</li>
 
                         </ul>
 
