@@ -94,11 +94,11 @@ export default function Winter() {
 
                                 Will we have some daily quests? Yes,</h5>
                             - Successfully Complete the raid Snowman 15x times. Reward : Santa's Daily
-                            Mission Box 1
+                            Mission Box 1 (Raid Ring, Cake, Snow Flake, Gold Nugget)
                             <br/>
-                            - Kill monsters inside raid 100 times (in total). Reward : Santa's Daily Mission Box 2
+                            - Kill monsters inside raid 100 times (in total). Reward : Santa's Daily Mission Box 2 (Betting Necklace, Cake, Reindeer, Christmas Tree, Gold Nugget)
                             <br/>
-                            - Bring 30x Bells to Daily Quest NPC. Reward : Santa's Daily Mission Box 3
+                            - Bring 30x Bells to Daily Quest NPC. Reward : Santa's Daily Mission Box 3 (Blue Glowing Ring, Cake, Chocolate Cake, Scarf, Pillow)
                             <br/>
                         </div>
 
