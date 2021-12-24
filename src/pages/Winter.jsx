@@ -26,7 +26,7 @@ export default function Winter() {
                             <li class="list-group-item ">3x Cake 9%</li>
                             <li class="list-group-item ">3x Chocolate Cake 9%</li>
                             <li class="list-group-item ">3x Golden Bell 20%</li>
-                            <li class="list-group-item ">150x Cake 20%</li>
+                            <li class="list-group-item ">3x Cake 20%</li>
                             <li class="list-group-item ">3x Gold Nugget 22%</li>
 
                         </ul>
