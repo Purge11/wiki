@@ -37,7 +37,7 @@ export default function Winter() {
                         <h5 class="winter-color">
                             What is Act4 World Boss?</h5>
 
-                        Act4 World Boss will spawn at 13:00 / 16:00 / 22:00. There won't be PvP during
+                        Act4 World Boss will spawn at 14:00 / 16:20 / 23:10. There won't be PvP during
                         the boss time, but there will be some various monsters that you will have to
                         kill before killing World Boss!
                         <br/>
