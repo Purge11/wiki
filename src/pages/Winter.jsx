@@ -5,7 +5,7 @@ export default function Winter() {
         <div className='winter'>
             <div class="container">
                 <div class="row">
-                    <h1 class="text-danger d-flex justify-content-md-center  mt-5">Buffs or craft materials may be changed til release!!!</h1>
+                    <h1 class="text-danger d-flex justify-content-md-center  mt-5">The Event will last for 30 days!!!</h1>
 
                     <div className='mt-5'>
                         <h5 class="winter-color">
