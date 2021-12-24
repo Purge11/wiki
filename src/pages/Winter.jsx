@@ -581,7 +581,7 @@ export default function Winter() {
                                     - 100x XMAS Letters
                                     <br/></p>
                                 <p class="card-text float-end ">
-                                    <small class="text-muted ">How to get : World Boss Box + Craft NPC</small>
+                                    <small class="text-muted ">How to get : World Boss Box, Craft NPC + Santa's Mysterious Box NPC </small>
                                 </p>
 
                             </div>
