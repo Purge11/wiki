@@ -96,7 +96,7 @@ export default function Winter() {
                             - Successfully Complete the raid Snowman 15x times. Reward : Santa's Daily
                             Mission Box 1
                             <br/>
-                            - Kill monsters inside raid 120 times. Reward : Santa's Daily Mission Box 2
+                            - Kill monsters inside raid 100 times (in total). Reward : Santa's Daily Mission Box 2
                             <br/>
                             - Bring 30x Bells to Daily Quest NPC. Reward : Santa's Daily Mission Box 3
                             <br/>
