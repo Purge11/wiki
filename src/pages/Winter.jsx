@@ -10,7 +10,7 @@ export default function Winter() {
                     <div className='mt-5'>
                         <h5 class="winter-color">
                             How can i get raid seal?</h5>
-                        - You can get craft material of raid seal from the Act4 monsters. (From Tundra)
+                        - You can buy raid seal from the event map.
                         <div className='d-flex justify-content-md-center'>
                         <ul class="list-group mt-5  ">
 
