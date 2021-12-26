@@ -101,6 +101,7 @@ export default function Resistance() {
 
                         </tbody>
                     </table>
+                    <img src="asset/footer.jpg" alt=""/>
 
                 </div>
             </div>

@@ -7,7 +7,7 @@ export default function Act4() {
             <div class="container d-flex justify-content-center">
                 <div class="row series-image-list ">
 
-                    <div class="">
+                    <div class="row">
                         <h1 class=" nosvoid-color d-flex justify-content-center">What can I do in Act4?</h1>
                         <br/>
                   
@@ -38,19 +38,25 @@ export default function Act4() {
 
                         <br/>
                         <img src="asset/act4/a41.png" alt=""/>
+                        <br/>
                         <img src="asset/act4/a42.png" alt=""/>
                         <br/>
                         <img src="asset/act4/a44.png" alt=""/>
+                        <br/>
                         <img src="asset/act4/a45.png" alt=""/>
                         <br/>
                         <img src="asset/act4/a46.png" alt=""/>
+                        <br/>
                         <img src="asset/act4/a47.png" alt=""/>
                         <br/>
                         <img src="asset/act4/a48.png" alt=""/>
+                        <br/>
                         <img src="asset/act4/a49.png" alt=""/>
                         <br/>
                         <img src="asset/act4/a43.png" alt=""/>
+                        <br/>
                         <img src="asset/act4/a4_1.png" alt=""/>
+                        <br/>
                         
                         
                         

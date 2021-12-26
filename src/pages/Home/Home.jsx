@@ -10,7 +10,7 @@ export default function Home() {
           showCursor: true,
           backDelay: 1500,
           backSpeed:60,
-          strings: ["Merry Christmas "],
+          strings: ["Merry Christmas"],
         });
       }, []);
     return (
@@ -19,12 +19,14 @@ export default function Home() {
             <div className='row mt-5'>
                 <div className='col-sm-6 banner-info'>
                 <div className="wrapper">
+                <img src="asset/main.jpg" alt=""/>
           <h2 class="">NosVoid Team</h2>
           
           <h3>
           
-          wishes you <span ref={textRef}></span>
+          wishes you 
           </h3>
+          <h3><span ref={textRef}></span></h3>
         </div>
                    
         <a class="btn btn-first" href='winter'>Christmas Event ⛄️</a>
@@ -35,13 +37,16 @@ export default function Home() {
                     <img src="asset/christmas.png" class="img-responsive" alt=""/>
                     
                 </div>
+                
             </div>
            
            
             </div>
+            
             
             
         </div>
+        
         
     )
 }

@@ -13,8 +13,7 @@ export default function Books() {
                                 <th scope="col">Bonus</th>
                                 <th scope="col">Design</th>
                                 <th scope="col">Prestige</th>
-                                <th scope="col">Champion Lvl
-                                </th>
+                              
                             </tr>
                         </thead>
                         <tbody>
@@ -24,7 +23,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book1.png" alt=""/></td>
                                 <td>P1</td>
-                                <td>10</td>
+                               
                             </tr>
                             <tr>
                                 <th scope="row">[Beginer] PvP Defence Boost</th>
@@ -32,7 +31,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book2.png" alt=""/></td>
                                 <td>P1</td>
-                                <td>15</td>
+                             
                             </tr>
                             <tr>
                                 <th scope="row">Journal of Forgotten Hero S (1)</th>
@@ -40,7 +39,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P1</td>
-                                <td>38</td>
+                               
                             </tr>
                             <tr>
                                 <th scope="row">Fairy Affinity</th>
@@ -48,7 +47,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P1</td>
-                                <td>28</td>
+                               
                             </tr>
                             <tr>
                                 <th scope="row">Aurelius Roshu's History (1)</th>
@@ -56,7 +55,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P1</td>
-                                <td>18</td>
+                                
                             </tr>
                             <tr>
                                 <th scope="row">Journal of the Akamur Merchant (1)</th>
@@ -64,7 +63,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P1</td>
-                                <td>18</td>
+                                
                             </tr>
                             <tr>
                                 <th scope="row">[Intermediate] PvP Damage Boost</th>
@@ -72,7 +71,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book1.png" alt=""/></td>
                                 <td>P4</td>
-                                <td>20</td>
+                               
                             </tr>
                             <tr>
                                 <th scope="row">[Intermediate] PvP Defence Boost</th>
@@ -80,7 +79,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book2.png" alt=""/></td>
                                 <td>P4</td>
-                                <td>25</td>
+                                
                             </tr>
                             <tr>
                                 <th scope="row">Journal of Forgotten Hero M (1)</th>
@@ -88,7 +87,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P4</td>
-                                <td>38</td>
+                             
                             </tr>
                             <tr>
                                 <th scope="row">Journal of Forgotten Hero J (1)</th>
@@ -96,7 +95,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P4</td>
-                                <td>38</td>
+                               
                             </tr>
                              <tr>
                                 <th scope="row">Journal of Forgotten Hero S (2)</th>
@@ -104,7 +103,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P6</td>
-                                <td>48</td>
+                              
                             </tr>
                             <tr>
                                 <th scope="row">Journal of the Unkown Hero (1)</th>
@@ -112,7 +111,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P4</td>
-                                <td>38</td>
+                              
                             </tr>
                             <tr>
                                 <th scope="row">Attack Strategy of Lord Cuarry's Knights (1)</th>
@@ -120,7 +119,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P4</td>
-                                <td>28</td>
+                              
                             </tr>
                             <tr>
                                 <th scope="row">Defensive Strategy of Lord Cuarry's Knights (1)</th>
@@ -128,7 +127,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P4</td>
-                                <td>28</td>
+                              
                             </tr>
                             
                             <tr>
@@ -137,7 +136,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book1.png" alt=""/></td>
                                 <td>P6</td>
-                                <td>30</td>
+                               
                             </tr>
                             <tr>
                                 <th scope="row">[Advanced] PvP Defence Boost</th>
@@ -145,7 +144,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book2.png" alt=""/></td>
                                 <td>P6</td>
-                                <td>30</td>
+                                
                             </tr>
                             <tr>
                                 <th scope="row">Journal of Forgotten Hero M (2)</th>
@@ -153,7 +152,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P6</td>
-                                <td>48</td>
+                             
                             </tr>
                             <tr>
                                 <th scope="row">Journal of Forgotten Hero J (2)</th>
@@ -161,7 +160,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P6</td>
-                                <td>48</td>
+                               
                             </tr>
                             <tr>
                                 <th scope="row">Journal of Forgotten Hero D (2)</th>
@@ -169,7 +168,7 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P6</td>
-                                <td>48</td>
+                           
                             </tr>
                             <tr>
                                 <th scope="row">Journal of Forgotten Hero S (2)</th>
@@ -177,12 +176,12 @@ export default function Books() {
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt=""/></td>
                                 <td>P6</td>
-                                <td>48</td>
+                                
                             </tr>
 
                         </tbody>
                     </table>
-
+                    <img src="asset/footer.jpg" alt=""/>
                 </div>
             </div>
             <div className="footer">

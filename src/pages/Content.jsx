@@ -69,6 +69,7 @@ export default function Content() {
                         </tbody>
                         
                     </table>
+                    <img src="asset/footer.jpg" alt=""/>
                    
                     <div className="footer">
                         <div className="text-center p-3">

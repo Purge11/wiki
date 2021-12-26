@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function TeamMembers() {
     return (
-        <div className='teammembers '>
-            <div class="container ">
-                <div class="row  ">
+        <div className='teammembers  '>
+            <div class="container  ">
+                <div class="row   ">
 
                     <h1 className='d-flex justify-content-center mt-5 mb-5'>NosVoid Team Members</h1>
                     <table class="table  text-white">
@@ -134,6 +134,7 @@ export default function TeamMembers() {
                             </tr>
                         </tbody>
                     </table>
+                    <img src="asset/footer.jpg" alt=""/>
                     <div className="footer">
                         <div className="text-center p-3">
                           
