@@ -20,7 +20,7 @@ export default function CustomFeatures() {
                         <h4 class="nosvoid-color ">FPS unlock</h4>
                     </div>
                     <div class="d-flex justify-content-center">
-                    <p class="nosvoid-color">The FPS Unlock feature allows you to ''unlock'' the Nostale frame rate, increasing it to above the default of 60 FPS which may reduce the input lag and allow players to make the most out of monitors with a 60hz+ refresh rate which will make NosTale so much more enjoyable for players!</p>
+                    <p class="nosvoid-color ">The FPS Unlock feature allows you to ''unlock'' the Nostale frame rate, increasing it to above the default of 60 FPS which may reduce the input lag and allow players to make the most out of monitors with a 60hz+ refresh rate which will make NosTale so much more enjoyable for players!</p>
                     </div>
                
 
