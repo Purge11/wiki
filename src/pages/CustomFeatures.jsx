@@ -41,7 +41,7 @@ Are your friends asking how many seconds are missing for your buff? Now you know
                     <div class="d-flex justify-content-center mt-2">
                         <img src="asset/feature/feature1.gif" alt=""/>
                     </div>
-                    <div class="d-flex justify-content-center mt-5 pt-5">
+                    <div class="d-flex justify-content-center mt-5 pt-5 ">
 
                         <h4 class="nosvoid-color ">Searchbar Inventory</h4>
                     </div>
