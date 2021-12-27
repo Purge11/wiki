@@ -2,10 +2,11 @@
 .home-start {
    
     display: flex;
-    position: relative;
+  
     width: 100%;
     img{
         margin-top: 3%;
+        
     }
     
   
@@ -174,9 +175,7 @@
         font-family: 'Fuzzy Bubbles', cursive !important;
     }
 
-    .footer {
-        margin-top: 60px;
-    }
+    
 
     a {
         text-decoration: none;
@@ -187,7 +186,8 @@
 
     .home-start {
         img{
-            margin-top: 20%;
+            margin-top: 25%;
+            
         }
        
     }
