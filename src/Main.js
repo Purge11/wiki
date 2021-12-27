@@ -16,7 +16,7 @@ const Main = ({
 }) => {
   const intl = useIntl();
   return (
-    <main>
+    <main className='main'>
       <div className="btn-toggle" onClick={() => handleToggleSidebar(true)}>
         <FaBars />
       </div>
@@ -30,7 +30,7 @@ const Main = ({
           onChange={handleCollapsedChange}
           checked={collapsed}
           onColor="#219de9"
-          offColor="#bbbbbb"
+          offColor="#8947b1"
         />
         <span> {intl.formatMessage({ id: 'collapsed' })}</span>
       </div>
@@ -44,21 +44,22 @@ const Main = ({
           onChange={handleImageChange}
           checked={image}
           onColor="#219de9"
-          offColor="#bbbbbb"
+          offColor="#8947b1"
         />
         <span> {intl.formatMessage({ id: 'image' })}</span>
       </div>
       <div className="block">
-        <Switch
+      <Switch
           height={16}
           width={30}
           checkedIcon={false}
           uncheckedIcon={false}
-         
+          onChange={handleRtlChange}
+          checked={rtl}
           onColor="#219de9"
-          offColor="#bbbbbb"
+          offColor="#8947b1"
         />
-        <span> {intl.formatMessage({ id: 'DarkMode' })}</span>
+        <span> {intl.formatMessage({ id: 'Dark Mode' })}</span>
       </div>
 
       <footer>

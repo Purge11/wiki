@@ -16,13 +16,14 @@ import {
 import { FaTachometerAlt, FaGem, FaList, FaRegLaughWink, FaHeart } from 'react-icons/fa';
 import sidebarBg from './assets/bg2.jpg';
 
-const Aside = ({ image, collapsed, rtl, toggled, handleToggleSidebar, darkmode }) => {
+const Aside = ({ image, collapsed, toggled, handleToggleSidebar, darkmode, isActive }) => {
   const intl = useIntl();
   return (
     
     <ProSidebar
       image={image ? sidebarBg : false}
-      rtl={rtl}
+     
+      isActive={isActive}
       collapsed={collapsed}
       toggled={toggled}
       breakPoint="md"

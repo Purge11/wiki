@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Winter() {
     return (
-        <div className='winter'>
+        <div className='winter '>
             <div class="container">
                 <div class="row">
                     <h1 class="text-danger d-flex justify-content-md-center  mt-5">The Event will last for 30 days!!!</h1>

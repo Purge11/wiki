@@ -1,5 +1,86 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
+.active{
+
+  .pro-sidebar {
+    color: #fff;
+    height: 100%;
+    text-align: left;
+
+    position: relative;
+    z-index: 1009;
+    > .pro-sidebar-inner {
+      background: #000;
+      background-image: url("https://ak.picdn.net/shutterstock/videos/1062736588/thumb/12.jpg?ip=x480");
+      height: 100%;
+      position: relative;
+      z-index: 101;
+  
+    }
+  }
+ 
+  .accesory,
+  .act4,
+  .badgee,
+  .books,
+  .box,
+  .c50,
+  .c55,
+  .customfeatures,
+  .equipment,
+  .faires,
+  .fish,
+  .home,
+  .maps,
+  .perfection,
+  .prestige,
+  .resistance,
+  .rune,
+  .server,
+  .shell,
+  .sp,
+  .tatto,
+  .wings,
+  .teammembers,
+  .schedule,
+  .content,
+  .winter,
+  .home-start,
+  .main,
+  .content
+  {
+   
+    
+    background-image: url("https://ak.picdn.net/shutterstock/videos/1009676855/thumb/1.jpg?ip=x480");
+    
+    color: #fff !important;
+  }
+table{
+  color: #fff;
+}
+a.btn-first {
+  background-color: #ffff;
+  color: #000;
+}
+
+a.btn-second {
+  background-color: transparent;
+  border: 1px solid #ffff;
+  color: #000;
+}
+
+a.btn:hover {
+  background-color: #fff;
+  border: none;
+  color: #000;
+  box-shadow: 5px 5px 10px #999;
+  transition: 0.3s;
+}
+  
+}
+
+
+
 $sidebar-bg-color: #8947b1;
 $submenu-bg-color: rgba(255, 255, 255, 0.05);
 $submenu-bg-color-collapsed: #8947b1;
@@ -8,11 +89,12 @@ $highlight-color: #dee2ec;
 $icon-bg-color: #8947b1(255, 255, 255, 0.05);
 $icon-size: 35px;
 
+
 @import '~react-pro-sidebar/dist/scss/styles.scss';
 body {
   margin: 0;
   height: 100vh;
-  color: #353535;
+  width: 100%;
   font-family: 'Roboto', sans-serif;
   
 }
@@ -25,6 +107,7 @@ body {
   height: 100%;
   display: flex;
   position: relative;
+  width: 100%;
 
   .btn-toggle {
     cursor: pointer;
@@ -78,12 +161,7 @@ body {
     }
   }
 
-  main {
  
-    margin-top: 20px; 
-    opacity: 0.5;
-
-  }
   @media (max-width: 600px) {
     main{
       position:  fixed !important;
@@ -121,7 +199,9 @@ body {
     flex-grow: 1;
     display: flex;
     flex-direction: column;
-    overflow-y: auto;
+    overflow-y: auto; 
+    
+    
     
     header {
       margin-bottom: 40px;
@@ -250,4 +330,3 @@ body {
   }
 }
   }
- 

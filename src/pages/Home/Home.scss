@@ -1,6 +1,9 @@
 .home-start {
     background-color: white;
     display: flex;
+  
+    position: relative;
+    width: 100%;
 
     .imgContainer {
 
@@ -126,18 +129,18 @@
     }
 
     a.btn-first {
-        background-color: #254197;
+        background-color: #000;
         color: #fff;
     }
 
     a.btn-second {
         background-color: transparent;
-        border: 1px solid #254197;
-        color: #333;
+        border: 1px solid #0000;
+        color: #fff;
     }
 
     a.btn:hover {
-        background-color: #254197;
+        background-color: #000;
         border: none;
         color: #fff;
         box-shadow: 5px 5px 10px #999;

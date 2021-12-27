@@ -56,13 +56,12 @@ function Layout({ setLocale }) {
   return (
    
 
-    <div className={`app ${rtl ? 'rtl' : ''} ${toggled ? 'toggled' : ''}`}>
-      
+    <div className={`app ${rtl ? 'active' : ''} ${toggled ? 'toggled' : ''}`}>
+     
       <Aside
         image={image}
         collapsed={collapsed}
-        rtl={rtl}
-        
+        rtl={rtl}      
         toggled={toggled}
         handleToggleSidebar={handleToggleSidebar}
       />
@@ -77,6 +76,7 @@ function Layout({ setLocale }) {
         handleRtlChange={handleRtlChange}
         handleImageChange={handleImageChange}
       />
+      
       <Router>
        
        <Switch>
@@ -110,6 +110,7 @@ function Layout({ setLocale }) {
        </Switch>   
      </Router>
     </div>
+    
   );
 }
 
