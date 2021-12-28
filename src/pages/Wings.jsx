@@ -9,12 +9,7 @@ export default function Wings() {
                     <h1>Soon</h1>
                 </div>
             </div>
-            <div className="footer">
-                <div className="p-3">
-                  
-                   
-                </div>
-            </div>
+            
         </div>
     )
 }

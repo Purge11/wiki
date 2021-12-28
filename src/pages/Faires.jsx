@@ -57,7 +57,7 @@ export default function Faires() {
 
                         </tbody>
                     </table>
-                    <img src="asset/footer.jpg" alt=""/>
+                
 
                 </div>
             </div>

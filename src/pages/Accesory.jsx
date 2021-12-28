@@ -120,16 +120,11 @@ export default function Accesory() {
 
                         </tbody>
                     </table>
-                    <img src="asset/footer.jpg" alt=""/>
+                  
 
                 </div>
             </div>
-            <div className="footer">
-                <div className="p-3">
-                  
-                   
-                </div>
-            </div>
+            
         </div>
     )
 }

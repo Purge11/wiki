@@ -58,9 +58,7 @@ Just write it in the bar and it will show you your item!</p>
                 </div>
             </div>
 
-            <div className="footer">
-                <div className="p-3"></div>
-            </div>
+           
         </div>
     )
 }

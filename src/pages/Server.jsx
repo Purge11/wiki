@@ -138,12 +138,7 @@ function Server() {
 
                 </div>
             </div>
-            <div className="footer">
-                <div className="p-3">
-                  
-                   
-                </div>
-            </div>
+            
         </div>
 
     );

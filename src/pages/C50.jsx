@@ -46,12 +46,7 @@ export default function C50() {
                     <img src="asset/c50/c50.png" alt=""/>
                 </div>
             </div>
-            <div className="footer">
-                <div className="p-3">
-                  
-                   
-                </div>
-            </div>
+            
         </div>
     )
 }

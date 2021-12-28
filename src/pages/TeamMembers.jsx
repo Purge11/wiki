@@ -127,13 +127,8 @@ export default function TeamMembers() {
                             </tr>
                         </tbody>
                     </table>
-                    <img src="asset/footer.jpg" alt=""/>
-                    <div className="footer">
-                        <div className="text-center p-3">
-                          
-                           
-                        </div>
-                    </div>
+                    
+                   
 
                 </div>
             </div>
