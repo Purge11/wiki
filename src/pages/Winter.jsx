@@ -192,13 +192,25 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Melee attack increased by 5%
+                                        - Melee attacks are increased by 8%
                                         <br/>
-                                        - Defence increased by 110
+                                        - Defence increased by 150
                                         <br/>
-                                        - Movement speed increased by 1
+                                        - There is 1% chance of causing Severe Electric Shock
                                         <br/>
                                     </p>
+                                    <p class="winter-color">Severe Electric Shock</p>
+                                    <p class="text-danger">
+                                        Negative Effect (Level 5)
+                                        <br/>
+                                        - Movement impossible
+                                        <br/>
+                                        - No attack possible
+                                        <br/>
+                                        - Every 2 seconds:HP is reduced by 396(Player Level*4)
+                                        <br/>
+                                        
+                                        </p>
 
                                     Craft materials:
                                     <br/>
@@ -229,13 +241,24 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Ranged attack increased by 5%
+                                        - Ranged attacks are increased by 8%
                                         <br/>
-                                        - Critical damage is increased by 5%
+                                        - Critical damage is increased by 15%
                                         <br/>
-                                        - Movement speed increased by 1
+                                        - There is 1% chance of causing Paralysing Toxin
                                         <br/>
                                     </p>
+                                    <p class="winter-color">Paralysing Toxin</p>
+                                    <p class="text-danger">
+                                        Negative Effect (Level 1)
+                                        <br/>
+                                        - Mele atack is reduced by 99(Player level*1)
+                                        <br/>
+                                        - Ranged atack is reduced by 99(Player level*1)
+                                        <br/>
+                                       
+                                        
+                                        </p>
 
                                     Craft materials:
                                     <br/>
@@ -265,13 +288,24 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Magic attack increased by 5%
+                                        - Magic attacks are increased by 8%
                                         <br/>
-                                        - Mana for using skills is decreased by 14%
+                                        - There is  a 1% chance of causing Explosive Shock
                                         <br/>
                                         - Movement speed increased by 1
                                         <br/>
                                     </p>
+                                    <p class="winter-color">Explosive Shock</p>
+                                    <p class="text-danger">
+                                        Negative Effect (Level 3)
+                                        <br/>
+                                        - No defence possible
+                                        <br/>
+                                        - Movement speed is decreased by 5
+                                        <br/>
+                                       
+                                        
+                                        </p>
                                     Craft materials:
                                     <br/>
                                     - 80x Scarf
@@ -335,11 +369,11 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Attack increased by 3%
+                                        - Attack increased by 6%
                                         <br/>
-                                        - Defence increased by 2%
+                                        - Defence increased by 3%
                                         <br/>
-                                        - Water resistance is increased by 15
+                                        - Increased fame recived by 10%
                                         <br/></p>
 
                                     Craft materials:
@@ -369,10 +403,11 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Hitting critical chance is increased by 5%
+                                        - Chance of inflicting critical hits is increased by 5%
                                         <br/>
-                                        - Shadow element is increased by 50
+                                        - Hit rate of all attacks is increased by 200
                                         <br/>
+                                        - All attacks are increased by 5%
                                     </p>
 
                                     Craft materials:
