@@ -504,15 +504,15 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 10x Christmas Tree
+                                    - 50x Christmas Tree
                                     <br/>
-                                    - 20x Reindeer
+                                    - 65x Reindeer
                                     <br/>
-                                    - 8x Christmas Coin
+                                    - 30x Christmas Coin
                                     <br/>
-                                    - 800x XMAS Letters
+                                    - 2000x XMAS Letters
                                     <br/>
-                                    - 5x Snow Ball
+                                    - 35x Snow Ball
 
                                     <br/></p>
 
@@ -534,15 +534,15 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 2x Christmas Tree
+                                    - 30x Christmas Tree
                                     <br/>
-                                    - 3x Reindeer
+                                    - 15x Reindeer
                                     <br/>
-                                    - 2x Christmas Coin
+                                    - 10x Christmas Coin
                                     <br/>
-                                    - 400x XMAS Letters
+                                    - 900x XMAS Letters
                                     <br/>
-                                    - 2x Snow Ball
+                                    - 20x Snow Ball
 
                                     <br/></p>
 
