@@ -610,17 +610,17 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 150x Pillow
+                                    - 500x Pillow
                                     <br/>
-                                    - 5x Snow Ball
+                                    - 10x Snow Ball
                                     <br/>
-                                    - 7x Christmas Coin
+                                    - 5x Christmas Coin
                                     <br/>
-                                    - 650x XMAS letters
+                                    - 1500x XMAS letters
                                     <br/>
-                                    - 4x Reindeer
+                                    - 25x Reindeer
                                     <br/>
-                                    - 4x Christmas Tree
+                                    - 15x Christmas Tree
                                     <br/>
                                 </p>
 
