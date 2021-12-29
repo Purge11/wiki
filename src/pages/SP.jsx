@@ -81,9 +81,10 @@ export default function SP() {
                     <br/>
                     <br/>
                     <div class=""></div>
-                    <img class=""src="asset/sp/sp1.png" alt=""/>
+                    <img class="" src="asset/sp/sp2.png" alt=""/>
+                    <img class="mt-3"src="asset/sp/sp1.png" alt=""/>
 
-                    <img class="mt-3" src="asset/sp/sp2.png" alt=""/>
+                   
 
                 </div>
             </div>

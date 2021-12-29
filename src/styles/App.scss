@@ -185,6 +185,24 @@ body {
   
   position: absolute !important;
  }
+ .fish{
+   img{
+     width: 30% !important;
+     margin-top: 20px;
+     margin-bottom: 20px;
+   }
+ }
+ .sp{
+   img{
+     width: auto !important;
+   }
+ }
+ .badgee{
+  img{
+    width: auto !important;
+  }
+}
+
   .accesory,
   .act4,
   .badgee,
@@ -217,11 +235,19 @@ body {
     flex-direction: column;
     overflow-y: auto; 
     img{
-      width: 60%;
+      width: auto;
+      text-align: center !important;
+      align-items: center !important;
+      display: flex !important;
+      justify-content: center !important;
+      margin-left: auto;
+      margin-right: auto;
     }
     .card{
       img{
         width: auto !important;
+        margin-left: 0;
+        margin-right: 0;
       }
     }
     
