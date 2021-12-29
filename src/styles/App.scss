@@ -157,6 +157,12 @@ body {
       }
     }
   }
+  .toggled{
+    .btn-toggle{
+      opacity: 0;
+      
+    }
+  }
 
   .collapsed {
     .sidebar-btn {

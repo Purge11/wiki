@@ -94,9 +94,11 @@ const Aside = ({setLocale}) => {
       onToggle={handleToggleSidebar}
      
     >
+      <main className='main'>
          <div className="btn-toggle" onClick={() => handleToggleSidebar(true)}>
         <FaBars />
       </div>
+      </main>
       
       <SidebarHeader>
         <div
