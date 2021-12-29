@@ -30,6 +30,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Content from './pages/Content';
 import Winter from './pages/Winter';
 import Titles from './pages/Titles';
+import Pets from './pages/Pets';
+import Raids from './pages/Raids';
+import Psp from './pages/Psp';
 
 function Layout({ setLocale }) {
   const [rtl, setRtl] = useState(false);
@@ -107,6 +110,9 @@ function Layout({ setLocale }) {
           <Route path='/titles' component={Titles} />
           <Route path='/wings' component={Wings} />
           <Route path='/winter' component={Winter} />
+          <Route path='/pets' component={Pets} />
+          <Route path='/psp' component={Psp} />
+          <Route path='/raids' component={Raids} />
        </Switch>   
      </Router>
     </div>

@@ -1,7 +1,7 @@
 import React from 'react';
 import { useIntl } from 'react-intl';
 import {  FaBars } from 'react-icons/fa';
-import {  FaDiscord } from 'react-icons/fa';
+import {  FaDiscord, FaHammer, FaCat } from 'react-icons/fa';
 
 
 import {
@@ -59,7 +59,7 @@ const Aside = ({ image, collapsed, toggled, handleToggleSidebar, darkmode, isAct
           
             icon={<FaTachometerAlt />}
             
-            suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}
+            
           >
              <a href='./'>
             
@@ -73,24 +73,44 @@ const Aside = ({ image, collapsed, toggled, handleToggleSidebar, darkmode, isAct
         </Menu>
         <Menu iconShape="circle">
           <SubMenu
-            suffix={<span className="badge yellow">3</span>}
+            suffix={<span className="badge yellow">2</span>}
             title={intl.formatMessage({ id: 'Important' })}
             icon={<FaRegLaughWink />}
           >
             <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
-            <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
             <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
           </SubMenu>
           <SubMenu
-            prefix={<span className="badge gray">3</span>}
+            suffix={<span className="badge yellow">2</span>}
             title={intl.formatMessage({ id: 'Recommended' })}
             icon={<FaHeart />}
           >
-            <MenuItem><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
-            <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
-            <MenuItem><a href='winter'>{intl.formatMessage({ id: 'Christmas 🎅' })} </a></MenuItem>
+            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
+            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}
+          ><a href='winter'>{intl.formatMessage({ id: 'Christmas 🎅' })} </a>
+            </MenuItem>
+           
+          
+           
           </SubMenu>
-          <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}>
+          <SubMenu
+            suffix={<span className="badge yellow">2</span>}
+            title={intl.formatMessage({ id: 'Crew' })}
+            icon={<FaCat />}
+          >
+            <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
+            <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
+           
+          </SubMenu>
+          <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
+             suffix={<span className="badge yellow">24</span>}>
+          <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
+          <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
+            <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
+            <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
+          <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
+            <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
+            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='winter'>{intl.formatMessage({ id: 'Christmas 🎅' })} </a></MenuItem>
             <MenuItem><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a> </MenuItem>
             <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
             <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
@@ -100,8 +120,6 @@ const Aside = ({ image, collapsed, toggled, handleToggleSidebar, darkmode, isAct
             <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
             <MenuItem><a href='shell'>{intl.formatMessage({ id: 'Shell' })} </a> </MenuItem>
             <MenuItem><a href='sp'>{intl.formatMessage({ id: 'SP' })}  </a></MenuItem>
-            <MenuItem><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a> </MenuItem>
-            <MenuItem><a href='wings'>{intl.formatMessage({ id: 'Wings' })} </a> </MenuItem>
             <SubMenu title={`${intl.formatMessage({ id: 'Tattos/Runes' })} `}>
               <MenuItem><a href='rune'>{intl.formatMessage({ id: 'Rune' })}</a> </MenuItem>
               <MenuItem><a href='tatto'>{intl.formatMessage({ id: 'Tattos' })}</a> </MenuItem>
@@ -115,9 +133,19 @@ const Aside = ({ image, collapsed, toggled, handleToggleSidebar, darkmode, isAct
                 <MenuItem><a href='faires'>{intl.formatMessage({ id: 'Faires' })}</a> </MenuItem>
                 <MenuItem><a href='Equipment'>{intl.formatMessage({ id: 'Equipment' })}</a> </MenuItem>
                 
+                
             </SubMenu>
           </SubMenu>
           </SubMenu>
+          <SubMenu title={intl.formatMessage({ id: 'In work...' })} icon={<FaHammer />}
+               suffix={<span className="badge yellow">5</span>}
+              >
+                <MenuItem><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a> </MenuItem>
+              <MenuItem><a href='wings'>{intl.formatMessage({ id: 'Wings' })} </a> </MenuItem>
+              <MenuItem><a href='psp'>{intl.formatMessage({ id: 'Partner cards' })} </a> </MenuItem>
+              <MenuItem><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a> </MenuItem>
+              <MenuItem><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a> </MenuItem>
+              </SubMenu>
         </Menu>
       </SidebarContent>
 
