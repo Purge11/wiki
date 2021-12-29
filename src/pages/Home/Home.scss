@@ -1,13 +1,12 @@
 
 .home-start {
    
-    display: flex;
+  
   
     width: 100%;
-    img{
-        margin-top: 3%;
-        
-    }
+    display: flex;
+    align-items: center;
+    
     
   
 
@@ -18,8 +17,7 @@
         display: flex;
         align-items: flex-end;
         justify-content: center;
-        float: right;
-        
+       
        
 
 
@@ -134,7 +132,14 @@
         padding: 20px;
         border-radius: 20px;
     }
-
+    @media (max-width: 700px) {
+        a.btn {
+            margin: 30px 10px;
+            width: auto;
+            padding: 20px;
+            border-radius: 20px;    
+        }
+    }
     a.btn-first {
         background-color: #000;
         color: #fff;
@@ -181,14 +186,4 @@
         text-decoration: none;
     }
 
-}
-@media (max-width: 768px) {
-
-    .home-start {
-        img{
-            margin-top: 25%;
-            
-        }
-       
-    }
 }

@@ -46,7 +46,6 @@
   .content,
   .winter,
   .home-start,
-  .main,
   .content
   {
    
@@ -167,14 +166,19 @@ body {
     }
   }
 
- 
-  @media (max-width: 600px) {
-    main{
-      position:  fixed !important;
-      opacity: 0.3;
-    }
-      }
-
+ main{
+  
+   
+   span{
+    color: #fff !important;
+    
+   }
+ }
+  
+ .btn-toggle{
+  
+  position: absolute !important;
+ }
   .accesory,
   .act4,
   .badgee,

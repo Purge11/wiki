@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { IntlProvider } from 'react-intl';
-import Layout from './Layout';
+import Aside from './Aside';
 import messages from './messages';
 import './styles/App.scss'; 
 import './TableColor.scss';
@@ -10,7 +10,8 @@ function App() {
 
   return (
     <IntlProvider locale={locale} messages={messages[locale]}>
-      <Layout setLocale={setLocale} />
+      <Aside setLocale={setLocale} />
+      
     </IntlProvider>
   );
 }
