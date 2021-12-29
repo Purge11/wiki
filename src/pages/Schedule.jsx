@@ -74,6 +74,15 @@ export default function Schedule() {
                         <li class="list-group-item d-flex justify-content-center">01:45</li>
 
                     </ul>
+                    <ul class="list-group mt-5">
+                        <li class="list-group-item d-flex justify-content-center bg-primary  text-white">[Act4 World Boss Schedule]</li>
+                        <li class="list-group-item d-flex justify-content-center">14:00</li>
+                        <li class="list-group-item d-flex justify-content-center">16:20
+                        </li>
+                        <li class="list-group-item d-flex justify-content-center">23:10</li>
+                       
+
+                    </ul>
 
                 </div>
             </div>
