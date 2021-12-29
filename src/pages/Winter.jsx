@@ -192,29 +192,41 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Melee attack increased by 5%
+                                        - Melee attacks are increased by 8%
                                         <br/>
-                                        - Defence increased by 110
+                                        - Defence increased by 150
                                         <br/>
-                                        - Movement speed increased by 1
+                                        - There is 1% chance of causing Severe Electric Shock
                                         <br/>
                                     </p>
+                                    <p class="winter-color">Severe Electric Shock</p>
+                                    <p class="text-danger">
+                                        Negative Effect (Level 5)
+                                        <br/>
+                                        - Movement impossible
+                                        <br/>
+                                        - No attack possible
+                                        <br/>
+                                        - Every 2 seconds:HP is reduced by 396(Player Level*4)
+                                        <br/>
+                                        
+                                        </p>
 
                                     Craft materials:
                                     <br/>
-                                    - 8x Scarf
+                                    - 80x Scarf
                                     <br/>
-                                    - 50x Snow Flake
+                                    - 500x Snow Flake
                                     <br/>
-                                    - 2x Snow Ball
+                                    - 20x Snow Ball
                                     <br/>
-                                    - 2x Christmas Coin
+                                    - 15x Christmas Coin
                                     <br/>
-                                    - 1x Reindeer
+                                    - 20x Reindeer
                                     <br/>
-                                    - 1x Christmas Tree
+                                    - 20x Christmas Tree
                                     <br/>
-                                    - 150x XMAS letters
+                                    - 1000x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -229,29 +241,40 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Ranged attack increased by 5%
+                                        - Ranged attacks are increased by 8%
                                         <br/>
-                                        - Critical damage is increased by 5%
+                                        - Critical damage is increased by 15%
                                         <br/>
-                                        - Movement speed increased by 1
+                                        - There is 1% chance of causing Paralysing Toxin
                                         <br/>
                                     </p>
+                                    <p class="winter-color">Paralysing Toxin</p>
+                                    <p class="text-danger">
+                                        Negative Effect (Level 1)
+                                        <br/>
+                                        - Mele atack is reduced by 99(Player level*1)
+                                        <br/>
+                                        - Ranged atack is reduced by 99(Player level*1)
+                                        <br/>
+                                       
+                                        
+                                        </p>
 
                                     Craft materials:
                                     <br/>
-                                    - 8x Scarf
+                                    - 80x Scarf
                                     <br/>
-                                    - 50x Snow Flake
+                                    - 500x Snow Flake
                                     <br/>
-                                    - 2x Snow Ball
+                                    - 20x Snow Ball
                                     <br/>
-                                    - 2x Christmas Coin
+                                    - 15x Christmas Coin
                                     <br/>
-                                    - 1x Reindeer
+                                    - 20x Reindeer
                                     <br/>
-                                    - 1x Christmas Tree
+                                    - 20x Christmas Tree
                                     <br/>
-                                    - 150x XMAS letters
+                                    - 1000x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -265,28 +288,39 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Magic attack increased by 5%
+                                        - Magic attacks are increased by 8%
                                         <br/>
-                                        - Mana for using skills is decreased by 14%
+                                        - There is  a 1% chance of causing Explosive Shock
                                         <br/>
                                         - Movement speed increased by 1
                                         <br/>
                                     </p>
+                                    <p class="winter-color">Explosive Shock</p>
+                                    <p class="text-danger">
+                                        Negative Effect (Level 3)
+                                        <br/>
+                                        - No defence possible
+                                        <br/>
+                                        - Movement speed is decreased by 5
+                                        <br/>
+                                       
+                                        
+                                        </p>
                                     Craft materials:
                                     <br/>
-                                    - 8x Scarf
+                                    - 80x Scarf
                                     <br/>
-                                    - 50x Snow Flake
+                                    - 500x Snow Flake
                                     <br/>
-                                    - 2x Snow Ball
+                                    - 20x Snow Ball
                                     <br/>
-                                    - 2x Christmas Coin
+                                    - 15x Christmas Coin
                                     <br/>
-                                    - 1x Reindeer
+                                    - 20x Reindeer
                                     <br/>
-                                    - 1x Christmas Tree
+                                    - 20x Christmas Tree
                                     <br/>
-                                    - 150x XMAS letters
+                                    - 1000x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -309,19 +343,19 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 8x Scarf
+                                    - 80x Scarf
                                     <br/>
-                                    - 50x Snow Flake
+                                    - 500x Snow Flake
                                     <br/>
-                                    - 2x Snow Ball
+                                    - 20x Snow Ball
                                     <br/>
-                                    - 2x Christmas Coin
+                                    - 15x Christmas Coin
                                     <br/>
-                                    - 1x Reindeer
+                                    - 20x Reindeer
                                     <br/>
-                                    - 1x Christmas Tree
+                                    - 20x Christmas Tree
                                     <br/>
-                                    - 150x XMAS letters
+                                    - 1000x XMAS letters
                                     <br/></p>
 
                             </div>
@@ -335,26 +369,26 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Attack increased by 3%
+                                        - Attack increased by 6%
                                         <br/>
-                                        - Defence increased by 2%
+                                        - Defence increased by 3%
                                         <br/>
-                                        - Water resistance is increased by 15
+                                        - Increased fame recived by 10%
                                         <br/></p>
 
                                     Craft materials:
                                     <br/>
-                                    - 200x XMAS letters
+                                    - 1200x XMAS letters
                                     <br/>
-                                    - 8x Snow Ball
+                                    - 20x Snow Ball
                                     <br/>
-                                    - 5x Christmas Coin
+                                    - 18x Christmas Coin
                                     <br/>
-                                    - 10x Scarf
+                                    - 100x Scarf
                                     <br/>
-                                    - 2x Christmas Tree
+                                    - 30x Christmas Tree
                                     <br/>
-                                    - 5x Reindeer
+                                    - 35x Reindeer
 
                                     <br/></p>
 
@@ -369,25 +403,26 @@ export default function Winter() {
                                 <p class="card-text">
                                     <p class="item-effect-shell">
                                         <br/>
-                                        - Hitting critical chance is increased by 5%
+                                        - Chance of inflicting critical hits is increased by 5%
                                         <br/>
-                                        - Shadow element is increased by 50
+                                        - Hit rate of all attacks is increased by 200
                                         <br/>
+                                        - All attacks are increased by 5%
                                     </p>
 
                                     Craft materials:
                                     <br/>
-                                    - 200x XMAS letters
+                                    - 1200x XMAS letters
                                     <br/>
-                                    - 8x Snow Ball
+                                    - 20x Snow Ball
                                     <br/>
-                                    - 5x Christmas Coin
+                                    - 18x Christmas Coin
                                     <br/>
-                                    - 10x Scarf
+                                    - 100x Scarf
                                     <br/>
-                                    - 2x Christmas Tree
+                                    - 30x Christmas Tree
                                     <br/>
-                                    - 5x Reindeer
+                                    - 35x Reindeer
 
                                     <br/>
                                </p>
@@ -504,15 +539,15 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 10x Christmas Tree
+                                    - 50x Christmas Tree
                                     <br/>
-                                    - 20x Reindeer
+                                    - 65x Reindeer
                                     <br/>
-                                    - 8x Christmas Coin
+                                    - 30x Christmas Coin
                                     <br/>
-                                    - 800x XMAS Letters
+                                    - 2000x XMAS Letters
                                     <br/>
-                                    - 5x Snow Ball
+                                    - 35x Snow Ball
 
                                     <br/></p>
 
@@ -534,15 +569,15 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 2x Christmas Tree
+                                    - 30x Christmas Tree
                                     <br/>
-                                    - 3x Reindeer
+                                    - 15x Reindeer
                                     <br/>
-                                    - 2x Christmas Coin
+                                    - 10x Christmas Coin
                                     <br/>
-                                    - 400x XMAS Letters
+                                    - 900x XMAS Letters
                                     <br/>
-                                    - 2x Snow Ball
+                                    - 20x Snow Ball
 
                                     <br/></p>
 
@@ -610,17 +645,17 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 150x Pillow
+                                    - 500x Pillow
                                     <br/>
-                                    - 5x Snow Ball
+                                    - 10x Snow Ball
                                     <br/>
-                                    - 7x Christmas Coin
+                                    - 5x Christmas Coin
                                     <br/>
-                                    - 650x XMAS letters
+                                    - 1500x XMAS letters
                                     <br/>
-                                    - 4x Reindeer
+                                    - 25x Reindeer
                                     <br/>
-                                    - 4x Christmas Tree
+                                    - 15x Christmas Tree
                                     <br/>
                                 </p>
 
