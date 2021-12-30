@@ -131,6 +131,37 @@ export const SidebarData = [
     path: '/wings',
     cName: 'ownnav-text'
   },
+  {
+    title: 'Wheel',
+    path: '/wheel',
+    cName: 'ownnav-text'
+  },
+  {
+    title: 'Psp',
+    path: '/psp',
+    cName: 'ownnav-text'
+  },
+  {
+    title: 'Pets',
+    path: '/pets',
+    cName: 'ownnav-text'
+  },
+  {
+    title: 'Raids',
+    path: '/raids',
+    cName: 'ownnav-text'
+  },
+  {
+    title: 'Titles',
+    path: '/titles',
+    cName: 'ownnav-text'
+  },
+  {
+    title: 'Shop Update',
+    path: '/shop',
+    cName: 'ownnav-text'
+  }
+  
 
  
 ];

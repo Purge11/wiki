@@ -1,7 +1,7 @@
 
 import { useIntl } from 'react-intl';
 import {  FaBars } from 'react-icons/fa';
-import {  FaDiscord, FaHammer, FaCat } from 'react-icons/fa';
+import {  FaDiscord, FaHammer, FaCat, FaShopify } from 'react-icons/fa';
 import React, { useState } from 'react';
 
 import Colapsed from './Colapsed';
@@ -55,6 +55,8 @@ import {
 } from 'react-pro-sidebar';
 import { FaTachometerAlt, FaGem, FaList, FaRegLaughWink, FaHeart } from 'react-icons/fa';
 import sidebarBg from './assets/bg2.jpg';
+import Shopupdate from './pages/Shopupdate';
+import Wheel from './pages/Wheel';
 
 
 
@@ -212,7 +214,9 @@ const Aside = ({setLocale}) => {
               <MenuItem><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a> </MenuItem>
               <MenuItem><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a> </MenuItem>
               </SubMenu>
+              <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}icon={<FaShopify />}><a href='shop'>  {intl.formatMessage({ id: 'Shop Update' })}  </a></MenuItem>
               <div className='mt-5'></div>
+              
               <SubMenu title={intl.formatMessage({ id: 'Setting/Dark Mode' })} icon={<FiSettings />}
                
               >
@@ -310,7 +314,10 @@ const Aside = ({setLocale}) => {
           <Route path='/winter' component={Winter} />
           <Route path='/pets' component={Pets} />
           <Route path='/psp' component={Psp} />
+          <Route path='/shop' component={Shopupdate} />
+          <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
+
        </Switch>   
      </Router>
     </div>

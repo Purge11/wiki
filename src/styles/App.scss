@@ -46,7 +46,8 @@
   .content,
   .winter,
   .home-start,
-  .content
+  .content,
+  .shop
   {
    
     
@@ -83,7 +84,6 @@ a.btn:hover {
 }
   
 }
-
 
 
 $sidebar-bg-color: #8947b1;
@@ -202,9 +202,32 @@ body {
     width: auto !important;
   }
 }
-
+.shop{
+  th{
+    img{
+      margin-left: 100%;
+    }
+  }
+}
+.shop{
+  th{
+    img{
+      margin-left: 100%;
+    }
+  }
+}
+@media (max-width: 768px) {
+  .shop{
+    th{
+      img{
+        margin-left: 0%;
+      }
+    }
+  }
+}
   .accesory,
   .act4,
+  .shop,
   .badgee,
   .books,
   .box,
