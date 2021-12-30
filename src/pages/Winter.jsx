@@ -214,17 +214,17 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 80x Scarf
+                                    - 10x Scarf
                                     <br/>
-                                    - 500x Snow Flake
+                                    - 100x Snow Flake
                                     <br/>
-                                    - 20x Snow Ball
+                                    - 5x Snow Ball
                                     <br/>
-                                    - 15x Christmas Coin
+                                    - 9x Christmas Coin
                                     <br/>
-                                    - 20x Reindeer
+                                    - 10x Reindeer
                                     <br/>
-                                    - 20x Christmas Tree
+                                    - 10x Christmas Tree
                                     <br/>
                                     - 1000x XMAS letters
                                     <br/></p>
@@ -262,17 +262,17 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 80x Scarf
+                                    - 10x Scarf
                                     <br/>
-                                    - 500x Snow Flake
+                                    - 100x Snow Flake
                                     <br/>
-                                    - 20x Snow Ball
+                                    - 5x Snow Ball
                                     <br/>
-                                    - 15x Christmas Coin
+                                    - 9x Christmas Coin
                                     <br/>
-                                    - 20x Reindeer
+                                    - 10x Reindeer
                                     <br/>
-                                    - 20x Christmas Tree
+                                    - 10x Christmas Tree
                                     <br/>
                                     - 1000x XMAS letters
                                     <br/></p>
@@ -308,17 +308,17 @@ export default function Winter() {
                                         </p>
                                     Craft materials:
                                     <br/>
-                                    - 80x Scarf
+                                    - 10x Scarf
                                     <br/>
-                                    - 500x Snow Flake
+                                    - 100x Snow Flake
                                     <br/>
-                                    - 20x Snow Ball
+                                    - 5x Snow Ball
                                     <br/>
-                                    - 15x Christmas Coin
+                                    - 9x Christmas Coin
                                     <br/>
-                                    - 20x Reindeer
+                                    - 10x Reindeer
                                     <br/>
-                                    - 20x Christmas Tree
+                                    - 10x Christmas Tree
                                     <br/>
                                     - 1000x XMAS letters
                                     <br/></p>
@@ -343,17 +343,17 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 80x Scarf
+                                    - 10x Scarf
                                     <br/>
-                                    - 500x Snow Flake
+                                    - 100x Snow Flake
                                     <br/>
-                                    - 20x Snow Ball
+                                    - 5x Snow Ball
                                     <br/>
-                                    - 15x Christmas Coin
+                                    - 9x Christmas Coin
                                     <br/>
-                                    - 20x Reindeer
+                                    - 10x Reindeer
                                     <br/>
-                                    - 20x Christmas Tree
+                                    - 10x Christmas Tree
                                     <br/>
                                     - 1000x XMAS letters
                                     <br/></p>
@@ -380,15 +380,15 @@ export default function Winter() {
                                     <br/>
                                     - 1200x XMAS letters
                                     <br/>
-                                    - 20x Snow Ball
+                                    - 8x Snow Ball
                                     <br/>
-                                    - 18x Christmas Coin
+                                    - 12x Christmas Coin
                                     <br/>
-                                    - 100x Scarf
+                                    - 11x Scarf
                                     <br/>
-                                    - 30x Christmas Tree
+                                    - 11x Christmas Tree
                                     <br/>
-                                    - 35x Reindeer
+                                    - 11x Reindeer
 
                                     <br/></p>
 
@@ -414,15 +414,15 @@ export default function Winter() {
                                     <br/>
                                     - 1200x XMAS letters
                                     <br/>
-                                    - 20x Snow Ball
+                                    - 8x Snow Ball
                                     <br/>
-                                    - 18x Christmas Coin
+                                    - 12x Christmas Coin
                                     <br/>
-                                    - 100x Scarf
+                                    - 11x Scarf
                                     <br/>
-                                    - 30x Christmas Tree
+                                    - 11x Christmas Tree
                                     <br/>
-                                    - 35x Reindeer
+                                    - 11x Reindeer
 
                                     <br/>
                                </p>
@@ -539,15 +539,15 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 50x Christmas Tree
+                                    - 11x Christmas Tree
                                     <br/>
-                                    - 65x Reindeer
+                                    - 11x Reindeer
                                     <br/>
-                                    - 30x Christmas Coin
+                                    - 12x Christmas Coin
                                     <br/>
                                     - 2000x XMAS Letters
                                     <br/>
-                                    - 35x Snow Ball
+                                    - 5x Snow Ball
 
                                     <br/></p>
 
@@ -569,15 +569,15 @@ export default function Winter() {
 
                                     Craft materials:
                                     <br/>
-                                    - 30x Christmas Tree
+                                    - 4x Christmas Tree
                                     <br/>
-                                    - 15x Reindeer
+                                    - 3x Reindeer
                                     <br/>
-                                    - 10x Christmas Coin
+                                    - 6x Christmas Coin
                                     <br/>
                                     - 900x XMAS Letters
                                     <br/>
-                                    - 20x Snow Ball
+                                    - 2x Snow Ball
 
                                     <br/></p>
 
