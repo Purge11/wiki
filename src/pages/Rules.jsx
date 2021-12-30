@@ -71,6 +71,10 @@ export default function Home() {
 
                         4.1: Hacking is strictly forbidden and hackers will be permanently banned.
                         <br/>
+                        4.1.1: Players cannot have locked group invite when they are farming/fishing
+                        also players needs to reply to staff when they are farming/fishing otherwise
+                        they will be treated like a bot
+                        <br/>
                         4.2: Abusing bugs or glitches is not allowed. Any bugs have to be reported
                         immediately. Hiding any bugs will lead to strict punishments.
                         <br/>
@@ -196,11 +200,48 @@ export default function Home() {
                         8.17: Abusing $unstuck command in pvp is not allowed. Any player found misusing
                         the command will be punished.
                         <br/>
+                        8.18: Trashtalking with staff members will be punished. Same for the staff
+                        members, if they trashtalk you, they'll get the same punishment.(That includes
+                        staffs player chars too)
+                        <br/>
                     </div>
+                    <div class="rules-section">
+                        <h1>Punishments ++ [Updated on 17/10/2021]</h1>
+                        
+                        <h4>[Fish Botting][Including 3 Acc Fish Bot]</h4>
+                        <br/>
+                        <br/>
+                        - First Time: 2 weeks Ban
+                        <br/>
+
+                        - Second Time: Perm Ban (No appeals/request for unbans)
+                        <br/>
+                        <br/>
+                        <h4>[Botting/3rd Party Programs/Macros] [Updated on 17/10/2021]</h4>
+                        <br/>
+                        <br/>
+                        - First time: 2 weeks Ban
+                        <br/>
+                        - Second Time: Perma Ban (No appeals/request for unbans)
+                        <br/>
+
+                    </div>
+                    <div class="rules-section">
+                    <h1>RBB Additional info/rules</h1>
+                    
+-When you join RBB, you must be active in the minigame at all times and participate in it
+<br/>
+-Sitting in RBB is not allowed
+<br/>
+<br/>
+
+Any player found afking and just sitting down in RBB will be punished.
+<br/>
+</div>
                 </div>
             </div>
-           
+
         </div>
 
     )
-                        }
+}
