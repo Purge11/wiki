@@ -238,6 +238,40 @@ export default function Home() {
                         Any player found afking and just sitting down in RBB will be punished.
                         <br/>
                     </div>
+                    <div class="rules-section">
+                        <h1>
+                            Trading Channel Info (Discord)
+                        </h1>
+
+                        general-market: Everything that is tradeable:
+                        <br/>
+                        SP's, PSP's, materials Items etc...
+                        <br/>
+                        <br/>
+                        swordsman-eq: Only Swordsman related equipment here:
+                        <br/>
+                        Sword, Xbow, Armour and SP's
+                        <br/>
+                        <br/>
+                        archer-eq: Only Archer related equipment :
+                        <br/>
+                        Bow, Dagger, Armour and SP's
+                        <br/>
+                        <br/>
+                        mage-eq: Only Mage related equipment here:
+                        <br/>
+                        Staff, Gun, Armour and SP's
+                        <br/>
+                        <br/>
+                        martial-eq: Only Martial related equipment here:
+                        <br/>
+                        Fist, Token, Armour and SP's
+                        <br/>
+                        <br/>
+
+                        If you post your items at the wrong channel, it will be removed.
+                        <br/>
+                    </div>
                 </div>
             </div>
 
