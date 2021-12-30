@@ -545,7 +545,7 @@ export default function Winter() {
                                     <br/>
                                     - 12x Christmas Coin
                                     <br/>
-                                    - 2000x XMAS Letters
+                                    - 1300x XMAS Letters
                                     <br/>
                                     - 5x Snow Ball
 
