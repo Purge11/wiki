@@ -207,7 +207,7 @@ export default function Home() {
                     </div>
                     <div class="rules-section">
                         <h1>Punishments ++ [Updated on 17/10/2021]</h1>
-                        
+
                         <h4>[Fish Botting][Including 3 Acc Fish Bot]</h4>
                         <br/>
                         <br/>
@@ -227,17 +227,17 @@ export default function Home() {
 
                     </div>
                     <div class="rules-section">
-                    <h1>RBB Additional info/rules</h1>
-                    
--When you join RBB, you must be active in the minigame at all times and participate in it
-<br/>
--Sitting in RBB is not allowed
-<br/>
-<br/>
+                        <h1>RBB Additional info/rules</h1>
 
-Any player found afking and just sitting down in RBB will be punished.
-<br/>
-</div>
+                        -When you join RBB, you must be active in the minigame at all times and
+                        participate in it
+                        <br/>
+                        -Sitting in RBB is not allowed
+                        <br/>
+                        <br/>
+                        Any player found afking and just sitting down in RBB will be punished.
+                        <br/>
+                    </div>
                 </div>
             </div>
 
