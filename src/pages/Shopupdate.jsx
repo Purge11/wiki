@@ -150,7 +150,7 @@ export default function Shopupdate() {
                             Costume:
                             <hr/>
                             <d class="item-effect-shell">
-                                - All defences are increased by 4%. (orange color)
+                                - All defences are increased by 4%.
                             </d>
                             <br/>
                             <d class="item-effect-shell">
