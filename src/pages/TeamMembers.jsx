@@ -96,6 +96,13 @@ export default function TeamMembers() {
                                
                             </tr>
                             <tr className='game-master-color'>
+                                <th scope="row">Kianda</th>
+                                <td>DE/ENG</td>
+                                <td>Game Master</td>
+                                <td class="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
+                               
+                            </tr>
+                            <tr className='game-master-color'>
                                 <th scope="row">GalTor</th>
                                 <td>ITA/ENG</td>
                                 <td>Game Master</td>
@@ -125,10 +132,38 @@ export default function TeamMembers() {
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">Blauker™</th>
+                                <td>ESP/ENG</td>
+                                <td>Trial Game Supporter</td>
+                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">Cara</th>
+                                <td>DE/ENG</td>
+                                <td>Trial Game Supporter</td>
+                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">Temko</th>
+                                <td>FR/ENG</td>
+                                <td>Trial Game Supporter</td>
+                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">KryptonJH</th>
+                                <td>FR/ENG</td>
+                                <td>Trial Game Supporter</td>
+                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
                         </tbody>
                     </table>
                     
-                   
+                    
 
                 </div>
             </div>
