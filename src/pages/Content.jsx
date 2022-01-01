@@ -52,12 +52,7 @@ export default function Content() {
                            
                                 
                            </tr>  
-                           <tr className=''>
-                                <th scope="row danger">Monchoplay</th>
-                                <td className=' '> <a href='https://www.youtube.com/c/MonchoplayYT/videos' className='text-danger'>Channel</a></td>
-                                
-                                
-                           </tr> 
+                          
                            <tr className=''>
                                 <th scope="row danger">Blake</th>
                                 <td className=' '> <a href='https://www.youtube.com/channel/UC6YQX9AW3jRilHgfqnmkjtA' className='text-danger'>Channel</a></td>
