@@ -40,6 +40,7 @@ import Pets from './pages/Pets';
 import Raids from './pages/Raids';
 import Psp from './pages/Psp';
 import { FiSettings } from "react-icons/fi";
+import { useLocation } from "react-router-dom";
 
 
 
@@ -66,6 +67,9 @@ const Aside = ({setLocale}) => {
   const [collapsed, setCollapsed] = useState(false);
   const [image, setImage] = useState(true);
   const [toggled, setToggled] = useState(false);
+  
+
+ 
   const handleCollapsedChange = (checked) => {
     setCollapsed(checked);
   };
@@ -81,6 +85,7 @@ const Aside = ({setLocale}) => {
   const handleToggleSidebar = (value) => {
     setToggled(value);
   };
+  
   const intl = useIntl();
   return (
     <div className={`app ${rtl ? 'active' : ''} ${toggled ? 'toggled' : ''}`}>

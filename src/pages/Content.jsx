@@ -71,6 +71,12 @@ export default function Content() {
                               
                                 
                            </tr> 
+                           <tr className=''>
+                                <th scope="row danger">NosVoid Alexis_pe</th>
+                                <td className=' '> <a href='https://www.youtube.com/channel/UCxksnZ4BNhtMrmz69uPTnEw' className='text-danger'>Channel</a></td>
+                              
+                                
+                           </tr> 
                            
 
                         </tbody>
