@@ -45,13 +45,7 @@ export default function Content() {
                                 <td className=' '> <a href='https://www.youtube.com/channel/UCl4q0dnNCWB3tjBd8rxFBOQ' className='text-danger'>Channel</a></td>
                                 
                                 
-                           </tr>   
-                           <tr className=''>
-                                <th scope="row danger">RonaldRe NosTale</th>
-                                <td className=' '> <a href='https://www.youtube.com/channel/UChz3nDzCHypzE24Nua3-CuQ' className='text-danger'>Channel</a></td>
-                           
-                                
-                           </tr>  
+                           </tr>     
                           
                            <tr className=''>
                                 <th scope="row danger">Blake</th>
