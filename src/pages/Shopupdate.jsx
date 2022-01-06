@@ -8,7 +8,7 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br/>
                     <br/>
-                    New Fortune Wheel update is alive. [6.021.202]
+                    New Fortune Wheel update is alive. [6.01.2022]
                     <br/>
                     <br/>
                     <h3>What can i get from the Fortune Wheel?</h3>
