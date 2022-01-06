@@ -15,33 +15,7 @@ export default function Shopupdate() {
                     <br/>
                 
                     <div className='mt-5'>
-                    <table class="table">
-                        <thead>
-                            <tr>
-                                <th scope="col">Xmas Random Wheel Box</th>
-                                <th scope="col"><img src="asset/shop/1.png" alt=""/></th>
-
-                            </tr>
-                            - Hongbi Partner Card
-                            <br/>
-                            - Maru Partner Card
-                            <br/>
-                            - Amora Partner Card
-                            <br/>
-                            - Beach Costume SEt
-                            <br/>
-                            - Pumpkin Witch Costume Set
-                            <br/>
-                            - Simp Title
-                            <br/>
-                            - Change Skin 2
-                            <br/>
-                            - Pirate Specialist
-                            <br/>
-                            - Mini Pete
-                            <br/>
-                        </thead>
-</table>
+               
                     </div>
                     <div className='mt-5'>
                     <table class="table">
@@ -64,21 +38,14 @@ export default function Shopupdate() {
                     <table class="table">
                      <thead>
                             <tr>
-                                <th scope="col">Dark Knight's Mask</th>
-                                <th scope="col"><img src="asset/shop/3.png" alt=""/></th>
+                                <th scope="col">Betting Necklace</th>
+                                <th scope="col"><img src="asset/shop/3.webp" alt=""/></th>
 
                             </tr>
                             <d class="item-effect-shell">
-                                - Damage to all monsters is increased by 5%.</d>
+                                - There's 7% more chance of getting rarity 7-8 while betting.</d>
                             <br/>
-                            <d class="item-effect-shell">
-                                - Damage in Raids is increased by 5%.
-                            </d>
-                            <br/>
-                            <d class="item-effect-shell">
-                                - Increases Gold earned by 3%.
-                            </d>
-                            <br/>
+                           
 
                         </thead>
                         </table>
@@ -87,20 +54,20 @@ export default function Shopupdate() {
                     <table class="table">
                         <thead>
                             <tr>
-                                <th scope="col">Dark Knight's Helmet</th>
-                                <th scope="col"><img src="asset/shop/4.png" alt=""/></th>
+                                <th scope="col">Ceremonial Hat</th>
+                                <th scope="col"><img src="asset/shop/4.webp" alt=""/></th>
 
                             </tr>
                             <d class="item-effect-shell">
-                                - Damage in Raids is increased by 5%.
+                                - Up to level 4 there is a 15% chance of never getting a bad effect.
                             </d>
                             <br/>
                             <d class="item-effect-shell">
-                                - All elemental resistance is increased by 3.
+                                - Increases PvP attack power by 10%.
                             </d>
                             <br/>
                             <d class="item-effect-shell">
-                                - The chance of receiving a critical hit is increased by 1%.
+                                - Reduces damage received in PvP by 5%.
                             </d>
                             <br/>
 
@@ -111,16 +78,21 @@ export default function Shopupdate() {
                     <table class="table">
                         <thead>
                             <tr>
-                                <th scope="col">King of Void Title</th>
-                                <th scope="col"><img src="asset/shop/5.png" alt=""/></th>
+                                <th scope="col">Amora (S Buff)</th>
+                                <th scope="col"><img src="asset/shop/5.webp" alt=""/></th>
 
                             </tr>
                             <d class="item-effect-shell">
-                                - All attacks are increased by 5%.
+                                - Chance of inflicting critical hits is increased by 5%.
                             </d>
                             <br/>
                             <d class="item-effect-shell">
-                                - All defences are increased by 5%.
+                                - Increases damage from critical hits by 5%.
+                            </d>
+                            <br/>
+                            
+                            <d class="item-effect-shell">
+                                - Movement speed is increased by 1.
                             </d>
                             <br/>
 
@@ -131,43 +103,71 @@ export default function Shopupdate() {
                     <table class="table">
                         <thead>
                             <tr>
-                                <th scope="col">Plague Doctor/Nurse Set</th>
-                                <th scope="col"><img src="asset/shop/6.png" alt=""/></th>
+                                <th scope="col">Frankestein (S Buff)</th>
+                                <th scope="col"><img src="asset/shop/6.webp" alt=""/></th>
+
+                            </tr>
+                            <d class="item-effect-shell">
+                                - Increases fame received by 10%
+                            </d>
+                            <br/>
+                            <d class="item-effect-shell">
+                                - When you finish Act4 and Caligor Raid you have 5% chance to get additional box.
+                            </d>
+                            
+
+                        </thead>
+</table>
+                    </div>
+                    <div className='mt-5'>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Death Lancer Costume Set</th>
+                                <th scope="col"><img src="asset/shop/1.webp" alt=""/></th>
 
                             </tr>
                             <br/>
                             Hat:
                             <hr/>
                             <d class="item-effect-shell">
-                                - All attacks are increased by 4%.
+                                - All attacks are increased by 5%.
                             </d>
                             <br/>
                             <d class="item-effect-shell">
                                 - Hit rate of all attacks is increased by 100.
                             </d>
                             <br/>
+                            <d class="item-effect-shell">
+                                - All element energies are increased by 75.
+                            </d>
+                            <br/>
+                            <d class="item-effect-shell">
+                                - Maximum HP is increased by 1000.
+                            </d>
+                            <br/>
                             <br/>
                             Costume:
                             <hr/>
                             <d class="item-effect-shell">
-                                - All defences are increased by 4%.
+                                - All defences are increased by 5%.
                             </d>
                             <br/>
                             <d class="item-effect-shell">
-                                - There is a 3% chance of causing Vaccine.
+                                - Up to level 4 there is a 7% chance of never getting a bad effect.
                             </d>
                             <br/>
                             <br/>
-                            Vaccine Buff:
+                            Costume Wings:
                             <hr/>
-                            <d class="text-danger">
-                                - Up to 4 level there is a 100% chance of never getting a bad effect.
+                            <d class="item-effect-shell">
+                                - Probability to receive critical hits is decreased by 1%.
                             </d>
                             <br/>
-                            <d class="text-danger">
-                                - Every 2 seconds: Restores (Player Level*10) HP.
+                            <d class="item-effect-shell">
+                                - Damage from critical hits is reduced by 5%.
                             </d>
-                            <br/>
+                           
 
                         </thead>
    </table>                    
