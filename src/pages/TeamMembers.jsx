@@ -21,7 +21,7 @@ export default function TeamMembers() {
                             <tr className='tr1'>
                                 <th scope="row danger">Purge</th>
                                 <td>TR/ENG</td>
-                                <td>Comunity Manager</td>
+                                <td>Community Manager/Client Modder</td>
                                 <td class="centered"><img src="asset/team/LeadTeam.png" alt=""/></td>
                                 
                             </tr>

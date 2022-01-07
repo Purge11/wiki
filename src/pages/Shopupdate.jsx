@@ -8,7 +8,7 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br/>
                     <br/>
-                    New Fortune Wheel update is alive.
+                    New Fortune Wheel update is alive. [6.01.2022]
                     <br/>
                     <br/>
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -27,7 +27,7 @@ export default function Shopupdate() {
 
                             </tr>
                             <d class="item-effect-shell">
-                                - There's 10% more of getting rarity 7-8 while betting. .</d>
+                                - There's 10% more chance of getting rarity 7-8 while betting.</d>
 
                             <br/>
 
