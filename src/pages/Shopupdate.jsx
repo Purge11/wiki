@@ -27,7 +27,7 @@ export default function Shopupdate() {
 
                             </tr>
                             <d class="item-effect-shell">
-                                - There's 10% more of getting rarity 7-8 while betting.</d>
+                                - There's 10% more chance of getting rarity 7-8 while betting.</d>
 
                             <br/>
 
