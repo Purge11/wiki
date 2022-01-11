@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Titles() {
     return (
-        <div className='raid'>
+        <div className='title'>
             <div class="">
                 <div class="card-group   ">
                     <div class="card">
