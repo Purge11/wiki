@@ -1,5 +1,3 @@
-
-
 import { useIntl } from 'react-intl';
 import {  FaBars } from 'react-icons/fa';
 import {  FaDiscord, FaHammer, FaCat, FaShopify } from 'react-icons/fa';

@@ -1,11 +1,5 @@
-
-
-
-
-
-
-
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 
 .active{
 
@@ -469,9 +463,19 @@ object-fit: cover;
     text-decoration: none;
   }
   *{
-    font-family: 'Fuzzy Bubbles', cursive !important;
+    font-family: 'Fuzzy Bubbles', cursive ;
   }
 }
+
+@media (max-width: 700px) {
+  .raid,.title{
+    *{
+      font-family: 'Roboto', sans-serif !important;
+    }
+  }
+    
+  }
+
 .toobigimg{
   max-width: 40% !important;
 }
