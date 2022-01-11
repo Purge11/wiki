@@ -394,29 +394,7 @@ export default function Wings() {
                 </div>
 
             </div>
-            <div class="mt-3">
-                <div class="card-group   ">
-                    <div class="card">
-                        <div class="flip-card-inner2 ">
-                            <div class="flip-card-front">
-                                <img src="asset/wings/17.png" class="card-img-top mx-auto pt-1 " alt="..."/>
-                                <div class="card-body ">
-                                    <h5 class="card-title nosvoid-color ">Titan Wings</h5>
-                                    <p class="card-text ">
-                                        <h5>Can be obtained in Wings NPC. [Prestige 2 Map.]</h5>
-
-                                    </p>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
+           
 
         </div>
 
