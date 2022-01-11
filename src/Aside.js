@@ -1,4 +1,5 @@
 
+
 import { useIntl } from 'react-intl';
 import {  FaBars } from 'react-icons/fa';
 import {  FaDiscord, FaHammer, FaCat, FaShopify } from 'react-icons/fa';
@@ -179,8 +180,9 @@ const Aside = ({setLocale}) => {
            
           </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-             suffix={<span className="badge yellow">25</span>}>
+             suffix={<span className="badge yellow">26</span>}>
           <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
+     
           <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
           <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
             <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
@@ -192,6 +194,7 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
             <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
             <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
+            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
             <MenuItem><a href='perfection'>{intl.formatMessage({ id: 'Perfection' })}</a>  </MenuItem>
             <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
             <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
@@ -215,9 +218,9 @@ const Aside = ({setLocale}) => {
           </SubMenu>
           </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'In work...' })} icon={<FaHammer />}
-               suffix={<span className="badge yellow">4</span>}
+               suffix={<span className="badge yellow">3</span>}
               >
-                <MenuItem><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a> </MenuItem>
+
               <MenuItem><a href='wings'>{intl.formatMessage({ id: 'Wings' })} </a> </MenuItem>
               <MenuItem><a href='psp'>{intl.formatMessage({ id: 'Partner cards' })} </a> </MenuItem>
               <MenuItem><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a> </MenuItem>
@@ -337,3 +340,4 @@ const Aside = ({setLocale}) => {
 };
 
 export default Aside;
+
