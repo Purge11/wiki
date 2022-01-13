@@ -67,6 +67,13 @@ export default function TeamMembers() {
                                 <td class="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>
                              
                             </tr>
+                            <tr className='tr5'>
+                                <th scope="row">Dark Legend</th>
+                                <td>ITA/ENG</td>
+                                <td>Event Manager</td>
+                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                                
+                            </tr>
                             <tr className='game-master-color'>
                                 <th scope="row">Sigma</th>
                                 <td>JAP/ENG</td>
@@ -109,19 +116,13 @@ export default function TeamMembers() {
                                 <td class="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
                              
                             </tr>
-                            <tr className='tr5'>
-                                <th scope="row">Dark Legend</th>
-                                <td>ITA/ENG</td>
-                                <td>Event Manager</td>
-                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
-                                
-                            </tr>
                             
-                            <tr className='supporter-color'>
+                            
+                            <tr className='game-master-color'>
                                 <th scope="row">Ilya</th>
                                 <td>FR/ENG</td>
-                                <td>Game Supporter</td>
-                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                                <td>Game Master</td>
+                                <td class="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
                                
                             </tr>
                             
@@ -132,31 +133,31 @@ export default function TeamMembers() {
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
-                            <tr className='trial-supporter-color'>
+                            <tr className='supporter-color'>
                                 <th scope="row">Blauker™</th>
                                 <td>ESP/ENG</td>
-                                <td>Trial Game Supporter</td>
+                                <td>Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
-                            <tr className='trial-supporter-color'>
+                            <tr className='supporter-color'>
                                 <th scope="row">Cara</th>
                                 <td>DE/ENG</td>
-                                <td>Trial Game Supporter</td>
+                                <td>Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
-                            <tr className='trial-supporter-color'>
+                            <tr className='supporter-color'>
                                 <th scope="row">Temko</th>
                                 <td>FR/ENG</td>
-                                <td>Trial Game Supporter</td>
+                                <td>Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
-                            <tr className='trial-supporter-color'>
+                            <tr className='supporter-color'>
                                 <th scope="row">KryptonJH</th>
                                 <td>FR/ENG</td>
-                                <td>Trial Game Supporter</td>
+                                <td>Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
