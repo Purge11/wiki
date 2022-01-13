@@ -56,6 +56,7 @@ import { FaTachometerAlt, FaGem, FaList, FaRegLaughWink, FaHeart } from 'react-i
 import sidebarBg from './assets/bg2.jpg';
 import Shopupdate from './pages/Shopupdate';
 import Wheel from './pages/Wheel';
+import Costiumes from './pages/Costiumes';
 
 
 
@@ -178,7 +179,7 @@ const Aside = ({setLocale}) => {
            
           </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-             suffix={<span className="badge yellow">27</span>}>
+             suffix={<span className="badge yellow">28</span>}>
           <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
      
           <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
@@ -193,6 +194,7 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
             <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
+            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
             <MenuItem><a href='perfection'>{intl.formatMessage({ id: 'Perfection' })}</a>  </MenuItem>
             <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
             <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
@@ -221,7 +223,7 @@ const Aside = ({setLocale}) => {
               >
 
               
-              <MenuItem><a href='psp'>{intl.formatMessage({ id: 'Partner cards' })} </a> </MenuItem>
+              <MenuItem><a href='costiumes'>{intl.formatMessage({ id: 'Costiumes' })} </a> </MenuItem>
               <MenuItem><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a> </MenuItem>
               
               </SubMenu>
@@ -328,6 +330,7 @@ const Aside = ({setLocale}) => {
           <Route path='/shop' component={Shopupdate} />
           <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
+          <Route path='/costiumes' component={Costiumes} />
           
           
           
