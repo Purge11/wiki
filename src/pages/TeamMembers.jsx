@@ -71,7 +71,7 @@ export default function TeamMembers() {
                                 <th scope="row">Dark Legend</th>
                                 <td>ITA/ENG</td>
                                 <td>Event Manager</td>
-                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
                                 
                             </tr>
                             <tr className='game-master-color'>
