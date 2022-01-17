@@ -202,7 +202,7 @@ export default function Shopupdate() {
                                     - Movement speed is decreased by 5.
                                     <br/>
                                     - No attack possible
-                                    <img src="asset/shop/7.png" alt=""/>
+                                    <img src="asset/shop/71.png" alt=""/>
 
                                 </d>
 
