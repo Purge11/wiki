@@ -21,7 +21,7 @@ export default function Shopupdate() {
                                 <tr>
                                     <th scope="col">
                                         Xmas Random Wheel Box</th>
-                                    <th scope="col"><img src="asset/shop/1.webp" alt=""/></th>
+                                    <th scope="col"><img src="asset/shop/1.png" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
@@ -53,7 +53,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Dark Knight's Mask</th>
-                                    <th scope="col"><img src="asset/shop/2.webp" alt=""/></th>
+                                    <th scope="col"><img src="asset/shop/2.png" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
@@ -73,7 +73,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Dark Knight's Helmet</th>
-                                    <th scope="col"><img src="asset/shop/3.webp" alt=""/></th>
+                                    <th scope="col"><img src="asset/shop/3.png" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
@@ -97,7 +97,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Chloe (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/4.webp" alt=""/></th>
+                                    <th scope="col"><img src="asset/shop/4.png" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
@@ -126,7 +126,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Venus (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/5.webp" alt=""/></th>
+                                    <th scope="col"><img src="asset/shop/5.png" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
@@ -153,7 +153,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Frost Warrior Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/6.webp" alt=""/></th>
+                                    <th scope="col"><img src="asset/shop/6.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
