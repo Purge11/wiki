@@ -160,8 +160,8 @@ const Aside = ({setLocale}) => {
             title={intl.formatMessage({ id: 'Recommended' })}
             icon={<FaHeart />}
           >
-            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
-            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}
+            <MenuItem  ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
+            <MenuItem  
           ><a href='winter'>{intl.formatMessage({ id: 'Christmas 🎅' })} </a>
             </MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
@@ -179,19 +179,20 @@ const Aside = ({setLocale}) => {
            
           </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-             suffix={<span className="badge yellow">28</span>}>
+             suffix={<span className="badge yellow">29</span>}>
           <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
      
           <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
           <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
             <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
             <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
-          <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
+          <MenuItem ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
             <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
-            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='winter'>{intl.formatMessage({ id: 'Christmas 🎅' })} </a></MenuItem>
+            <MenuItem  ><a href='winter'>{intl.formatMessage({ id: 'Christmas 🎅' })} </a></MenuItem>
             <MenuItem><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a> </MenuItem>
             <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
             <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
+            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='pets'>{intl.formatMessage({ id: 'Mate' })} </a></MenuItem>
             <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
@@ -219,12 +220,12 @@ const Aside = ({setLocale}) => {
           </SubMenu>
           </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'In work...' })} icon={<FaHammer />}
-               suffix={<span className="badge yellow">2</span>}
+               suffix={<span className="badge yellow">1</span>}
               >
 
               
               <MenuItem><a href='costiumes'>{intl.formatMessage({ id: 'Costiumes' })} </a> </MenuItem>
-              <MenuItem><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a> </MenuItem>
+             
               
               </SubMenu>
              
