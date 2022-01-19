@@ -145,7 +145,7 @@ export default function psp() {
                                 <div class="card-body ">
                                     <h5 class="card-title nosvoid-color ">Fiona Partner Card</h5>
                                     <p class="card-text ">
-                                        <h5>You can get fiona in p8 map</h5>
+                                        <h5>You can get Fiona in Prestige 8 map.</h5>
 
                                       
 
