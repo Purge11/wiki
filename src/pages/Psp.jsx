@@ -416,8 +416,38 @@ export default function psp() {
                                 </div>
 
                             </div>
+                            <div class="card  ">
+                                <div class="flip-card-inner-psp ">
+                                    <div class="flip-card-front">
+                                        <img
+                                            src="asset/psp/15.png"
+                                            class="  card-img-top mx-auto pt-5   "
+                                            alt="..."/>
+                                        <div class="card-body ">
+                                            <h5 class="card-title nosvoid-color ">Daniel Ducat's</h5>
+                                            <p class="card-text ">
+                                            <h5>Can be obtained in Christmas Event and sometimes in Fortune Wheel.</h5>
+
+                                               
+
+                                            </p>
+                                        </div>
+
+                                       
+
+                                    </div>
+
+                                    <div class="flip-card-back">
+                                        
+                                       
+
+                                    </div>
+                                </div>
+
+                            </div>
                            </div>
-                        
+                          
+                           
                            
 
                             

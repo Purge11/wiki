@@ -224,7 +224,7 @@ const Aside = ({setLocale}) => {
               >
 
               
-              <MenuItem><a href='costiumes'>{intl.formatMessage({ id: 'Costiumes' })} </a> </MenuItem>
+              <MenuItem><a href='costiumes'>{intl.formatMessage({ id: 'Costumes' })} </a> </MenuItem>
              
               
               </SubMenu>
