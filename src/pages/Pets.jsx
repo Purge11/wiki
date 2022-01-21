@@ -333,7 +333,7 @@ export default function Pets() {
                                     <div class="flip-card-front">
                                         <img src="asset/mate/11.png" class="card-img-top mx-auto pt-1 " alt="..."/>
                                         <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">Seraphin (can be evolve)</h5>
+                                            <h5 class="card-title nosvoid-color ">Seraphim (can be evolve)</h5>
                                             <p class="card-text item-effect ">
                                                 <h5>Increased gold earned by 12%</h5>
                                                 <h5>when raid is finished,there's 4% chance that box drops second time
@@ -343,7 +343,7 @@ export default function Pets() {
                                             <img src="asset/mate/shadow.png" class="card-img-top mx-auto pt-1 " alt="..."/>
                                             <p class="card-text item-effect ">
                                                 <h5>Increased gold earned by 25%</h5>
-                                                <h5>when raid is finished,there's 8% chance that box drops second time
+                                                <h5>when raid is finished, there's 8% chance that box drops second time
                                                 </h5>
 
                                             </p>
