@@ -45,10 +45,10 @@ function Server() {
                     </a>
                     <a href="badge">《📑》badge-guide
                     </a>
-                    <a href="$">
+                    <a href="server">
                         《🔥》rework-buffs
                     </a>
-                    <a href=".">
+                    <a href="/rules">
                         《📋》rules</a>
 
                     MAKING YOUR FIRST CHARACTER
