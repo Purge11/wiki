@@ -48,7 +48,7 @@ export default function TeamMembers() {
                             </tr>
                             <tr className='tr2'>
                                 <th scope="row">Decameron</th>
-                                <td>TR/ENG</td>
+                                <td>ENG</td>
                                 <td>Team Manager</td>
                                 <td class="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>
                              
@@ -158,6 +158,20 @@ export default function TeamMembers() {
                                 <th scope="row">KryptonJH</th>
                                 <td>FR/ENG</td>
                                 <td>Game Supporter</td>
+                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">Fekeno</th>
+                                <td>TR/ENG</td>
+                                <td>Trial Game Supporter</td>
+                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">Aeri </th>
+                                <td>TR/SR/ENG</td>
+                                <td>Trial Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
