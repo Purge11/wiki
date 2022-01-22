@@ -124,15 +124,7 @@ export default function TeamMembers() {
                                 <td>Game Master</td>
                                 <td class="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
                                
-                            </tr>
-                            
-                            <tr className='supporter-color'>
-                                <th scope="row">Feneko</th>
-                                <td>DE/ENG</td>
-                                <td>Game Supporter</td>
-                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
-                             
-                            </tr>
+                            </tr> 
                             <tr className='supporter-color'>
                                 <th scope="row">Blauker</th>
                                 <td>ESP/ENG</td>
@@ -154,13 +146,7 @@ export default function TeamMembers() {
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
 
                             </tr>
-                            <tr className='supporter-color'>
-                                <th scope="row">Aeri</th>
-                                <td>TR/ENG</td>
-                                <td>Game Supporter</td>
-                                <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
-                             
-                            </tr>
+                           
                             <tr className='supporter-color'>
                                 <th scope="row">KryptonJH</th>
                                 <td>FR/ENG</td>
