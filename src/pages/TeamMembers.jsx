@@ -156,14 +156,14 @@ export default function TeamMembers() {
                             </tr>
                             <tr className='trial-supporter-color'>
                                 <th scope="row">Fekeno</th>
-                                <td>TR/ENG</td>
+                                <td>DE/ENG</td>
                                 <td>Trial Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
                             <tr className='trial-supporter-color'>
                                 <th scope="row">Aeri </th>
-                                <td>TR/SR/ENG</td>
+                                <td>TR/ENG</td>
                                 <td>Trial Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
