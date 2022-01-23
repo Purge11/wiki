@@ -188,7 +188,7 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
           <MenuItem ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
             <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
-            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='costiumes'>{intl.formatMessage({ id: 'Costumes' })} </a></MenuItem>
+            <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='costumes'>{intl.formatMessage({ id: 'Costumes' })} </a></MenuItem>
             <MenuItem  ><a href='winter'>{intl.formatMessage({ id: 'Christmas 🎅' })} </a></MenuItem>
             <MenuItem><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a> </MenuItem>
             <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
@@ -332,7 +332,7 @@ const Aside = ({setLocale}) => {
           <Route path='/shop' component={Shopupdate} />
           <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
-          <Route path='/costiumes' component={Costiumes} />
+          <Route path='/costumes' component={Costiumes} />
           
           
           
