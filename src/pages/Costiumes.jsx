@@ -878,7 +878,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Wizard of Noz Set</th>
-                                    <th scope="col"><img src="asset/costumes/m4.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/won.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
