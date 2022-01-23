@@ -5,7 +5,19 @@ export default function Costiumes() {
         <div className='shop'>
             <div class="container">
                 <div class="row series-image-list ">
-                <div className='mt-5 bordero'>
+                   
+                <a href="#" class="all" tabindex="-1" title="All" >All</a> 
+    <a href="#" class="sc " tabindex="-1" title="sc">Standard Costumes</a> 
+    <a href="#" class="pc" tabindex="-1" title="pc">Premium Costumes</a> 
+    <a href="#" class="bow" tabindex="-1" title="bow">Bow Skins</a>
+    <a href="#" class="sword" tabindex="-1" title="sword">Sword Skins</a>
+    <a href="#" class="fist" tabindex="-1" title="fist">Fist Skins</a>
+    <a href="#" class="wand" tabindex="-1" title="wand">Wand Skins</a>
+
+
+
+<li class="sc">
+                <div className='mt-5 bordero '>
                         <table class="table">
                             <thead>
                                 <tr>
@@ -52,6 +64,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -100,6 +114,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -147,6 +163,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -172,6 +190,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -202,6 +222,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -235,6 +257,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -264,6 +288,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -312,10 +338,11 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
-                  
+                    </li>
 
-                    
+                    <li class="pc">
                 <div className='mt-5 bordero'>
+                    
                         <table class="table">
                             <thead>
                                 <tr>
@@ -363,6 +390,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -414,6 +443,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -475,6 +506,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -515,7 +548,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
-
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -597,6 +631,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -636,6 +672,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -668,6 +706,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -713,6 +753,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -773,6 +815,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -819,6 +863,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -873,6 +919,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -913,6 +961,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -956,6 +1006,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="pc">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -976,6 +1028,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="bow">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1016,6 +1070,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="fist">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1054,6 +1110,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sword">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1092,6 +1150,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="wand">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1129,6 +1189,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="bow">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1148,6 +1210,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="fist">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1166,6 +1230,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sword">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1184,6 +1250,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="wand">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1201,6 +1269,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="bow">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1225,6 +1295,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="fist">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1248,6 +1320,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sword">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1270,6 +1344,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="wand">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1293,6 +1369,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="bow">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1314,6 +1392,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="fist">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1332,6 +1412,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sword">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1350,6 +1432,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="wand">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1368,6 +1452,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="bow">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1392,6 +1478,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="fist">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1415,6 +1503,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="sword">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1438,6 +1528,8 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
+                    </li>
+                    <li class="wand">
                     <div className='mt-5 bordero'>
                         <table class="table">
                             <thead>
@@ -1461,7 +1553,7 @@ export default function Costiumes() {
                             </thead>
                         </table>
                     </div>
-                    
+                    </li>
 
                 </div>
             </div>
