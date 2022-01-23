@@ -1319,7 +1319,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Boxing Gloves</th>
-                                    <th scope="col"><img src="asset/costumes/m4.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/m4new.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
