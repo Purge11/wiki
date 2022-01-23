@@ -889,7 +889,7 @@ export default function Costiumes() {
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Probability to receive critical hits is decreased by 4%.
+                                    - Damage from critical hits is reduced by 20%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
