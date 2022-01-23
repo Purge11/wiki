@@ -993,12 +993,14 @@ font-size: 60% !important;
 .shop{
   a{
     text-decoration: none;
-    float: left;
-    padding: 5px;
+    display: inline-block;
+    width: auto;
+  height: auto;
+   
+ 
     color: #8947b1;
-    border: 0px solid #8947b1;
-  padding: 2px;
-  margin: 5px;
+ 
+  
 text-align: center;
 font-family: 'Fuzzy Bubbles';
 font-size: 20px;
@@ -1007,6 +1009,7 @@ font-size: 20px;
   }
   li{
     list-style:none;
+    
   }
   
 a[class="sc"]:focus ~ li:not([class="sc"]) {
@@ -1015,6 +1018,7 @@ a[class="sc"]:focus ~ li:not([class="sc"]) {
   border:none;
   margin:0;
   display:none;
+  
 }
 a[class="pc"]:focus ~ li:not([class="pc"]) {
   height:0px;
