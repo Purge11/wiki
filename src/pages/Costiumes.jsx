@@ -7,7 +7,7 @@ export default function Costiumes() {
                 <div class="row series-image-list ">
                    
                 <a href="#" class="all" tabindex="-1" title="All" >All</a> 
-    <a href="#" class="sc " tabindex="-1" title="sc">Standard Costumes</a> 
+    <a href="#" class="sc" tabindex="-1" title="sc">Standard Costumes</a> 
     <a href="#" class="pc" tabindex="-1" title="pc">Premium Costumes</a> 
     <a href="#" class="bow" tabindex="-1" title="bow">Bow Skins</a>
     <a href="#" class="sword" tabindex="-1" title="sword">Sword Skins</a>

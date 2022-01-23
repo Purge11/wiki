@@ -1015,14 +1015,6 @@ a[class="sc"]:focus ~ li:not([class="sc"]) {
   border:none;
   margin:0;
   display:none;
-  float: left;
-  background-color: #2196F3;
-  color: #ffffff;
-  width: 100px;
-  line-height: 100px;
-  text-align: center;
-  margin: 2px;
-  display: none;
 }
 a[class="pc"]:focus ~ li:not([class="pc"]) {
   height:0px;
