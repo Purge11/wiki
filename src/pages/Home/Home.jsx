@@ -10,31 +10,31 @@ export default function Home() {
           showCursor: true,
           backDelay: 1500,
           backSpeed:60,
-          strings: ["Merry Christmas"],
+          strings: ["Accesory", "Act4", "Badge", "Books", "Boxes", "C50", "C55", "Equipment","Faires","Fishing","Perdections","Prestige","Resistances",
+          "Runes", "Shells","Sps","Tattos","Wings","Pets", "Psps", "Titles" , "Raids", "Costumes"],
         });
       }, []);
     return (
         <div className='home-start'>
-        <div className='container mt-5'>
+        <div className='container '>
             <div className='row mt-5'>
                 <div className='col-sm-6 banner-info'>
                 <div className="wrapper">
-                <img src="asset/main.jpg" alt=""/>
-          <h2 class="">NosVoid Team</h2>
-          
+                <img src="asset/home2.png" class="imghome" alt=""/>
+                <h2>Hey Welcome in Void </h2>
+          <h1>in a place where everything is possible</h1>
           <h3>
-          
-          wishes you 
+
+        Discover <span ref={textRef}></span>
           </h3>
-          <h3><span ref={textRef}></span></h3>
         </div>
-                   
-        <a class="btn btn-first" href='winter'>Christmas Event ⛄️</a>
+        <h1>adventure will not wait</h1> 
+        <a class="btn btn-first" href='rules'>Let's start</a>
                  
 
                 </div>
                 <div className='col-sm-6 banner-image imgContainer'>
-                    <img src="asset/christmas.png" class="img-responsive" alt=""/>
+                    <img src="asset/home1.png" class="img-responsive" alt=""/>
                     
                 </div>
                 
