@@ -52,18 +52,14 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Dark Knight's Mask</th>
-                                    <th scope="col"><img src="asset/shop/mask.png" alt=""/></th>
+                                    <th scope="col">Betting Costume</th>
+                                    <th scope="col"><img src="asset/shop/beting.webp" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Damage to all monsters is increased by 5%.</d>
+                                    - There's 10% more of getting rarity 7-8 while betting.</d>
                                 <br/>
-                                <d class="item-effect-shell">
-                                    - Damage in Raids is increased by 5%.</d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Increases Gold earned by 3%.</d>
+                                
 
                             </thead>
                         </table>
@@ -72,22 +68,15 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Dark Knight's Helmet</th>
-                                    <th scope="col"><img src="asset/shop/helmet.png" alt=""/></th>
+                                    <th scope="col">Sugar Mommy Title</th>
+                                    <th scope="col"><img src="asset/shop/mommy.webp" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Damage in Raids is increased by 5%.
+                                - Increased chance of getting a nude by hot milf by 99%.
                                 </d>
                                 <br/>
-                                <d class="item-effect-shell">
-                                    - All elemental resistance is increased by 3.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - The chance of receiving a critical hit is increased by 1%.
-                                </d>
-                                <br/>
+                               
 
                             </thead>
                         </table>
@@ -96,27 +85,18 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Chloe (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/hloe.png" alt=""/></th>
+                                    <th scope="col">King of Void Title</th>
+                                    <th scope="col"><img src="asset/shop/kov.webp" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Experience gain is increased by 20%.
+                                    - All attacks are increased by 5%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Increases champion experience received by 20%.
+                                    - All defences are increased by 5%.
                                 </d>
-                                <br/>
-
-                                <d class="item-effect-shell">
-                                    - Increases Gold earned by 15%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Movement speed is increased by 1.
-                                </d>
-                                <br/>
+                               
 
                             </thead>
                         </table>
@@ -125,25 +105,22 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Venus (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/venus.png" alt=""/></th>
+                                    <th scope="col">Ceremonial Helmet</th>
+                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - When raid is finished, there's a 5% chance that box drops second time.
+                                - Up to 4 level there is a 15% chance of never getting a bad effect.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Damage in Raids is increased by 10%.
+                                - Increases PvP attack power by 10%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Increases champion experience received by 15%.
+                                - Reduces damage received in PvP by 5%.
                                 </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Movement speed is increased by 1.
-                                </d>
+                               
 
                             </thead>
                         </table>
@@ -152,19 +129,23 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Frost Warrior Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/frosty.png" alt=""/></th>
+                                    <th scope="col">Death Lancet Costume Set</th>
+                                    <th scope="col"><img src="asset/shop/lancer.webp" alt=""/></th>
 
                                 </tr>
                                 <br/>
                                 Hat:
                                 <hr/>
                                 <d class="item-effect-shell">
-                                    - All attacks are increased by 4%.
+                                    - All attacks are increased by 5%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Increases damage from critical hits by 10%.
+                                    - All element energies are increased by 75.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                - Maximum HP is increased by 1000.
                                 </d>
 
                                 <br/>
@@ -172,39 +153,31 @@ export default function Shopupdate() {
                                 Costume:
                                 <hr/>
                                 <d class="item-effect-shell">
-                                    - All defences are increased by 4%.
+                                - All defences are increased by 5%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Dodge is increased by 50.
+                                - Up to level 4 there is a 7% chance of never getting a bad effect.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                - Movement speed is increased by 1.
                                 </d>
                                 <br/>
                                 <br/>
                                 Costume Wings:
                                 <hr/>
                                 <d class="item-effect-shell">
-                                    - Shadow element is increased by 30.
+                                - All defences are increased by 2%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Movement speed is increased by 1.
+                                - Damage from critical hits is reduced by 10%.
                                 </d>
                                 <br/>
-                                <d class="item-effect-shell">
-                                    - There is a 1% chance of causing Shivering Frost.
-                                </d>
-                                <br/>
+                                
 
-                                <hr/>
-                                <d class="text-danger">
-                                    Shivering Frost Debuff (4 seconds) :
-                                    <br/>
-                                    - Movement speed is decreased by 5.
-                                    <br/>
-                                    - No attack possible
-                                    <img src="asset/shop/7.png" alt=""/>
-
-                                </d>
+                               
 
                             </thead>
                         </table>
