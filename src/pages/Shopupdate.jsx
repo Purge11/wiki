@@ -20,28 +20,21 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Xmas Random Wheel Box</th>
+                                    Xmas Random Wheel Box 2</th>
                                     <th scope="col"><img src="asset/shop/xmas.png" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Hongbi Partner Card
+                                - Nelia Nymph Partner Card
                                     <br/>
-                                    - Maru Partner Card
+                                    - Frankestein Partner Card
                                     <br/>
-                                    - Amora Partner Card
+                                    - Partner Skill Ticket (Single)
                                     <br/>
-                                    - Beach Costume Set
+                                    - Pirate Title
                                     <br/>
-                                    - Pumpkin Witch Costume Set
-                                    <br/>
-                                    - Simp Title
-                                    <br/>
-                                    - Change Skin 2
-                                    <br/>
-                                    - Pirate Specialist
-                                    <br/>
-                                    - Mini Pete</d>
+                                    - Pumpkin Bushtail Pet
+                                    </d>
 
                                 <br/>
 
