@@ -66,7 +66,7 @@ export default function Shopupdate() {
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                - Increased chance of getting a nude by hot milf by 99%.
+                                - Increased chance of getting a nude by hot milf by 99%. (Aesthetic)
                                 </d>
                                 <br/>
                                
