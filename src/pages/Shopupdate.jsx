@@ -66,7 +66,7 @@ export default function Shopupdate() {
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                - Increased chance of getting a nude by hot milf by 99%.
+                                - Increased chance of getting a nude by hot milf by 99%. (Aesthetic)
                                 </d>
                                 <br/>
                                
@@ -122,7 +122,7 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Death Lancet Costume Set</th>
+                                    <th scope="col">Death Lancer Costume Set</th>
                                     <th scope="col"><img src="asset/shop/lancer.webp" alt=""/></th>
 
                                 </tr>
