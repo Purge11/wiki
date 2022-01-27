@@ -22,7 +22,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Color Bushi (All colors)</th>
-                                    <th scope="col"><img src="asset/costumes/cos.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/colorbushi.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
@@ -70,8 +70,256 @@ export default function Costiumes() {
                         <table class="table">
                             <thead>
                                 <tr>
+                                    <th scope="col">Magic Light Set</th>
+                                    <th scope="col"><img src="asset/costumes/wizardl.png" alt=""/></th>
+
+                                </tr>
+                                <br/>
+                                Hat:
+                                <hr/>
+                                <d class="item-effect-shell">
+                               - Experience gain is increased by 4%.
+                                </d>
+                              
+
+                                <br/>
+                                <br/>
+                                Costume:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - All defences are increased by 1%.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                    - Damage to all monsters is increased by 1%.
+                                </d>
+                                
+                                
+
+                            </thead>
+                        </table>
+                    </div>
+                    </li>
+                    <li class="sc">
+                    <div className='mt-5 bordero'>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Straw Hat</th>
+                                    <th scope="col"><img src="asset/costumes/2557.png" alt=""/></th>
+
+                                </tr>
+                                <br/>
+                                Hat:
+                                <hr/>
+                                <d class="item-effect-shell">
+                               - The fishing experience points you receive are increased in 10%.
+                                </d>
+                              
+
+                               
+                                
+                                
+
+                            </thead>
+                        </table>
+                    </div>
+                    </li>
+                    <li class="sc">
+                    <div className='mt-5 bordero'>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Magic Shadow Set</th>
+                                    <th scope="col"><img src="asset/costumes/wizards.png" alt=""/></th>
+
+                                </tr>
+                                <br/>
+                                Hat:
+                                <hr/>
+                                <d class="item-effect-shell">
+                               - Experience gain is increased by 8%.
+                                </d>
+                                <br/>
+                                <br/>
+                                Costume:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - All defences are increased by 2%.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                    - Damage to all monsters is increased by 2%.
+                                </d>
+                                
+                              
+
+                               
+                                
+                                
+
+                            </thead>
+                        </table>
+                    </div>
+                    </li>
+                    <li class="sc">
+                    <div className='mt-5 bordero'>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Police Set</th>
+                                    <th scope="col"><img src="asset/costumes/police.png" alt=""/></th>
+
+                                </tr>
+                                <br/>
+                                Hat:
+                                <hr/>
+                                <d class="item-effect-shell">
+                               - Damage to all monsters are increased by 5%.
+                                </d>
+                                <br/>
+                                <br/>
+                                Costume:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - All defences are increased by 1%.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                    - Damage to all monsters are increased by 5%.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                    - Maximum HP is increased by 5000.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                    - Dodge is increased by 40.
+                                </d>
+                                
+                              
+
+                               
+                                
+                                
+
+                            </thead>
+                        </table>
+                    </div>
+                    </li>
+                    <li class="sc">
+                    <div className='mt-5 bordero'>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Asian Black Bear Set</th>
+                                    <th scope="col"><img src="asset/costumes/blackbear.png" alt=""/></th>
+
+                                </tr>
+                                <br/>
+                                Hat:
+                                <hr/>
+                                <d class="item-effect-shell">
+                               - There's a 4% chance of catching a bugger fish.
+                                </d>
+                                <br/>
+                                <br/>
+                                Costume:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - There's a 10% chance to not consume a bait.
+                                </d>
+                               
+                                
+                              
+
+                               
+                                
+                                
+
+                            </thead>
+                        </table>
+                    </div>
+                    </li>
+                    <li class="sc">
+                    <div className='mt-5 bordero'>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Viking Set</th>
+                                    <th scope="col"><img src="asset/costumes/viking.png" alt=""/></th>
+
+                                </tr>
+                                <br/>
+                                Hat:
+                                <hr/>
+                                <d class="item-effect-shell">
+                               - Hit rate of all attacks is increased by 75.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                               - Chance of inflicting critical hit is increased by 4%.
+                                </d>
+                               
+                                <br/>
+                                <br/>
+                                Costume:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - All defences are increased by 4%.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                               - Up to level 4 there is a 10% chance of never getting a bad effect.
+                                </d>
+                               
+                                
+                              
+
+                               
+                                
+                                
+
+                            </thead>
+                        </table>
+                    </div>
+                    </li>
+                    <li class="sc">
+                    <div className='mt-5 bordero'>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Illusionist's Top Hat</th>
+                                    <th scope="col"><img src="asset/costumes/2801.png" alt=""/></th>
+
+                                </tr>
+                                <br/>
+                                Hat:
+                                <hr/>
+                                <d class="item-effect-shell">
+                               - Increases gold earned by 20%.
+                                </d>
+                               
+                               
+                               
+                                
+                              
+
+                               
+                                
+                                
+
+                            </thead>
+                        </table>
+                    </div>
+                    </li>
+                    <li class="sc">
+                    <div className='mt-5 bordero'>
+                        <table class="table">
+                            <thead>
+                                <tr>
                                     <th scope="col">Oto-Fox Set</th>
-                                    <th scope="col"><img src="asset/costumes/cos.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/oto.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
@@ -121,7 +369,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Aqua Bushi Set</th>
-                                    <th scope="col"><img src="asset/costumes/cos.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/colorbushi.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
@@ -170,7 +418,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Navy Costume</th>
-                                    <th scope="col"><img src="asset/costumes/cos.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/2615.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
@@ -197,7 +445,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Snow White Tiger Set</th>
-                                    <th scope="col"><img src="asset/costumes/cos.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/tigersnow.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
@@ -229,7 +477,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Cuddly Tiger Set</th>
-                                    <th scope="col"><img src="asset/costumes/cos.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/tiger.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
@@ -264,7 +512,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Football Set</th>
-                                    <th scope="col"><img src="asset/costumes/cos.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/football.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
@@ -295,7 +543,7 @@ export default function Costiumes() {
                             <thead>
                                 <tr>
                                     <th scope="col">Fluffy Rabbit Set</th>
-                                    <th scope="col"><img src="asset/costumes/cos.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/costumes/rabbitf.png" alt=""/></th>
 
                                 </tr>
                                 <br/>
@@ -748,6 +996,53 @@ export default function Costiumes() {
                                 <br/>
                                 <d class="item-effect-shell">
                                     - Movement speed is increased by 1.
+                                </d>
+                            
+                            </thead>
+                        </table>
+                    </div>
+                    </li>
+                    <li class="pc">
+                    <div className='mt-5 bordero'>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Winter Set</th>
+                                    <th scope="col"><img src="asset/costumes/WinterSet.png" alt=""/></th>
+
+                                </tr>
+                                <br/>
+                                Hat:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - All attacks are increased by 3%.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                - Up to level 4 there is a 10% chance of never getting a bad effect.
+                                </d>
+
+                                <br/>
+                                <br/>
+                                Costume:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - Increases Gold earned by 3%.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                    - Movement speed is increased by 1.
+                                </d>
+                                <br/>
+                                <br/>
+                                Costume Wings:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - Dodge is increased by 30.
+                                </d>
+                                <br/>
+                                <d class="item-effect-shell">
+                                    - Hit rate of all attacks is increased by 45.
                                 </d>
                             
                             </thead>
