@@ -52,7 +52,8 @@
   .shop,
   .raid,
   .title,
-  .mate {
+  .mate,
+  .notes {
 
 
     background-image: url("https://ak.picdn.net/shutterstock/videos/1009676855/thumb/1.jpg?ip=x480");
@@ -305,7 +306,8 @@ body {
   .winter,
   .raid,
   .title,
-  .mate {
+  .mate,
+  .notes{
     padding: 24px;
     flex-grow: 1;
     display: flex;
@@ -1056,4 +1058,9 @@ a[class="wand"]:focus ~ li:not([class="wand"]) {
   display:none;
 }
 
+}
+.notes{
+  img{
+    width: 60% !important;
+  }
 }

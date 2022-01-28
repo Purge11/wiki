@@ -2,6 +2,7 @@ import { useIntl } from 'react-intl';
 import {  FaBars } from 'react-icons/fa';
 import {  FaDiscord, FaHammer, FaCat, FaShopify } from 'react-icons/fa';
 import React, { useState } from 'react';
+import {  FaRegFileAlt } from 'react-icons/fa';
 
 import Colapsed from './Colapsed';
 import Image from './Image';
@@ -57,6 +58,7 @@ import sidebarBg from './assets/bg2.jpg';
 import Shopupdate from './pages/Shopupdate';
 import Wheel from './pages/Wheel';
 import Costiumes from './pages/Costiumes';
+import Notes2801 from './pages/Notes/Notes2801';
 
 
 
@@ -142,10 +144,24 @@ const Aside = ({setLocale}) => {
           
           
           <MenuItem icon={<FaGem />}><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
+          
           <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}icon={<FaShopify />}><a href='shop'>  {intl.formatMessage({ id: 'Shop Update' })}  </a></MenuItem>
+          
+          <SubMenu
+            suffix={<span className="badge yellow">1</span>}
+            title={intl.formatMessage({ id: 'Patch Notes' })}
+            icon={<FaRegFileAlt />}
+          >
+         <MenuItem ><a href='notes2801'>  {intl.formatMessage({ id: 'PN 28.01.2022' })}  </a></MenuItem>
+
+            
+           
+          </SubMenu>
         </Menu>
+       
         
         <Menu iconShape="circle">
+          
           
           <SubMenu
             suffix={<span className="badge yellow">2</span>}
@@ -330,6 +346,7 @@ const Aside = ({setLocale}) => {
           <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
           <Route path='/costumes' component={Costiumes} />
+          <Route path='/Notes2801' component={Notes2801} />
           
           
           
