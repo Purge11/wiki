@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Notes2901() {
+export default function Notes2801() {
     return (
         <div className='notes'>
             <div class="container">
