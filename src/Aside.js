@@ -152,7 +152,7 @@ const Aside = ({setLocale}) => {
             title={intl.formatMessage({ id: 'Patch Notes' })}
             icon={<FaRegFileAlt />}
           >
-         <MenuItem ><a href='notes2801'>  {intl.formatMessage({ id: 'PN 28.01.2022' })}  </a></MenuItem>
+         <MenuItem ><a href='notes2901'>  {intl.formatMessage({ id: 'PN 29.01.2022' })}  </a></MenuItem>
 
             
            
