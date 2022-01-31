@@ -2,6 +2,8 @@ import React from 'react'
 import { init } from "ityped";
 import { useEffect, useRef } from "react";
 import "./Home.scss";
+import { Player } from 'video-react';
+
 
 export default function Home() {
     const textRef = useRef();
@@ -34,7 +36,10 @@ export default function Home() {
 
                 </div>
                 <div className='col-sm-6 banner-image imgContainer'>
-                    <img src="asset/home1.png" class="img-responsive" alt=""/>
+                <Player>
+      <source src="video/nosvoid.mp4" />
+    </Player>
+               
                     
                 </div>
                 
