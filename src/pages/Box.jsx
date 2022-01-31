@@ -6,322 +6,186 @@ export default function Box() {
             <div class="container d-flex justify-content-center">
                 <div class="row series-image-list ">
 
-                    <h5>Lord Draco</h5>
+                <ul class="list-group">
+  <li class="list-group-item d-flex"> <span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Glacerus Box = More chance to get <f class= "item-effect">Broken Key</f>   </li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Draco Box = More chance to get <f class= "item-effect">Grail's Pattern</f> </li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Laurena Box = More chance to get<f class= "item-effect"> Soul Of Innocence</f></li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Zenas Box = More chance to get <f class= "item-effect">Soul of Zenas</f></li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Erenia Box = More chance to get <f class= "item-effect">Soul of Erenia</f></li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Fernon Box = More chance to get<f class= "item-effect"> C45 Equipments</f> </li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Kirollas Box = More chance to get<f class= "item-effect"> Amulet Boxes</f> </li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Paimon Box = More chance to get<f class= "item-effect"> Orc's Jewel Hero </f></li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Belial Box = More chance to get <f class= "item-effect">Ancient Orc Statue material</f></li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Pure Beast Box = More chance to get all primary<f class= "item-effect">  Aura materials</f></li>
+</ul>
 
-                    - 50x Full of Moon
-                    <br/>
-                    - 50x Angel's Feathers
-                    <br/>
-                    - 50x Seed of Power
-                    <br/>
-                    - 1x Volcano Specialist Card
-                    <br/>
-                    - 1x Fire Cannoneer Specialist Card
-                    <br/>
-                    - 1x Gladiator Specialist Card
-                    <br/>
-                    - 2x Large Lump of Gold
-                    <br/>
-                    - 1x Grail's Pattern
-                    <br/>
-                    - 1x Rarify Item
-                    <br/>
-                    <br/>
-
-                    <h5>Glacerus</h5>
-
-                    - 50x Full of Moon
-                    <br/>
-                    - 50x Angel's Feathers
-                    <br/>
-                    - 50x Seed of Power
-                    <br/>
-                    - 1x Scout Specialists Card
-                    <br/>
-                    - 1x Tide Lord Specialists Card
-                    <br/>
-                    - 1x Battle Monk Specialists Card
-                    <br/>
-                    - 1x Mystic Arts Specialists
-                    <br/>
-                    - 1x Rarify Item
-                    <br/>
-                    - 1x Broken Key
-                    <br/>
-                    <br/>
-
-                    <h5>Laurena</h5>
-
-                    - 75x Full of Moon
-                    <br/>
-                    - 75x Angel's Feathers
-                    <br/>
-                    - 75x Seed of Power
-                    <br/>
-                    - 1x Archmage Specialist Card
-                    <br/>
-                    - 1x Avenging Angel Specialists Card
-                    <br/>
-                    - 1x Renegade Specialists Card
-                    <br/>
-                    - 1x Seer Specialists Card
-                    <br/>
-                    - 1x Demon Hunter Specialists Card
-                    <br/>
-                    - 1x Death Reaper Specialists Card
-                    <br/>
-                    - 1x Demon Warrior Card
-                    <br/>
-                    - 1x Master Wolf Specialists Card
-                    <br/>
-                    - 3x Large Lump of Gold
-                    <br/>
-                    - 2x Raid Ticket
-                    <br/>
-                    - 1x Rarify Item
-                    <br/>
-                    - 1x Soul of Innocence
-                    <br/>
-                    <br/>
-
-                    <h5>Maru</h5>
-                    - 5x Large Lump of Gold
-                    <br/>
-                    - 50x Full of Moon
-                    <br/>
-                    - 50x Angel's Feathers
-                    <br/>
-                    - 50x Seed of Power
-                    <br/>
-                    - 3x Lower SP Protection Scroll
-                    <br/>
-                    - 3x High SP Protection Scroll
-                    <br/>
-                    - 2x Golden Equipment Protection Scroll
-                    <br/>
-                    - 1x Perfection
-                    <br/>
-                    - 2x Raid Ticket
-                    <br/>
-                    - 1x Rarify Item
-                    <br/>
-                    - 1x Upgrade Stone
-                    <br/>
-                    <br/>
-
-                    <h5>Fernon</h5>
-                    - 100x Full of Moon
-                    <br/>
-                    - 100x Angel's Feathers
-                    <br/>
-                    - 100x Cella Powder
-                    <br/>
-                    - 1x Luminiel's Shining Crossbow
-                    <br/>
-                    - 1x Abyssal Lorten's Spell Gun
-                    <br/>
-                    - 1x Magic Red Phoenix Token
-                    <br/>
-                    - 1x Broken Krem's Left Blade
-                    <br/>
-                    - 1x Broken Krem's Right Blade
-                    <br/>
-                    - 1x Seli-Lusha's Branch of Light
-                    <br/>
-                    - 1x Azrael's Wings
-                    <br/>
-                    - 1x Divine Fist
-                    <br/>
-                    - 1x Brave Shares' Heavh Armour
-                    <br/>
-                    - 1x Mukraju's Robe
-                    <br/>
-                    - 1x Leather Armour of Silver Soul Glacernon
-                    <br/>
-                    - 1x Champion's Armour
-                    <br/>
-                    - 3x Small Lump of Gold
-                    <br/>
-                    - 1x Random Amulet Box (1x)
-                    <br/>
-                    - 1x Fernon's Gloves
-                    <br/>
-                    - 1x Fernon's Shoes
-                    <br/>
-                    - 3x Raid Ticket
-                    <br/>
-                    - 1x Upgrade Item
-                    <br/>
-                    - 1x Azrael Mask
-                    <br/>
-                    - 1x Soul of Fernon
-                    <br/>
-                    <br/>
-
-                    <h5>Zenas</h5>
-
-                    - 200x Angel's Feathers
-                    <br/>
-                    - 1x Zenas (Fire)
-                    <br/>
-                    - 1x Zenas (Water)
-                    <br/>
-                    - 1x Zenas (Light)
-                    <br/>
-                    - 1x Zenas (Shadow)
-                    <br/>
-                    - 1x Zenas' Divine Ring
-                    <br/>
-                    - 1x Zenas' Necklace
-                    <br/>
-                    - 1x Zenas' Ring
-                    <br/>
-                    - 1x Zenas' Bracelet
-                    <br/>
-                    - 1x Sealed Heavenly Gloves
-                    <br/>
-                    - 1x Sealed Heavenly Shoes
-                    <br/>
-                    - 1x Moth Powder
-                    <br/>
-                    - 1x Random Amulet Box (1x)
-                    <br/>
-                    - 1x Upgrade Item
-                    <br/>
-                    - 1x Soul of Zenas
-                    <br/>
-                    <br/>
-
-                    <h5>Erenia</h5>
-
-                    - 1x Erenia (Fire)
-                    <br/>
-                    - 1x Erenia (Water)
-                    <br/>
-                    - 1x Erenia (Light)
-                    <br/>
-                    - 1x Erenia (Shadow)
-                    <br/>
-                    - 1x Erenia's Necklace
-                    <br/>
-                    - 1x Erenia's Bracelet
-                    <br/>
-                    - 1x Erenia's Ring
-                    <br/>
-                    - 1x Sealed Hellord Gloves
-                    <br/>
-                    - 1x Sealed Hellord Shoes
-                    <br/>
-                    - 1x The Elementary Book of Adventurer
-                    <br/>
-                    - 1x Upgrade Item
-                    <br/>
-                    - 1x Soul of Erenia
-                    <br/>
-                    <br/>
-
-                    <h5>Kirollas</h5>
-                    - 150x Angel's Feathers
-                    <br/>
-                    - 150x Full of Moon
-                    <br/>
-                    - 150x Cella Powder
-                    <br/>
-                    - 1x Ancient Bow
-                    <br/>
-                    - 1x Ancient Dagger
-                    <br/>
-                    - 1x Ancient Armour
-                    <br/>
-                    - 1x Ancient Sword
-                    <br/>
-                    - 1x Ancient Crossbow
-                    <br/>
-                    - 1x Ancient Wand
-                    <br/>
-                    - 1x Ancient Spell Gun
-                    <br/>
-                    - 1x Ancient Gauntlet
-                    <br/>
-                    - 1x Ancient Token
-                    <br/>
-                    - 1x Random Amulet Box (1x)
-                    <br/>
-                    <br/>
-
-                    <h5>Pure Beast</h5>
-
-                    - 150x Angel's Feathers
-                    <br/>
-                    - 150x Full of Moon
-                    <br/>
-                    - 200x Cella Powder
-                    <br/>
-                    - 1x Archer's Aura
-                    <br/>
-                    - 1x Swordsman's Aura
-                    <br/>
-                    - 1x Mage's Aura
-                    <br/>
-                    - 1x Martial's Aura
-                    <br/>
-                    - 1x Obsidian
-                    <br/>
-                    - 1x Magical Fang
-                    <br/>
-                    - 1x Wolf Foot Print
-                    <br/>
-                    <br/>
-
-                    <h5>Belial
-                    </h5>
-
-                    - 1x Ancient Orc Statue
-                    <br/>
-                    - 5x Ancient Hero's Soul
-                    <br/>
-                    - 2x Gleaming Ancient Hero's Soul
-                    <br/>
-                    - 30x Orc Hero's Jewel
-                    <br/>
-                    - 7x Orc Soulstone
-                    <br/>
-                    - 70x Angel's Feather
-                    <br/>
-                    - 70x Full of Moon
-                    <br/>
-                    - 3x Large Lump of Gold
-                    <br/>
-                    - 1x Fairy Booster
-                    <br/>
-                    <br/>
-
-                    <h5>Paimon</h5>
-
-                    - 1x Sunchaser Specialist Card
-                    <br/>
-                    - 1x Voodoo Priest Specialist Card
-                    <br/>
-                    - 1x Waterfall Berserker Specialist Card
-                    <br/>
-                    - 1x Flame Druid Specialist Card
-                    <br/>
-                    - 1x Perfection 2
-                    <br/>
-                    - 30x Orc Hero's Jewel
-                    <br/>
-                    - 1x Ancient Orc Statue
-                    <br/>
-                    - 1x Orc Weapon
-                    <br/>
-                    - 30x Angel's Feather
-                    <br/>
-                    - 30x Full of Moon
-                    <br/>
-                    - 3x Large Lump of Gold
-                    <br/>
-                    - 1x Fairy Booster
-                    <br/>
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"><h5 > Lord Draco</h5></li>
+  <li class="list-group-item">50x Full of Moon</li>
+  <li class="list-group-item">50x Angel's Feathers</li>
+  <li class="list-group-item">50x Seed of Power</li>
+  <li class="list-group-item">1x Volcano Specialist Card</li>
+  <li class="list-group-item">1x Fire Cannoneer Specialist Card</li>
+  <li class="list-group-item">1x Gladiator Specialist Card</li>
+  <li class="list-group-item">2x Large Lump of Gold</li>
+  <li class="list-group-item">1x Grail's Pattern</li>
+  <li class="list-group-item">1x Rarify Item</li>
+</ul>
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Glacerus</h5></li>
+  <li class="list-group-item">50x Full of Moon</li>
+  <li class="list-group-item">50x Angel's Feathers</li>
+  <li class="list-group-item">50x Seed of Power</li>
+  <li class="list-group-item">1x Scout Specialists Card</li>
+  <li class="list-group-item">1x Tide Lord Specialists Card</li>
+  <li class="list-group-item">1x Battle Monk Specialists Card</li>
+  <li class="list-group-item">1x Mystic Arts Specialists</li>
+  <li class="list-group-item">1x Rarify Item</li>
+  <li class="list-group-item">1x Broken Key</li>
+</ul>     
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Laurena</h5></li>
+  <li class="list-group-item">75x Full of Moon</li>
+  <li class="list-group-item">75x Angel's Feathers</li>
+  <li class="list-group-item">75x Seed of Power</li>
+  <li class="list-group-item">1x Archmage Specialist Card</li>
+  <li class="list-group-item">1x Avenging Angel Specialists Card</li>
+  <li class="list-group-item">1x Renegade Specialists Card</li>
+  <li class="list-group-item">1x Seer Specialists Card</li>
+  <li class="list-group-item">1x Demon Hunter Specialists Card</li>
+  <li class="list-group-item">1x Death Reaper Specialists Card</li>
+  <li class="list-group-item">1x Demon Warrior Card</li>
+  <li class="list-group-item">1x Master Wolf Specialists Card</li>
+  <li class="list-group-item">3x Large Lump of Gold</li>
+  <li class="list-group-item">2x Raid Ticket</li>
+  <li class="list-group-item">1x Rarify Item</li>
+  <li class="list-group-item">1x Soul of Innocence</li>
+</ul>             
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Maru</h5></li>
+  <li class="list-group-item">5x Large Lump of Gold</li>
+  <li class="list-group-item">50x Angel's Feathers</li>
+  <li class="list-group-item">50x Full of Moon</li>
+  <li class="list-group-item">50x Seed of Power</li>
+  <li class="list-group-item">3x Lower SP Protection Scroll</li>
+  <li class="list-group-item">3x High SP Protection Scroll</li>
+  <li class="list-group-item">2x Golden Equipment Protection Scroll</li>
+  <li class="list-group-item">3x Perfection</li>
+  <li class="list-group-item">2x Raid Ticket</li>
+  <li class="list-group-item">1x Rarify Item</li>
+  <li class="list-group-item">1x Upgrade Stone</li>
+ 
+</ul>   
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Fernon</h5></li>
+  <li class="list-group-item">100x Full of Moon</li>
+  <li class="list-group-item">100x Angel's Feathers</li>
+  <li class="list-group-item">100x Cella Powder</li>
+  <li class="list-group-item">Archer's c45 eqs</li>
+  <li class="list-group-item">Swordman's c45 eqs</li>
+  <li class="list-group-item">Mage's c45 eqs</li>
+  <li class="list-group-item">MA's c45 eqs</li>
+  <li class="list-group-item">3x Small Lump of Gold</li>
+  <li class="list-group-item">1x Random Amulet Box (1x)</li>
+  <li class="list-group-item">1x Fernon's Gloves</li>
+  <li class="list-group-item">1x Fernon's Shoes</li>
+  <li class="list-group-item">3x Raid Ticket</li>
+  <li class="list-group-item">1x Upgrade Item</li>
+  <li class="list-group-item">1x Azrael Mask</li>
+  <li class="list-group-item">1x Soul of Fernon</li>
+</ul>   
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Zenas</h5></li>
+  <li class="list-group-item">200x Angel's Feathers</li>
+  <li class="list-group-item">1x Zenas (Fire)</li>
+  <li class="list-group-item">1x Zenas (Water)</li>
+  <li class="list-group-item">1x Zenas (Light)</li>
+  <li class="list-group-item">1x Zenas (Shadow)</li>
+  <li class="list-group-item">1x Zenas's Divine Ring</li>
+  <li class="list-group-item">1x Zenas's Necklace</li>
+  <li class="list-group-item">1x Zenas's Ring</li>
+  <li class="list-group-item">1x Zenas's Bracelet</li>
+  <li class="list-group-item">1x Sealed Heavenly Gloves</li>
+  <li class="list-group-item">1x Sealed Heavenly Shoes</li>
+  <li class="list-group-item">1x Moth Powder</li>
+  <li class="list-group-item">1x Random Amulet Box (1x)</li>
+  <li class="list-group-item">1x Upgrade Item</li>
+  <li class="list-group-item">1x Soul of Zenas</li>
+</ul>     
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Erenia</h5></li>
+  <li class="list-group-item">200x Angel's Feathers</li>
+  <li class="list-group-item">1x Erenia (Fire)</li>
+  <li class="list-group-item">1x Erenia (Water)</li>
+  <li class="list-group-item">1x Erenia (Light)</li>
+  <li class="list-group-item">1x Erenia (Shadow)</li>
+  <li class="list-group-item">1x Erenia's Necklace</li>
+  <li class="list-group-item">1x Erenia's Ring</li>
+  <li class="list-group-item">1x Erenia's Bracelet</li>
+  <li class="list-group-item">1x Sealed Hellord Gloves</li>
+  <li class="list-group-item">1x Sealed Hellord Shoes</li>
+  <li class="list-group-item">1x The Elementary Book of Adventurer</li>
+  <li class="list-group-item">1x Upgrade Item</li>
+  <li class="list-group-item">1x Soul of Erenia</li>
+</ul>     
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Kirollas</h5></li>
+  <li class="list-group-item">150x Angel's Feathers</li>
+  <li class="list-group-item">150x Full of Moon</li>
+  <li class="list-group-item">150x Cella Powder</li>
+  <li class="list-group-item">1x Ancient Bow</li>
+  <li class="list-group-item">1x Ancient Dagger</li>
+  <li class="list-group-item">1x Ancient Armour</li>
+  <li class="list-group-item">1x Ancient Sword</li>
+  <li class="list-group-item">1x Ancient Crossbow</li>
+  <li class="list-group-item">1x Ancient Wand</li>
+  <li class="list-group-item">1x Ancient Spell Gun</li>
+  <li class="list-group-item">1x Ancient Gauntlet</li>
+  <li class="list-group-item">1x Ancient Token</li>
+  <li class="list-group-item">1x Random Amulet Box (1x)</li>
+</ul>      
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Pure Beast</h5></li>
+  <li class="list-group-item">150x Angel's Feathers</li>
+  <li class="list-group-item">150x Full of Moon</li>
+  <li class="list-group-item">200x Cella Powder</li>
+  <li class="list-group-item">1x Archer's Aura</li>
+  <li class="list-group-item">1x Swordsman's Aura</li>
+  <li class="list-group-item">1x Mage's Aura</li>
+  <li class="list-group-item">1x Martial's Aura</li>
+  <li class="list-group-item">1x Obsidian</li>
+  <li class="list-group-item">1x Magical Fang</li>
+  <li class="list-group-item">1x Wolf Foot Print</li>
+</ul>   
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Belial</h5></li>
+  <li class="list-group-item">1x Ancient Orc Statue</li>
+  <li class="list-group-item">5x Ancient Hero's Soul</li>
+  <li class="list-group-item">2x Gleaming Ancient Hero's Soul</li>
+  <li class="list-group-item">30x Orc Hero's Jewel</li>
+  <li class="list-group-item">7x Orc Soulstone</li>
+  <li class="list-group-item">70x Angel's Feather</li>
+  <li class="list-group-item">70x Full of Moon</li>
+  <li class="list-group-item">3x Large Lump of Gold</li>
+  <li class="list-group-item">1x Fairy Booster</li>
+</ul>   
+<ul class="list-group mt-3">
+  <li class="list-group-item d-flex justify-content-center"> <h5>Paimon</h5></li>
+  <li class="list-group-item">1x Sunchaser Specialist Card</li>
+  <li class="list-group-item">1x Voodoo Priest Specialist Card</li>
+  <li class="list-group-item">1x Waterfall Berserker Specialist Card</li>
+  <li class="list-group-item">1x Flame Druid Specialist Card</li>
+  <li class="list-group-item">1x Perfection 2</li>
+  <li class="list-group-item">30x Orc Hero's Jewel</li>
+  <li class="list-group-item">1x Ancient Orc Statue</li>
+  <li class="list-group-item">1x Orc Weapon</li>
+  <li class="list-group-item">30x Angel's Feather</li>
+  <li class="list-group-item">30x Full of Moon</li>
+  <li class="list-group-item">3x Large Lump of Gold</li>
+  <li class="list-group-item">1x Orc Weapon</li>
+  <li class="list-group-item">1x Fairy Booster</li>
+</ul>        
+                  
 
                 </div>
             </div>
