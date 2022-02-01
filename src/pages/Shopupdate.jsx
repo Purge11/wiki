@@ -8,7 +8,7 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br/>
                     <br/>
-                    New Fortune Wheel update is alive. [30.01.2022]
+                    New Fortune Wheel update is alive. [31.01.2022]
                     <br/>
                     <br/>
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -31,6 +31,7 @@ export default function Shopupdate() {
                                 <d class="item-effect-shell">
                                     - Damage in Raids is increased by 5%. 
                                 </d>
+                                <br/>
                                 <d class="item-effect-shell">
                                     - Increases Gold earned by 3%.
                                 </d>
