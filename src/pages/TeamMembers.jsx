@@ -50,14 +50,14 @@ export default function TeamMembers() {
                                 <th scope="row">Decameron</th>
                                 <td>ENG</td>
                                 <td>Team Manager</td>
-                                <td class="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/TeamManager.png" alt=""/></td>
                              
                             </tr>
                             <tr className='web-dev-color'>
                                 <th scope="row">Killrog</th>
                                 <td>PL/ENG</td>
                                 <td>Web Developer</td>
-                                <td class="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/Web.png" alt=""/></td>
                               
                             </tr>
                             <tr className='admin-color'>
@@ -157,14 +157,14 @@ export default function TeamMembers() {
                             <tr className='trial-supporter-color'>
                                 <th scope="row">Fekeno</th>
                                 <td>DE/ENG</td>
-                                <td>Game Supporter</td>
+                                <td>Trial Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
                             <tr className='trial-supporter-color'>
                                 <th scope="row">Aeri </th>
                                 <td>TR/ENG</td>
-                                <td>Game Supporter</td>
+                                <td>Trial Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
