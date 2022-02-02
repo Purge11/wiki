@@ -133,7 +133,7 @@ export default function TeamMembers() {
                              
                             </tr>
                             <tr className='supporter-color'>
-                                <th scope="row">Cara</th>
+                                <th scope="row">Mae</th>
                                 <td>DE/ENG</td>
                                 <td>Game Supporter</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
