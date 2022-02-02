@@ -59,6 +59,8 @@ import Shopupdate from './pages/Shopupdate';
 import Wheel from './pages/Wheel';
 import Costiumes from './pages/Costiumes';
 import Notes2801 from './pages/Notes/Notes2801';
+import p8 from './pages/p8';
+import marathon from './pages/marathon';
 
 
 
@@ -193,7 +195,7 @@ const Aside = ({setLocale}) => {
            
           </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-             suffix={<span className="badge yellow">29</span>}>
+             suffix={<span className="badge yellow">31</span>}>
           <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
      
           <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
@@ -206,6 +208,8 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a> </MenuItem>
             <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
             <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
+            <MenuItem><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a> </MenuItem>
+            <MenuItem><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a> </MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='pets'>{intl.formatMessage({ id: 'Mate' })} </a></MenuItem>
             <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
@@ -346,6 +350,8 @@ const Aside = ({setLocale}) => {
           <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
           <Route path='/costumes' component={Costiumes} />
+          <Route path='/p8' component={p8} />
+          <Route path='/marathon' component={marathon} />
           <Route path='/Notes2801' component={Notes2801} />
           
           

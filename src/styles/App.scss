@@ -54,7 +54,9 @@
   .raid,
   .title,
   .mate,
-  .notes {
+  .notes,
+  .p8,
+  .marathon {
 
 
     background-image: url("https://ak.picdn.net/shutterstock/videos/1009676855/thumb/1.jpg?ip=x480");
@@ -277,7 +279,12 @@ body {
       }
     }
   }
-
+.p8{
+  img {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
   .accesory,
   .act4,
   .shop,
@@ -308,7 +315,9 @@ body {
   .raid,
   .title,
   .mate,
-  .notes{
+  .notes,
+  .p8,
+  .marathon{
     padding: 24px;
     flex-grow: 1;
     display: flex;
@@ -332,7 +341,9 @@ body {
         margin-right: 0;
       }
     }
-
+   
+     
+    
     @media (max-width: 767.98px) {
       img {
 
@@ -514,7 +525,9 @@ body {
 .mate {
   .card img {
     width: 20px !important;
+    
   }
+  
 
   a {
     text-decoration: none;
@@ -752,14 +765,17 @@ body {
   transform-style: preserve-3d;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-
+.normalne{
+  img{
+  width: 25px !important;
+  }
+}
 .app .title .card img {
   width: 250px !important;
   margin-left: 0;
   margin-right: 0;
 
 }
-
 
 
 @media (max-width: 1400px) {
