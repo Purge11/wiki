@@ -169,7 +169,7 @@ export default function marathon() {
                                         alt="..."/>
                                     <div class="card-body ">
                                         <h5 class="card-title nosvoid-color ">Fernon' Blessing Buff:</h5>
-                                        <p class="card-text item-effect"><br/>
+                                        <p class="card-text item-effect">
                                             - Damage in Raids is increased by 7%.<br/>
                                             - Your specialist's elementel skill points are increased by 4.<br/>
                                             - Water element is increased by 45.<br/>
@@ -190,7 +190,7 @@ export default function marathon() {
                                         alt="..."/>
                                     <div class="card-body ">
                                         <h5 class="card-title nosvoid-color ">Erenia' Blessing Buff:</h5>
-                                        <p class="card-text item-effect"><br/>
+                                        <p class="card-text item-effect">
                                             - Damage in Erenia Raid is increased by 15%.<br/>
                                             - Your specialist's elementel skill points are increased by 4.<br/>
                                             - Shadow element is increased by 300.</p>
@@ -210,7 +210,7 @@ export default function marathon() {
                                         alt="..."/>
                                     <div class="card-body ">
                                         <h5 class="card-title nosvoid-color ">Zenas' Blessing Buff:</h5>
-                                        <p class="card-text item-effect"><br/>
+                                        <p class="card-text item-effect">
                                             - Damage in Zenas Raid is increased by 15%.<br/>
                                             - Your specialist's elemental skill points are increased by 4.<br/>
                                             - Light element is increased by 300.</p>
