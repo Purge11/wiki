@@ -81,10 +81,10 @@ export default function Box() {
   <li class="list-group-item">100x Full of Moon</li>
   <li class="list-group-item">100x Angel's Feathers</li>
   <li class="list-group-item">100x Cella Powder</li>
-  <li class="list-group-item">Archer's c45 eqs</li>
-  <li class="list-group-item">Swordman's c45 eqs</li>
-  <li class="list-group-item">Mage's c45 eqs</li>
-  <li class="list-group-item">MA's c45 eqs</li>
+  <li class="list-group-item">Archer's c50 eqs</li>
+  <li class="list-group-item">Swordman's c50 eqs</li>
+  <li class="list-group-item">Mage's c50 eqs</li>
+  <li class="list-group-item">MA's c50 eqs</li>
   <li class="list-group-item">3x Small Lump of Gold</li>
   <li class="list-group-item">1x Random Amulet Box (1x)</li>
   <li class="list-group-item">1x Fernon's Gloves</li>
