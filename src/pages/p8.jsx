@@ -165,7 +165,7 @@ export default function p8() {
                     <img src="asset/p8/TS/time space box drop info.jpg" alt=""/>
                     <br/>
                     <br/>
-                    <h1 class="nosvoid-color">Bushi King Guide:</h1>
+                    <h1 class="nosvoid-color d-flex justify-content-center">Bushi King Guide:</h1>
 
                     <br/>
                     <img src="asset/p8/Bushi/Bushi King.jpg" alt=""/>
