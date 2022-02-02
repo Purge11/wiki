@@ -198,7 +198,7 @@ const Aside = ({setLocale}) => {
              suffix={<span className="badge yellow">31</span>}>
           <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
      
-          <MenuItem  ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
+          <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
           <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
             <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
             <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
@@ -212,8 +212,8 @@ const Aside = ({setLocale}) => {
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem>
             <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Mate' })} </a></MenuItem>
             <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
-            <MenuItem  ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
-            <MenuItem  ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
+            <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
+            <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
             <MenuItem><a href='perfection'>{intl.formatMessage({ id: 'Perfection' })}</a>  </MenuItem>
             <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
             <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
