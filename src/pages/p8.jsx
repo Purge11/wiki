@@ -21,9 +21,9 @@ export default function p8() {
                 <h3>C60 Equipment materials:</h3>
                 - Holy Light x2 : Caligor raid box , hardcore raid box
                 <br/>
-                - Belial's broken sword x10 : P8 "Belial" raid box
+                - Belial's broken sword x5 : P8 "Belial" raid box
                 <br/>
-                - Paimon's cursed soul x10 : P8 "Paimon" raid box
+                - Paimon's cursed soul x5 : P8 "Paimon" raid box
                 <br/>
                 - Tower's metal x3 : Can be obtained from Tower 50th floor completion.
                 <br/>
