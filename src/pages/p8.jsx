@@ -133,7 +133,7 @@ export default function p8() {
                     <img src="asset/p8/TS/time space.jpg" alt=""/>
                     <br/>
                     <br/>
-                    <h3>- For unlocking the gate , You must kill all the mobs / bosses alive.
+                    <h3>- For unlocking the gate , You must kill all the mobs (except rooms with bosses) / bosses alive.
                     </h3>
                     - 1st room - for buff / transform etc..
                     <br/>
@@ -171,7 +171,7 @@ export default function p8() {
                     <img src="asset/p8/Bushi/Bushi King.jpg" alt=""/>
                     <br/>
                     <br/>
-                    -You can found Bushi King at c40-c50 Exp Map , It will spawn every 6 hour.
+                    -You can found Bushi King at c40-c50 Exp Map , It will spawn every 15 minutes.
                     <br/>
                     -You will get Bloddy Chest (You need Iron Key to open it , from Time Space)
                     after killed Bushi King. [Daily limit 1x]
