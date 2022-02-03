@@ -38,7 +38,7 @@ export default function p8() {
                 - C55 weapon x1
                 <br/>
                 <br/>
-                <img src="asset/p8/C60/c60 craft.png" alt=""/>
+                <img src="asset/p8/C60/c60eq.png" alt=""/>
                 <h3 class="text-danger mt-3">Note:Don't forget to put the C55 Equipment in the
                     first slot of your inventory while crafting.</h3>
                 <br/><br/>
