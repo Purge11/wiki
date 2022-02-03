@@ -152,9 +152,7 @@ export default function p8() {
                     <br/>
                     -7th room - Kill Boss Fernon Dryad.
                     <br/>
-                    -You will get 1x Time-Space Box from bosses (with % chance)
-                    <br/>
-                    -You will get 1x Iron Key after finished Time Space . (To open Bloddy Chest ,
+                    -You will get 1x Iron Key and Time Space Box after finished Time Space . (To open Bloddy Chest ,
                     from c40-50map Bushi King )
                     <img src="asset/p8/TS/ironkey.jpg" alt=""/>
                     <br/>
@@ -171,10 +169,10 @@ export default function p8() {
                     <img src="asset/p8/Bushi/Bushi King.jpg" alt=""/>
                     <br/>
                     <br/>
-                    -You can found Bushi King at c40-c50 Exp Map , It will spawn every 15 minutes.
+                    -You can found Bushi King at c40-c50 Exp Map , It will spawn every 20 minutes.
                     <br/>
                     -You will get Bloddy Chest (You need Iron Key to open it , from Time Space)
-                    after killed Bushi King. [Daily limit 1x]
+                    after killed Bushi King.
                     <br/>
                     <br/>
                     <img src="asset/p8/Bushi/Bushi King chest.jpg" alt=""/>
