@@ -534,7 +534,7 @@ export default function Raids() {
 
                                     <div class="flip-card-back ">
                                         <h1 class="nosvoid-color">Fernon Raid:</h1>
-                                        <p class="text-danger">All eqs c45/48</p>
+                                        <p class="text-danger">All eqs c50</p>
                                         <p>100x Full of Moon</p>
                                         <p>100x Angel's Feathers</p>
                                         <p>100x Cella Powder</p>
