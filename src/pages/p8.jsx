@@ -171,7 +171,7 @@ export default function p8() {
                     <img src="asset/p8/Bushi/Bushi King.jpg" alt=""/>
                     <br/>
                     <br/>
-                    -You can found Bushi King at c40-c50 Exp Map , It will spawn every X hour.
+                    -You can found Bushi King at c40-c50 Exp Map , It will spawn every 6 hour.
                     <br/>
                     -You will get Bloddy Chest (You need Iron Key to open it , from Time Space)
                     after killed Bushi King. [Daily limit 1x]
