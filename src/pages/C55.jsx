@@ -8,57 +8,41 @@ export default function C55() {
                 <div class="row series-image-list ">
 
                     <h4 class=" nosvoid-color d-flex justify-content-center">C55 Equipment Guide</h4>
-                    <br/>
-                    If you have become Prestige 7, you can teleport to the map by typing $warp p7.
-                    <br/>
-                    <br/>
-                    55c item materials;
-                    <br/>
-                    <br/>
-                    Gold Coin: Drops from Prestige 7 monsters.
-                    <br/>
-                    <br/>
-                    Swordsman,Mage,Archer Aura: Drops from Pure Beast Raid Box
-                    <br/>
-                    <br/>
-                    Black Powder and Golden Powder: You can get it by doing raid daily quests of
-                    Kirollas and Pure Beast. "(Can be done once a day)"
-                    <br/>
-                    <br/>
-                    Holy light: Caligor raid box "(Bounce rate is low.)"
-                    <br/>
-                    <br/>
-                    Ancient Sword,Bow,Armor: P7 "Kirollas" Raid box
-                    <br/>
-                    <br/>
-                    Bow,Dagger,Sword,Wand,Armor Crystal
-                    <br/>
-                    <br/>
-                    Drops from tower box.
-                    <br/>
-                    <br/>
-                    C50 Equipment
-                    <br/>
-                    <br/>
-                    <div>
-                        X1 C50 Equipment
-                        <a href="c50">《📘》c50-guide</a> for Caligor hours..
-                    </div>
-                    <br/>
-                    Flame Crystal
-                    <br/>
-                    <br/>
-                    X2 Flame Crystal can buy from Alchemist NPC in NosVille (x1 500kk)
-                    <br/>
-                    <br/>
-                    <div class="text-danger">Note:Don't forget to put the C50 Equipment in the first
-                        slot of your inventory while crafting.</div>
-                    <br/>
-                    <img src="asset/c55/c55.png" alt=""/>
 
+                    <br/>
+                    <p class="d-flex justify-content-center">If you have become Prestige 7, you can teleport to the map by typing $warp p7.</p>
+                    <br/>
+
+                    <br/>
+                    On p7 map you will find "Craft C55 Equipments NPC", where you can craft C55 Equipments.<br/><br/>
+                    <p class="d-flex justify-content-center">
+                        <img src="asset/c55/c55npc.png" alt=""/><hr/><br/>
+                    </p>
+                    This are the materials you'll need to craft c55 Equipment:
+                    <br/>
+
+                    <br/>
+                    <p>
+                        <b class="item-effect">- Gold Coin x500:</b> Drops from Prestige 7 monsters.<br/>
+                        <b class="item-effect">- Swordsman, Mage, Archer, MA Aura x5:</b> Drops from Pure Beast Raid Box<br/>
+                        <b class="item-effect">- Black Powder x2:</b> You can get it by doing raid daily quests of Kirollas. "(Can be done once a day)"<br/>
+                        <b class="item-effect">- Golden Powder x2:</b> You can get it by doing raid daily quests of Pure Beast. "(Can be done once a day)"<br/>
+                        <b class="item-effect">- Holy light x1:</b> Caligor raid box and Drops from Hardcore Raid Box "(Bounce rate is low.)"<br/>
+                        <b class="item-effect">- Ancient Equipment x3</b> (bow, sword, armour...): Drops from Kirollas Raid Box<br/>
+                        <b class="item-effect">- Equipment Crystal x7</b> (bow, sword, dagger...): Drops from Tower box.<br/>
+                        <b class="item-effect">- Flame Crystal x2:</b> Can be bought from Alchemist NPC on Nosville. (or $buy crystal X | X = Amount to buy) <br/>
+                        <b class="item-effect">- C50 Equipment:</b> Drops from Fernon Raids<br/>
+                    </p>
+                    
+                    <br/>
+
+                    <div class="text-danger d-flex justify-content-center">Note: Don't forget to put the C50 Equipment in the first
+                        slot of your inventory while crafting.</div>
+                    <br/><br/>
+
+                    <img src="asset/c55/c55.png" alt=""/>
                 </div>
-            </div>
-           
+            </div>      
         </div>
     )
 }
