@@ -57,7 +57,7 @@ export default function marathon() {
                                         alt="..."/>
                                     <div class="card-body ">
                                         <h5 class="card-title nosvoid-color ">Fernon Marathon Quest</h5>
-                                        <p class="card-text ">uccessfully complete the raid Incomplete Fernon 400 times.</p>
+                                        <p class="card-text ">Successfully complete the raid Incomplete Fernon 400 times.</p>
                                     </div>
 
                                 </div>
