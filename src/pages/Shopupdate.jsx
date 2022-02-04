@@ -20,7 +20,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                    Shadow King's Mask</th>
+                                    Shadow King's Mask (New)</th>
 
                                 </tr>
                                 <d class="item-effect-shell">
@@ -43,7 +43,7 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Shadow Knight's Helmet</th>
+                                    <th scope="col">Shadow Knight's Helmet (New)</th>
 
                                 </tr>
                                 <d class="item-effect-shell">
@@ -115,7 +115,7 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Raptor Pet</th>
+                                    <th scope="col">Raptor Pet (New)</th>
                                     <th scope="col"><img src="asset/p8/C60/Baby Raptor Blue icon.png" alt=""/></th>
 
                                 </tr>
@@ -131,7 +131,7 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Honeybee Costume Set</th>
+                                    <th scope="col">Honeybee Costume Set (New)</th>
                                     <th scope="col"><img src="asset/p8/C60/Honeybee Costume Set icon.png" alt=""/></th>
 
                                 </tr>
