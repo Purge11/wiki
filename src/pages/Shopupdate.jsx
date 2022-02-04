@@ -20,20 +20,19 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                    Dark Knight's Mask</th>
-                                    <th scope="col"><img src="asset/shop/mask.png" alt=""/></th>
+                                    Shadow King's Mask</th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Damage to all monsters is increased by 5%.
+                                    - Damage to all monsters is increased by 7%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Damage in Raids is increased by 5%. 
+                                    - Damage in Raids is increased by 10%. 
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - Increases Gold earned by 3%.
+                                    - Increases Gold earned by 7%.
                                 </d>
                                 <br/>
 
@@ -44,20 +43,19 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Dark Knight's Helmet</th>
-                                    <th scope="col"><img src="asset/shop/helmet.png" alt=""/></th>
+                                    <th scope="col">Shadow Knight's Helmet</th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Damage in Raids is increased by 5%.
+                                    - Damage in Raids is increased by 8%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - All elemental resistance is increased by 3.
+                                    - All elemental resistance is increased by 7.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                    - The chance of receiving a critical hit is increased by 1%.
+                                    - The chance of receiving a critical hit is increased by 3%.
                                 </d>
                                 
 
@@ -68,20 +66,15 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Venus (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/venus.png" alt=""/></th>
+                                    <th scope="col">Amora (S Buff)</th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                - When raid is finished, there's a 5% chance that box drops second time.
+                                - Chance of inflicting critical hits is increased by 5%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                - Damage in Raids is increased by 10%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                - Increases champion experience received by 15%.
+                                - Increases damage from critical hits by 5%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
@@ -95,16 +88,15 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Aegir (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/aegir.webp" alt=""/></th>
+                                    <th scope="col">Freya (S Buff)</th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                - Meele attacks are increased by 8%.
+                                - Magic attacks are increased by 8%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                - All defence powers are increased by 150.
+                                - Movement speed is increased by 1.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
@@ -112,7 +104,7 @@ export default function Shopupdate() {
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                - There is a 1% chance of causing Severe Electric Shock.
+                                - There is a 1% chance of causing Explosive Shock.
                                 </d>
                                
 
@@ -123,20 +115,23 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Daniel Ducat (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/daniel.webp" alt=""/></th>
+                                    <th scope="col">Raptor Pet</th>
+                                    <th scope="col"><img src="asset/p8/C60/Baby Raptor Blue icon.png" alt=""/></th>
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                - There's a 20% chance of catching a bigger fish.
+                                - All attacks are increased by 8%.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                - There's 30% chance to not consume a fish bait.
+                                - There is a 3% chance of causing Raptor Speed Buff.
                                 </d>
                                 <br/>
                                 <d class="item-effect-shell">
-                                - The fishing experience points you receive are increased by 12%.
+                                - Raptor Speed Buff 
+                                  Chance of inflicting critical hits is increased by 10%
+                                  Increases damage from critical hits by 5%
+                                  Movement speed is increased by 2.
                                 </d>
                                
 
@@ -147,15 +142,15 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Betting Necklace</th>
-                                    <th scope="col"><img src="asset/shop/betingn.webp" alt=""/></th>
+                                    <th scope="col">Honeybee Costume Set</th>
+                                    <th scope="col"><img src="asset/p8/C60/Honeybee Costume Set icon.png" alt=""/></th>
 
                                 </tr>
                               
                                 
-                                <d class="item-effect-shell">
-                                - There's 7% more chance of getting rarity 7-8 while betting.
-                                </d>
+                            </tr>
+                            <img src="asset/p8/C60/Honeybee Costume Set buff.png" alt=""/>
+                            <br/>
                                 
                                 
 
