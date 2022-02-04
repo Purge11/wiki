@@ -143,17 +143,17 @@ export default function Home() {
                         7.3: If you get a permanent ban, you have the rights to appeal after 7 Days.
                         <br/>
                         7.4: Trading Channel Info<br/>
-                        <a href="#">《💰》general-market:</a> Everything that is tradeable: SP's, PSP's, materials Items etc...<br/>
-                        <a href="#">swordsman-eq:</a> Only Swordsman related equipment here : Sword, Xbow, Armour and SP's <br/>
-                        <a href="#">archer-eq:</a> Only Archer related equipment : Bow, Dagger, Armour and SP's <br/>
-                        <a href="#">mage-eq:</a> Only Mage related equipment here : Staff, Gun, Armour and SP's<br/>
-                        <a href="#">martial-eq:</a> Only Martial related equipment here : Fist, Token, Armour and SP's <br/>
+                        <b><d class="nosvoid-color">《💰》general-market:</d></b> Everything that is tradeable: SP's, PSP's, materials Items etc...<br/>
+                        <b><d class="nosvoid-color">swordsman-eq:</d></b> Only Swordsman related equipment here : Sword, Xbow, Armour and SP's <br/>
+                        <b><d class="nosvoid-color">archer-eq:</d></b> Only Archer related equipment : Bow, Dagger, Armour and SP's <br/>
+                        <b><d class="nosvoid-color">mage-eq:</d></b> Only Mage related equipment here : Staff, Gun, Armour and SP's<br/>
+                        <b><d class="nosvoid-color">martial-eq:</d></b> Only Martial related equipment here : Fist, Token, Armour and SP's <br/>
                         <i>If you post your items at the wrong channel, it will be removed.</i>
                     </div>
                     <div class="rules-section">
                         <h1>8 - Punishments</h1>
 
-                        8.1: Bot Using <i>[punishment may vary depending on the situation]</i>
+                        8.1: Bot Using [punishment may vary depending on the situation]
                         <br/>
                         8.2: Stealing Mobs
                         <br/>
@@ -168,8 +168,8 @@ export default function Home() {
                         8.6: You automatically get 2 hours of mute when you leave the Rainbow Battle.
                         <br/>
                         8.7: Any player who starts racist/insulting others on speakers will be
-                        muted/punished. That includes hero speakers too. <i>[Has same punishments with 8.3
-                        (Swearing)]</i>
+                        muted/punished. That includes hero speakers too. [Has same punishments with 8.3
+                        (Swearing)]
                         <br/>
                         8.8: Multi Account (Login at the Same time with more than 3 Accounts)
                         <br/>
@@ -186,8 +186,8 @@ export default function Home() {
                         punished.
                         <br/>
                         8.13: Raiding additional info - Raiding with 6 accs with 3 different ips is not
-                        allowed <br/><i>[For example (One Player) using 3 different computers with 2 acc on x3
-                        computer but with 3 different ips]</i>
+                        allowed <br/>[For example (One Player) using 3 different computers with 2 acc on x3
+                        computer but with 3 different ips]
                         <br/>
                         8.14: Body Shaming on Nosvoid Discord server and Nosvoid in game on
                         speakers/hero chat/whisper/normal chat/memo is not allowed and you will be
@@ -198,13 +198,13 @@ export default function Home() {
                         8.16: Fish Botting/using any 3rd party programs/macros on fishing are not
                         allowed and punishable. (When you get banned for fish botting, all your fish +
                         materials gained will be deleted from your inventory by the lead team.)<br/>
-                         - [Fish Botting][Including 3 Acc Fish Bot]<br/>
-                        <i>First Time: 2 weeks Ban</i><br/>
-                        <i>Second Time: Perm Ban (No appeals/request for unbans)</i><br/>
-                         - [Botting/3rd Party Programs/Macros]<br/>
-                        <i>First time: 2 weeks Ban</i><br/>
-                        <i>Second Time: Perma Ban (No appeals/request for unbans) </i><br/>
-                        <b><i>To all botters, you know who you are. If you continue using them, you'll have to pay the price.</i></b>
+                        [Fish Botting][Including 3 Acc Fish Bot]<br/>
+                        <i>First Time: <d class="text-danger">2 weeks Ban</d></i><br/>
+                        <i>Second Time: <d class="text-danger">Perm Ban (No appeals/request for unbans)</d></i><br/>
+                        [Botting/3rd Party Programs/Macros]<br/>
+                        <i>First time: <d class="text-danger">2 weeks Ban</d></i><br/>
+                        <i>Second Time: <d class="text-danger">Perma Ban (No appeals/request for unbans)</d></i><br/>
+                        To all botters, you know who you are. If you continue using them, you'll have to pay the price.
                         <br/>
                         8.17: Abusing $unstuck command in pvp is not allowed. Any player found misusing
                         the command will be punished.
@@ -215,23 +215,8 @@ export default function Home() {
                         <br/>
                         8.19: Saying real life things in the game/in discord. (Check 2.5 rules)
                     </div>
-
-                    <div class="rules-section">
-                        <h1>RBB Additional info/rules</h1>
-
-                        -When you join RBB, you must be active in the minigame at all times and
-                        participate in it
-                        <br/>
-                        -Sitting in RBB is not allowed
-                        <br/>
-                        <br/>
-                        Any player found afking and just sitting down in RBB will be punished.
-                        <br/>
-                    </div>
                 </div>
             </div>
-
         </div>
-
     )
 }
