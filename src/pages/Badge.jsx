@@ -7,7 +7,7 @@ function Badge() {
             
                 <div class="row  ">
 
-                    <h3 class=" nosvoid-color d-flex justify-content-center">What is Badge? </h3><div className='text-danger mt-2'>(you can buy only two badges per character!)</div>
+                    <h3 class=" nosvoid-color d-flex justify-content-center">What is Badge? </h3><div className='text-danger mt-2'>(you can buy only three badges per character!)</div>
                    
                     <br/>
 
