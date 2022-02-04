@@ -8,7 +8,7 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br/>
                     <br/>
-                    New Fortune Wheel update is alive. [31.01.2022]
+                    New Fortune Wheel update is alive. [4.02.2022]
                     <br/>
                     <br/>
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -120,21 +120,7 @@ export default function Shopupdate() {
 
                                 </tr>
                                 <d class="item-effect-shell">
-                                - All attacks are increased by 8%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                - There is a 3% chance of causing Raptor Speed Buff.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                - Raptor Speed Buff 
-<br/>
-                                  Chance of inflicting critical hits is increased by 10%
-<br/>
-                                  Increases damage from critical hits by 5%
-<br/>
-                                  Movement speed is increased by 2.
+                                <img src="asset/p8/C60/Baby Raptor Blue Buff.png" alt=""/>
                                 </d>
                                
 
