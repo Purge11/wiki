@@ -21,7 +21,7 @@ export default function Shopupdate() {
                                 <tr>
                                     <th scope="col">
                                     Shadow King's Mask (New)</th>
-
+                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt=""/></th>
                                 </tr>
                                 <d class="item-effect-shell">
                                     - Damage to all monsters is increased by 7%.
@@ -44,7 +44,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Shadow Knight's Helmet (New)</th>
-
+                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt=""/></th>
                                 </tr>
                                 <d class="item-effect-shell">
                                     - Damage in Raids is increased by 8%.
@@ -67,7 +67,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Amora (S Buff)</th>
-
+                                    <th scope="col"><img src="asset/shop/amora.png" alt=""/></th>
                                 </tr>
                                 <d class="item-effect-shell">
                                 - Chance of inflicting critical hits is increased by 5%.
@@ -89,7 +89,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Freya (S Buff)</th>
-
+                                    <th scope="col"><img src="asset/shop/freya.png" alt=""/></th>
                                 </tr>
                                 <d class="item-effect-shell">
                                 - Magic attacks are increased by 8%.
@@ -116,14 +116,23 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Raptor Pet (New)</th>
-                                    <th scope="col"><img src="asset/p8/C60/Baby Raptor Blue icon.png" alt=""/></th>
+                                    <th scope="col"><img src="asset/shop/raptor.png" alt=""/></th>
 
                                 </tr>
-                                <d class="item-effect-shell">
-                                <img src="asset/p8/C60/Baby Raptor Blue Buff.png" alt=""/>
-                                </d>
-                               
 
+                                <d class="item-effect-shell">
+                                    - All attacks are increased by 8%.
+                                <br/>
+                                    - There is a 3% chance of causing "Raptor Speed".
+                                </d>
+                                <hr/>
+                                <d class="text-danger">
+                                    - Chance of inficting critical hits is increased by 10%.
+                                <br/>
+                                    - Increases damage from critical hits by 5%.
+                                <br/>
+                                    - Movement speed is increased by 2.
+                                </d>
                             </thead>
                         </table>
                     </div>
@@ -132,26 +141,61 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Honeybee Costume Set (New)</th>
-                                    <th scope="col"><img src="asset/p8/C60/Honeybee Costume Set icon.png" alt=""/></th>
-
+                                    <th scope="col"><img src="asset/shop/bee.png" alt=""/></th>
                                 </tr>
                               
-                                
+                                <br/>
+                                Crown:
+                                <hr/>
                                 <d class="item-effect-shell">
-                                 <img src="asset/p8/C60/Honeybee Costume Set buff.png" alt=""/>
+                                    - All attacks are increased by 2%.
+                                <br/>
+                                    - Maximum HP is increased by  1000.
+                                <br/>
+                                    - Reduces the enemy's elemental resistances by 10.
                                 </d>
-                                
-                                
 
-                               
+                                <br/>
+                                <br/>
+                                Costume:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - All defences are increased by 4%.
+                                <br/>
+                                    - Damage from critical hits is reduced by 15%.
+                                <br/>
+                                    - Movement speed is increased by 1.
+                                </d>
 
+                                <br/>
+                                <br/>
+                                Shades (glasses):
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - Reduced damage received in PvP by 10%.
+                                <br/>
+                                    - Increases PvP attack power by 5%.
+                                <br/>
+                                    - Up to level 4 there is a 15% chance of never getting a bad effect.
+                                </d> 
+
+                                <br/>
+                                <br/>
+                                Costume Wings:
+                                <hr/>
+                                <d class="item-effect-shell">
+                                    - Movement speed is increased by 1.
+                                <br/>
+                                    - All attacks are increased by 3%.
+                                <br/>
+                                    - Dodge is increased by 75.
+                                </d>                        
                             </thead>
                         </table>
-                    </div>
-
+                    </div>                                                                                        
                 </div>
             </div>
-
         </div>
     )
 }
+
