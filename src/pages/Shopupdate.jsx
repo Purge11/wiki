@@ -129,8 +129,11 @@ export default function Shopupdate() {
                                 <br/>
                                 <d class="item-effect-shell">
                                 - Raptor Speed Buff 
+<br/>
                                   Chance of inflicting critical hits is increased by 10%
+<br/>
                                   Increases damage from critical hits by 5%
+<br/>
                                   Movement speed is increased by 2.
                                 </d>
                                
