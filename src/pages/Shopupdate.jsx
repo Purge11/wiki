@@ -148,9 +148,9 @@ export default function Shopupdate() {
                                 </tr>
                               
                                 
-                            </tr>
-                            <img src="asset/p8/C60/Honeybee Costume Set buff.png" alt=""/>
-                            <br/>
+                                <d class="item-effect-shell">
+                                - All attacks are increased by 8%.
+                                </d>
                                 
                                 
 
