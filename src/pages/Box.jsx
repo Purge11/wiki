@@ -12,7 +12,7 @@ export default function Box() {
   <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Laurena Box = More chance to get<f class= "item-effect"> Soul Of Innocence</f></li>
   <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Zenas Box = More chance to get <f class= "item-effect">Soul of Zenas</f></li>
   <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Erenia Box = More chance to get <f class= "item-effect">Soul of Erenia</f></li>
-  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Fernon Box = More chance to get<f class= "item-effect"> C45 Equipments</f> </li>
+  <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Fernon Box = More chance to get<f class= "item-effect"> C50 Equipments</f> </li>
   <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Kirollas Box = More chance to get<f class= "item-effect"> Amulet Boxes</f> </li>
   <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Paimon Box = More chance to get<f class= "item-effect"> Orc's Jewel Hero </f></li>
   <li class="list-group-item d-flex"><span class="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt=""/></span>MVP Belial Box = More chance to get <f class= "item-effect">Ancient Orc Statue material</f></li>
