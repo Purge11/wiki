@@ -8,7 +8,7 @@ export default function p8() {
                 <h1 class="nosvoid-color d-flex justify-content-center">C60 Equipment Guide:</h1>
                 <br/>
 
-                If you have become Prestige 8, you can teleport to the map by typing $warp p8.
+                <p class="d-flex justify-content-center">If you have become Prestige 8, you can teleport to the map by typing $warp p8.</p>
                 <br/>
                 <br/>
                 <h3>C60 Equipment Craft Scroll:</h3>
@@ -59,7 +59,7 @@ export default function p8() {
                 - You will get Easy Coins , Medium Coins , Hard Coins , Very Hard Coins ,
                 Hardcore Raid Box when you finished.
                 <img src="asset/p8/C60/hardcore coins.png" alt=""/>
-                (You can craft at Hardcore Rewards NPC with these Coins)
+                <d class="text-danger">You can craft at Hardcore Rewards NPC with these Coins</d>
                 <br/>
                 <br/>
                 <img src="asset/p8/C60/Hardcore Rewards.png" alt=""/>
@@ -87,8 +87,6 @@ export default function p8() {
                                 <th scope="col"><img src="asset/p8/C60/Baby Raptor Blue icon.png" alt=""/></th>
 
                             </tr>
-
-                            <br/>
                             <img src="asset/p8/C60/Baby Raptor Blue Buff.png" alt=""/>
                             <br/>
 
@@ -117,23 +115,20 @@ export default function p8() {
                                 <th scope="col">
                                     Hardcore raid box info:</th>
                                 <th scope="col"><img src="asset/p8/C60/hardcore raid box icon.png" alt=""/></th>
-
                             </tr>
                             <img src="asset/p8/C60/hardcore raid box info.jpg" alt=""/>
                             <br/>
-
                         </thead>
                     </table>
                     <h1 class="nosvoid-color d-flex justify-content-center">Time Space Guide:</h1>
-
                     <br/>
-                    -Party Time Space with max 3 people
+                    <d class="d-flex justify-content-center">
+                    Party Time Space with max 3 people</d>
+                    <br/>
+                    <d class="d-flex justify-content-center"><img src="asset/p8/TS/ts.png" alt=""/></d>
                     <br/>
                     <br/>
-                    <img src="asset/p8/TS/time space.jpg" alt=""/>
-                    <br/>
-                    <br/>
-                    <h3>- For unlocking the gate , You must kill all the mobs (except rooms with bosses) / bosses alive.
+                    <h3>For unlocking the gate , You must kill all the mobs (except rooms with bosses) / bosses alive.
                     </h3>
                     - 1st room - for buff / transform etc..
                     <br/>
@@ -143,30 +138,31 @@ export default function p8() {
                     <br/>
                     - 4th room - Kill all 17 mobs .
                     <br/>
-                    - 5th room - Kill all 7 mobs and Boss Powerful Molda's Warlock .
+                    - 5th room - Kill Boss Powerful Molda's Warlock .
                     <br/>
-                    - 6th room - Kill all 7mobs and Boss Kenel , Kukukeen , Powerful Molda's Warlock
-                    <br/>
+                    - 6th room - Kill Boss Kenel, Boss Kukukeen and Boss Powerful Molda's Warlock<br/>
+                    <d class="text-danger">You can find bosses on the red spots of next image</d>
                     <br/>
                     <img src="asset/p8/TS/6th room.jpg" alt=""/>
                     <br/>
                     -7th room - Kill Boss Fernon Dryad.
                     <br/>
-                    -You will get 1x Iron Key and Time Space Box after finished Time Space . (To open Bloddy Chest ,
-                    from c40-50map Bushi King )
-                    <img src="asset/p8/TS/ironkey.jpg" alt=""/>
+                    <d class="text-danger">You will get 1x Iron Key and Time Space Box after finished Time Space.</d>
+                    <br/>
+                    You can use iron key to open Bloddy Chest, from c40-50map Bushi King.
                     <br/>
                     <br/>
-                    Time Space Box info :
-                    <br/>
-                    <br/>
+
+                    <th scope="col">
+                        Time space raid box info:
+                    </th>
+                        
                     <img src="asset/p8/TS/time space box drop info.jpg" alt=""/>
                     <br/>
                     <br/>
                     <h1 class="nosvoid-color d-flex justify-content-center">Bushi King Guide:</h1>
-
                     <br/>
-                    <img src="asset/p8/Bushi/Bushi King.jpg" alt=""/>
+                    <d class="d-flex justify-content-center"><img src="asset/p8/Bushi/Bushi King.jpg" alt=""/></d>
                     <br/>
                     <br/>
                     -You can found Bushi King at c40-c50 Exp Map , It will spawn every 20 minutes.
@@ -177,35 +173,32 @@ export default function p8() {
                     <br/>
                     <img src="asset/p8/Bushi/Bushi King chest.jpg" alt=""/>
                     <br/>
-                    Bloody Chest drop info :
+                    <th scope="col">
+                        Bloody Chest drop info:
+                    </th>
+                    - Centurio Bushi x1 (buff 3% atk, 20% exp)
                     <br/>
+                    - Dracula costume x1
                     <br/>
-                    Centurio Bushi x1 (buff 3% atk, 20% exp)
+                    - Jewels bag SP9 perfection x1
                     <br/>
-                    Dracula costume x1
+                    - Bushi Crystal x1 ( Sellable to NPC for 100kk )
                     <br/>
-                    Jewels bag SP9 perfection x1
+                    - Angel's feather x300
                     <br/>
-
-                    Bushi Crystal x1 ( Sellable to NPC for 100kk )
-                    <br/>
-                    Angel's feather x300
-                    <br/>
-                    Full moon x300
+                    - Full moon x300
                     <br/>
                     <br/>
                     <h1 class="nosvoid-color d-flex justify-content-center">Lottery system :</h1>
                     <br/>
-                    <img src="asset/p8/Lottery/Lottery.jpg" alt=""/>
-
+                    <d class="d-flex justify-content-center"><img src="asset/p8/Lottery/Lottery.jpg" alt=""/></d>
+                    <br/>
                     Coins Trader Npc - You can Craft 1x Lottery Ticket with 50x Sunny Coins , 50x
-                    Snowy Coins (Drops from c30-c40maps)
+                    Snowy Coins (Drops from c30-c40maps)<br/>
                     <img src="asset/p8/Lottery/Lottery ticket craft.jpg" alt=""/>
                     <img src="asset/p8/Lottery/Lottery materials.jpg" alt=""/>
                     <br/>
-                    <br/>
                     Lottery Ticket Npc - You can get 1x Lottery Box with 1x Lottery Ticket .
-                    <br/>
                     <br/>
                     <img src="asset/p8/Lottery/Lottery Box.png" alt=""/>
 
