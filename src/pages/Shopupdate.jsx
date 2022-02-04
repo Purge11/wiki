@@ -172,7 +172,7 @@ export default function Shopupdate() {
                                 Shades (glasses):
                                 <hr/>
                                 <d class="item-effect-shell">
-                                    - Reduced damage received in PvP bu 10%.
+                                    - Reduced damage received in PvP by 10%.
                                 <br/>
                                     - Increases PvP attack power by 5%.
                                 <br/>
