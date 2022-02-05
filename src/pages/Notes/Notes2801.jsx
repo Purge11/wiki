@@ -6,38 +6,53 @@ export default function Notes2801() {
             <div class="container">
                 <div class="row mt-5">
                     <ul class="list-group">
-                        <h4>General Changes 05.02.2022</h4>
+                        <d class="nosvoid-color d-flex justify-content-center"><h2>Hey Void Players!</h2></d>
                         <br/>
-                        <h5><d class="nosvoid-color">#Fixes</d></h5>
-                        <li class="list-group-item">Fixed the bug with Slight Freeze debuff on Frozen Swordfish, Coral Wand and Lobster Claw weapon skins.</li>
-                        <li class="list-group-item">Fixed an visual issue with the Prestige 8 Skins, that it showed skins are only for archer.</li>
-                        <li class="list-group-item">Fixed the bug with C60 Equipment scrolls, that scroll didn't disappear after using it.</li>
-                        <li class="list-group-item">Fixed the '' Reduces the enemy's elemental resistances '' buff on the Honeybee Crown.</li>
-                        <li class="list-group-item">Fixed an issue with Broken Yertirand Wand material, that it wasn't tradeable.</li>
-                        <li class="list-group-item">Fixed an issue with Broken Heart of Belial, that it wasn't tradeable.</li>
-                        <li class="list-group-item">Fixed an visual bug with '' Damage in Raid '' bonus on C60 Weapons.</li>
-                        <li class="list-group-item">Fixed an visual bug with Tower's Metal material.</li>
-                        <li class="list-group-item">Fixed wrong buff type on Shadow King's Helmet.</li>
+                        <li class="d-inline-flex p-2 d-flex justify-content-center">
+                            We will be removing the current reward system for our Content Creators and replace it with a new system, 
+                            so we are looking for Content Creators again!
+                        </li>
+                        <br/>
+                        <div class="card">
+                            <div class="card-header">
+                                The new reward system has 5 ranking:
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item"><d class="bcc"><b>Bronze</b></d> Content Creator</li>
+                                <li class="list-group-item"><d class="scc"><b>Silver</b></d> Content Creator</li>
+                                <li class="list-group-item"><d class="gcc"><b>Gold</b></d> Content Creator</li>
+                                <li class="list-group-item"><d class="pcc"><b>Platinum</b></d> Content Creator</li>
+                                <li class="list-group-item"><d class="dcc"><b>Diamond</b></d> Content Creator</li>
+                            </ul>
+                        </div>
 
                         <br/>
-                        <h5><d class="nosvoid-color">#Changes</d></h5>
-                        <li class="list-group-item">Changed stuff inside Hardcore Coins Box, instead of getting all coins at the same time you will get 
-                                                    boxes called '' EM, MH, HVH, VHE Coins Box '' 2 different coins inside one box.</li>
-                        <li class="list-group-item">Increased Reputation amount from 2.7k to 36k in Hardcore Raid.</li>
-                        <li class="list-group-item">Decreased stun of 10-30 Hero Map mobs to 2%.</li>
-                        <li class="list-group-item">Removed stuns from 50-60 Hero Map mobs.</li>
-                        <li class="list-group-item">Nerfed reduce ranged damage of the raid bosses:<br/>
-                                                    <i>[Glacerus         70% to 50%]<br/>
-                                                    [Laurena          65% to 50%]<br/>
-                                                    [Zenas            70% to 55%]<br/>
-                                                    [Erenia           80% to 50%]<br/>
-                                                    [Kirollas         70% to 50%]<br/>
-                                                    [Belial           80% to 65%]<br/>
-                                                    [Paimon           80% to 65%]</i></li>
-                        
                         <br/>
-                        <h5><d class="nosvoid-color">#News</d></h5>
-                        <li class="list-group-item">Added new PvE Skin Upgrades. [Can be upgraded to max 5]</li>
+                        The ranking will be depending on the view amount of each content creator.
+                        <hr/>
+                        <p>
+                            - 150-299 monthly views for <d class="bcc"><b>Bronze</b></d> Content Creator <br/>
+                            - 300-499 monthly views for <d class="scc"><b>Silver</b></d> Content Creator<br/>
+                            - 500-1499 monthly views for <d class="gcc"><b>Gold</b></d> Content Creator<br/>
+                            - 1500-2499 monthly views for <d class="pcc"><b>Platinum</b></d> Content Creator<br/>
+                            - 2500+ monthly views for <d class="dcc"><b>Diamond</b></d> Content Creator<br/>
+                        </p>
+                        <d class="text-danger d-flex justify-content-center"><i>If you got the requirements above, you can join to our Content Creator team after applying. 
+                        [You will need open a ticket from our discord server.]</i></d><br/>
+
+                        <d class="nosvoid-color"><b>The rewards:</b></d>
+                        - In-game title for their own content ranking.<br/>
+                        - Title on discord for their own content ranking.<br/>
+                        - If the content creator wants [BCC] - [SCC] - [GCC] - [PCC] - [DCC] Roles next to their names in-game.<br/>
+                        - Monthly coin prizes for Bronze, Silver, Gold, Platinum and Diamond Content Creators. (Depending on their activity)<br/>
+                        - Coin giveaways between Bronze, Silver, Gold, Platinum and Diamond  Creators every 3 week. (Depending on their activity)<br/>
+                        - Monthly real money giveaways for Platinum - Diamond Content Creators. (Depending on their activity) <br/><br/>
+
+                        <d class="youtube-color"><b>Rules</b></d>
+                        - The Content Creators have to do at least 1 content every week.<br/>
+                        - The rules from NosVoid should be applied on their contents.<br/>
+                        - If the Content Creator will be doing contents for any else server, it shouldn't be related with NosVoid Community.<br/>
+                        - The content creators should send their content on the #videos channel at NosVoid discord, so we can follow them.<br/>
                     </ul>
                 </div>
             </div>
