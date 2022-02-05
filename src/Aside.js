@@ -58,7 +58,7 @@ import sidebarBg from './assets/bg2.jpg';
 import Shopupdate from './pages/Shopupdate';
 import Wheel from './pages/Wheel';
 import Costiumes from './pages/Costiumes';
-import Notes2801 from './pages/Notes/Notes2801';
+import ContentCreator from './pages/ContentCreator';
 import p8 from './pages/p8';
 import marathon from './pages/marathon';
 
@@ -145,20 +145,11 @@ const Aside = ({setLocale}) => {
           </MenuItem>
           
           
-          <MenuItem icon={<FaGem />}><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
+          <MenuItem icon={<FaRegFileAlt />}><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
           
           <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}icon={<FaShopify />}><a href='shop'>  {intl.formatMessage({ id: 'Shop Update' })}  </a></MenuItem>
           
-          <SubMenu
-            suffix={<span className="badge yellow">1</span>}
-            title={intl.formatMessage({ id: 'Patch Notes' })}
-            icon={<FaRegFileAlt />}
-          >
-         <MenuItem ><a href='notes2801'>  {intl.formatMessage({ id: 'PN 29.01.2022' })}  </a></MenuItem>
-
-            
-           
-          </SubMenu>
+          <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}icon={<FaGem />}><a href='contentcreator'>  {intl.formatMessage({ id: 'Content Creator' })}  </a></MenuItem>
         </Menu>
        
         
@@ -352,7 +343,7 @@ const Aside = ({setLocale}) => {
           <Route path='/costumes' component={Costiumes} />
           <Route path='/p8' component={p8} />
           <Route path='/marathon' component={marathon} />
-          <Route path='/Notes2801' component={Notes2801} />
+          <Route path='/contentcreator' component={ContentCreator} />
           
           
           
