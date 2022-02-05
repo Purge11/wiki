@@ -27,13 +27,13 @@ export default function Notes2801() {
                         <li class="list-group-item">Decreased stun of 10-30 Hero Map mobs to 2%.</li>
                         <li class="list-group-item">Removed stuns from 50-60 Hero Map mobs.</li>
                         <li class="list-group-item">Nerfed reduce ranged damage of the raid bosses:<br/>
-                                                    <i>[Glacerus         70% > 50%]<br/>
-                                                    [Laurena          65% > 50%]<br/>
-                                                    [Zenas            70% > 55%]<br/>
-                                                    [Erenia           80% > 50%]<br/>
-                                                    [Kirollas         70% > 50%]<br/>
-                                                    [Belial           80% > 65%]<br/>
-                                                    [Paimon           80% > 65%]</i></li>
+                                                    <i>[Glacerus         70% to 50%]<br/>
+                                                    [Laurena          65% to 50%]<br/>
+                                                    [Zenas            70% to 55%]<br/>
+                                                    [Erenia           80% to 50%]<br/>
+                                                    [Kirollas         70% to 50%]<br/>
+                                                    [Belial           80% to 65%]<br/>
+                                                    [Paimon           80% to 65%]</i></li>
                         
                         <br/>
                         <h5><d class="nosvoid-color">#News</d></h5>
