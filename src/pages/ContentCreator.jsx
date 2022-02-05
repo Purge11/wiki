@@ -22,7 +22,7 @@ export default function ContentCreator() {
                                     <div class="row">
                                         <div class="col-md-1">
                                             <div class="imgAbt">
-                                                <img src="asset/contentcreator/bronze24.png" />
+                                                <img src="asset/contentcreator/bronze24.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-md-8">
@@ -34,7 +34,7 @@ export default function ContentCreator() {
                                     <div class="row">
                                         <div class="col-md-1">
                                             <div class="imgAbt">
-                                                <img src="asset/contentcreator/silver24.png" />
+                                                <img src="asset/contentcreator/silver24.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-md-8">
@@ -46,7 +46,7 @@ export default function ContentCreator() {
                                     <div class="row">
                                         <div class="col-md-1">
                                             <div class="imgAbt">
-                                                <img src="asset/contentcreator/gold24.png" />
+                                                <img src="asset/contentcreator/gold24.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-md-8">
@@ -58,7 +58,7 @@ export default function ContentCreator() {
                                     <div class="row">
                                         <div class="col-md-1">
                                             <div class="imgAbt">
-                                                <img src="asset/contentcreator/platinum24.png" />
+                                                <img src="asset/contentcreator/platinum24.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-md-8">
@@ -70,7 +70,7 @@ export default function ContentCreator() {
                                     <div class="row">
                                         <div class="col-md-1">
                                             <div class="imgAbt">
-                                                <img src="asset/contentcreator/diamond24.png" />
+                                                <img src="asset/contentcreator/diamond24.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-md-8">
