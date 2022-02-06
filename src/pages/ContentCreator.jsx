@@ -181,7 +181,7 @@ export default function ContentCreator() {
                             </d>
                             Content Creator
                             </p>
-                        <br/><br/>
+                        <br/>
 
                         <d class="youtube-color">
                             <b>Rules</b>
