@@ -29,7 +29,7 @@ export default function ContentCreator() {
                                         </div>
                                         <div class="col-md-8">
                                             <d class="bcc">
-                                                <b>Bronze</b>
+                                                <b>Bronze </b>
                                             </d>
                                             Content Creator
                                         </div>
@@ -44,7 +44,7 @@ export default function ContentCreator() {
                                         </div>
                                         <div class="col-md-8">
                                             <d class="scc">
-                                                <b>Silver</b>
+                                                <b>Silver </b>
                                             </d>
                                             Content Creator
                                         </div>
@@ -59,7 +59,7 @@ export default function ContentCreator() {
                                         </div>
                                         <div class="col-md-8">
                                             <d class="gcc">
-                                                <b>Gold</b>
+                                                <b>Gold </b>
                                             </d>
                                             Content Creator
                                         </div>
@@ -74,7 +74,7 @@ export default function ContentCreator() {
                                         </div>
                                         <div class="col-md-8">
                                             <d class="pcc">
-                                                <b>Platinum</b>
+                                                <b>Platinum </b>
                                             </d>
                                             Content Creator
                                         </div>
@@ -89,7 +89,7 @@ export default function ContentCreator() {
                                         </div>
                                         <div class="col-md-8">
                                             <d class="dcc">
-                                                <b>Diamond</b>
+                                                <b>Diamond </b>
                                             </d>
                                             Content Creator
                                         </div>
@@ -105,28 +105,28 @@ export default function ContentCreator() {
                         <p>
                             - 150-299 monthly views for
                             <d class="bcc">
-                                <b>Bronze</b>
+                                <b> Bronze </b>
                             </d>
                             Content Creator
                             <br/>
                             - 300-499 monthly views for
                             <d class="scc">
-                                <b>Silver</b>
+                                <b> Silver </b>
                             </d>
                             Content Creator<br/>
                             - 500-1499 monthly views for
                             <d class="gcc">
-                                <b>Gold</b>
+                                <b> Gold </b>
                             </d>
                             Content Creator<br/>
                             - 1500-2499 monthly views for
                             <d class="pcc">
-                                <b>Platinum</b>
+                                <b> Platinum </b>
                             </d>
                             Content Creator<br/>
                             - 2500+ monthly views for
                             <d class="dcc">
-                                <b>Diamond</b>
+                                <b> Diamond </b>
                             </d>
                             Content Creator<br/>
                         </p>
