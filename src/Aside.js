@@ -53,7 +53,7 @@ import {
   SidebarFooter,
   SidebarContent
 } from 'react-pro-sidebar';
-import { FaTachometerAlt, FaGem, FaList, FaRegLaughWink, FaHeart } from 'react-icons/fa';
+import { FaTachometerAlt, FaList, FaRegLaughWink, FaHeart } from 'react-icons/fa';
 import sidebarBg from './assets/bg2.jpg';
 import Shopupdate from './pages/Shopupdate';
 import Wheel from './pages/Wheel';
