@@ -147,9 +147,9 @@ const Aside = ({setLocale}) => {
           
           <MenuItem icon={<FaRegFileAlt />}><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
           
-          <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}icon={<FaShopify />}><a href='shop'>  {intl.formatMessage({ id: 'Shop Update' })}  </a></MenuItem>
+          <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}icon={<FaShopify />}><a href='shop'>  {intl.formatMessage({ id: 'Shop Update' })}  </a></MenuItem>
           
-          <MenuItem  icon={<FaGem />}><a href='contentcreator'>  {intl.formatMessage({ id: 'Content Creator' })}  </a></MenuItem>
+          <MenuItem icon={<FaGem />}><a href='contentcreator'>  {intl.formatMessage({ id: 'Content Creator' })}  </a></MenuItem>
         </Menu>
        
         
