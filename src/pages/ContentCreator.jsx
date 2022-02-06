@@ -14,6 +14,10 @@ export default function ContentCreator() {
                             We will be removing the current reward system for our Content Creators and
                             replace it with a new system, so we are looking for Content Creators again!
                         </li>
+                        <d class="text-danger d-flex justify-content-center">
+                            <i>If you got the requirements above, you can join to our Content Creator team
+                                after applying. [You will need open a ticket from our discord server.]</i>
+                        </d><br/>
                         <br/>
                         <div class="card">
                             <div class="card-header">
@@ -153,8 +157,8 @@ export default function ContentCreator() {
                         </p>
                         
                         <d class="text-danger d-flex justify-content-center">
-                            <i>If you got the requirements above, you can join to our Content Creator team
-                                after applying. [You will need open a ticket from our discord server.]</i>
+                            <i>Ranks will be depends on the number of viewers obtained in the previous month 
+                                and updated during the current month</i>
                         </d><br/>
 
                         <d class="nosvoid-color">
@@ -188,6 +192,8 @@ export default function ContentCreator() {
                         shouldn't be related with NosVoid Community.<br/>
                         - The content creators should send their content on the #videos channel at
                         NosVoid discord, so we can follow them.<br/>
+
+                        
                     </ul>
                 </div>
             </div>
