@@ -6,7 +6,7 @@ export default function Accesory() {
             <div class="container">
                 <div class="row mt-5 ">
 
-                     <table class="table "> 
+                     <table class="table ">
                         <thead>
                             <tr>
                                 <th scope="col">Item</th>
