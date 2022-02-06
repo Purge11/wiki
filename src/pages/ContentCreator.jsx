@@ -17,7 +17,7 @@ export default function ContentCreator() {
                         <br/>
                         <div class="card">
                             <div class="card-header">
-                                The new reward system has 5 ranking:
+                                The new reward system has 5 ranking + 1 special rank:
                             </div>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">
@@ -95,6 +95,21 @@ export default function ContentCreator() {
                                         </div>
                                     </div>
                                 </li>
+                                <li class="list-group-item">
+                                    <div class="row">
+                                        <div class="col-md-1">
+                                            <div class="imgAbt">
+                                                <img src="asset/contentcreator/master24.png" alt=""/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <d class="mcc">
+                                                <b>Master </b>
+                                            </d>
+                                            Content Creator
+                                        </div>
+                                    </div>
+                                </li>
                             </ul>
                         </div>
 
@@ -129,7 +144,14 @@ export default function ContentCreator() {
                                 <b> Diamond </b>
                             </d>
                             Content Creator<br/>
+                            - 5000+ monthly views for unique
+                            <d class="mcc">
+                                <b> Master </b>
+                            </d>
+                            Content Creator <d class="text-danger ">(this title is only for the biggest one content creator )</d><br/>
+                            
                         </p>
+                        
                         <d class="text-danger d-flex justify-content-center">
                             <i>If you got the requirements above, you can join to our Content Creator team
                                 after applying. [You will need open a ticket from our discord server.]</i>
@@ -140,14 +162,21 @@ export default function ContentCreator() {
                         </d>
                         - In-game title for their own content ranking.<br/>
                         - Title on discord for their own content ranking.<br/>
-                        - If the content creator wants [BCC] - [SCC] - [GCC] - [PCC] - [DCC] Roles next
+                        - If the content creator wants [BCC] - [SCC] - [GCC] - [PCC] - [DCC] - [MCC] Roles next
                         to their names in-game.<br/>
-                        - Monthly coin prizes for Bronze, Silver, Gold, Platinum and Diamond Content
-                        Creators. (Depending on their activity)<br/>
-                        - Coin giveaways between Bronze, Silver, Gold, Platinum and Diamond Creators
-                        every 3 week. (Depending on their activity)<br/>
-                        - Monthly real money giveaways for Platinum - Diamond Content Creators.
-                        (Depending on their activity)
+                        - Monthly coin prizes for Bronze, Silver, Gold, Platinum, Diamond and Master Content
+                        Creators.<br/>
+                        - Coin giveaways between Bronze, Silver, Gold, Platinum, Diamond and Master Creators
+                        every 4 week.<br/>
+                        - Monthly real money giveaways for Platinum - Master Content Creators.
+                        (Depending on their activity)<br/>
+                        <p>
+                        - Additional prizes for
+                            <d class="mcc">
+                                <b> Master  </b>
+                            </d>
+                            Content Creator
+                            </p>
                         <br/><br/>
 
                         <d class="youtube-color">
