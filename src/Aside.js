@@ -3,7 +3,7 @@ import {  FaBars } from 'react-icons/fa';
 import {  FaDiscord, FaHammer, FaCat, FaShopify } from 'react-icons/fa';
 import React, { useState } from 'react';
 import {  FaRegFileAlt } from 'react-icons/fa';
-
+import{FaYoutube} from 'react-icons/fa';
 import Colapsed from './Colapsed';
 import Image from './Image';
 import Darkmode from './Darkmode';
@@ -149,7 +149,7 @@ const Aside = ({setLocale}) => {
           
           <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}icon={<FaShopify />}><a href='shop'>  {intl.formatMessage({ id: 'Shop Update' })}  </a></MenuItem>
           
-          <MenuItem icon={<FaGem />}><a href='contentcreator'>  {intl.formatMessage({ id: 'Content Creator' })}  </a></MenuItem>
+          <MenuItem icon={<FaYoutube />}><a href='contentcreator'>  {intl.formatMessage({ id: 'Content Creator' })}  </a></MenuItem>
         </Menu>
        
         
