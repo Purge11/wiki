@@ -41,10 +41,13 @@ export default function Schedule() {
 
                     <ul class="list-group mt-5">
                         <li class="list-group-item d-flex justify-content-center bg-info text-white">[Color PvP Schedule]</li>
+                        <li class="list-group-item d-flex justify-content-center">07:00</li>
+                        <li class="list-group-item d-flex justify-content-center">11:00</li>
                         <li class="list-group-item d-flex justify-content-center">12:30</li>
                         <li class="list-group-item d-flex justify-content-center">18:00</li>
                         <li class="list-group-item d-flex justify-content-center">21:00</li>
                         <li class="list-group-item d-flex justify-content-center">00:30</li>
+                        <li class="list-group-item d-flex justify-content-center">03:00</li>
 
                     </ul>
                     <ul class="list-group mt-5">
