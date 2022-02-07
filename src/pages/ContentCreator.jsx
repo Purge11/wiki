@@ -21,7 +21,7 @@ export default function ContentCreator() {
                         <br/>
                         <div class="card">
                             <div class="card-header">
-                                The new reward system has 5 ranking + 1 special rank:
+                                The new reward system has 5 rank + 1 special rank:
                             </div>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">
