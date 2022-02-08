@@ -46,11 +46,11 @@ export default function TeamMembers() {
                                 <td class="centered"><img src="asset/team/LeadTeam.png" alt=""/></td>
                               
                             </tr>
-                            <tr className='tr2'>
+                            <tr className='team-manager-color'>
                                 <th scope="row">Decameron</th>
                                 <td>ENG</td>
                                 <td>Team Manager</td>
-                                <td class="centered"><img src="asset/team/TeamManager.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/team_manager.png" alt=""/></td>
                              
                             </tr>
                             <tr className='web-dev-color'>
@@ -67,11 +67,11 @@ export default function TeamMembers() {
                                 <td class="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>
                              
                             </tr>
-                            <tr className='tr5'>
+                            <tr className='event-manager-color'>
                                 <th scope="row">Dark Legend</th>
                                 <td>ITA/ENG</td>
                                 <td>Event Manager</td>
-                                <td class="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
+                                <td class="centered"><img src="asset/team/event_manager.png" alt=""/></td>
                                 
                             </tr>
                             <tr className='game-master-color'>
