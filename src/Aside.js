@@ -16,7 +16,6 @@ import Act4 from './pages/Act4';
 import Badge from './pages/Badge';
 import Books from './pages/Books';
 import Box from './pages/Box';
-import C50 from './pages/C50';
 import C55 from './pages/C55';
 import Equipment from './pages/Equipment';
 import Faires from './pages/Faires';
@@ -219,7 +218,6 @@ const Aside = ({setLocale}) => {
               <MenuItem><a href='accesory'>{intl.formatMessage({ id: 'Accesory' })} </a></MenuItem>
               <MenuItem><a href='badge'>{intl.formatMessage({ id: 'Badge' })} </a></MenuItem>
               <SubMenu title={`${intl.formatMessage({ id: 'Equipment' })} `}>
-                <MenuItem><a href='c50'>{intl.formatMessage({ id: 'C50' })} </a> </MenuItem>
                 <MenuItem><a href='c55'>{intl.formatMessage({ id: 'C55' })}  </a></MenuItem>
                 <MenuItem><a href='faires'>{intl.formatMessage({ id: 'Faires' })}</a> </MenuItem>
                 <MenuItem><a href='Equipment'>{intl.formatMessage({ id: 'Equipment' })}</a> </MenuItem>
@@ -318,7 +316,6 @@ const Aside = ({setLocale}) => {
           <Route path='/badge' component={Badge} />
           <Route path='/books' component={Books} />
           <Route path='/box' component={Box} />
-          <Route path='/c50' component={C50} />
           <Route path='/c55' component={C55} />
           <Route path='/equipment' component={Equipment} />
           <Route path='/faires' component={Faires} />
@@ -336,7 +333,7 @@ const Aside = ({setLocale}) => {
           <Route path='/wings' component={Wings} />
           <Route path='/winter' component={Winter} />
           <Route path='/pets' component={Pets} />
-          <Route path='/psp' component={Psp} />
+          <Route path='/psp' component={Psp} /> 
           <Route path='/shop' component={Shopupdate} />
           <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
