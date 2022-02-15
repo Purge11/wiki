@@ -17,6 +17,7 @@ import Badge from './pages/Badge';
 import Books from './pages/Books';
 import Box from './pages/Box';
 import C55 from './pages/C55';
+import SellableItems from './pages/SellableItems';
 import Equipment from './pages/Equipment';
 import Faires from './pages/Faires';
 import Fish from './pages/Fish';
@@ -189,6 +190,7 @@ const Aside = ({setLocale}) => {
           <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
      
           <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
+          <MenuItem><a href='SellableItems'>{intl.formatMessage({id: 'Sellable Items'})}</a></MenuItem>
           <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
             <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
             <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
@@ -337,6 +339,7 @@ const Aside = ({setLocale}) => {
           <Route path='/shop' component={Shopupdate} />
           <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
+          <Route path='/SellableItems' component={SellableItems}/>
           <Route path='/costumes' component={Costiumes} />
           <Route path='/p8' component={p8} />
           <Route path='/marathon' component={marathon} />
