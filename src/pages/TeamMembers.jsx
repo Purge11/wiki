@@ -21,7 +21,7 @@ export default function TeamMembers() {
                             <tr className='tr1'>
                                 <th scope="row danger">Purge</th>
                                 <td>TR/ENG</td>
-                                <td>Community Manager/Client Modder</td>
+                                <td>Community Manager / Client Modder</td>
                                 <td class="centered"><img src="asset/team/LeadTeam.png" alt=""/></td>
                                 
                             </tr>
@@ -66,10 +66,10 @@ export default function TeamMembers() {
                                 <td>Super Game Master</td>
                                 <td class="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>    
                             </tr>
-                            <tr className='admin-color'>
+                            <tr className='discord-admin-color'>
                                 <th scope="row">Meteion</th>
                                 <td>FR/ENG</td>
-                                <td>Super Game Master</td>
+                                <td>Discord Admin</td>
                                 <td class="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>
                             </tr>
 
@@ -116,17 +116,17 @@ export default function TeamMembers() {
                                
                             </tr>
                             <tr className='game-master-color'>
-                                <th scope="row">GalTor</th>
+                                <th scope="row">MMAA</th>
                                 <td>ITA/ENG</td>
                                 <td>Game Master</td>
                                 <td class="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
                              
                             </tr>
             
-                            <tr className='supporter-color'>
+                            <tr className='mini-wiki-dev-color'>
                                 <th scope="row">Blauker</th>
                                 <td>ESP/ENG</td>
-                                <td>Game Supporter</td>
+                                <td>Game Supporter / Mini Wiki Developer</td>
                                 <td class="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>

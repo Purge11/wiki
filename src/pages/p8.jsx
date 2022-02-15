@@ -157,7 +157,7 @@ export default function p8() {
                         Time space raid box info:
                     </th>
                         
-                    <img src="asset/p8/TS/time space box drop info.jpg" alt=""/>
+                    <img src="asset/p8/TS/tsBox.png" alt=""/>
                     <br/>
                     <br/>
                     <h1 class="nosvoid-color d-flex justify-content-center">Bushi King Guide:</h1>
