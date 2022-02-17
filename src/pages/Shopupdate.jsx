@@ -6,13 +6,13 @@ export default function Shopupdate() {
             <div class="container">
                 <div class="row series-image-list ">
                     Hello NosVoid players,
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     New Fortune Wheel update is alive. [11.02.2022]
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
-                    <br/>
+                    <br />
 
                     <div className='mt-5'></div>
                     <div className='mt-5'>
@@ -20,34 +20,33 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Barni Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/barni.webp" alt=""/></th>
+                                        Shadow King's Helmet</th>
+                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Ranged attacks are increased by 8%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Increases damage from critical hits by 15%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Increases damage in Christmas Raid by 5%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - There is a 1% chance of causing Paralysing Toxin.
-                                </d>
-                                <hr/>
-                                <d class="text-danger">
-                                    Paralysing Toxin:
+                                    - Damage in Raids is increased by 8%.
                                     <br/>
-                                    - No attack possible
+                                    - All elemental resistance is increased by 7.
                                     <br/>
-                                    - Blackout occurs, in releasing at the probability of 40%
+                                    - The chance of receiving a critical hit is increased by 3%.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+                    <div className='mt-5'>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Shadow King's Mask</th>
+                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
+                                </tr>
+                                <d class="item-effect-shell">
+                                    - Damage to all monsters is increased by 7%.
                                     <br/>
+                                    - Damage in Raids is increased by 10%.
+                                    <br/>
+                                    - Increases Gold earned by 7%.
                                 </d>
-
                             </thead>
                         </table>
                     </div>
@@ -55,25 +54,14 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Chloe Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/hloe.png" alt=""/></th>
+                                    <th scope="col">Frankestein Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/frank.png" alt="" /></th>
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Experience gain is increased by 20%.
+                                    - Increases fame received by 10.
+                                    <br/>
+                                    - When you finish Act4 and Caligor Raid you have 5% chance to get additional box.
                                 </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Increases champion experience received by 20%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Increases Gold earned by 15%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Movement speed is increased by 1.
-                                </d>
-
                             </thead>
                         </table>
                     </div>
@@ -81,21 +69,12 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Ceremonial Helmet</th>
-                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt=""/></th>
+                                    <th scope="col">14th Anniversary Boxer Kangaroo Mount</th>
+                                    <th scope="col"><img src="asset/shop/Kangaroo.png" alt="" /></th>
                                 </tr>
                                 <d class="item-effect-shell">
-                                    - Up to 4 level there is a 15% chance of never getting a bad effect.
+                                    - Speed: 31.
                                 </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Increases PvP attack power by 10%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - Reduces damage received in PvP by 5%.
-                                </d>
-
                             </thead>
                         </table>
                     </div>
@@ -103,68 +82,44 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">King of Void Title</th>
-                                    <th scope="col"><img src="asset/shop/kov.webp" alt=""/></th>
+                                    <th scope="col">Special Wedding Costume Set (New)</th>
+                                    <th scope="col"><img src="asset/shop/SpecialWeddingSet.png" alt="" /></th>
                                 </tr>
-                                <d class="item-effect-shell">
-                                    - All attacks are increased by 5%.
-                                </d>
-                                <br/>
-                                <d class="item-effect-shell">
-                                    - All defences are increased by 5%.
-                                </d>
-                                <br/>
-
-                            </thead>
-                        </table>
-                    </div>
-                    <div className='mt-5'>
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Frost Warrior Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/frosty.png" alt=""/></th>
-                                </tr>
-
-                                <br/>
+                                <br />
                                 Hat:
-                                <hr/>
+                                <hr />
                                 <d class="item-effect-shell">
                                     - All attacks are increased by 4%.
-                                    <br/>
-                                    - Increases damage from critical hits by 10%.
+                                    <br />
+                                    - Dodge is increased by 95.
                                 </d>
-
-                                <br/>
-                                <br/>
+                                <br />
+                                <br />
                                 Costume:
-                                <hr/>
+                                <hr />
                                 <d class="item-effect-shell">
-                                    - All defences are increased by 4%.
+                                    - All defences are increased by 6%.
+                                    <br />
+                                    - Up to level 4 there is a 10% chance of never getting a bad effect.
                                     <br/>
-                                    - Dodge is increased by 50.
-
+                                    - Movement speed is increased by 1.
                                 </d>
-
-                                <br/>
-                                <br/>
+                                <br />
+                                <br />
                                 Costume Wings:
-                                <hr/>
+                                <hr />
                                 <d class="item-effect-shell">
-                                    - Shadow element is increased by 30.
-                                    <br/>
+                                    - Light element is increased by 50.
+                                    <br />
                                     - Movement speed is increased by 1.
-                                    <br/>
-                                    - There is a 1% chance of causing Shivering Frost.
+                                    <br />
+                                    - There is a 5% chance of causing "Bind"
                                 </d>
-                                <hr/>
+                                <hr />
                                 <d class="text-danger">
-                                    Shivering Frost Debuff (4 seconds) :
+                                    Bind Debuff <i>(4 seconds)</i>:
                                     <br/>
-                                    - Movement speed is decreased by 5.
-                                    <br/>
-                                    - No attack possible
-                                    <br/>
+                                    - No defence possible
                                 </d>
                             </thead>
                         </table>
@@ -173,38 +128,21 @@ export default function Shopupdate() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Plague Doctor/Nurse Set</th>
-                                    <th scope="col"><img src="asset/shop/plague.webp" alt=""/></th>
+                                    <th scope="col">Mini Blue Amora Pet (New)</th>
+                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
                                 </tr>
-
-                                <br/>
-                                Hat:
-                                <hr/>
                                 <d class="item-effect-shell">
-                                    - All attacks are increased by 4%.
+                                    - All attacks increased by 5%.
                                     <br/>
-                                    - Hit rate of all attacks is increased by 100.
-                                </d>
-
-                                <br/>
-                                <br/>
-                                Costume:
-                                <hr/>
-                                <d class="item-effect-shell">
-                                    - All defences are increased by 4%.
+                                    - All defences are increased by 6%.
                                     <br/>
-                                    - There is a 3% chance of causing Vaccine.
-
-                                </d>
-
-                                <hr/>
-                                <d class="text-success">
-                                    Vaccine Buff:
+                                    - Movement speed is increased by 1.
                                     <br/>
-                                    - Up to 4 level there is a 100% chance of never getting a bad effect.
+                                    - With 5% chance;
                                     <br/>
-                                    - Every 2 seconds: Restores 0(Player Level*10) HP.
+                                     -- HP is increased by 5% of damage given.
                                     <br/>
+                                     -- MP is increased by 5% of damage given.
                                 </d>
                             </thead>
                         </table>
