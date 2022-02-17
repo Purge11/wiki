@@ -28,7 +28,7 @@ export default function ValentineEvent() {
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">New Wedding Costume Set <i>Obtained in Fortune Wheel</i></th>
+                                    <th scope="col">New Wedding Costume Set</th>
                                     <th scope="col"><img src="asset/shop/--.png" alt="" /></th>
                                 </tr>
 

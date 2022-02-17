@@ -12,46 +12,35 @@ export default function Home() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 60,
-      strings: ["Accesory", "Act4", "Badge", "Books", "Boxes", "C50", "C55", "Equipment", "Faires", "Fishing", "Perdections", "Prestige", "Resistances",
-        "Runes", "Shells", "Sps", "Tattos", "Wings", "Pets", "Psps", "Titles", "Raids", "Costumes"],
+      strings: ["Amora", "Cupid", "Wedding", "Romeo", "Julietta", "Love", "Pets"],
     });
   }, []);
   return (
-    <div className='home-start'>
+    <div className='home-start-valentine'>
       <div className='container '>
         <div className='row mt-5'>
           <div className='col-sm-6 banner-info'>
             <div className="wrapper">
-              <img src="asset/home2.png" class="imghome" alt="" />
-              <h2>Hey Welcome in Void </h2>
-              <h1>in a place where everything is possible</h1>
+              <img src="asset/homeValentine.png" class="imghomevalentine" alt="" />
+              <h2>Welcome to Void </h2>
+              <h1>a place where everything is possible</h1>
               <h3>
-
                 Discover <span ref={textRef}></span>
               </h3>
             </div>
-            <h1>adventure will not wait</h1>
-            <a class="btn btn-first" href='rules'>Let's start</a>
-
-
+            <h1>adventure will not wait!</h1>
+            <a class="btn btn-first" href='ValentineEvent'>Let's start</a>
           </div>
+
           <div className='col-sm-6 banner-image imgContainer'>
-            <Player>
-              <source src="video/nosvoid.mp4" />
-            </Player>
-
-
+            <div class="d-flex flex-row">
+            <div class="p-1">__________________ <b>Evolution and Valentine event Trailer</b> __________________<Player>
+                <source src="video/nosvoidValentine.mp4" />
+              </Player></div>
+            </div>
           </div>
-
         </div>
-
-
       </div>
-
-
-
     </div>
-
-
   )
 }
