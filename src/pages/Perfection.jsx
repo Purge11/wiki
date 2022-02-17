@@ -4,10 +4,10 @@ import React from 'react'
 export default function Perfection() {
     return (
         <div className='perfection'>
-            <div class="container">
-                <div class="row  ">
+            <div className="container">
+                <div className="row  ">
 
-                    <h4 class=" nosvoid-color d-flex justify-content-center">What is perfection stone?</h4>
+                    <h4 className=" nosvoid-color d-flex justify-content-center">What is perfection stone?</h4>
                     <br/>
 
                     Excellence gives statistics and has nothing to do with skill point distribution.

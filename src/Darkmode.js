@@ -4,7 +4,7 @@ import Switch from 'react-switch';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-const Main = ({
+const DarkMode = ({
   collapsed,
   rtl,
   image,
@@ -41,4 +41,4 @@ const Main = ({
   );
 };
 
-export default Main;
+export default DarkMode;

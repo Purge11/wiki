@@ -4,10 +4,10 @@ import React from 'react'
 export default function Equipment() {
     return (
         <div className='books'>
-            <div class="container">
-                <div class="row mt-5 ">
+            <div className="container">
+                <div className="row mt-5 ">
 
-                    <table class="table">
+                    <table className="table">
                         <thead>
                             <tr>
                                 <th scope="col">Lvl</th>

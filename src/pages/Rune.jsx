@@ -4,8 +4,8 @@ import React from 'react'
 export default function rune() {
     return (
         <div className='rune'>
-            <div class="container">
-                <div class="row  ">
+            <div className="container">
+                <div className="row  ">
 
                     You can make your weapon even more powerful by visiting Martas. You can carve up
                     to 21 runes of 21, but only to a level 80 or higher main weapon that is attached
@@ -19,7 +19,7 @@ export default function rune() {
                     runes you have with the Rune removal hamme
                     <br/>
                     <br/>
-                    <table class="table  ">
+                    <table className="table  ">
                         <thead>
                             <tr>
                                 <th scope="col">Runes Stats</th>

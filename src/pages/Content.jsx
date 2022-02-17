@@ -6,13 +6,13 @@ export default function Content() {
     return (
         <IconContext.Provider value={{ color: '#ff0000' }}>
         <div className='content '>
-            <div class="container ">
-                <div class="row  ">
+            <div className="container ">
+                <div className="row  ">
                 
-                    <h1 className='d-flex justify-content-center mt-5 mb-5'>NosVoid Content Creators <div class="youtube-icn"><SiIcons.SiYoutube/></div> </h1>
-                    <table class="table ">
+                    <h1 className='d-flex justify-content-center mt-5 mb-5'>NosVoid Content Creators <div className="youtube-icn"><SiIcons.SiYoutube/></div> </h1>
+                    <table className="table ">
                     
-                        <thead class="thead-dark">
+                        <thead className="thead-dark">
                             <tr>
                                 <th scope="col">Name</th>
                                 <th scope="col ">Youtube</th>

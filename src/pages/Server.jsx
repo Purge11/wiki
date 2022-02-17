@@ -4,8 +4,8 @@ import React from 'react';
 function Server() {
     return (
         <div className='server '>
-            <div class="container">
-                <div class="row series-image-list ">
+            <div className="container">
+                <div className="row series-image-list ">
 
                     STARTER-GUIDE
                     <br/>
@@ -33,11 +33,11 @@ function Server() {
                     <br/>
                    
                  
-                    <ul class="list-group">
-  <li class="list-group-item">$WarpList - You can see list of Maps</li>
-  <li class="list-group-item">$Buy Cella - [amount] / Potion [amount] / Crystal [amount]</li>
-  <li class="list-group-item">$Eventtime - You can see time of Events</li>
-  <li class="list-group-item">$Buy - You can see list of items</li>
+                    <ul className="list-group">
+  <li className="list-group-item">$WarpList - You can see list of Maps</li>
+  <li className="list-group-item">$Buy Cella - [amount] / Potion [amount] / Crystal [amount]</li>
+  <li className="list-group-item">$Eventtime - You can see time of Events</li>
+  <li className="list-group-item">$Buy - You can see list of items</li>
 </ul>
 <br/>
 
