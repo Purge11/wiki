@@ -65,7 +65,7 @@ export default function Costiumes() {
                                 <thead>
                                     <tr>
                                         <th scope="col">Aqua Bushi Set</th>
-                                        <th scope="col"><img src="asset/costumes/colorbushi.png" alt="" /></th>
+                                        <th scope="col"><img src="asset/costumes/aquabushi.png" alt="" /></th>
                                     </tr>
                                     <br />
                                     Hat:
@@ -296,7 +296,7 @@ export default function Costiumes() {
                                 </thead>
                             </table>
                         </div>
-                    </li>    
+                    </li>
                     <li class="sc">
                         <div className='mt-5 bordero '>
                             <table class="table">
@@ -530,7 +530,7 @@ export default function Costiumes() {
                             </table>
                         </div>
                     </li>
-                    
+
 
                     <li class="pc">
                         <div className='mt-5 bordero'>
