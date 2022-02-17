@@ -447,7 +447,7 @@ export default function EvolutionEvent() {
                         <tr className='tr1'>
                             <td>
                                 <d class="item-effect-shell">
-                                    Increase 6% success rate while perfecting SPs.
+                                    Increase 5% success rate while perfecting SPs.
                                 </d>
                             </td>
                             <td>
@@ -476,7 +476,7 @@ export default function EvolutionEvent() {
                             </td>
                             <td>
                                 <b class="item-effect-shell">
-                                    There's 5% more of getting rarity 7-8 while betting.
+                                    There's 10% more of getting rarity 7-8 while betting.
                                 </b>
                             </td>
                         </tr>
@@ -495,11 +495,11 @@ export default function EvolutionEvent() {
                         <tr className='tr1'>
                             <td>
                                 <d class="item-effect-shell">
-                                    Damage in Raids is increased by 5%.
+                                    Damage in Raids is increased by 3%.
                                     <br/>
-                                    Increases fame received by 8%.
+                                    Increases fame received by 5%.
                                     <br/>
-                                    Magic damage is increased by 3% in raids.
+                                    Magic damage is increased by 2% in raids.
                                 </d>
                             </td>
                             <td>
@@ -527,13 +527,13 @@ export default function EvolutionEvent() {
                         <tr className='tr1'>
                             <td>
                                 <d class="item-effect-shell">
-                                    Damage in Raids is increased by 5%.
+                                    Damage in Raids is increased by 3%.
                                     <br/>
-                                    Increases fame received by 8%.
+                                    Increases fame received by 5%.
                                     <br/>
-                                    melee damage increased by 3% in raids.
+                                    melee damage increased by 2% in raids.
                                     <br/>
-                                    Increase 3% crit chance in raids.
+                                    Increase 2% crit chance in raids.
                                 </d>
                             </td>
                             <td>
@@ -563,13 +563,13 @@ export default function EvolutionEvent() {
                         <tr className='tr1'>
                             <td>
                                 <d class="item-effect-shell">
-                                    Damage in Raids is increased by 5%.
+                                    Damage in Raids is increased by 3%.
                                     <br/>
-                                    Increases fame received by 8%.
+                                    Increases fame received by 5%.
                                     <br/>
-                                    melee damage increased by 3% in raids.
+                                   Ranged damage is increased by 2% in Raids.
                                     <br/>
-                                    Increase 10% crit damage in raids.
+                                    Increase 5% crit damage in raids.
                                 </d>
                             </td>
                             <td>
@@ -578,9 +578,9 @@ export default function EvolutionEvent() {
                                     <br/>
                                     Increases fame received by 10%
                                     <br/>
-                                    melee damage increased by 5% in raids.
+                                    Ranged damage is increased by 5% in Raids.
                                     <br/>
-                                    Increase 20% crit damage in raids.
+                                    Increase 15% crit damage in raids.
                                 </b>
                             </td>
                         </tr>
