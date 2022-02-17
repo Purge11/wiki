@@ -3,10 +3,10 @@ import React from 'react'
 export default function ValentineEvent() {
     return (
         <div className='valentineevent'>
-            <div class="container">
-                <h1 class="nosvoid-color d-flex justify-content-center">Valentine's Day Event Guide</h1>
+            <div className="container">
+                <h1 className="nosvoid-color d-flex justify-content-center">Valentine's Day Event Guide</h1>
                 <br />
-                <h4><b class="nosvoid-color">Defend Amora with your partner!</b></h4>
+                <h4><b className="nosvoid-color">Defend Amora with your partner!</b></h4>
                 <br />
                 <h4>How it works?</h4>
                 You need to click on a person and then click on the item, the person you clicked will receive an invite, for example:
@@ -23,9 +23,9 @@ export default function ValentineEvent() {
                 </th>
                 <img src="asset/ValentineEvent/ValentineBox.png" alt="" />
 
-                <div class="row series-image-list">
+                <div className="row series-image-list">
                     <div className='mt-5'>
-                        <table class="table">
+                        <table className="table">
                             <thead>
                                 <tr>
                                     <th scope="col">New Wedding Costume Set</th>
@@ -35,7 +35,7 @@ export default function ValentineEvent() {
                                 <br />
                                 Hairstyle:
                                 <hr />
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - All attacks are increased by 4%.
                                     <br />
                                     - Dodge is increased by 95.
@@ -45,7 +45,7 @@ export default function ValentineEvent() {
                                 <br />
                                 Clothes:
                                 <hr />
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - All defences are increased by 6%.
                                     <br />
                                     - Up to level 4 there is a 10% chance of never getting a bad effect.
@@ -58,7 +58,7 @@ export default function ValentineEvent() {
                                 <br />
                                 Costume Wings:
                                 <hr />
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - Light element is increased by 50.
                                     <br />
                                     - Movement speed is increased by 1.
@@ -66,13 +66,13 @@ export default function ValentineEvent() {
                                     - There is a 5% chance of causing Bind.
                                 </d>
                                 <hr />
-                                <d class="text-danger">
+                                <d className="text-danger">
                                     Bind Debuff <i>(3 seconds)</i>:
                                     <br />
                                     - No defence possible
                                 </d>
                                 <br/><br/>
-                                <div class="d-flex p-0"><div class="alert alert-secondary" role="alert">
+                                <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                     <i>Obtained: Fortune Wheel</i>
                                 </div></div>
                             </thead>

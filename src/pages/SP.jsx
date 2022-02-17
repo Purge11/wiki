@@ -4,10 +4,10 @@ import React from 'react'
 export default function SP() {
     return (
         <div className='sp'>
-            <div class="container">
-                <div class="row  ">
+            <div className="container">
+                <div className="row  ">
 
-                    <h2 class="nosvoid-color d-flex justify-content-center">How ​​do I get SP cards?</h2>
+                    <h2 className="nosvoid-color d-flex justify-content-center">How ​​do I get SP cards?</h2>
                     <br/>
                     <br/>
                     <br/>
@@ -80,9 +80,9 @@ export default function SP() {
                     - You can get the pirate expert card through the summer event.
                     <br/>
                     <br/>
-                    <div class=""></div>
-                    <img class="" src="asset/sp/sp2.png" alt=""/>
-                    <img class="mt-3"src="asset/sp/sp1.png" alt=""/>
+                    <div className=""></div>
+                    <img className="" src="asset/sp/sp2.png" alt=""/>
+                    <img className="mt-3"src="asset/sp/sp1.png" alt=""/>
 
                    
 

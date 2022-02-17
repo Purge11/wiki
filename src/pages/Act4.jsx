@@ -4,11 +4,11 @@ import React from 'react'
 export default function Act4() {
     return (
         <div className='act4 '>
-            <div class="container d-flex justify-content-center">
-                <div class="row series-image-list ">
+            <div className="container d-flex justify-content-center">
+                <div className="row series-image-list ">
 
-                    <div class="row">
-                        <h1 class=" nosvoid-color d-flex justify-content-center">What can I do in Act4?</h1>
+                    <div className="row">
+                        <h1 className=" nosvoid-color d-flex justify-content-center">What can I do in Act4?</h1>
                         <br/>
                   
                         -You can craft wings.

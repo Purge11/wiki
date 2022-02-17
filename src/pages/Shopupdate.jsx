@@ -3,8 +3,8 @@ import React from 'react'
 export default function Shopupdate() {
     return (
         <div className='shop'>
-            <div class="container">
-                <div class="row series-image-list ">
+            <div className="container">
+                <div className="row series-image-list ">
                     Hello NosVoid players,
                     <br />
                     <br />
@@ -16,14 +16,14 @@ export default function Shopupdate() {
 
                     <div className='mt-5'></div>
                     <div className='mt-5'>
-                        <table class="table">
+                        <table className="table">
                             <thead>
                                 <tr>
                                     <th scope="col">
                                         Shadow King's Helmet</th>
                                     <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
                                 </tr>
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - Damage in Raids is increased by 8%.
                                     <br/>
                                     - All elemental resistance is increased by 7.
@@ -34,13 +34,13 @@ export default function Shopupdate() {
                         </table>
                     </div>
                     <div className='mt-5'>
-                        <table class="table">
+                        <table className="table">
                             <thead>
                                 <tr>
                                     <th scope="col">Shadow King's Mask</th>
                                     <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
                                 </tr>
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - Damage to all monsters is increased by 7%.
                                     <br/>
                                     - Damage in Raids is increased by 10%.
@@ -51,13 +51,13 @@ export default function Shopupdate() {
                         </table>
                     </div>
                     <div className='mt-5'>
-                        <table class="table">
+                        <table className="table">
                             <thead>
                                 <tr>
                                     <th scope="col">Frankestein Partner Card (S Buff)</th>
                                     <th scope="col"><img src="asset/shop/frank.png" alt="" /></th>
                                 </tr>
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - Increases fame received by 10.
                                     <br/>
                                     - When you finish Act4 and Caligor Raid you have 5% chance to get additional box.
@@ -66,20 +66,20 @@ export default function Shopupdate() {
                         </table>
                     </div>
                     <div className='mt-5'>
-                        <table class="table">
+                        <table className="table">
                             <thead>
                                 <tr>
                                     <th scope="col">14th Anniversary Boxer Kangaroo Mount</th>
                                     <th scope="col"><img src="asset/shop/Kangaroo.png" alt="" /></th>
                                 </tr>
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - Speed: 31.
                                 </d>
                             </thead>
                         </table>
                     </div>
                     <div className='mt-5'>
-                        <table class="table">
+                        <table className="table">
                             <thead>
                                 <tr>
                                     <th scope="col">Special Wedding Costume Set (New)</th>
@@ -88,7 +88,7 @@ export default function Shopupdate() {
                                 <br />
                                 Hat:
                                 <hr />
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - All attacks are increased by 4%.
                                     <br />
                                     - Dodge is increased by 95.
@@ -97,7 +97,7 @@ export default function Shopupdate() {
                                 <br />
                                 Costume:
                                 <hr />
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - All defences are increased by 6%.
                                     <br />
                                     - Up to level 4 there is a 10% chance of never getting a bad effect.
@@ -108,7 +108,7 @@ export default function Shopupdate() {
                                 <br />
                                 Costume Wings:
                                 <hr />
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - Light element is increased by 50.
                                     <br />
                                     - Movement speed is increased by 1.
@@ -116,7 +116,7 @@ export default function Shopupdate() {
                                     - There is a 5% chance of causing "Bind"
                                 </d>
                                 <hr />
-                                <d class="text-danger">
+                                <d className="text-danger">
                                     Bind Debuff <i>(4 seconds)</i>:
                                     <br/>
                                     - No defence possible
@@ -125,13 +125,13 @@ export default function Shopupdate() {
                         </table>
                     </div>
                     <div className='mt-5'>
-                        <table class="table">
+                        <table className="table">
                             <thead>
                                 <tr>
                                     <th scope="col">Mini Blue Amora Pet (New)</th>
                                     <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
                                 </tr>
-                                <d class="item-effect-shell">
+                                <d className="item-effect-shell">
                                     - All attacks increased by 5%.
                                     <br/>
                                     - All defences are increased by 6%.

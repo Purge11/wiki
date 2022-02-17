@@ -3,11 +3,11 @@ import React from 'react';
 function Prestige() {
     return (
         <div className='prestige'>
-            <div class="container d-flex justify-content-center">
-                <div class="row  ">
-                <h4 class=" nosvoid-color d-flex justify-content-center">Prestige guide</h4>
+            <div className="container d-flex justify-content-center">
+                <div className="row  ">
+                <h4 className=" nosvoid-color d-flex justify-content-center">Prestige guide</h4>
                     <br/>
-                    <div class="container d-flex justify-content-center mt-4">
+                    <div className="container d-flex justify-content-center mt-4">
                         -For Prestige 1 you need to be 99lvl.
                         <br/>
                         -For Prestige 2 you need to be 99lvl.
@@ -31,7 +31,7 @@ function Prestige() {
                     creatures. .After collecting enough prestige items, you can craft the item
                     "Prestige" from the outside NPC.
                     <br/>
-                    <p class="text-danger">To reach the Prestige level, remove all your items and
+                    <p className="text-danger">To reach the Prestige level, remove all your items and
                         double click on the item "Prestige"</p>
 
                     <br/>

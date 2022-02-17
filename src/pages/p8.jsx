@@ -3,12 +3,12 @@ import React from 'react'
 export default function p8() {
     return (
         <div className='p8'>
-            <div class="container">
+            <div className="container">
 
-                <h1 class="nosvoid-color d-flex justify-content-center">C60 Equipment Guide:</h1>
+                <h1 className="nosvoid-color d-flex justify-content-center">C60 Equipment Guide:</h1>
                 <br/>
 
-                <p class="d-flex justify-content-center">If you have become Prestige 8, you can teleport to the map by typing $warp p8.</p>
+                <p className="d-flex justify-content-center">If you have become Prestige 8, you can teleport to the map by typing $warp p8.</p>
                 <br/>
                 <br/>
                 <h3>C60 Equipment Craft Scroll:</h3>
@@ -39,10 +39,10 @@ export default function p8() {
                 <br/>
                 <br/>
                 <img src="asset/p8/C60/c60eq.png" alt=""/>
-                <h3 class="text-danger mt-3">Note:Don't forget to put the C55 Equipment in the
+                <h3 className="text-danger mt-3">Note:Don't forget to put the C55 Equipment in the
                     first slot of your inventory while crafting.</h3>
                 <br/><br/>
-                <h1 class="nosvoid-color d-flex justify-content-center">
+                <h1 className="nosvoid-color d-flex justify-content-center">
                     Hardcore Raid Guide:</h1>
                 <br/>
                 -You can buy Hardcore raid seal from Raid Seal Npc (2kk)
@@ -59,12 +59,12 @@ export default function p8() {
                 - You will get Easy Coins , Medium Coins , Hard Coins , Very Hard Coins ,
                 Hardcore Raid Box when you finished.
                 <img src="asset/p8/C60/hardcore coins.png" alt=""/>
-                <d class="text-danger">You can craft at Hardcore Rewards NPC with these Coins</d>
+                <d className="text-danger">You can craft at Hardcore Rewards NPC with these Coins</d>
                 <br/>
                 <br/>
                 <img src="asset/p8/C60/Hardcore Rewards.png" alt=""/>
                 <div className='mt-5'>
-                    <table class="table">
+                    <table className="table">
                         <thead>
                             <tr>
                                 <th scope="col">
@@ -79,7 +79,7 @@ export default function p8() {
                     </table>
                 </div>
                 <div className='mt-5'>
-                    <table class="table">
+                    <table className="table">
                         <thead>
                             <tr>
                                 <th scope="col">
@@ -94,7 +94,7 @@ export default function p8() {
                     </table>
                 </div>
                 <div className='mt-5'>
-                    <table class="table">
+                    <table className="table">
                         <thead>
                             <tr>
                                 <th scope="col">
@@ -109,7 +109,7 @@ export default function p8() {
                     </table>
                 </div>
                 <div className='mt-5'>
-                    <table class="table">
+                    <table className="table">
                         <thead>
                             <tr>
                                 <th scope="col">
@@ -120,12 +120,12 @@ export default function p8() {
                             <br/>
                         </thead>
                     </table>
-                    <h1 class="nosvoid-color d-flex justify-content-center">Time Space Guide:</h1>
+                    <h1 className="nosvoid-color d-flex justify-content-center">Time Space Guide:</h1>
                     <br/>
-                    <d class="d-flex justify-content-center">
+                    <d className="d-flex justify-content-center">
                     Party Time Space with max 3 people</d>
                     <br/>
-                    <d class="d-flex justify-content-center"><img src="asset/p8/TS/ts.png" alt=""/></d>
+                    <d className="d-flex justify-content-center"><img src="asset/p8/TS/ts.png" alt=""/></d>
                     <br/>
                     <br/>
                     <h3>For unlocking the gate , You must kill all the mobs (except rooms with bosses) / bosses alive.
@@ -141,13 +141,13 @@ export default function p8() {
                     - 5th room - Kill Boss Powerful Molda's Warlock .
                     <br/>
                     - 6th room - Kill Boss Kenel, Boss Kukukeen and Boss Powerful Molda's Warlock<br/>
-                    <d class="text-danger">You can find bosses on the red spots of next image</d>
+                    <d className="text-danger">You can find bosses on the red spots of next image</d>
                     <br/>
                     <img src="asset/p8/TS/6th room.jpg" alt=""/>
                     <br/>
                     -7th room - Kill Boss Fernon Dryad.
                     <br/>
-                    <d class="text-danger">You will get 1x Iron Key and Time Space Box after finished Time Space.</d>
+                    <d className="text-danger">You will get 1x Iron Key and Time Space Box after finished Time Space.</d>
                     <br/>
                     You can use iron key to open Bloddy Chest, from c40-50map Bushi King.
                     <br/>
@@ -160,9 +160,9 @@ export default function p8() {
                     <img src="asset/p8/TS/tsBox.png" alt=""/>
                     <br/>
                     <br/>
-                    <h1 class="nosvoid-color d-flex justify-content-center">Bushi King Guide:</h1>
+                    <h1 className="nosvoid-color d-flex justify-content-center">Bushi King Guide:</h1>
                     <br/>
-                    <d class="d-flex justify-content-center"><img src="asset/p8/Bushi/Bushi King.jpg" alt=""/></d>
+                    <d className="d-flex justify-content-center"><img src="asset/p8/Bushi/Bushi King.jpg" alt=""/></d>
                     <br/>
                     <br/>
                     -You can found Bushi King at c40-c50 Exp Map , It will spawn every 20 minutes.
@@ -189,9 +189,9 @@ export default function p8() {
                     - Full moon x300
                     <br/>
                     <br/>
-                    <h1 class="nosvoid-color d-flex justify-content-center">Lottery system :</h1>
+                    <h1 className="nosvoid-color d-flex justify-content-center">Lottery system :</h1>
                     <br/>
-                    <d class="d-flex justify-content-center"><img src="asset/p8/Lottery/Lottery.jpg" alt=""/></d>
+                    <d className="d-flex justify-content-center"><img src="asset/p8/Lottery/Lottery.jpg" alt=""/></d>
                     <br/>
                     Coins Trader Npc - You can Craft 1x Lottery Ticket with 50x Sunny Coins , 50x
                     Snowy Coins (Drops from c30-c40maps)<br/>

@@ -3,15 +3,15 @@ import React from 'react'
 export default function Raids() {
     return (
         <div className='raid'>
-            <div class="">
-                <div class="card-group   ">
-                    <div class="card">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <img src="asset/raids/draco.png" class="card-img-top mx-auto pt-1 " alt="..."/>
-                                <div class="card-body ">
-                                    <h5 class="card-title nosvoid-color ">Draco</h5>
-                                    <p class="card-text ">
+            <div className="">
+                <div className="card-group   ">
+                    <div className="card">
+                        <div className="flip-card-inner">
+                            <div className="flip-card-front">
+                                <img src="asset/raids/draco.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Draco</h5>
+                                    <p className="card-text ">
                                         <h5>You must be level 15 for Lord Draco Raid.</h5>
 
                                         <h5>What can I do with the Lord Draco Raid?</h5>
@@ -23,12 +23,12 @@ export default function Raids() {
                                     </p>
                                 </div>
 
-                                <small class="text-muted">$warp raidarea</small>
+                                <small className="text-muted">$warp raidarea</small>
 
                             </div>
 
-                            <div class="flip-card-back">
-                                <h1 class="nosvoid-color">Lord Draco:</h1>
+                            <div className="flip-card-back">
+                                <h1 className="nosvoid-color">Lord Draco:</h1>
                                 <p>50x Full of Moon</p>
                                 <p>50x Angel's Feathers</p>
                                 <p>50x Seed of Power</p>
@@ -43,16 +43,16 @@ export default function Raids() {
                         </div>
 
                     </div>
-                    <div class="card">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
+                    <div className="card">
+                        <div className="flip-card-inner">
+                            <div className="flip-card-front">
                                 <img
                                     src="asset/raids/glacerus.png"
-                                    class="card-img-top mx-auto pt-1 "
+                                    className="card-img-top mx-auto pt-1 "
                                     alt="..."/>
-                                <div class="card-body ">
-                                    <h5 class="card-title nosvoid-color ">Glacerus</h5>
-                                    <p class="card-text ">
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Glacerus</h5>
+                                    <p className="card-text ">
                                         <h5>You must be Level 80 for the Glacerus Raid.</h5>
 
                                         <h5>What can I do with the Glacerus Raid?</h5>
@@ -65,12 +65,12 @@ export default function Raids() {
                                     </p>
                                 </div>
 
-                                <small class="text-muted">$warp raidarea</small>
+                                <small className="text-muted">$warp raidarea</small>
 
                             </div>
 
-                            <div class="flip-card-back">
-                                <h1 class="nosvoid-color">Glacerus:</h1>
+                            <div className="flip-card-back">
+                                <h1 className="nosvoid-color">Glacerus:</h1>
                                 <p>50x Full of Moon</p>
                                 <p>50x Angel's Feathers</p>
                                 <p>50x Seed of Power</p>
@@ -85,13 +85,13 @@ export default function Raids() {
                         </div>
 
                     </div>
-                    <div class="card">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <img src="asset/raids/maru.png" class="card-img-top mx-auto pt-1 " alt="..."/>
-                                <div class="card-body ">
-                                    <h5 class="card-title nosvoid-color ">Maru</h5>
-                                    <p class="card-text ">
+                    <div className="card">
+                        <div className="flip-card-inner">
+                            <div className="flip-card-front">
+                                <img src="asset/raids/maru.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Maru</h5>
+                                    <p className="card-text ">
                                         <h5>You must be Level 90 for Maru Raid.</h5>
 
                                         <h5>What can I do with the Maru Raid?</h5>
@@ -106,12 +106,12 @@ export default function Raids() {
                                     </p>
                                 </div>
 
-                                <small class="text-muted">$warp raidarea</small>
+                                <small className="text-muted">$warp raidarea</small>
 
                             </div>
 
-                            <div class="flip-card-back">
-                                <h1 class="nosvoid-color">Maru:</h1>
+                            <div className="flip-card-back">
+                                <h1 className="nosvoid-color">Maru:</h1>
                                 <p>5x Large Lump of Gold</p>
                                 <p>50x Full of Moon</p>
                                 <p>50x Angel's Feathers</p>
@@ -132,19 +132,19 @@ export default function Raids() {
                 </div>
 
             </div>
-            <div class="">
-                <div class="card-group mt-5">
-                    <div class="card ">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
+            <div className="">
+                <div className="card-group mt-5">
+                    <div className="card ">
+                        <div className="flip-card-inner">
+                            <div className="flip-card-front">
 
                                 <img
                                     src="asset/raids/laurena.png"
-                                    class="toobigimg card-img-top mx-auto pt-1 "
+                                    className="toobigimg card-img-top mx-auto pt-1 "
                                     alt="..."/>
-                                <div class="card-body ">
-                                    <h5 class="card-title nosvoid-color ">Laurena</h5>
-                                    <p class="card-text ">
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Laurena</h5>
+                                    <p className="card-text ">
                                         <h5>You must be Level 70 for Laurena Raid.</h5>
 
                                         <h5>What can I do with Laurena Raid?</h5>
@@ -155,13 +155,13 @@ export default function Raids() {
                                     </p>
                                 </div>
 
-                                <small class="text-muted">$warp raidarea</small>
+                                <small className="text-muted">$warp raidarea</small>
 
                             </div>
 
-                            <div class="flip-card-back ">
-                                <h1 class="nosvoid-color">Laurena:</h1>
-                                <div class="toomuchtext">
+                            <div className="flip-card-back ">
+                                <h1 className="nosvoid-color">Laurena:</h1>
+                                <div className="toomuchtext">
                                     <p>75x Full of Moon</p>
                                     <p>75x Angel's Feathers</p>
                                     <p>75x Seeds of Power</p>
@@ -183,13 +183,13 @@ export default function Raids() {
                         </div>
 
                     </div>
-                    <div class="card  ">
-                        <div class="flip-card-inner ">
-                            <div class="flip-card-front">
-                                <img src="asset/raids/amon.png" class="card-img-top mx-auto pt-1   " alt="..."/>
-                                <div class="card-body ">
-                                    <h5 class="card-title nosvoid-color ">92-93 Eq Raid</h5>
-                                    <p class="card-text ">
+                    <div className="card  ">
+                        <div className="flip-card-inner ">
+                            <div className="flip-card-front">
+                                <img src="asset/raids/amon.png" className="card-img-top mx-auto pt-1   " alt="..."/>
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">92-93 Eq Raid</h5>
+                                    <p className="card-text ">
                                         <h5>You must be Prestige1 level for 92-93 Eq Raid</h5>
 
                                         <h5>What can I do with the 92-93 Eq Raid?</h5>
@@ -199,12 +199,12 @@ export default function Raids() {
                                     </p>
                                 </div>
 
-                                <small class="text-muted">$warp p1</small>
+                                <small className="text-muted">$warp p1</small>
 
                             </div>
 
-                            <div class="flip-card-back">
-                                <h1 class="nosvoid-color">92-93 Eq Raid:</h1>
+                            <div className="flip-card-back">
+                                <h1 className="nosvoid-color">92-93 Eq Raid:</h1>
                                 <p>x2 Torn Page</p>
                                 <p>x50 Angel's Feather</p>
                                 <p>x50 Full Moon Crystal</p>
@@ -213,16 +213,16 @@ export default function Raids() {
                         </div>
 
                     </div>
-                    <div class="card">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
+                    <div className="card">
+                        <div className="flip-card-inner">
+                            <div className="flip-card-front">
                                 <img
                                     src="asset/raids/garton.png"
-                                    class=" toobigimg1 card-img-top mx-auto pt-1 "
+                                    className=" toobigimg1 card-img-top mx-auto pt-1 "
                                     alt="..."/>
-                                <div class="card-body ">
-                                    <h5 class="card-title nosvoid-color ">Low Tier Books Raid</h5>
-                                    <p class="card-text ">
+                                <div className="card-body ">
+                                    <h5 className="card-title nosvoid-color ">Low Tier Books Raid</h5>
+                                    <p className="card-text ">
                                         <h5>You must be Prestige 1 for Low tier books raid</h5>
 
                                         <h5>What can I do with the Low Tier Books Raid?</h5>
@@ -231,12 +231,12 @@ export default function Raids() {
                                     </p>
                                 </div>
 
-                                <small class="text-muted">$warp raidarea</small>
+                                <small className="text-muted">$warp raidarea</small>
 
                             </div>
 
-                            <div class="flip-card-back">
-                                <h1 class="nosvoid-color">Low Tier Books Raid:</h1>
+                            <div className="flip-card-back">
+                                <h1 className="nosvoid-color">Low Tier Books Raid:</h1>
                                 <p>x1 Raid Tickets</p>
                                 <p>x100 Seeds of Power</p>
                                 <p>x100 Cella Powder</p>
@@ -251,19 +251,19 @@ export default function Raids() {
                         </div>
                     </div>
                 </div>
-                <div class="">
-                    <div class="card-group mt-5">
-                        <div class="card ">
-                            <div class="flip-card-inner">
-                                <div class="flip-card-front">
+                <div className="">
+                    <div className="card-group mt-5">
+                        <div className="card ">
+                            <div className="flip-card-inner">
+                                <div className="flip-card-front">
 
                                     <img
                                         src="asset/raids/mandra.png"
-                                        class="toobigimg card-img-top mx-auto pt-1 "
+                                        className="toobigimg card-img-top mx-auto pt-1 "
                                         alt="..."/>
-                                    <div class="card-body ">
-                                        <h5 class="card-title nosvoid-color ">Low Tier Raid Hats</h5>
-                                        <p class="card-text ">
+                                    <div className="card-body ">
+                                        <h5 className="card-title nosvoid-color ">Low Tier Raid Hats</h5>
+                                        <p className="card-text ">
                                             <h5>For Low Tier Raid you must be Pretige 1 Level</h5>
 
                                             <h5>What can I do with Low Tier Hats Raid?</h5>
@@ -273,12 +273,12 @@ export default function Raids() {
                                         </p>
                                     </div>
 
-                                    <small class="text-muted">$warp p1</small>
+                                    <small className="text-muted">$warp p1</small>
 
                                 </div>
 
-                                <div class="flip-card-back ">
-                                    <h1 class="nosvoid-color">Low Tier Raid Hats:</h1>
+                                <div className="flip-card-back ">
+                                    <h1 className="nosvoid-color">Low Tier Raid Hats:</h1>
 
                                     <p>x1 Raid Tickets</p>
                                     <p>Penguin Hat</p>
@@ -296,16 +296,16 @@ export default function Raids() {
                             </div>
 
                         </div>
-                        <div class="card  ">
-                            <div class="flip-card-inner ">
-                                <div class="flip-card-front">
+                        <div className="card  ">
+                            <div className="flip-card-inner ">
+                                <div className="flip-card-front">
                                     <img
                                         src="asset/raids/zenas.png"
-                                        class=" toobigimg card-img-top mx-auto pt-1   "
+                                        className=" toobigimg card-img-top mx-auto pt-1   "
                                         alt="..."/>
-                                    <div class="card-body ">
-                                        <h5 class="card-title nosvoid-color ">Zenas</h5>
-                                        <p class="card-text ">
+                                    <div className="card-body ">
+                                        <h5 className="card-title nosvoid-color ">Zenas</h5>
+                                        <p className="card-text ">
                                             <h5>You must be Prestige 2 level for the Zenas raid</h5>
 
                                             <h5>What can I do with Zenas raid?</h5>
@@ -315,13 +315,13 @@ export default function Raids() {
                                         </p>
                                     </div>
 
-                                    <small class="text-muted">$warp p2</small>
+                                    <small className="text-muted">$warp p2</small>
 
                                 </div>
 
-                                <div class="flip-card-back">
-                                    <h1 class="nosvoid-color">Zenas</h1>
-                                    <div class="toomuchtext">
+                                <div className="flip-card-back">
+                                    <h1 className="nosvoid-color">Zenas</h1>
+                                    <div className="toomuchtext">
                                         <p>200x Angel's Feathers</p>
                                         <p>1x Zenas (Fire)</p>
                                         <p>1x Zenas (Water)</p>
@@ -344,16 +344,16 @@ export default function Raids() {
                             </div>
 
                         </div>
-                        <div class="card">
-                            <div class="flip-card-inner">
-                                <div class="flip-card-front">
+                        <div className="card">
+                            <div className="flip-card-inner">
+                                <div className="flip-card-front">
                                     <img
                                         src="asset/raids/erenia.png"
-                                        class=" toobigimg1 card-img-top mx-auto pt-1 "
+                                        className=" toobigimg1 card-img-top mx-auto pt-1 "
                                         alt="..."/>
-                                    <div class="card-body ">
-                                        <h5 class="card-title nosvoid-color ">Erenia</h5>
-                                        <p class="card-text ">
+                                    <div className="card-body ">
+                                        <h5 className="card-title nosvoid-color ">Erenia</h5>
+                                        <p className="card-text ">
                                             <h5>You must be Prestige 3 for the Erenia raid.</h5>
 
                                             <h5>What can I do with the Low Tier Books Raid?</h5>
@@ -362,13 +362,13 @@ export default function Raids() {
                                         </p>
                                     </div>
 
-                                    <small class="text-muted">$warp p3</small>
+                                    <small className="text-muted">$warp p3</small>
 
                                 </div>
 
-                                <div class="flip-card-back">
-                                    <h1 class="nosvoid-color">Erenia:</h1>
-                                    <div class="toomuchtext">
+                                <div className="flip-card-back">
+                                    <h1 className="nosvoid-color">Erenia:</h1>
+                                    <div className="toomuchtext">
                                         <p>1x Erenia (Fire)</p>
                                         <p>1x Erenia (Water)</p>
                                         <p>1x Erenia (Light)</p>
@@ -389,20 +389,20 @@ export default function Raids() {
                             </div>
                         </div>
                     </div>
-                    <div class="">
-                        <div class="card-group mt-5">
-                            <div class="card ">
-                                <div class="flip-card-inner">
-                                    <div class="flip-card-front">
+                    <div className="">
+                        <div className="card-group mt-5">
+                            <div className="card ">
+                                <div className="flip-card-inner">
+                                    <div className="flip-card-front">
 
                                         <img
                                             src="asset/raids/ibrahim.png"
-                                            class="toobigimg card-img-top mx-auto pt-1 "
+                                            className="toobigimg card-img-top mx-auto pt-1 "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">
                                                 Accesory Raid</h5>
-                                            <p class="card-text ">
+                                            <p className="card-text ">
                                                 <h5>You must be Prestige 3 for the Accesory raid.</h5>
 
                                                 <h5>What can I do with Accesory raid?</h5>
@@ -412,12 +412,12 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p3</small>
+                                        <small className="text-muted">$warp p3</small>
 
                                     </div>
 
-                                    <div class="flip-card-back ">
-                                        <h1 class="nosvoid-color">Accesory Raid drops:</h1>
+                                    <div className="flip-card-back ">
+                                        <h1 className="nosvoid-color">Accesory Raid drops:</h1>
 
                                         <p>Cellon 8~10 Level</p>
                                         <p>Laurena accessories</p>
@@ -427,16 +427,16 @@ export default function Raids() {
                                 </div>
 
                             </div>
-                            <div class="card  ">
-                                <div class="flip-card-inner ">
-                                    <div class="flip-card-front">
+                            <div className="card  ">
+                                <div className="flip-card-inner ">
+                                    <div className="flip-card-front">
                                         <img
                                             src="asset/raids/valakus.png"
-                                            class="  card-img-top mx-auto pt-1   "
+                                            className="  card-img-top mx-auto pt-1   "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">Hig Books Raid</h5>
-                                            <p class="card-text ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Hig Books Raid</h5>
+                                            <p className="card-text ">
                                                 <h5>You must be Prestige 4 for the Hig Books Raid</h5>
 
                                                 <h5>What can I do with high books raid?</h5>
@@ -446,12 +446,12 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p4</small>
+                                        <small className="text-muted">$warp p4</small>
 
                                     </div>
 
-                                    <div class="flip-card-back">
-                                        <h1 class="nosvoid-color">High books raid:</h1>
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color">High books raid:</h1>
 
                                         <p>Raid ticket</p>
                                         <p>x50 Cella powder
@@ -469,16 +469,16 @@ export default function Raids() {
                                 </div>
 
                             </div>
-                            <div class="card">
-                                <div class="flip-card-inner">
-                                    <div class="flip-card-front">
+                            <div className="card">
+                                <div className="flip-card-inner">
+                                    <div className="flip-card-front">
                                         <img
                                             src="asset/raids/valakus.png"
-                                            class="  card-img-top mx-auto pt-1 "
+                                            className="  card-img-top mx-auto pt-1 "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">Hig Hat Raid</h5>
-                                            <p class="card-text ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Hig Hat Raid</h5>
+                                            <p className="card-text ">
                                                 <h5>You must be Prestige 4 for the Hig Hat Raid</h5>
 
                                                 <h5>What can I do with Hig Hat Raid?</h5>
@@ -487,12 +487,12 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p4</small>
+                                        <small className="text-muted">$warp p4</small>
 
                                     </div>
 
-                                    <div class="flip-card-back">
-                                        <h1 class="nosvoid-color">Hig Hat Raid:</h1>
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color">Hig Hat Raid:</h1>
 
                                         <p>Erenia’s crafted horn</p>
                                         <p>Jennifer’s Feathered hat</p>
@@ -504,20 +504,20 @@ export default function Raids() {
 
                         </div>
                     </div>
-                    <div class="">
-                        <div class="card-group mt-5">
-                            <div class="card ">
-                                <div class="flip-card-inner">
-                                    <div class="flip-card-front">
+                    <div className="">
+                        <div className="card-group mt-5">
+                            <div className="card ">
+                                <div className="flip-card-inner">
+                                    <div className="flip-card-front">
 
                                         <img
                                             src="asset/raids/fernon.png"
-                                            class=" card-img-top mx-auto pt-1 "
+                                            className=" card-img-top mx-auto pt-1 "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">
                                             Fernon Raid</h5>
-                                            <p class="card-text ">
+                                            <p className="card-text ">
                                                 <h5>You must be Prestige 5 for the Fernon raid.</h5>
 
                                                 <h5>What can I do with Fernon raid?</h5>
@@ -528,13 +528,13 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p5</small>
+                                        <small className="text-muted">$warp p5</small>
 
                                     </div>
 
-                                    <div class="flip-card-back ">
-                                        <h1 class="nosvoid-color">Fernon Raid:</h1>
-                                        <p class="text-danger">All eqs c50</p>
+                                    <div className="flip-card-back ">
+                                        <h1 className="nosvoid-color">Fernon Raid:</h1>
+                                        <p className="text-danger">All eqs c50</p>
                                         <p>100x Full of Moon</p>
                                         <p>100x Angel's Feathers</p>
                                         <p>100x Cella Powder</p>
@@ -552,16 +552,16 @@ export default function Raids() {
                                 </div>
 
                             </div>
-                            <div class="card  ">
-                                <div class="flip-card-inner ">
-                                    <div class="flip-card-front">
+                            <div className="card  ">
+                                <div className="flip-card-inner ">
+                                    <div className="flip-card-front">
                                         <img
                                             src="asset/raids/carno.png"
-                                            class="  card-img-top mx-auto pt-1   "
+                                            className="  card-img-top mx-auto pt-1   "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">Carno Raid</h5>
-                                            <p class="card-text ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Carno Raid</h5>
+                                            <p className="card-text ">
                                                 <h5>You must be Prestige6 for the Carno raid.</h5>
 
                                                 <h5>What can I do with Carno raid?</h5>
@@ -572,12 +572,12 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p6</small>
+                                        <small className="text-muted">$warp p6</small>
 
                                     </div>
 
-                                    <div class="flip-card-back">
-                                        <h1 class="nosvoid-color">Carno Raid:</h1>
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color">Carno Raid:</h1>
 
                                         <p><a href='accesory'>《📘》accesory-guide
                                             </a></p>
@@ -587,16 +587,16 @@ export default function Raids() {
                                 </div>
 
                             </div>
-                            <div class="card">
-                                <div class="flip-card-inner">
-                                    <div class="flip-card-front">
+                            <div className="card">
+                                <div className="flip-card-inner">
+                                    <div className="flip-card-front">
                                         <img
                                             src="asset/raids/foxy.png"
-                                            class="  card-img-top mx-auto pt-1 "
+                                            className="  card-img-top mx-auto pt-1 "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color "> Foxy Raid</h5>
-                                            <p class="card-text ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color "> Foxy Raid</h5>
+                                            <p className="card-text ">
                                                 <h5>You must be prestige 6 for Foxy Raid</h5>
 
                                                 <h5>What can I do with Foxy raid?</h5>
@@ -605,12 +605,12 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p6</small>
+                                        <small className="text-muted">$warp p6</small>
 
                                     </div>
 
-                                    <div class="flip-card-back">
-                                        <h1 class="nosvoid-color"> Foxy Raid:</h1>
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color"> Foxy Raid:</h1>
 
                                         <p>Raid Ticket</p>
                                         <p>x5 Large Lump of Gold</p>
@@ -624,20 +624,20 @@ export default function Raids() {
                             </div>
 
                         </div>
-                        <div class="">
-                        <div class="card-group mt-5">
-                            <div class="card ">
-                                <div class="flip-card-inner">
-                                    <div class="flip-card-front">
+                        <div className="">
+                        <div className="card-group mt-5">
+                            <div className="card ">
+                                <div className="flip-card-inner">
+                                    <div className="flip-card-front">
 
                                         <img
                                             src="asset/raids/kiro.png"
-                                            class=" card-img-top mx-auto pt-1 "
+                                            className=" card-img-top mx-auto pt-1 "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">
                                             Kirollas Raid</h5>
-                                            <p class="card-text ">
+                                            <p className="card-text ">
                                                 <h5>You must be prestige 7 for Kirollas Raid.</h5>
 
                                                 <h5>What can I do with Kirolass Raid?</h5>
@@ -648,13 +648,13 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p7</small>
+                                        <small className="text-muted">$warp p7</small>
 
                                     </div>
 
-                                    <div class="flip-card-back ">
-                                        <h1 class="nosvoid-color">Kirollas Raid:</h1>
-                                        <div class="toomuchtext">
+                                    <div className="flip-card-back ">
+                                        <h1 className="nosvoid-color">Kirollas Raid:</h1>
+                                        <div className="toomuchtext">
                                         <p>150x Angel's Feathers</p>
                                         <p>150x Full of Moon</p>
                                         <p>150x Cella Powder</p>
@@ -672,16 +672,16 @@ export default function Raids() {
                                 </div>
                                 </div>
                             </div>
-                            <div class="card  ">
-                                <div class="flip-card-inner ">
-                                    <div class="flip-card-front">
+                            <div className="card  ">
+                                <div className="flip-card-inner ">
+                                    <div className="flip-card-front">
                                         <img
                                             src="asset/raids/carno2.png"
-                                            class="  card-img-top mx-auto pt-1   "
+                                            className="  card-img-top mx-auto pt-1   "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">Pure Raid</h5>
-                                            <p class="card-text ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Pure Raid</h5>
+                                            <p className="card-text ">
                                                 <h5>You must be prestige 7 for Pure Raid.</h5>
 
                                                 <h5>What can I do with Pure Raid?</h5>
@@ -692,12 +692,12 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p7</small>
+                                        <small className="text-muted">$warp p7</small>
 
                                     </div>
 
-                                    <div class="flip-card-back">
-                                        <h1 class="nosvoid-color">Pure Raid:</h1>
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color">Pure Raid:</h1>
 
                                         <p>150x Angel's Feathers</p>
                                         <p>150x Full of Moon</p>
@@ -715,16 +715,16 @@ export default function Raids() {
                                 </div>
 
                             </div>
-                            <div class="card">
-                                <div class="flip-card-inner">
-                                    <div class="flip-card-front">
+                            <div className="card">
+                                <div className="flip-card-inner">
+                                    <div className="flip-card-front">
                                         <img
                                             src="asset/raids/paimon.png"
-                                            class="  card-img-top mx-auto pt-1 "
+                                            className="  card-img-top mx-auto pt-1 "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">Paimon Raid</h5>
-                                            <p class="card-text ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">Paimon Raid</h5>
+                                            <p className="card-text ">
                                                 <h5>You must be prestige 8 for Paimon Raid.</h5>
 
                                                 <h5>What can I do with Paimon Raid?</h5>
@@ -733,12 +733,12 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p8</small>
+                                        <small className="text-muted">$warp p8</small>
 
                                     </div>
 
-                                    <div class="flip-card-back">
-                                        <h1 class="nosvoid-color">Paimon Raid:</h1>
+                                    <div className="flip-card-back">
+                                        <h1 className="nosvoid-color">Paimon Raid:</h1>
 
                                         <p>1x Sunchaser Specialist Card</p>
                                         <p>1x Voodoo Priest Specialist Card</p>
@@ -758,20 +758,20 @@ export default function Raids() {
                             </div>
 
                         </div>
-                        <div class="">
-                        <div class="card-group mt-5">
-                            <div class="card ">
-                                <div class="flip-card-inner">
-                                    <div class="flip-card-front">
+                        <div className="">
+                        <div className="card-group mt-5">
+                            <div className="card ">
+                                <div className="flip-card-inner">
+                                    <div className="flip-card-front">
 
                                         <img
                                             src="asset/raids/belial.png"
-                                            class=" card-img-top mx-auto pt-1 "
+                                            className=" card-img-top mx-auto pt-1 "
                                             alt="..."/>
-                                        <div class="card-body ">
-                                            <h5 class="card-title nosvoid-color ">
+                                        <div className="card-body ">
+                                            <h5 className="card-title nosvoid-color ">
                                             Belial Raid</h5>
-                                            <p class="card-text ">
+                                            <p className="card-text ">
                                                 <h5>You must be prestige 8 for Belial Raid.</h5>
 
                                                 <h5>What can I do with Belial Raid?</h5>
@@ -781,12 +781,12 @@ export default function Raids() {
                                             </p>
                                         </div>
 
-                                        <small class="text-muted">$warp p8</small>
+                                        <small className="text-muted">$warp p8</small>
 
                                     </div>
 
-                                    <div class="flip-card-back ">
-                                        <h1 class="nosvoid-color"> Belial Raid:</h1>
+                                    <div className="flip-card-back ">
+                                        <h1 className="nosvoid-color"> Belial Raid:</h1>
                                         
                                         <p>1x Ancient Orc Statue</p>
                                         <p>5x Ancient Hero's Soul</p>

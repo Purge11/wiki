@@ -3,10 +3,10 @@ import React from 'react'
 export default function Home() {
     return (
         <div className='home'>
-            <div class="container">
-                <div class="row series-image-list  ">
+            <div className="container">
+                <div className="row series-image-list  ">
 
-                    <div class="rules-section top">
+                    <div className="rules-section top">
                         <h1 >1- General Information</h1>
 
                         1.1: Successful registration for your nosvoid account equals to accepting the
@@ -18,7 +18,7 @@ export default function Home() {
                         1.3: The NosVoid staff is not responsible for how players behave outside of
                         community. [example: discord private messages or dms /phone calls]
                     </div>
-                    <div class="rules-section">
+                    <div className="rules-section">
                         <h1>2 - In game Behavior:</h1>
 
                         2.1: Respect other players! Insulting, trolling, racist, homophobic and
@@ -39,7 +39,7 @@ export default function Home() {
                         2.6: Lending items to another player is at your own risk! Under no circumstances 
                         will your items be recovered.
                     </div>
-                    <div class="rules-section">
+                    <div className="rules-section">
                         <h1>3 - Accounts</h1>
 
                         3.1: Players are allowed to log in 3 accounts at time. We set up this rule since
@@ -62,7 +62,7 @@ export default function Home() {
                         never use same data you used anywhere outside of community.
                     </div>
 
-                    <div class="rules-section">
+                    <div className="rules-section">
                         <h1>4 - Client manipulation - hacking, packet logging, botting... etc</h1>
 
                         4.1: Hacking is strictly forbidden and hackers will be permanently banned.
@@ -90,7 +90,7 @@ export default function Home() {
                         4.8: You are not allowed to be with 3 Accounts on the same Farm Map ( Angel,
                         Full Moon, etc.)
                     </div>
-                    <div class="rules-section">
+                    <div className="rules-section">
                         <h1>5- Events/Raids/Contents</h1>
 
                         5.1: You are not allowed to be with more than 2 Chars/Acc in All Raids/Caligor/WorldBoss/
@@ -107,7 +107,7 @@ export default function Home() {
                         Sitting in RBB is not allowed. Any player found afking and just sitting down in RBB will be 
                         punished.
                     </div>
-                    <div class="rules-section">
+                    <div className="rules-section">
                         <h1>6 - Real World Trading</h1>
 
                         6.1: Account selling is not allowed. It is considered as Real World Trading.
@@ -131,7 +131,7 @@ export default function Home() {
                         6.7: Helping, acting as Middleman or advertising RWT for someone else will end
                         up in a permanent ban of all your accounts.
                     </div>
-                    <div class="rules-section">
+                    <div className="rules-section">
                         <h1>7 - Discord Rules</h1>
 
                         7.1: In the event of any form of racism, we reserve the right to permanently
@@ -143,14 +143,14 @@ export default function Home() {
                         7.3: If you get a permanent ban, you have the rights to appeal after 7 Days.
                         <br/>
                         7.4: Trading Channel Info<br/>
-                        <b><d class="nosvoid-color">《💰》general-market:</d></b> Everything that is tradeable: SP's, PSP's, materials Items etc...<br/>
-                        <b><d class="nosvoid-color">swordsman-eq:</d></b> Only Swordsman related equipment here : Sword, Xbow, Armour and SP's <br/>
-                        <b><d class="nosvoid-color">archer-eq:</d></b> Only Archer related equipment : Bow, Dagger, Armour and SP's <br/>
-                        <b><d class="nosvoid-color">mage-eq:</d></b> Only Mage related equipment here : Staff, Gun, Armour and SP's<br/>
-                        <b><d class="nosvoid-color">martial-eq:</d></b> Only Martial related equipment here : Fist, Token, Armour and SP's <br/>
+                        <b><d className="nosvoid-color">《💰》general-market:</d></b> Everything that is tradeable: SP's, PSP's, materials Items etc...<br/>
+                        <b><d className="nosvoid-color">swordsman-eq:</d></b> Only Swordsman related equipment here : Sword, Xbow, Armour and SP's <br/>
+                        <b><d className="nosvoid-color">archer-eq:</d></b> Only Archer related equipment : Bow, Dagger, Armour and SP's <br/>
+                        <b><d className="nosvoid-color">mage-eq:</d></b> Only Mage related equipment here : Staff, Gun, Armour and SP's<br/>
+                        <b><d className="nosvoid-color">martial-eq:</d></b> Only Martial related equipment here : Fist, Token, Armour and SP's <br/>
                         <i>If you post your items at the wrong channel, it will be removed.</i>
                     </div>
-                    <div class="rules-section">
+                    <div className="rules-section">
                         <h1>8 - Punishments</h1>
 
                         8.1: Bot Using [punishment may vary depending on the situation]
@@ -199,11 +199,11 @@ export default function Home() {
                         allowed and punishable. (When you get banned for fish botting, all your fish +
                         materials gained will be deleted from your inventory by the lead team.)<br/>
                         [Fish Botting][Including 3 Acc Fish Bot]<br/>
-                        <i>First Time: <d class="text-danger">2 weeks Ban</d></i><br/>
-                        <i>Second Time: <d class="text-danger">Perm Ban (No appeals/request for unbans)</d></i><br/>
+                        <i>First Time: <d className="text-danger">2 weeks Ban</d></i><br/>
+                        <i>Second Time: <d className="text-danger">Perm Ban (No appeals/request for unbans)</d></i><br/>
                         [Botting/3rd Party Programs/Macros]<br/>
-                        <i>First time: <d class="text-danger">2 weeks Ban</d></i><br/>
-                        <i>Second Time: <d class="text-danger">Perma Ban (No appeals/request for unbans)</d></i><br/>
+                        <i>First time: <d className="text-danger">2 weeks Ban</d></i><br/>
+                        <i>Second Time: <d className="text-danger">Perma Ban (No appeals/request for unbans)</d></i><br/>
                         To all botters, you know who you are. If you continue using them, you'll have to pay the price.
                         <br/>
                         8.17: Abusing $unstuck command in pvp is not allowed. Any player found misusing

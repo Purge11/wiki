@@ -22,7 +22,7 @@ export default function Home() {
         <div className='row mt-5'>
           <div className='col-sm-6 banner-info'>
             <div className="wrapper">
-              <img src="asset/home2.png" class="imghome" alt="" />
+              <img src="asset/home2.png" className="imghome" alt="" />
               <h2>Hey Welcome in Void </h2>
               <h1>in a place where everything is possible</h1>
               <h3>
@@ -31,7 +31,7 @@ export default function Home() {
               </h3>
             </div>
             <h1>adventure will not wait</h1>
-            <a class="btn btn-first" href='rules'>Let's start</a>
+            <a className="btn btn-first" href='rules'>Let's start</a>
 
 
           </div>

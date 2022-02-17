@@ -4,8 +4,8 @@ import React from 'react'
 export default function Tatto() {
     return (
         <div className='tatto'>
-            <div class="container">
-                <div class="row ">
+            <div className="container">
+                <div className="row ">
 
                     There are five tattoo categories (or tattoo patterns), each of them (exept one)
                     has 8 tattoos and every tattoo can be upgraded up to +9. You can choose two
@@ -16,8 +16,8 @@ export default function Tatto() {
                     <br/>
                     If you don't like the tattoo you've got, you can remove it with :Remove: Tatto
                     Remover
-                    <img class="imgtatto" src="asset/tato/tato1.png" alt=""/>
-                    <img class="imgtatto" src="asset/tato/tato2.png" alt=""/>
+                    <img className="imgtatto" src="asset/tato/tato1.png" alt=""/>
+                    <img className="imgtatto" src="asset/tato/tato2.png" alt=""/>
                     <br/>
                     <br/>
                     When you have created a tattoo pattern, you need to apply it on your character.
@@ -52,7 +52,7 @@ export default function Tatto() {
 
                     <br/>
                     <br/>
-                    <img class="imgtatto" src="asset/tato/tato3.png" alt=""/>
+                    <img className="imgtatto" src="asset/tato/tato3.png" alt=""/>
 
                 </div>
             </div>

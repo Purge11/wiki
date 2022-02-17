@@ -3,111 +3,111 @@ import React from 'react'
 export default function ContentCreator() {
     return (
         <div className='notes'>
-            <div class="container">
-                <div class="row mt-5">
-                    <ul class="list-group">
-                        <d class="nosvoid-color d-flex justify-content-center">
+            <div className="container">
+                <div className="row mt-5">
+                    <ul className="list-group">
+                        <d className="nosvoid-color d-flex justify-content-center">
                             <h2>Hey Void Players!</h2>
                         </d>
                         <br/>
-                        <li class="d-inline-flex p-2 d-flex justify-content-center">
+                        <li className="d-inline-flex p-2 d-flex justify-content-center">
                             We will be removing the current reward system for our Content Creators and
                             replace it with a new system, so we are looking for Content Creators again!
                         </li>
-                        <d class="text-danger d-flex justify-content-center">
+                        <d className="text-danger d-flex justify-content-center">
                             <i>If you got the requirements above, you can join to our Content Creator team
                                 after applying. [You will need open a ticket from our discord server.]</i>
                         </d><br/>
                         <br/>
-                        <div class="card">
-                            <div class="card-header">
+                        <div className="card">
+                            <div className="card-header">
                                 The new reward system has 5 rank + 1 special rank:
                             </div>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-md-1">
-                                            <div class="imgAbt">
+                            <ul className="list-group list-group-flush">
+                                <li className="list-group-item">
+                                    <div className="row">
+                                        <div className="col-md-1">
+                                            <div className="imgAbt">
                                                 <img src="asset/contentcreator/bronze24.png" alt=""/>
                                             </div>
                                         </div>
-                                        <div class="col-md-8">
-                                            <d class="bcc">
+                                        <div className="col-md-8">
+                                            <d className="bcc">
                                                 <b>Bronze </b>
                                             </d>
                                             Content Creator
                                         </div>
                                     </div>
                                 </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-md-1">
-                                            <div class="imgAbt">
+                                <li className="list-group-item">
+                                    <div className="row">
+                                        <div className="col-md-1">
+                                            <div className="imgAbt">
                                                 <img src="asset/contentcreator/silver24.png" alt=""/>
                                             </div>
                                         </div>
-                                        <div class="col-md-8">
-                                            <d class="scc">
+                                        <div className="col-md-8">
+                                            <d className="scc">
                                                 <b>Silver </b>
                                             </d>
                                             Content Creator
                                         </div>
                                     </div>
                                 </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-md-1">
-                                            <div class="imgAbt">
+                                <li className="list-group-item">
+                                    <div className="row">
+                                        <div className="col-md-1">
+                                            <div className="imgAbt">
                                                 <img src="asset/contentcreator/gold24.png" alt=""/>
                                             </div>
                                         </div>
-                                        <div class="col-md-8">
-                                            <d class="gcc">
+                                        <div className="col-md-8">
+                                            <d className="gcc">
                                                 <b>Gold </b>
                                             </d>
                                             Content Creator
                                         </div>
                                     </div>
                                 </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-md-1">
-                                            <div class="imgAbt">
+                                <li className="list-group-item">
+                                    <div className="row">
+                                        <div className="col-md-1">
+                                            <div className="imgAbt">
                                                 <img src="asset/contentcreator/platinum24.png" alt=""/>
                                             </div>
                                         </div>
-                                        <div class="col-md-8">
-                                            <d class="pcc">
+                                        <div className="col-md-8">
+                                            <d className="pcc">
                                                 <b>Platinum </b>
                                             </d>
                                             Content Creator
                                         </div>
                                     </div>
                                 </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-md-1">
-                                            <div class="imgAbt">
+                                <li className="list-group-item">
+                                    <div className="row">
+                                        <div className="col-md-1">
+                                            <div className="imgAbt">
                                                 <img src="asset/contentcreator/diamond24.png" alt=""/>
                                             </div>
                                         </div>
-                                        <div class="col-md-8">
-                                            <d class="dcc">
+                                        <div className="col-md-8">
+                                            <d className="dcc">
                                                 <b>Diamond </b>
                                             </d>
                                             Content Creator
                                         </div>
                                     </div>
                                 </li>
-                                <li class="list-group-item">
-                                    <div class="row">
-                                        <div class="col-md-1">
-                                            <div class="imgAbt">
+                                <li className="list-group-item">
+                                    <div className="row">
+                                        <div className="col-md-1">
+                                            <div className="imgAbt">
                                                 <img src="asset/contentcreator/master24.png" alt=""/>
                                             </div>
                                         </div>
-                                        <div class="col-md-8">
-                                            <d class="mcc">
+                                        <div className="col-md-8">
+                                            <d className="mcc">
                                                 <b>Master </b>
                                             </d>
                                             Content Creator
@@ -123,45 +123,45 @@ export default function ContentCreator() {
                         <hr/>
                         <p>
                             - 150-299 monthly views for
-                            <d class="bcc">
+                            <d className="bcc">
                                 <b> Bronze </b>
                             </d>
                             Content Creator
                             <br/>
                             - 300-499 monthly views for
-                            <d class="scc">
+                            <d className="scc">
                                 <b> Silver </b>
                             </d>
                             Content Creator<br/>
                             - 500-1499 monthly views for
-                            <d class="gcc">
+                            <d className="gcc">
                                 <b> Gold </b>
                             </d>
                             Content Creator<br/>
                             - 1500-2499 monthly views for
-                            <d class="pcc">
+                            <d className="pcc">
                                 <b> Platinum </b>
                             </d>
                             Content Creator<br/>
                             - 2500+ monthly views for
-                            <d class="dcc">
+                            <d className="dcc">
                                 <b> Diamond </b>
                             </d>
                             Content Creator<br/>
                             - 5000+ monthly views for unique
-                            <d class="mcc">
+                            <d className="mcc">
                                 <b> Master </b>
                             </d>
-                            Content Creator <d class="text-danger ">(this title is only for the biggest one content creator )</d><br/>
+                            Content Creator <d className="text-danger ">(this title is only for the biggest one content creator )</d><br/>
                             
                         </p>
                         
-                        <d class="text-danger d-flex justify-content-center">
+                        <d className="text-danger d-flex justify-content-center">
                             <i>Ranks will be depends on the number of viewers obtained in the previous month 
                                 and updated during the current month</i>
                         </d><br/>
 
-                        <d class="nosvoid-color">
+                        <d className="nosvoid-color">
                             <b>The rewards:</b>
                         </d>
                         - In-game title for their own content ranking.<br/>
@@ -176,14 +176,14 @@ export default function ContentCreator() {
                         (Depending on their activity)<br/>
                         <p>
                         - Additional prizes for
-                            <d class="mcc">
+                            <d className="mcc">
                                 <b> Master  </b>
                             </d>
                             Content Creator
                             </p>
                         <br/>
 
-                        <d class="youtube-color">
+                        <d className="youtube-color">
                             <b>Rules</b>
                         </d>
                         - The Content Creators have to do at least 1 content every week.<br/>
