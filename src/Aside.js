@@ -17,6 +17,8 @@ import Badge from './pages/Badge';
 import Books from './pages/Books';
 import Box from './pages/Box';
 import C55 from './pages/C55';
+import EvolutionEvent from './pages/EvolutionEvent';
+import ValentineEvent from './pages/ValentineEvent';
 import SellableItems from './pages/SellableItems';
 import Equipment from './pages/Equipment';
 import Faires from './pages/Faires';
@@ -186,9 +188,10 @@ const Aside = ({setLocale}) => {
            
           </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-             suffix={<span className="badge yellow">30</span>}>
+             suffix={<span className="badge yellow">32</span>}>
           <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
-     
+          <MenuItem><a href='EvolutionEvent'>{intl.formatMessage({id: 'Evolution Event'})}</a></MenuItem>
+          <MenuItem><a href='ValentineEvent'>{intl.formatMessage({id: 'Valentine Event'})}</a></MenuItem>
           <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
           <MenuItem><a href='SellableItems'>{intl.formatMessage({id: 'Sellable Items'})}</a></MenuItem>
           <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
@@ -319,6 +322,8 @@ const Aside = ({setLocale}) => {
           <Route path='/books' component={Books} />
           <Route path='/box' component={Box} />
           <Route path='/c55' component={C55} />
+          <Route path='/EvolutionEvent' component={EvolutionEvent}/>
+          <Route path='/ValentineEvent' component={ValentineEvent}/>
           <Route path='/equipment' component={Equipment} />
           <Route path='/faires' component={Faires} />
           <Route path='/fish' component={Fish} />
