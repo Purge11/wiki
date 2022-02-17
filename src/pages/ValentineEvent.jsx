@@ -19,7 +19,7 @@ export default function ValentineEvent() {
                 And you will be able to craft the <b>Valentine's Heart Box</b> with Hearts.
                 <br /><br />
                 <th scope="col">
-                    Evolution Event box info:
+                   Valentine's Heart Box info:
                 </th>
                 <img src="asset/ValentineEvent/ValentineBox.png" alt="" />
 
