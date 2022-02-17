@@ -64,32 +64,42 @@ import ContentCreator from './pages/ContentCreator';
 import p8 from './pages/p8';
 import marathon from './pages/marathon';
 
+const getValue = (valueName, defaultValue=null) => {
+  return localStorage[valueName] ? localStorage[valueName] :  defaultValue
+}
 
+const saveValue = (valueName, newValue) => {
+  localStorage[valueName] = newValue;
+}
 
 
 const Aside = ({setLocale}) => {
 
-  const [rtl, setRtl] = useState(false);
-  const [collapsed, setCollapsed] = useState(false);
-  const [image, setImage] = useState(true);
-  const [toggled, setToggled] = useState(false);
+  const [rtl, setRtl] = useState(getValue("rtl", "false") === "true");
+  const [collapsed, setCollapsed] = useState(getValue("collapsed", "false") === "true");
+  const [image, setImage] = useState(getValue("image", "true") === "true");
+  const [toggled, setToggled] = useState(getValue("toggled", "false") === "true");
   
 
  
   const handleCollapsedChange = (checked) => {
     setCollapsed(checked);
+    saveValue("collapsed", String(checked))
   };
 
   const handleRtlChange = (checked) => {
     setRtl(checked);
     setLocale(checked ? 'ar' : 'en');
+    saveValue("rtl", String(checked))
   };
   const handleImageChange = (checked) => {
     setImage(checked);
+    saveValue("image", String(checked))
   };
 
   const handleToggleSidebar = (value) => {
     setToggled(value);
+    saveValue("toggled", String(value))
   };
   
   const intl = useIntl();
