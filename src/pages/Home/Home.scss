@@ -1,8 +1,6 @@
 
 .home-start {
-   
-  
-  
+
     width: 100%;
     display: flex;
     align-items: center;
@@ -18,11 +16,6 @@
         display: flex;
         align-items: flex-end;
         justify-content: center;
-       
-       
-       
-
-
 
 
     }
@@ -199,8 +192,180 @@
     }
 
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+.home-start-valentine {
+    color: palevioletred;
+    font-family: 'Courgette', cursive;
+    width: 100%;
+    display: flex;
+    align-items: center;
+   
+    .imgContainer {
+
+        // background-color: #8947b1;
+        border-radius: 50%;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+    }
+     img {
+            width: 80%;
+        }
+
+    @media (max-width: 1200px) {
+        .imgContainer {
+            width: 300px;
+            height: 300px;
+            float: right;
+            img {
+                width: 250px;
+            }
+        }
+    }
+
+    @media (max-width: 768px) {
+        .imgContainer {
+            width: 200px;
+            height: 200px;
+            float: right;
+            img {
+                width: 150px;
+            }
+        }
+    }
+
+    .righta {
+        flex: 0.5;
+        position: relative;
+        .wrapper {
+            width: 100%;
+            height: 100%;
+            padding-left: 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            h1 {
+                font-size: 60px;
+                margin: 10px 0;
+            }
+
+            h2 {
+                font-size: 35px;
+            }
+
+            h3 {
+                font-size: 30px;
+                span {
+                    font-size: inherit;
+                    color: #afd6fe;
+                }
+
+                .ityped-cursor {
+                    animation: blink 1s infinite;
+                }
+
+                @keyframes blink {
+                    50% {
+                        opacity: 1;
+                    }
+
+                    100% {
+                        opacity: 0;
+                    }
+                }
+            }
+        }
+
+        a {
+            position: absolute;
+            bottom: 10px;
+            left: 40%;
+            img {
+                width: 30px;
+                animation: arrowBlink 2s infinite;
+            }
+            @keyframes arrowBlink {
+                100% {
+                    opacity: 0;
+                }
+            }
+        }
+    }
+
+    a.btn {
+        margin: 30px 10px;
+        width: 350px;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    @media (max-width: 700px) {
+        a.btn {
+            margin-left: auto !important;
+            margin-right: auto !important;
+            align-items: center !important;   
+        }
+    }
+    a.btn-first {
+        background-color: pink;
+        color: #c90d45;
+        font-size: 25px;
+    }
+
+    a.btn-second {
+        background-color: transparent;
+        border: 1px solid #0000;
+        color: #fff;
+    }
+
+    a.btn:hover {
+        background-color: rgb(255, 153, 170);
+        border: none;
+        color: #bb0d41;
+        // box-shadow: 5px 5px 10px #999;
+        transition: 0.3s;
+    }
+
+    .banner-image {
+        margin-top: 500px;
+    }
+
+    .banner-info,
+    .banner-image {
+        margin: auto 0;
+    }
+
+    span {
+        font-size: inherit;
+        color: #c90d45;
+    }
+
+    h1,
+    h2,
+    h3,
+    span {
+        font-family: 'Courgette', cursive;
+    }
+
+    
+    @media (max-width: 768px) {
+        h1,
+        h2,
+        h3,
+        span {
+            font-family: 'Courgette', cursive;
+        }
+    }
+    a {
+        text-decoration: none;
+    }
+
+}
 .imghome{
     width: 50% !important;
+}
+.imghomevalentine{
+    width: 100% !important;
 }
 @media (max-width: 768px) {
     .home-start {
