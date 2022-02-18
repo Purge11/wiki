@@ -295,7 +295,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">Golden Fleece</th>
+                            <th scope="col">Golden Fleece (Soon)</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
@@ -331,7 +331,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">Blizzard Wolf</th>
+                            <th scope="col">Blizzard Wolf (Soon)</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
@@ -367,7 +367,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">Spooky Imp</th>
+                            <th scope="col">Spooky Imp (Soon)</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
