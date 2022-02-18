@@ -145,6 +145,7 @@ export default function Shopupdate() {
                                     Amora Heal buff <i>(5 seconds)</i>:
                                     <br/>
                                     - HP is increased by 5% of damage given.
+<br/>
                                     - MP is increased by 5% of damage given.
                                 </d>
                             </thead>
