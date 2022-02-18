@@ -403,7 +403,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">New Fishing Pet</th>
+                            <th scope="col">Master Bunny's Blessing</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
@@ -439,7 +439,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">New Perfection Pet</th>
+                            <th scope="col">Dragon Bee's Blessing</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
@@ -463,7 +463,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">New Betting Pet</th>
+                            <th scope="col">Namaju's Blessing</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
@@ -487,7 +487,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">New Magic PvE Pet</th>
+                            <th scope="col">Vampie's Blessing</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
@@ -519,7 +519,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">New Melee PvE Pet</th>
+                            <th scope="col">Darkfrost Snowman's Blessing</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
@@ -555,7 +555,7 @@ export default function EvolutionEvent() {
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">New Ranged PvE Pet</th>
+                            <th scope="col">Spider's Blessing</th>
                             <th scope="col ">Shadow Version</th>
                         </tr>
                     </thead>
