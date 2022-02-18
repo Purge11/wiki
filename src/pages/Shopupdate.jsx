@@ -138,11 +138,14 @@ export default function Shopupdate() {
                                     <br/>
                                     - Movement speed is increased by 1.
                                     <br/>
-                                    - With 5% chance;
+                                    - There is a 5% chance of causing "Amora's Heal"
+                                </d>
+                                <hr />
+                                <d className="text-danger">
+                                    Amora Heal buff <i>(4 seconds)</i>:
                                     <br/>
-                                     -- HP is increased by 5% of damage given.
-                                    <br/>
-                                     -- MP is increased by 5% of damage given.
+                                    - HP is increased by 5% of damage given.
+                                    - MP is increased by 5% of damage given.
                                 </d>
                             </thead>
                         </table>
