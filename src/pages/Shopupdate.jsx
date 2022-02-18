@@ -142,7 +142,7 @@ export default function Shopupdate() {
                                 </d>
                                 <hr />
                                 <d className="text-danger">
-                                    Amora Heal buff <i>(4 seconds)</i>:
+                                    Amora Heal buff <i>(5 seconds)</i>:
                                     <br/>
                                     - HP is increased by 5% of damage given.
                                     - MP is increased by 5% of damage given.
