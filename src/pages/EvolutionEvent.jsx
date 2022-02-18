@@ -343,7 +343,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Damage in Act4 is increased by 3%.
                                     <br />
-                                    There is 5% chance to recover 3% max HP in act4.
+                                    There is 5% chance to recover 3% max MP in act4.
                                     <br />
                                     Hir rate of all attacks is increased by 75 in act4.
                                 </d>
@@ -354,7 +354,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Damage in Act4 is increased by 6%.
                                     <br />
-                                    There is 5% chance to recover 5% max HP in act4.
+                                    There is 5% chance to recover 5% max MP in act4.
                                     <br />
                                     Hir rate of all attacks is increased by 150 in act4.
                                 </b>
