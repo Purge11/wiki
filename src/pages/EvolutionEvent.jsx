@@ -471,12 +471,12 @@ export default function EvolutionEvent() {
                         <tr className='tr1'>
                             <td>
                                 <d className="item-effect-shell">
-                                    There's 5% more of getting rarity 7-8 while betting.
+                                    There's 4% more of getting rarity 7-8 while betting.
                                 </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
-                                    There's 10% more of getting rarity 7-8 while betting.
+                                    There's 7% more of getting rarity 7-8 while betting.
                                 </b>
                             </td>
                         </tr>
