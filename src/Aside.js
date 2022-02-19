@@ -215,7 +215,7 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem>
-            <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Mate' })} </a></MenuItem>
+            <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
             <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
             <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
             <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>

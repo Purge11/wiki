@@ -2,13 +2,13 @@ import React from 'react'
 
 export default function Pets() {
     return (
-        <div className='mate'>
-            <div className="">
+        <div className='pets'>
+            <div className="pet">
                 <div className="card-group   ">
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/0_5.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/0_5.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Dusi-Fox</h5>
                                     <p className="card-text item-effect ">
@@ -28,7 +28,7 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/6.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/6.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Fortune Bushi</h5>
                                     <p className="card-text item-effect ">
@@ -48,7 +48,7 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/16.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/16.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Moss Gloop</h5>
                                     <p className="card-text item-effect ">
@@ -72,7 +72,7 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/1.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/1.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Enkidu</h5>
                                     <p className="card-text item-effect ">
@@ -92,7 +92,7 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/2.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/2.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Flame</h5>
                                     <p className="card-text item-effect ">
@@ -112,7 +112,7 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/3.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/3.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Raccon</h5>
                                     <p className="card-text item-effect ">
@@ -138,7 +138,7 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/4.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/4.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Justin Darkflame</h5>
                                     <p className="card-text item-effect ">
@@ -158,7 +158,7 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/0.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/fernon.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Mini Fernon</h5>
                                     <p className="card-text item-effect ">
@@ -168,7 +168,7 @@ export default function Pets() {
                                         <h5>Water elemental is increased by 45</h5>
 
                                     </p>
-                                    <small className="text-muted">Fernon quest (kill fernon 700x)</small>
+                                    <small className="text-muted">Fernon quest (kill fernon 900x)</small>
                                 </div>
 
                             </div>
@@ -179,7 +179,7 @@ export default function Pets() {
                     <div className="card">
                         <div className="flip-card-inner2 mt-5">
                             <div className="flip-card-front">
-                                <img src="asset/mate/5.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/mate/5.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Super Fortune Bushi</h5>
                                     <p className="card-text item-effect ">
@@ -202,7 +202,7 @@ export default function Pets() {
                         <div className="card">
                             <div className="flip-card-inner2 mt-5">
                                 <div className="flip-card-front">
-                                    <img src="asset/mate/7.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                    <img src="asset/mate/7.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Small Merling</h5>
                                         <p className="card-text item-effect ">
@@ -227,7 +227,7 @@ export default function Pets() {
                         <div className="card">
                             <div className="flip-card-inner2 mt-5">
                                 <div className="flip-card-front">
-                                    <img src="asset/mate/8.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                    <img src="asset/mate/8.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Chick Norris (can be evolve)</h5>
                                         <p className="card-text item-effect   ">
@@ -238,7 +238,7 @@ export default function Pets() {
                                             <h5 className='toomuchtext1'>Hit rate all attacks is increased by 50</h5>
 
                                         </p>
-                                        <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                        <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <p className="card-text item-effect ">
                                             <h5 className='toomuchtext1'>All attacks are incrased by 2%</h5>
                                             <h5 className='toomuchtext1'>All defences are incrased by 2%</h5>
@@ -257,7 +257,7 @@ export default function Pets() {
                         <div className="card">
                             <div className="flip-card-inner2 mt-5">
                                 <div className="flip-card-front">
-                                    <img src="asset/mate/10.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                    <img src="asset/mate/10.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Golden Fleece (can be evolve)</h5>
                                         <p className="card-text item-effect ">
@@ -265,7 +265,7 @@ export default function Pets() {
                                             <h5>Maximum hp increased by 1000</h5>
 
                                         </p>
-                                        <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                        <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <p className="card-text item-effect ">
                                             <h5>All defences are incrased by 7%</h5>
                                             <h5>Maximum hp increased by 1500</h5>
@@ -284,7 +284,7 @@ export default function Pets() {
                             <div className="card">
                                 <div className="flip-card-inner2 mt-5">
                                     <div className="flip-card-front">
-                                        <img src="asset/mate/15.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                        <img src="asset/mate/15.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Mini Belial</h5>
                                             <p className="card-text item-effect ">
@@ -304,7 +304,7 @@ export default function Pets() {
                             <div className="card">
                                 <div className="flip-card-inner2 mt-5">
                                     <div className="flip-card-front">
-                                        <img src="asset/mate/9.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                        <img src="asset/mate/9.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Inferno (can be evolve)</h5>
                                             <p className="card-text item-effect  ">
@@ -313,7 +313,7 @@ export default function Pets() {
                                                 <h5>Hit rate of all attacks is increased by 75</h5>
 
                                             </p>
-                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <p className="card-text item-effect ">
                                                 <h5>All attacks are incrased by 4%</h5>
                                                 <h5>All defences are incrased by 4%</h5>
@@ -331,7 +331,7 @@ export default function Pets() {
                             <div className="card">
                                 <div className="flip-card-inner2 mt-5">
                                     <div className="flip-card-front">
-                                        <img src="asset/mate/11.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                        <img src="asset/mate/11.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Seraphim (can be evolve)</h5>
                                             <p className="card-text item-effect ">
@@ -340,7 +340,7 @@ export default function Pets() {
                                                 </h5>
 
                                             </p>
-                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <p className="card-text item-effect ">
                                                 <h5>Increased gold earned by 25%</h5>
                                                 <h5>when raid is finished, there's 8% chance that box drops second time
@@ -363,7 +363,7 @@ export default function Pets() {
                             <div className="card">
                                 <div className="flip-card-inner2 mt-5">
                                     <div className="flip-card-front">
-                                        <img src="asset/mate/12.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                        <img src="asset/mate/12.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Blizzard Wolf (can be evolve)</h5>
                                             <p className="card-text item-effect  ">
@@ -372,7 +372,7 @@ export default function Pets() {
                                                 <h5>Damage in act4 is increased by 3%</h5>
 
                                             </p>
-                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <p className="card-text item-effect ">
                                                 <h5>All attacks are incrased by 6%</h5>
                                                 <h5>Damage in act4 is increased by 6%</h5>
@@ -389,7 +389,7 @@ export default function Pets() {
                             <div className="card">
                                 <div className="flip-card-inner2 mt-5">
                                     <div className="flip-card-front">
-                                        <img src="asset/mate/13.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                        <img src="asset/mate/13.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Spooky Imp (can be evolve)</h5>
                                             <p className="card-text item-effect ">
@@ -398,7 +398,7 @@ export default function Pets() {
                                                 <h5>The equipped fairy's element increases by 4</h5>
 
                                             </p>
-                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <p className="card-text item-effect ">
 
                                                 <h5>Reduces the enemy's elemental resistances by 3</h5>
@@ -416,7 +416,7 @@ export default function Pets() {
                             <div className="card">
                                 <div className="flip-card-inner2 mt-5">
                                     <div className="flip-card-front">
-                                        <img src="asset/mate/14.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                        <img src="asset/mate/14.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Titan Hamster (can be evolve)</h5>
                                             <p className="card-text item-effect ">
@@ -424,7 +424,7 @@ export default function Pets() {
                                                 <h5>When u finish Caligor Raid u have 5% chance to get additonal box</h5>
 
                                             </p>
-                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                            <img src="asset/mate/shadow.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <p className="card-text item-effect ">
                                                 <h5>Increases fame received by 15%</h5>
                                                 <h5>When u finish Caligor Raid u have 8% chance to get additonal box</h5>
@@ -444,7 +444,7 @@ export default function Pets() {
                                 <div className="card">
                                     <div className="flip-card-inner2 mt-5">
                                         <div className="flip-card-front">
-                                            <img src="asset/mate/19.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                            <img src="asset/mate/19.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <div className="card-body ">
                                                 <h5 className="card-title nosvoid-color ">Pumpkin Bushitail</h5>
                                                 <p className="card-text item-effect ">
@@ -463,7 +463,7 @@ export default function Pets() {
                                 <div className="card">
                                     <div className="flip-card-inner2 mt-5">
                                         <div className="flip-card-front">
-                                            <img src="asset/mate/17.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                            <img src="asset/mate/17.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <div className="card-body ">
                                                 <h5 className="card-title nosvoid-color ">Santa Bushi</h5>
                                                 <p className="card-text item-effect  ">
@@ -483,7 +483,7 @@ export default function Pets() {
                                 <div className="card">
                                     <div className="flip-card-inner2 mt-5">
                                         <div className="flip-card-front">
-                                            <img src="asset/mate/0.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                            <img src="asset/mate/pete.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <div className="card-body ">
                                                 <h5 className="card-title nosvoid-color ">Mini Pete</h5>
                                                 <p className="card-text item-effect  ">
@@ -506,7 +506,7 @@ export default function Pets() {
                                     <div className="card">
                                         <div className="flip-card-inner2 mt-5">
                                             <div className="flip-card-front">
-                                                <img src="asset/mate/18.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                                <img src="asset/mate/18.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Fibi Frosty</h5>
                                                     <p className="card-text item-effect ">
