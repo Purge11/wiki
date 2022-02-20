@@ -168,7 +168,7 @@ export default function Pets() {
                                         <h5>Water elemental is increased by 45</h5>
 
                                     </p>
-                                    <small className="text-muted">Fernon quest (kill fernon 700x)</small>
+                                    <small className="text-muted">Fernon quest (kill fernon 900x)</small>
                                 </div>
 
                             </div>
