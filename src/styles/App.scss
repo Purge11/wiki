@@ -56,7 +56,7 @@
   .shop,
   .raid,
   .title,
-  .mate,
+  .pets,
   .notes,
   .p8,
   .marathon {
@@ -101,7 +101,7 @@
   .raid,
   .title,
   .wings,
-  .mate {
+  .pets {
 
     h2,
     h1 {
@@ -333,7 +333,7 @@ body {
   .winter,
   .raid,
   .title,
-  .mate,
+  .pets,
   .notes,
   .p8,
   .marathon{
@@ -541,7 +541,7 @@ body {
 .raid,
 .title,
 .wings,
-.mate {
+.pets {
   .card img {
     width: 20px !important;
     
@@ -562,7 +562,7 @@ body {
   .raid,
   .title,
   .wings,
-  .mate {
+  .pets {
     * {
       font-family: 'Fuzzy Bubbles' !important;
     }
@@ -923,7 +923,7 @@ body {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 
 }
-.mate {
+.pets {
   .toomuchtext1{
 font-size: 60% !important;
   }
@@ -980,7 +980,7 @@ font-size: 60% !important;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
-.app .mate .card img {
+.app .pets .card img {
   
   margin-left: 0;
   margin-right: 0;
@@ -990,7 +990,7 @@ font-size: 60% !important;
 
 
 @media (max-width: 1400px) {
-  .app .mate .card img {
+  .app .pets .card img {
    
     margin-left: 0;
     margin-right: 0;
@@ -1001,7 +1001,7 @@ font-size: 60% !important;
 }
 
 @media (max-width: 1000px) {
-  .app .mate .card {
+  .app .pets .card {
     font-size: 90%;
 
 
@@ -1009,7 +1009,7 @@ font-size: 60% !important;
 }
 
 @media (max-width: 1000px) {
-  .app .mate .card h5 {
+  .app .pets .card h5 {
     font-size: 90%;
 
 
