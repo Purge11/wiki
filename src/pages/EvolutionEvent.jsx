@@ -345,7 +345,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     There is 5% chance to recover 3% max MP in act4.
                                     <br />
-                                    Hir rate of all attacks is increased by 75 in act4.
+                                    Hit rate of all attacks is increased by 75 in act4.
                                 </d>
                             </td>
                             <td>
@@ -356,7 +356,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     There is 5% chance to recover 5% max MP in act4.
                                     <br />
-                                    Hir rate of all attacks is increased by 150 in act4.
+                                    Hit rate of all attacks is increased by 150 in act4.
                                 </b>
                             </td>
                         </tr>
