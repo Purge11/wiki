@@ -13,6 +13,7 @@ export default function Costiumes() {
                     <a href="/costumes#" className="sword" tabindex="-1" title="sword">Sword Skins</a>
                     <a href="/costumes#" className="fist" tabindex="-1" title="fist">Fist Skins</a>
                     <a href="/costumes#" className="wand" tabindex="-1" title="wand">Wand Skins</a>
+                    <a href="/costumes#" className="upgraded" tabindex="-1" title="upgraded">Upgraded Skins</a>
 
                     <li className="sc">
                         <div className='mt-5 bordero'>
@@ -1233,6 +1234,62 @@ export default function Costiumes() {
                             <table className="table">
                                 <thead>
                                     <tr>
+                                        <th scope="col">Special Wedding Costume Set</th>
+                                        <th scope="col"><img src="asset/costumes/SpecialWeddingSet.png" alt="" /></th>
+                                    </tr>
+
+                                    <br />
+                                    Hairstyle:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All attacks are increased by 4%.
+                                        <br />
+                                        - Dodge is increased by 95.
+                                    </d>
+
+                                    <br />
+                                    <br />
+                                    Clothes:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All defences are increased by 6%.
+                                        <br />
+                                        - Up to level 4 there is a 10% chance of never getting a bad effect.
+                                        <br />
+                                        - Movement Speed is increased by 1.
+
+                                    </d>
+
+                                    <br />
+                                    <br />
+                                    Costume Wings:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Light element is increased by 50.
+                                        <br />
+                                        - Movement speed is increased by 1.
+                                        <br />
+                                        - There is a 5% chance of causing Bind.
+                                    </d>
+                                    <hr />
+                                    <d className="text-danger">
+                                        Bind Debuff <i>(3 seconds)</i>:
+                                        <br />
+                                        - No defence possible
+                                    </d>
+                                    <br /><br />
+                                    <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
+                                        <i>Obtained: Fortune Wheel</i>
+                                    </div></div>
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="pc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
                                         <th scope="col">Betting Costume</th>
                                         <th scope="col"><img src="asset/costumes/10.png" alt="" /></th>
                                     </tr>
@@ -1274,11 +1331,11 @@ export default function Costiumes() {
                                     </d>
                                     <hr />
                                     <d className="text-danger">
-                                        Feels Dizzy (3 seconds) :
+                                        Feels Dizzy Debuff (3 seconds) :
                                         <br />
                                         - No attack possible
                                         <br />
-                                        - No attack possible
+                                        - Movement impossible
                                         <br />
                                         - All defence powers are decreased by 50.
                                     </d>
@@ -1314,11 +1371,11 @@ export default function Costiumes() {
                                     </d>
                                     <hr />
                                     <d className="text-danger">
-                                        Feels Dizzy (3 seconds) :
+                                        Feels Dizzy Debuff (3 seconds) :
                                         <br />
                                         - No attack possible
                                         <br />
-                                        - No attack possible
+                                        - Movement impossible
                                         <br />
                                         - All defence powers are decreased by 50.
                                     </d>
@@ -1354,11 +1411,11 @@ export default function Costiumes() {
                                     </d>
                                     <hr />
                                     <d className="text-danger">
-                                        Feels Dizzy (3 seconds) :
+                                        Feels Dizzy Debuff (3 seconds) :
                                         <br />
                                         - No attack possible
                                         <br />
-                                        - No attack possible
+                                        - Movement impossible
                                         <br />
                                         - All defence powers are decreased by 50.
                                     </d>
@@ -1394,11 +1451,11 @@ export default function Costiumes() {
                                     </d>
                                     <hr />
                                     <d className="text-danger">
-                                        Feels Dizzy (3 seconds) :
+                                        Feels Dizzy Debuff (3 seconds) :
                                         <br />
                                         - No attack possible
                                         <br />
-                                        - No attack possible
+                                        - Movement impossible
                                         <br />
                                         - All defence powers are decreased by 50.
                                     </d>
@@ -1789,6 +1846,66 @@ export default function Costiumes() {
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                         <i>Obtained: P4 High Tier Weapon Skin NPC</i>
+                                    </div></div>
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="upgraded">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Prestige 8 Skins <b className='item-effect-shell'>[+10]</b></th>
+                                        <th scope="col"><img src="asset/costumes/upgradeskin.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Buff:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All attacks are increased by 9%.
+                                        <br />
+                                        - All defences are increased by 9%.
+                                        <br />
+                                        - There is a 3$ chance of causing "Slight Freeze".
+                                    </d>
+                                    <hr />
+                                    <d className="text-danger">
+                                        Slight Freeze Debuff<i>(4 seconds)</i> :
+                                        <br />
+                                        - Movement impossible.
+                                        <br />
+                                        - No attack possible.
+                                    </d>
+                                    <br /><br />
+                                    <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
+                                        <i>Upgrade Weapon Skin Obtained: Void Mall or Hardcore Reward NPC</i>
+                                    </div></div>
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="upgraded">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Candy Skins <b className='item-effect-shell'>[+5]</b></th>
+                                        <th scope="col"><img src="asset/costumes/upgradeskin.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Buff:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Increases Gold earned by 10%.
+                                        <br />
+                                        - Damage in Raids is increased by 15%.
+                                        <br />
+                                        - Movement speed is increased by 1.
+                                    </d>
+                                    <br /><br />
+                                    <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
+                                        <i>Upgrade Weapon Skin Obtained: Void Mall or Hardcore Reward NPC</i>
                                     </div></div>
                                 </thead>
                             </table>
