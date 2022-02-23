@@ -411,7 +411,7 @@ export default function EvolutionEvent() {
                         <tr className='tr1'>
                             <td>
                                 <d className="item-effect-shell">
-                                    The probability of catching a fish is increased by 10%.
+                                    The probability of catching a fish is increased by 5%.
                                     <br />
                                     There's a 10% chance of catching a bigger fish.
                                     <br />
@@ -422,7 +422,7 @@ export default function EvolutionEvent() {
                             </td>
                             <td>
                                 <b className="item-effect-shell">
-                                    The probability of catching a fish is increased by 15%.
+                                    The probability of catching a fish is increased by 10%.
                                     <br />
                                     There's a 20% chance of catching a bigger fish.
                                     <br />
