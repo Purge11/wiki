@@ -1,6 +1,6 @@
 import { useIntl } from 'react-intl';
 import {  FaBars } from 'react-icons/fa';
-import {  FaDiscord, FaHammer, FaCat, FaShopify } from 'react-icons/fa';
+import {  FaDiscord, FaHammer, FaCat, FaShopify,FaHotjar } from 'react-icons/fa';
 import React, { useState } from 'react';
 import {  FaRegFileAlt } from 'react-icons/fa';
 import{FaYoutube} from 'react-icons/fa';
@@ -17,9 +17,6 @@ import Badge from './pages/Badge';
 import Books from './pages/Books';
 import Box from './pages/Box';
 import C55 from './pages/C55';
-import EvolutionEvent from './pages/EvolutionEvent';
-import ValentineEvent from './pages/ValentineEvent';
-import SellableItems from './pages/SellableItems';
 import Equipment from './pages/Equipment';
 import Faires from './pages/Faires';
 import Fish from './pages/Fish';
@@ -63,43 +60,37 @@ import Costiumes from './pages/Costiumes';
 import ContentCreator from './pages/ContentCreator';
 import p8 from './pages/p8';
 import marathon from './pages/marathon';
+import Exp from './pages/Exp';
+import DB from './pages/DB';
+import Rep from './pages/Rep';
+import Gold from './pages/Gold';
 
-const getValue = (valueName, defaultValue=null) => {
-  return localStorage[valueName] ? localStorage[valueName] :  defaultValue
-}
 
-const saveValue = (valueName, newValue) => {
-  localStorage[valueName] = newValue;
-}
 
 
 const Aside = ({setLocale}) => {
 
-  const [rtl, setRtl] = useState(getValue("rtl", "false") === "true");
-  const [collapsed, setCollapsed] = useState(getValue("collapsed", "false") === "true");
-  const [image, setImage] = useState(getValue("image", "true") === "true");
-  const [toggled, setToggled] = useState(getValue("toggled", "false") === "true");
+  const [rtl, setRtl] = useState(false);
+  const [collapsed, setCollapsed] = useState(false);
+  const [image, setImage] = useState(true);
+  const [toggled, setToggled] = useState(false);
   
 
  
   const handleCollapsedChange = (checked) => {
     setCollapsed(checked);
-    saveValue("collapsed", String(checked))
   };
 
   const handleRtlChange = (checked) => {
     setRtl(checked);
     setLocale(checked ? 'ar' : 'en');
-    saveValue("rtl", String(checked))
   };
   const handleImageChange = (checked) => {
     setImage(checked);
-    saveValue("image", String(checked))
   };
 
   const handleToggleSidebar = (value) => {
     setToggled(value);
-    saveValue("toggled", String(value))
   };
   
   const intl = useIntl();
@@ -152,7 +143,7 @@ const Aside = ({setLocale}) => {
           >
              <a href='./'>
             
-            {intl.formatMessage({ id: 'dashboard' })}
+            {intl.formatMessage({ id: 'Void' })}
             </a>
           </MenuItem>
           
@@ -177,7 +168,7 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
           </SubMenu>
           <SubMenu
-            suffix={<span className="badge yellow">4</span>}
+            suffix={<span className="badge yellow">3</span>}
             title={intl.formatMessage({ id: 'Recommended' })}
             icon={<FaHeart />}
           >
@@ -197,13 +188,23 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
            
           </SubMenu>
+          <SubMenu
+            suffix={<span className="badge red">4</span>}
+            title={intl.formatMessage({ id: 'Useful guides' })}
+            icon={<FaHotjar />}
+          >
+            <MenuItem> <a href='gold'>{intl.formatMessage({ id: 'Gold' })} </a></MenuItem>
+            <MenuItem><a href='doublebox'>{intl.formatMessage({ id: 'Double box' })} </a></MenuItem>
+            <MenuItem> <a href='exp'>{intl.formatMessage({ id: 'Exp' })} </a></MenuItem>
+            <MenuItem><a href='reputation'>{intl.formatMessage({ id: 'Reputation' })} </a></MenuItem>
+           
+          </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-             suffix={<span className="badge yellow">32</span>}>
+             suffix={<span className="badge yellow">31</span>}>
+              
           <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
-          <MenuItem><a href='EvolutionEvent'>{intl.formatMessage({id: 'Evolution Event'})}</a></MenuItem>
-          <MenuItem><a href='ValentineEvent'>{intl.formatMessage({id: 'Valentine Event'})}</a></MenuItem>
+     
           <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
-          <MenuItem><a href='SellableItems'>{intl.formatMessage({id: 'Sellable Items'})}</a></MenuItem>
           <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
             <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
             <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
@@ -215,7 +216,7 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
             <MenuItem  suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem>
-            <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
+            <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Mate' })} </a></MenuItem>
             <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
             <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
             <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
@@ -332,8 +333,6 @@ const Aside = ({setLocale}) => {
           <Route path='/books' component={Books} />
           <Route path='/box' component={Box} />
           <Route path='/c55' component={C55} />
-          <Route path='/EvolutionEvent' component={EvolutionEvent}/>
-          <Route path='/ValentineEvent' component={ValentineEvent}/>
           <Route path='/equipment' component={Equipment} />
           <Route path='/faires' component={Faires} />
           <Route path='/fish' component={Fish} />
@@ -354,11 +353,14 @@ const Aside = ({setLocale}) => {
           <Route path='/shop' component={Shopupdate} />
           <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
-          <Route path='/SellableItems' component={SellableItems}/>
           <Route path='/costumes' component={Costiumes} />
           <Route path='/p8' component={p8} />
           <Route path='/marathon' component={marathon} />
           <Route path='/contentcreator' component={ContentCreator} />
+          <Route path='/exp' component={Exp} />
+          <Route path='/doublebox' component={DB} />
+          <Route path='/reputation' component={Rep} />
+          <Route path='/gold' component={Gold} />
           
           
           
