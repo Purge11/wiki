@@ -28,7 +28,7 @@ export default function Exp() {
                             <d className="dcc">
                                 <b> Dracula Set</b>
                             </d>
-                            Hat + Costume (Starter Pack, Shop & Bushi King Box) Increases champion experience received by 15%, Increases champion experience received by 15%.
+                             Hat + Costume (Starter Pack, Shop & Bushi King Box) Increases champion experience received by 15%, Increases champion experience received by 15%.
                             <br/> 
                             <hr/>
 
