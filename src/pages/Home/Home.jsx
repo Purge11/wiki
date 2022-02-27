@@ -29,7 +29,7 @@ export default function Home() {
               </h3>
             </div>
             <h1>adventure will not wait!</h1>
-            <a className="btn btn-first" href='ValentineEvent'>Let's start</a>
+            <a className="btn btn-first" href='valentine'>Let's start</a>
           </div>
 
           <div className='col-sm-6 banner-image imgContainer'>

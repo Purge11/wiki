@@ -1,6 +1,6 @@
 import { useIntl } from 'react-intl';
 import {  FaBars } from 'react-icons/fa';
-import {  FaDiscord, FaHammer, FaCat, FaShopify,FaHotjar } from 'react-icons/fa';
+import {  FaDiscord, FaHammer, FaCat, FaShopify,FaHotjar,FaHeart } from 'react-icons/fa';
 import React, { useState } from 'react';
 import {  FaRegFileAlt } from 'react-icons/fa';
 import{FaYoutube} from 'react-icons/fa';
@@ -52,7 +52,7 @@ import {
   SidebarFooter,
   SidebarContent
 } from 'react-pro-sidebar';
-import { FaTachometerAlt, FaList, FaRegLaughWink, FaHeart } from 'react-icons/fa';
+import { FaTachometerAlt, FaList, FaRegLaughWink } from 'react-icons/fa';
 import sidebarBg from './assets/bg2.jpg';
 import Shopupdate from './pages/Shopupdate';
 import Wheel from './pages/Wheel';
@@ -64,6 +64,8 @@ import Exp from './pages/Exp';
 import DB from './pages/DB';
 import Rep from './pages/Rep';
 import Gold from './pages/Gold';
+import EvolutionEvent from './pages/EvolutionEvent';
+import ValentineEvent from './pages/ValentineEvent';
 
 
 
@@ -186,6 +188,15 @@ const Aside = ({setLocale}) => {
           >
             <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
             <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
+           
+          </SubMenu>
+          <SubMenu
+            suffix={<span className="badge yellow">2</span>}
+            title={intl.formatMessage({ id: 'During Events' })}
+            icon={<FaHeart />}
+          >
+            <MenuItem> <a href='valentine'>{intl.formatMessage({ id: 'Valentine' })} </a></MenuItem>
+            <MenuItem><a href='evolution'>{intl.formatMessage({ id: 'Evolution' })} </a></MenuItem>
            
           </SubMenu>
           <SubMenu
@@ -361,6 +372,8 @@ const Aside = ({setLocale}) => {
           <Route path='/doublebox' component={DB} />
           <Route path='/reputation' component={Rep} />
           <Route path='/gold' component={Gold} />
+          <Route path='/evolution' component={EvolutionEvent} />
+          <Route path='/valentine' component={ValentineEvent} />
           
           
           
