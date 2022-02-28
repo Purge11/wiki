@@ -66,6 +66,7 @@ import Rep from './pages/Rep';
 import Gold from './pages/Gold';
 import EvolutionEvent from './pages/EvolutionEvent';
 import ValentineEvent from './pages/ValentineEvent';
+import Damage from './pages/Damage';
 
 
 
@@ -200,7 +201,7 @@ const Aside = ({setLocale}) => {
            
           </SubMenu>
           <SubMenu
-            suffix={<span className="badge red">4</span>}
+            suffix={<span className="badge red">5</span>}
             title={intl.formatMessage({ id: 'Useful guides' })}
             icon={<FaHotjar />}
           >
@@ -208,6 +209,7 @@ const Aside = ({setLocale}) => {
             <MenuItem><a href='doublebox'>{intl.formatMessage({ id: 'Double box' })} </a></MenuItem>
             <MenuItem> <a href='exp'>{intl.formatMessage({ id: 'Exp' })} </a></MenuItem>
             <MenuItem><a href='reputation'>{intl.formatMessage({ id: 'Reputation' })} </a></MenuItem>
+            <MenuItem><a href='damage'>{intl.formatMessage({ id: 'Damage' })} </a></MenuItem>
            
           </SubMenu>
           <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
@@ -374,6 +376,7 @@ const Aside = ({setLocale}) => {
           <Route path='/gold' component={Gold} />
           <Route path='/evolution' component={EvolutionEvent} />
           <Route path='/valentine' component={ValentineEvent} />
+          <Route path='/damage' component={Damage} />
           
           
           
