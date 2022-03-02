@@ -19,8 +19,9 @@ export default function ContentCreator() {
                                 after applying. [You will need open a ticket from our discord server.]</i>
                         </d><br/>
                         <br/>
-                        <div className="card">
-                            <div className="card-header">
+                        <div className='d-flex justify-content-center'>
+                        <div className="card ">
+                            <div className="card-header ">
                                 The new reward system has 5 rank + 1 special rank:
                             </div>
                             <ul className="list-group list-group-flush">
@@ -116,10 +117,12 @@ export default function ContentCreator() {
                                 </li>
                             </ul>
                         </div>
-
+                        </div>
                         <br/>
-                        <br/>
-                        The ranking will be depending on the view amount of each content creator.
+                      
+                        
+                        <div class ="bordero1  ">
+                        <d className="mcc d-flex justify-content-center"> For Youtube channels</d>
                         <hr/>
                         <p>
                             - 150-299 monthly views for
@@ -159,9 +162,54 @@ export default function ContentCreator() {
                         <d className="text-danger d-flex justify-content-center">
                             <i>Ranks will be depends on the number of viewers obtained in the previous month 
                                 and updated during the current month</i>
-                        </d><br/>
-
-                        <d className="nosvoid-color">
+                        </d>
+                        </div>
+                        <div class ="bordero1">
+                        <d className="dcc d-flex justify-content-center"> For Twitch channels </d>
+                        <hr/>
+                        <p>
+                            - 50-199 monthly views for
+                            <d className="bcc">
+                                <b> Bronze </b>
+                            </d>
+                            Content Creator
+                            <br/>
+                            - 200-399 monthly views for
+                            <d className="scc">
+                                <b> Silver </b>
+                            </d>
+                            Content Creator<br/>
+                            - 400-699 monthly views for
+                            <d className="gcc">
+                                <b> Gold </b>
+                            </d>
+                            Content Creator<br/>
+                            - 700-1099 monthly views for
+                            <d className="pcc">
+                                <b> Platinum </b>
+                            </d>
+                            Content Creator<br/>
+                            - 1100+ monthly views for
+                            <d className="dcc">
+                                <b> Diamond </b>
+                            </d>
+                            Content Creator<br/>
+                            - 1600+ monthly views for unique
+                            <d className="mcc">
+                                <b> Master </b>
+                            </d>
+                            Content Creator <d className="text-danger ">(this title is only for the biggest one content creator )</d><br/>
+                            
+                        </p>
+                        
+                        <d className="text-danger d-flex justify-content-center">
+                            <i>Ranks will be depends on the number of viewers obtained in the previous month 
+                                and updated during the current month</i>
+                        </d>
+                        </div>
+                        <br/>
+                       
+                        <d className="nosvoid-color ">
                             <b>The rewards:</b>
                         </d>
                         - In-game title for their own content ranking.<br/>
