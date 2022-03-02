@@ -69,7 +69,7 @@ export default function EvolutionEvent() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Act4 Bracelet</th>
+                                        Betting Necklace</th>
                                     <th scope="col"><img src="asset/EvolutionEvent/BettingNecklace.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
