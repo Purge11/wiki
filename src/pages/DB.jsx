@@ -49,12 +49,6 @@ export default function DB() {
                             <hr/>
                             
                             <d className="mcc">
-                                <b> Wedding SP Buff </b>
-                            </d>
-                            5% Gold (Act4, craft in base map)
-                            <br/>
-                            <hr/>
-                            <d className="mcc">
                                 <b> Shadow Hamster </b>
                             </d>
                             (Evolution Event & Void Mall) When you finish Act4 and Caligor Raid you have 8% chance to get additional box.
