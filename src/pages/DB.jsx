@@ -20,7 +20,7 @@ export default function DB() {
                             <d className="mcc">
                                 <b> Venus Partner Card </b>
                             </d>
-                            (Summer Event & Fortune Wheel Reward) When raid is finished, there's a 5% chance that box drops second time.
+                            (Summer Event, Halloween Event & Fortune Wheel Reward) When raid is finished, there's a 5% chance that box drops second time.
                             <br/>
                             <hr/>
 
@@ -28,7 +28,7 @@ export default function DB() {
                             <d className="mcc">
                                 <b> Raid Ring </b>
                             </d>
-                            (Evolution Event & Fortune Wheel Reward) When raid is finished, there's a 7% chance that box drops second time.
+                            (Evolution Event, Halloween Event, Christmas Event & Fortune Wheel Reward) When raid is finished, there's a 7% chance that box drops second time.
                             <br/> 
                             <hr/>
 
