@@ -149,7 +149,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Frost Warrior Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/lancer.webp" alt="" /></th>
+                                    <th scope="col"><img src="asset/shop/frosty.png" alt="" /></th>
                                 </tr>
                                 <br />
                                 Hat:
