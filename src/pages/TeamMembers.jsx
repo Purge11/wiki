@@ -66,19 +66,18 @@ export default function TeamMembers() {
                                 <td>Super Game Master</td>
                                 <td className="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>    
                             </tr>
-                            <tr className='discord-admin-color'>
-                                <th scope="row">Meteion</th>
-                                <td>FR/ENG</td>
-                                <td>Discord Admin</td>
-                                <td className="centered"><img src="asset/team/SuperGamemaster.png" alt=""/></td>
-                            </tr>
-
                             <tr className='event-manager-color'>
                                 <th scope="row">Dark Legend</th>
                                 <td>ITA/ENG</td>
                                 <td>Event Manager</td>
                                 <td className="centered"><img src="asset/team/event_manager.png" alt=""/></td>
                                 
+                            </tr>
+                            <tr className='discord-admin-color'>
+                                <th scope="row">Meteion</th>
+                                <td>FR/ENG</td>
+                                <td>Discord Admin</td>
+                                <td className="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
                             </tr>
                             <tr className='game-master-color'>
                                 <th scope="row">Sigma</th>
@@ -156,6 +155,34 @@ export default function TeamMembers() {
                                 <th scope="row">Aeri </th>
                                 <td>TR/ENG</td>
                                 <td>Game Supporter</td>
+                                <td className="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">GayBoysAdmirer </th>
+                                <td>PL/ENG</td>
+                                <td>Trial Game Supporter</td>
+                                <td className="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">Kurama~ </th>
+                                <td>DE/ENG/PL/RU</td>
+                                <td>Trial Game Supporter</td>
+                                <td className="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">~Drecker </th>
+                                <td>ITA/ENG</td>
+                                <td>Trial Game Supporter</td>
+                                <td className="centered"><img src="asset/team/Supporter.png" alt=""/></td>
+                             
+                            </tr>
+                            <tr className='trial-supporter-color'>
+                                <th scope="row">Gumiho </th>
+                                <td>TR/ITA/ENG</td>
+                                <td>Trial Game Supporter</td>
                                 <td className="centered"><img src="asset/team/Supporter.png" alt=""/></td>
                              
                             </tr>
