@@ -574,11 +574,11 @@ export default function EvolutionEvent() {
                             </td>
                             <td>
                                 <b className="item-effect-shell">
-                                    Damage in Raids is increased by 7%.
+                                    Damage in Raids is increased by 5%.
                                     <br/>
                                     Increases fame received by 10%
                                     <br/>
-                                    Ranged damage is increased by 5% in Raids.
+                                    Ranged damage is increased by 7% in Raids.
                                     <br/>
                                     Increase 15% crit damage in raids.
                                 </b>
