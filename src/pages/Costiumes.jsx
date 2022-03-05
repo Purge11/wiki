@@ -1338,7 +1338,7 @@ export default function Costiumes() {
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
-                                        <i>Obtained: P8 Hardcore reward NPC</i>
+                                        <i>Obtained: P8 Hardcore Rewards NPC</i>
                                     </div></div>
                                 </thead>
                             </table>
