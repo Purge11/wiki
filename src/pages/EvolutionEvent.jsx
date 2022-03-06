@@ -96,9 +96,9 @@ export default function EvolutionEvent() {
                         </table>
                     </div>
                 </div>
-                <br/>
+                <br />
                 To craft this objets you will need:
-                <hr/>
+                <hr />
                 <div className="d-flex flex-row">
                     <div className="p-0"><b>Black Gemstone</b></div>
                     <div className="p-8"><img src="asset/EvolutionEvent/BlackGemstone.png" alt="" /></div>
@@ -114,7 +114,7 @@ export default function EvolutionEvent() {
                     <div className="p-8"><img src="asset/EvolutionEvent/GoldenFruit.png" alt="" /></div>
                     <div className="p-1"><i>Obtained from Event Box and Apple Trees</i></div>
                 </div>
-                <br/>
+                <br />
                 In NosVille Apple Trees will be spawned each 10 minutes. You will get Golden Apple when you kill it.
                 <div className="p-8"><img src="asset/EvolutionEvent/GoldenAppleTree.png" alt="" /></div>
                 <br /><br />
@@ -163,12 +163,13 @@ export default function EvolutionEvent() {
                 </div>
                 <br /><br />
                 <h1 className="nosvoid-color d-flex justify-content-center">Pet Guide:</h1>
-                <br/>
+                <br />
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Inferno</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -181,6 +182,10 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of attacks is increased by 75.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
@@ -190,17 +195,25 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of attacks is increased by 200
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Inferno.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Titan Hamster</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -211,6 +224,10 @@ export default function EvolutionEvent() {
                                     <br />
                                     When you finish Act4 and Caligor Raid you have 5% chance to get 2 boxes.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
@@ -218,17 +235,25 @@ export default function EvolutionEvent() {
                                     <br />
                                     When you finish Act4 and Caligor Raid you have 8% chance to get 2 boxes.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Hamster.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Chick Norris</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -245,6 +270,10 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of all attacks is increased by 50.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
@@ -258,17 +287,25 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of all attacks is increased by 100.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Chicken.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Seraphim</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -279,6 +316,10 @@ export default function EvolutionEvent() {
                                     <br />
                                     When raid is finished, there's a 5% chance that box drops second time.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
@@ -286,17 +327,25 @@ export default function EvolutionEvent() {
                                     <br />
                                     When raid is finished, there's a 8% chance that box drops second time.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Serafin.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Golden Fleece (Will be available soon)</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -304,35 +353,47 @@ export default function EvolutionEvent() {
                             <td>
                                 <d className="item-effect-shell">
                                     All defences are increased by 5%.
-                                    <br/>
+                                    <br />
                                     Maximum HP is increased by 1000.
-                                    <br/>
+                                    <br />
                                     Increase crit chance in Act4 by 3%.
                                     <br />
                                     There is a 3% chance to reduce 80% damage taken in Act4.
+                                </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
                                 </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
                                     All defences are increased by 7%.
-                                    <br/>
+                                    <br />
                                     Maximum HP is increased by 1500.
-                                    <br/>
+                                    <br />
                                     Increase crit chance in Act4 by 5%.
                                     <br />
                                     There is a 5% chance to reduce 80% damage taken in Act4.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Fleece.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Blizzard Wolf (Will be available soon)</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -347,6 +408,10 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of all attacks is increased by 75 in act4.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
@@ -358,17 +423,25 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of all attacks is increased by 150 in act4.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Wolf.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Spooky Imp (Will be available soon)</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -383,6 +456,10 @@ export default function EvolutionEvent() {
                                     <br />
                                     Increases movement speed by 1 in Act4.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
@@ -394,17 +471,25 @@ export default function EvolutionEvent() {
                                     <br />
                                     Increases movement speed by 1 in Act4.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Imp.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Master Bunny's Blessing</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -419,6 +504,10 @@ export default function EvolutionEvent() {
                                     <br />
                                     The fishing experience points you receive are increased by 5%.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
@@ -430,17 +519,25 @@ export default function EvolutionEvent() {
                                     <br />
                                     The fishing experience points you receive are increased by 10%.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Bunny.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Dragon Bee's Blessing</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -449,22 +546,34 @@ export default function EvolutionEvent() {
                                 <d className="item-effect-shell">
                                     Increase 5% success rate while perfecting SPs.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
                                     Increase 10% success rate while perfecting SPs.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
-                        </tr>
+                            <td>
+                                <img src="asset/EvolutionEvent/Bee.png" alt="" />
+                            </td>
+                        </tr>     
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Namaju's Blessing</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -473,22 +582,34 @@ export default function EvolutionEvent() {
                                 <d className="item-effect-shell">
                                     There's 4% more of getting rarity 7-8 while betting.
                                 </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
                                     There's 7% more of getting rarity 7-8 while betting.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td> 
+                            <td>
+                                <img src="asset/EvolutionEvent/Namaju.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">Vampie's Blessing</th>
+                            <th scope="col">Devil Vampie's Blessing</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -496,31 +617,43 @@ export default function EvolutionEvent() {
                             <td>
                                 <d className="item-effect-shell">
                                     Damage in Raids is increased by 3%.
-                                    <br/>
+                                    <br />
                                     Increases fame received by 5%.
-                                    <br/>
+                                    <br />
                                     Magic damage is increased by 2% in raids.
+                                </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
                                 </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
                                     Damage in Raids is increased by 7%.
-                                    <br/>
+                                    <br />
                                     Increases fame received by 10%.
-                                    <br/>
+                                    <br />
                                     Magic damage is increased by 5% in raids.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/vampie.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
                             <th scope="col">Darkfrost Snowman's Blessing</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -528,35 +661,47 @@ export default function EvolutionEvent() {
                             <td>
                                 <d className="item-effect-shell">
                                     Damage in Raids is increased by 3%.
-                                    <br/>
+                                    <br />
                                     Increases fame received by 5%.
-                                    <br/>
+                                    <br />
                                     melee damage increased by 2% in raids.
-                                    <br/>
+                                    <br />
                                     Increase 2% crit chance in raids.
+                                </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
                                 </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
                                     Damage in Raids is increased by 7%.
-                                    <br/>
+                                    <br />
                                     Increases fame received by 10%.
-                                    <br/>
+                                    <br />
                                     melee damage increased by 5% in raids.
-                                    <br/>
+                                    <br />
                                     Increase 5% crit chance in raids.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/darkfrost.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
 
                 <table className="table  text-dark">
                     <thead className="thead-dark">
                         <tr>
-                            <th scope="col">Spider's Blessing</th>
+                            <th scope="col">Long-Legged Spider's Blessing</th>
                             <th scope="col ">Shadow Version</th>
+                            <th scope="col ">In-Game</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -564,29 +709,40 @@ export default function EvolutionEvent() {
                             <td>
                                 <d className="item-effect-shell">
                                     Damage in Raids is increased by 3%.
-                                    <br/>
+                                    <br />
                                     Increases fame received by 5%.
-                                    <br/>
-                                   Ranged damage is increased by 2% in Raids.
-                                    <br/>
+                                    <br />
+                                    Ranged damage is increased by 2% in Raids.
+                                    <br />
                                     Increase 5% crit damage in raids.
+                                </d>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
                                 </d>
                             </td>
                             <td>
                                 <b className="item-effect-shell">
                                     Damage in Raids is increased by 5%.
-                                    <br/>
+                                    <br />
                                     Increases fame received by 10%
-                                    <br/>
+                                    <br />
                                     Ranged damage is increased by 7% in Raids.
-                                    <br/>
+                                    <br />
                                     Increase 15% crit damage in raids.
                                 </b>
+                                <br/>
+                                <d className="white-color">
+                                    ____________________________________________
+                                </d>
+                            </td>
+                            <td>
+                                <img src="asset/EvolutionEvent/Spider.png" alt="" />
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <br/>
+                <br />
             </div>
         </div >
     )
