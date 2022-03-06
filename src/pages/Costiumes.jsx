@@ -1290,6 +1290,65 @@ export default function Costiumes() {
                             <table className="table">
                                 <thead>
                                     <tr>
+                                        <th scope="col">Honeybee Costume Set</th>
+                                        <th scope="col"><img src="asset/costumes/honey.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Crown:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All attacks are increased by 2%.
+                                        <br/>
+                                        - Maximum HP is increased by 1000.
+                                        <br/>
+                                        - Reduced the enemy's elemental resistances by 10.
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Costume:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All defences are increased by 4%.
+                                        <br/>
+                                        - Damage from critical hits is reduced by 15%.
+                                        <br/>
+                                        - Movement speed is increased by 1.
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Shades (Glasses):
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Reduces damage received in PvP by 10%.
+                                        <br/>
+                                        - Increases PvP attack power by 5%.
+                                        <br/>
+                                        - Up to level 4 there is a 15% chance of never getting a bad effect.
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Costume Wings:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Movement speed is increased by 1.
+                                        <br/>
+                                        - All attacks are increased 3%.
+                                        <br/>
+                                        - Dodge is increased by 75.
+                                    </d>
+                                    <br /><br />
+                                    <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
+                                        <i>Obtained: P8 Hardcore Rewards NPC</i>
+                                    </div></div>
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="pc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
                                         <th scope="col">Betting Costume</th>
                                         <th scope="col"><img src="asset/costumes/10.png" alt="" /></th>
                                     </tr>
