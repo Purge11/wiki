@@ -30,6 +30,7 @@
   .c50,
   .c55,
   .evolutionevent,
+  .specialitem,
   .valentineevent,
   .sellableitems,
   .customfeatures,
@@ -294,6 +295,12 @@ body {
     margin-right: 0 !important;
   }
 }
+.specialitem{
+  img{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
 .valentineevent{
   img{
     margin-left: 0 !important;
@@ -310,6 +317,7 @@ body {
   .c50,
   .c55,
   .evolutionevent,
+  .specialitem,
   .valentineevent,
   .sellableitems,
   .customfeatures,
