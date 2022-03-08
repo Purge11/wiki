@@ -69,7 +69,7 @@ export default function TeamMembers() {
                             <tr className='event-manager-color'>
                                 <th scope="row">Dark Legend</th>
                                 <td>ITA/ENG</td>
-                                <td>Event Manager</td>
+                                <td>Game Designer</td>
                                 <td className="centered"><img src="asset/team/event_manager.png" alt=""/></td>
                                 
                             </tr>
@@ -77,7 +77,7 @@ export default function TeamMembers() {
                                 <th scope="row">Meteion</th>
                                 <td>FR/ENG</td>
                                 <td>Discord Admin</td>
-                                <td className="centered"><img src="asset/team/Gamemaster.png" alt=""/></td>
+                                <td className="centered"><img src="asset/team/DA.png" alt=""/></td>
                             </tr>
                             <tr className='game-master-color'>
                                 <th scope="row">Sigma</th>
