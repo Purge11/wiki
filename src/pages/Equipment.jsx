@@ -70,7 +70,7 @@ export default function Equipment() {
 
                 </div>
             </div>
-           
+
         </div>
     )
 }

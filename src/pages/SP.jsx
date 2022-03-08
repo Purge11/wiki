@@ -8,87 +8,87 @@ export default function SP() {
                 <div className="row  ">
 
                     <h2 className="nosvoid-color d-flex justify-content-center">How ​​do I get SP cards?</h2>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
+                    <br />
+                    <br />
 
                     <h3>Sp1</h3>
-                    <br/>
+                    <br />
                     - You can buy it from the starting Npc.
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Sp2-4</h3>
-                    <br/>
+                    <br />
                     - You can have the red zone determined on the map by entering the portal and
                     killing the monsters.
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Sp5</h3>
-                    <br/>
+                    <br />
                     - Lord Draco Raid box.
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Sp6</h3>
-                    <br/>
+                    <br />
                     - Glacerus Raid box. (Sp2 for Martial Artist)
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Sp7-8</h3>
-                    <br/>
+                    <br />
                     - Witch Lauren raid box (Sp3 and Sp4 for Martial Artist)
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Sp9</h3>
                     - $Warp P8 Paimon Raid or craft "Craft Specialist 9" NPC
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Wedding SP</h3>
-                    <br/>
+                    <br />
                     - You can get the wedding expert card from Act4.
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Fish SP</h3>
-                    <br/>
+                    <br />
                     <div>
-                    - You can have it by reading the guide.<a href="fish">《📘》fish-guide</a>
+                        - You can have it by reading the guide.<a href="fish">《📘》fish-guide</a>
                     </div>
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Pajama SP</h3>
-                    <br/>
+                    <br />
                     - Not added to the game yet.
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Jajamaru SP</h3>
-                    <br/>
+                    <br />
                     -《🎃》halloween-event
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Cook SP</h3>
-                    <br/>
+                    <br />
                     - Not yet added to the game
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Chicken SP</h3>
-                    <br/>
+                    <br />
                     - You can get the chicken expert card from Act4.
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <h3>Pirate SP</h3>
-                    <br/>
+                    <br />
                     - You can get the pirate expert card through the summer event.
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <div className=""></div>
-                    <img className="" src="asset/sp/sp2.png" alt=""/>
-                    <img className="mt-3"src="asset/sp/sp1.png" alt=""/>
+                    <img className="" src="asset/sp/sp2.png" alt="" />
+                    <img className="mt-3" src="asset/sp/sp1.png" alt="" />
 
-                   
+
 
                 </div>
             </div>
-            
+
         </div>
     )
 }

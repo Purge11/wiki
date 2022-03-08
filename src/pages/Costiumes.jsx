@@ -1298,9 +1298,9 @@ export default function Costiumes() {
                                     <hr />
                                     <d className="item-effect-shell">
                                         - All attacks are increased by 2%.
-                                        <br/>
+                                        <br />
                                         - Maximum HP is increased by 1000.
-                                        <br/>
+                                        <br />
                                         - Reduced the enemy's elemental resistances by 10.
                                     </d>
                                     <br />
@@ -1309,9 +1309,9 @@ export default function Costiumes() {
                                     <hr />
                                     <d className="item-effect-shell">
                                         - All defences are increased by 4%.
-                                        <br/>
+                                        <br />
                                         - Damage from critical hits is reduced by 15%.
-                                        <br/>
+                                        <br />
                                         - Movement speed is increased by 1.
                                     </d>
                                     <br />
@@ -1320,9 +1320,9 @@ export default function Costiumes() {
                                     <hr />
                                     <d className="item-effect-shell">
                                         - Reduces damage received in PvP by 10%.
-                                        <br/>
+                                        <br />
                                         - Increases PvP attack power by 5%.
-                                        <br/>
+                                        <br />
                                         - Up to level 4 there is a 15% chance of never getting a bad effect.
                                     </d>
                                     <br />
@@ -1331,9 +1331,9 @@ export default function Costiumes() {
                                     <hr />
                                     <d className="item-effect-shell">
                                         - Movement speed is increased by 1.
-                                        <br/>
+                                        <br />
                                         - All attacks are increased 3%.
-                                        <br/>
+                                        <br />
                                         - Dodge is increased by 75.
                                     </d>
                                     <br /><br />

@@ -34,7 +34,7 @@ export default function Home() {
 
           <div className='col-sm-6 banner-image imgContainer'>
             <div className="d-flex flex-row">
-            <div className="p-1">__________________ <b>Evolution and Valentine event Trailer</b> __________________<Player>
+              <div className="p-1">__________________ <b>Evolution and Valentine event Trailer</b> __________________<Player>
                 <source src="video/nosvoidValentine.mp4" />
               </Player></div>
             </div>

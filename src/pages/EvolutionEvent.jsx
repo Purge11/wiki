@@ -182,7 +182,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of attacks is increased by 75.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -195,7 +195,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of attacks is increased by 200
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -224,7 +224,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     When you finish Act4 and Caligor Raid you have 5% chance to get 2 boxes.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -235,7 +235,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     When you finish Act4 and Caligor Raid you have 8% chance to get 2 boxes.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -270,7 +270,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of all attacks is increased by 50.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -287,7 +287,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of all attacks is increased by 100.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -316,7 +316,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     When raid is finished, there's a 5% chance that box drops second time.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -327,7 +327,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     When raid is finished, there's a 8% chance that box drops second time.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -360,7 +360,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     There is a 3% chance to reduce 80% damage taken in Act4.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -375,7 +375,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     There is a 5% chance to reduce 80% damage taken in Act4.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -408,7 +408,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of all attacks is increased by 75 in act4.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -423,7 +423,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Hit rate of all attacks is increased by 150 in act4.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -456,7 +456,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Increases movement speed by 1 in Act4.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -471,7 +471,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Increases movement speed by 1 in Act4.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -504,7 +504,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     The fishing experience points you receive are increased by 5%.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -519,7 +519,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     The fishing experience points you receive are increased by 10%.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -546,7 +546,7 @@ export default function EvolutionEvent() {
                                 <d className="item-effect-shell">
                                     Increase 5% success rate while perfecting SPs.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -555,7 +555,7 @@ export default function EvolutionEvent() {
                                 <b className="item-effect-shell">
                                     Increase 10% success rate while perfecting SPs.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -563,7 +563,7 @@ export default function EvolutionEvent() {
                             <td>
                                 <img src="asset/EvolutionEvent/Bee.png" alt="" />
                             </td>
-                        </tr>     
+                        </tr>
                     </tbody>
                 </table>
                 <br />
@@ -582,7 +582,7 @@ export default function EvolutionEvent() {
                                 <d className="item-effect-shell">
                                     There's 4% more of getting rarity 7-8 while betting.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -591,11 +591,11 @@ export default function EvolutionEvent() {
                                 <b className="item-effect-shell">
                                     There's 7% more of getting rarity 7-8 while betting.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
-                            </td> 
+                            </td>
                             <td>
                                 <img src="asset/EvolutionEvent/Namaju.png" alt="" />
                             </td>
@@ -622,7 +622,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Magic damage is increased by 2% in raids.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -635,7 +635,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Magic damage is increased by 5% in raids.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -668,7 +668,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Increase 2% crit chance in raids.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -683,7 +683,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Increase 5% crit chance in raids.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -716,7 +716,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Increase 5% crit damage in raids.
                                 </d>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>
@@ -731,7 +731,7 @@ export default function EvolutionEvent() {
                                     <br />
                                     Increase 15% crit damage in raids.
                                 </b>
-                                <br/>
+                                <br />
                                 <d className="white-color">
                                     ____________________________________________
                                 </d>

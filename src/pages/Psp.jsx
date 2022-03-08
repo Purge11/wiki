@@ -8,22 +8,22 @@ export default function psp() {
                     <div className="card">
                         <div className="flip-card-inner-psp-good">
                             <div className="flip-card-front">
-                                <img src="asset/psp/1.png" className="card-img-top mx-auto pt-5 " alt="..."/>
+                                <img src="asset/psp/1.png" className="card-img-top mx-auto pt-5 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Aegir Partner Card</h5>
                                     <p className="card-text ">
                                         <h5>Can be obtained in Christmas Event and sometimes in Fortune Wheel.</h5>
 
-                                       
+
                                     </p>
                                 </div>
 
-                                
+
 
                             </div>
 
                             <div className="flip-card-back">
-                            <img src="asset/psp/1_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..."/>
+                                <img src="asset/psp/1_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..." />
                             </div>
                         </div>
 
@@ -34,22 +34,22 @@ export default function psp() {
                                 <img
                                     src="asset/psp/2.png"
                                     className="card-img-top mx-auto pt-5 "
-                                    alt="..."/>
+                                    alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Barni Partner Card</h5>
                                     <p className="card-text ">
                                         <h5>Can be obtained in Christmas Event and sometimes in Fortune Wheel.</h5>
 
-                                        
+
                                     </p>
                                 </div>
 
-                                
+
 
                             </div>
 
                             <div className="flip-card-back">
-                            <img src="asset/psp/2_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..."/>
+                                <img src="asset/psp/2_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..." />
 
                             </div>
                         </div>
@@ -58,23 +58,23 @@ export default function psp() {
                     <div className="card">
                         <div className="flip-card-inner-psp-good">
                             <div className="flip-card-front">
-                                <img src="asset/psp/3.png" className="card-img-top mx-auto pt-5 " alt="..."/>
+                                <img src="asset/psp/3.png" className="card-img-top mx-auto pt-5 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Freya Partner Card</h5>
                                     <p className="card-text ">
                                         <h5>Can be obtained in Christmas Event and sometimes in Fortune Wheel.</h5>
 
-                                        
-                                      
+
+
                                     </p>
                                 </div>
 
-                              
+
 
                             </div>
 
                             <div className="flip-card-back">
-                            <img src="asset/psp/3_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..."/>
+                                <img src="asset/psp/3_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..." />
 
                             </div>
                         </div>
@@ -93,20 +93,20 @@ export default function psp() {
                                 <img
                                     src="asset/psp/4.png"
                                     className=" card-img-top mx-auto pt-5"
-                                    alt="..."/>
+                                    alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Hongbi Partner Card</h5>
                                     <p className="card-text ">
                                         <h5>Can be obtained in Summer Event.</h5>
 
-                                       
+
                                     </p>
                                 </div>
 
                             </div>
 
                             <div className="flip-card-back ">
-                               
+
                             </div>
                         </div>
 
@@ -114,23 +114,23 @@ export default function psp() {
                     <div className="card  ">
                         <div className="flip-card-inner-psp ">
                             <div className="flip-card-front">
-                                <img src="asset/psp/5.png" className="card-img-top mx-auto pt-5   " alt="..."/>
+                                <img src="asset/psp/5.png" className="card-img-top mx-auto pt-5   " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Frankestein Partner Card</h5>
                                     <p className="card-text ">
                                         <h5>Can be obtained in Halloween Event and sometimes in Fortune Wheel.</h5>
 
-                                       
+
 
                                     </p>
                                 </div>
 
-                                
+
 
                             </div>
 
                             <div className="flip-card-back">
-                               
+
                             </div>
                         </div>
 
@@ -141,25 +141,25 @@ export default function psp() {
                                 <img
                                     src="asset/psp/6.png"
                                     className="  card-img-top mx-auto pt-5"
-                                    alt="..."/>
+                                    alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Fiona Partner Card</h5>
                                     <p className="card-text ">
                                         <h5>You can get Fiona in Prestige 8 map.</h5>
 
-                                      
+
 
                                     </p>
                                 </div>
 
-                               
+
 
                             </div>
 
                             <div className="flip-card-back">
-                                
-                                
-                                <img src="asset/psp/6_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..."/>
+
+
+                                <img src="asset/psp/6_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..." />
                             </div>
                         </div>
                     </div>
@@ -173,22 +173,22 @@ export default function psp() {
                                     <img
                                         src="asset/psp/7.png"
                                         className=" card-img-top mx-auto pt-5 "
-                                        alt="..."/>
+                                        alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Venus Partner Card</h5>
                                         <p className="card-text ">
                                             <h5>Can be obtained in Summer Event and sometimes in Fortune Wheel.</h5>
 
-                                            
+
                                         </p>
                                     </div>
 
-                                 
+
 
                                 </div>
 
                                 <div className="flip-card-back ">
-                                    
+
 
 
                                 </div>
@@ -201,22 +201,22 @@ export default function psp() {
                                     <img
                                         src="asset/psp/8.png"
                                         className="  card-img-top mx-auto pt-5   "
-                                        alt="..."/>
+                                        alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Perti Partner Card</h5>
                                         <p className="card-text ">
                                             <h5>Can be obtained in Void Mall.</h5>
 
-                                           
+
 
                                         </p>
                                     </div>
 
-                                    
+
                                 </div>
 
                                 <div className="flip-card-back">
-                                  
+
                                 </div>
                             </div>
 
@@ -227,22 +227,22 @@ export default function psp() {
                                     <img
                                         src="asset/psp/9.png"
                                         className="  card-img-top mx-auto pt-5 "
-                                        alt="..."/>
+                                        alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Chloe Partner Card</h5>
                                         <p className="card-text ">
                                             <h5>Can be obtained in Summer Event, Talent Arena NPC and sometimes in Fortune Wheel.</h5>
 
-                                           
+
                                         </p>
                                     </div>
 
-                                  
+
 
                                 </div>
 
                                 <div className="flip-card-back">
-                                    
+
 
                                 </div>
                             </div>
@@ -257,19 +257,19 @@ export default function psp() {
                                         <img
                                             src="asset/psp/10.png"
                                             className=" card-img-top mx-auto pt-5 "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">
-                                            Amora Partner Card</h5>
+                                                Amora Partner Card</h5>
                                             <p className="card-text ">
                                                 <h5>Can be obtained in Summer Event and sometimes in Fortune Wheel.</h5>
 
-                                                
+
 
                                             </p>
                                         </div>
 
-                                        
+
 
                                     </div>
 
@@ -290,18 +290,18 @@ export default function psp() {
                                         <img
                                             src="asset/psp/11.png"
                                             className="  card-img-top mx-auto pt-5   "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Yuna Partner Card</h5>
                                             <p className="card-text ">
                                                 <h5>Can be obtained in Void Mall.</h5>
 
-                                                
+
 
                                             </p>
                                         </div>
 
-                                   
+
 
                                     </div>
 
@@ -330,17 +330,17 @@ export default function psp() {
                                         <img
                                             src="asset/psp/12.png"
                                             className="  card-img-top mx-auto pt-5 "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Nelia Partner Card</h5>
                                             <p className="card-text ">
                                                 <h5>Can be obtained in Void Mall.</h5>
 
-                                               
+
                                             </p>
                                         </div>
 
-                                      
+
 
                                     </div>
 
@@ -366,23 +366,23 @@ export default function psp() {
                                         <img
                                             src="asset/psp/13.png"
                                             className=" card-img-top mx-auto pt-5 "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">
-                                            Maru Partner Card</h5>
+                                                Maru Partner Card</h5>
                                             <p className="card-text ">
                                                 <h5> Can be obtained in Summer Event and Rainbow Battle Exchange NPC.</h5>
 
-                                                
+
                                             </p>
                                         </div>
 
-                                      
+
 
                                     </div>
 
                                     <div className="flip-card-back ">
-                                       
+
                                     </div>
                                 </div>
 
@@ -393,24 +393,24 @@ export default function psp() {
                                         <img
                                             src="asset/psp/14.png"
                                             className="  card-img-top mx-auto pt-5   "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Eliza Partner Card</h5>
                                             <p className="card-text ">
                                                 <h5>Can be obtained in Summer Event and Craft Stuff NPC. [Prestige 8 map]</h5>
 
-                                               
+
 
                                             </p>
                                         </div>
 
-                                       
+
 
                                     </div>
 
                                     <div className="flip-card-back">
-                                        
-                                       
+
+
 
                                     </div>
                                 </div>
@@ -422,38 +422,38 @@ export default function psp() {
                                         <img
                                             src="asset/psp/15.png"
                                             className="  card-img-top mx-auto pt-5   "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Daniel Ducat's</h5>
                                             <p className="card-text ">
-                                            <h5>Can be obtained in Christmas Event and sometimes in Fortune Wheel.</h5>
+                                                <h5>Can be obtained in Christmas Event and sometimes in Fortune Wheel.</h5>
 
-                                               
+
 
                                             </p>
                                         </div>
 
-                                       
+
 
                                     </div>
 
                                     <div className="flip-card-back">
-                                        
-                                       
+
+
 
                                     </div>
                                 </div>
 
                             </div>
-                           </div>
-                          
-                           
-                           
+                        </div>
 
-                            
-                            
-                           
-                           
+
+
+
+
+
+
+
                     </div>
                 </div>
 

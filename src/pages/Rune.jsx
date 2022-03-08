@@ -11,14 +11,14 @@ export default function rune() {
                     to 21 runes of 21, but only to a level 80 or higher main weapon that is attached
                     to your character or not attached to anyone (after carving your first rune it
                     will automatically bind to your character)..
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     Each rune has a different effect. If you get the same effect multiple times, the
                     effect will increase. You cannot choose a Rune, you will only receive a random
                     one. If you are not satisfied with the Rune you have, you can delete all the
                     runes you have with the Rune removal hamme
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <table className="table  ">
                         <thead>
                             <tr>
@@ -147,7 +147,7 @@ export default function rune() {
 
                         </tbody>
                     </table>
-                    <br/>
+                    <br />
                     For every 3 runes you carve, there is a chance for a rune power to be applied to
                     your weapon instead of an effect. Just like rune effects, rune powers can stack
                     when you get the same power more than once. There are 10 rune powers, below you
@@ -155,21 +155,21 @@ export default function rune() {
                     debuff correspond their levels (which means if you have a level 3 rune power,
                     you have a 3% chance to receive or inflict their buff or debuff). All their
                     buffs and debuffs are level 3.
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
                     <div>
                         - Rune materials can be obtained from your world boss..
                         <a href="schedule">《🔔》schedule</a>
                     </div>
-                    <br/>
-                    <br/>
-                    <img src="asset/runes/runes2.png" alt=""/>
-                    <img src="asset/runes/runes3.png" alt=""/>
-                    <img src="asset/runes/runes4.png" alt=""/>
+                    <br />
+                    <br />
+                    <img src="asset/runes/runes2.png" alt="" />
+                    <img src="asset/runes/runes3.png" alt="" />
+                    <img src="asset/runes/runes4.png" alt="" />
 
                 </div>
             </div>
-            
+
         </div>
     )
 }
