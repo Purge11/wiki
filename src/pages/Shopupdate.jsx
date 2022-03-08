@@ -88,7 +88,7 @@ export default function Shopupdate() {
                                 <hr />
                                 <d className="text-danger">
                                     Severe Electric Shock debuff <i>(4 seconds)</i>:
-                                    <br/>
+                                    <br />
                                     - Movement Impossible
                                     <br />
                                     - No attack possible

@@ -5,12 +5,12 @@ export default function Schedule() {
         <div className='schedule'>
             <div className="container d-flex justify-content-center">
                 <div className="row series-image-list ">
-                <ul className="list-group">
-                <li className="list-group-item d-flex justify-content-center bg-white text-danger">The Event times are GMT+1</li>
-                </ul>
+                    <ul className="list-group">
+                        <li className="list-group-item d-flex justify-content-center bg-white text-danger">The Event times are GMT+1</li>
+                    </ul>
                     <ul className="list-group mt-5">
-                                         
-                        
+
+
                         <li className="list-group-item d-flex justify-content-center bg-success text-white">[Instant Battle Schedule]</li>
                         <li className="list-group-item d-flex justify-content-center">02:30</li>
                         <li className="list-group-item d-flex justify-content-center">12:00</li>
@@ -83,13 +83,13 @@ export default function Schedule() {
                         <li className="list-group-item d-flex justify-content-center">16:20
                         </li>
                         <li className="list-group-item d-flex justify-content-center">23:10</li>
-                       
+
 
                     </ul>
 
                 </div>
             </div>
-           
+
         </div>
 
     )

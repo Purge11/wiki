@@ -19,7 +19,7 @@ export default function ValentineEvent() {
                 And you will be able to craft the <b>Valentine's Heart Box</b> with Hearts.
                 <br /><br />
                 <th scope="col">
-                   Valentine's Heart Box info:
+                    Valentine's Heart Box info:
                 </th>
                 <img src="asset/ValentineEvent/ValentineBox.png" alt="" />
 
@@ -71,7 +71,7 @@ export default function ValentineEvent() {
                                     <br />
                                     - No defence possible
                                 </d>
-                                <br/><br/>
+                                <br /><br />
                                 <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                     <i>Obtained: Fortune Wheel</i>
                                 </div></div>

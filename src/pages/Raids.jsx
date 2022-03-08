@@ -8,7 +8,7 @@ export default function Raids() {
                     <div className="card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src="asset/raids/draco.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/raids/draco.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Draco</h5>
                                     <p className="card-text ">
@@ -17,7 +17,7 @@ export default function Raids() {
                                         <h5>What can I do with the Lord Draco Raid?</h5>
 
                                         You can have Rarify (for Badge rare) and Sp5.
-                                        <br/>
+                                        <br />
                                         <a href='badge'>《📘》badge-guide
                                         </a>
                                     </p>
@@ -49,7 +49,7 @@ export default function Raids() {
                                 <img
                                     src="asset/raids/glacerus.png"
                                     className="card-img-top mx-auto pt-1 "
-                                    alt="..."/>
+                                    alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Glacerus</h5>
                                     <p className="card-text ">
@@ -58,7 +58,7 @@ export default function Raids() {
                                         <h5>What can I do with the Glacerus Raid?</h5>
 
                                         You can have Rarify (for Badge Rare) item.
-                                        <br/>
+                                        <br />
                                         <a href='badge'>《📘》badge-guide
                                         </a>
                                         You can have Sp6.(Sp2 for Martial)
@@ -88,7 +88,7 @@ export default function Raids() {
                     <div className="card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src="asset/raids/maru.png" className="card-img-top mx-auto pt-1 " alt="..."/>
+                                <img src="asset/raids/maru.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Maru</h5>
                                     <p className="card-text ">
@@ -97,7 +97,7 @@ export default function Raids() {
                                         <h5>What can I do with the Maru Raid?</h5>
 
                                         You can get Perfection.
-                                        <br/>
+                                        <br />
                                         <a href='perfection'>《📘》perfection-guide
                                         </a>
                                         You can get Rarify (for Badge rare).
@@ -141,7 +141,7 @@ export default function Raids() {
                                 <img
                                     src="asset/raids/laurena.png"
                                     className="toobigimg card-img-top mx-auto pt-1 "
-                                    alt="..."/>
+                                    alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Laurena</h5>
                                     <p className="card-text ">
@@ -186,7 +186,7 @@ export default function Raids() {
                     <div className="card  ">
                         <div className="flip-card-inner ">
                             <div className="flip-card-front">
-                                <img src="asset/raids/amon.png" className="card-img-top mx-auto pt-1   " alt="..."/>
+                                <img src="asset/raids/amon.png" className="card-img-top mx-auto pt-1   " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">92-93 Eq Raid</h5>
                                     <p className="card-text ">
@@ -219,7 +219,7 @@ export default function Raids() {
                                 <img
                                     src="asset/raids/garton.png"
                                     className=" toobigimg1 card-img-top mx-auto pt-1 "
-                                    alt="..."/>
+                                    alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Low Tier Books Raid</h5>
                                     <p className="card-text ">
@@ -260,7 +260,7 @@ export default function Raids() {
                                     <img
                                         src="asset/raids/mandra.png"
                                         className="toobigimg card-img-top mx-auto pt-1 "
-                                        alt="..."/>
+                                        alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Low Tier Raid Hats</h5>
                                         <p className="card-text ">
@@ -302,7 +302,7 @@ export default function Raids() {
                                     <img
                                         src="asset/raids/zenas.png"
                                         className=" toobigimg card-img-top mx-auto pt-1   "
-                                        alt="..."/>
+                                        alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Zenas</h5>
                                         <p className="card-text ">
@@ -350,7 +350,7 @@ export default function Raids() {
                                     <img
                                         src="asset/raids/erenia.png"
                                         className=" toobigimg1 card-img-top mx-auto pt-1 "
-                                        alt="..."/>
+                                        alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Erenia</h5>
                                         <p className="card-text ">
@@ -398,7 +398,7 @@ export default function Raids() {
                                         <img
                                             src="asset/raids/ibrahim.png"
                                             className="toobigimg card-img-top mx-auto pt-1 "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">
                                                 Accesory Raid</h5>
@@ -433,7 +433,7 @@ export default function Raids() {
                                         <img
                                             src="asset/raids/valakus.png"
                                             className="  card-img-top mx-auto pt-1   "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Hig Books Raid</h5>
                                             <p className="card-text ">
@@ -475,7 +475,7 @@ export default function Raids() {
                                         <img
                                             src="asset/raids/valakus.png"
                                             className="  card-img-top mx-auto pt-1 "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Hig Hat Raid</h5>
                                             <p className="card-text ">
@@ -513,17 +513,17 @@ export default function Raids() {
                                         <img
                                             src="asset/raids/fernon.png"
                                             className=" card-img-top mx-auto pt-1 "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">
-                                            Fernon Raid</h5>
+                                                Fernon Raid</h5>
                                             <p className="card-text ">
                                                 <h5>You must be Prestige 5 for the Fernon raid.</h5>
 
                                                 <h5>What can I do with Fernon raid?</h5>
 
                                                 C45 equipment,Fernon fairy,title,pet,Mother Nature’s Rune,Wings,Upgrade item(For badge upgrade) <a href='badge'>《📘》badge-guide
-                                            </a> ,amulet,Fernon res
+                                                </a> ,amulet,Fernon res
 
                                             </p>
                                         </div>
@@ -540,14 +540,14 @@ export default function Raids() {
                                         <p>100x Cella Powder</p>
                                         <p>3x Small Lump of Gold</p>
                                         <p>1x Random Amulet Box (1x)</p>
-                                       
+
                                         <p>1x Fernon's Gloves</p>
                                         <p>1x Fernon's Shoes</p>
                                         <p>3x Raid Ticket</p>
                                         <p>1x Upgrade Item</p>
                                         <p>1x Azrael Mask</p>
                                         <p>1x Soul of Fernon</p>
-                                      
+
                                     </div>
                                 </div>
 
@@ -558,7 +558,7 @@ export default function Raids() {
                                         <img
                                             src="asset/raids/carno.png"
                                             className="  card-img-top mx-auto pt-1   "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Carno Raid</h5>
                                             <p className="card-text ">
@@ -567,7 +567,7 @@ export default function Raids() {
                                                 <h5>What can I do with Carno raid?</h5>
 
                                                 You can get C50 level accessories <a href='accesory'>《📘》accesory-guide
-                                            </a>
+                                                </a>
 
                                             </p>
                                         </div>
@@ -580,8 +580,8 @@ export default function Raids() {
                                         <h1 className="nosvoid-color">Carno Raid:</h1>
 
                                         <p><a href='accesory'>《📘》accesory-guide
-                                            </a></p>
-                                       
+                                        </a></p>
+
 
                                     </div>
                                 </div>
@@ -593,7 +593,7 @@ export default function Raids() {
                                         <img
                                             src="asset/raids/foxy.png"
                                             className="  card-img-top mx-auto pt-1 "
-                                            alt="..."/>
+                                            alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color "> Foxy Raid</h5>
                                             <p className="card-text ">
@@ -617,7 +617,7 @@ export default function Raids() {
                                         <p>x150 Angel's Feather</p>
                                         <p>x150 Full Moon Crystal</p>
                                         <p><a href='books'>《📘》books-guide
-                                            </a></p>
+                                        </a></p>
 
                                     </div>
                                 </div>
@@ -625,192 +625,192 @@ export default function Raids() {
 
                         </div>
                         <div className="">
-                        <div className="card-group mt-5">
-                            <div className="card ">
-                                <div className="flip-card-inner">
-                                    <div className="flip-card-front">
+                            <div className="card-group mt-5">
+                                <div className="card ">
+                                    <div className="flip-card-inner">
+                                        <div className="flip-card-front">
 
-                                        <img
-                                            src="asset/raids/kiro.png"
-                                            className=" card-img-top mx-auto pt-1 "
-                                            alt="..."/>
-                                        <div className="card-body ">
-                                            <h5 className="card-title nosvoid-color ">
-                                            Kirollas Raid</h5>
-                                            <p className="card-text ">
-                                                <h5>You must be prestige 7 for Kirollas Raid.</h5>
+                                            <img
+                                                src="asset/raids/kiro.png"
+                                                className=" card-img-top mx-auto pt-1 "
+                                                alt="..." />
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">
+                                                    Kirollas Raid</h5>
+                                                <p className="card-text ">
+                                                    <h5>You must be prestige 7 for Kirollas Raid.</h5>
 
-                                                <h5>What can I do with Kirolass Raid?</h5>
+                                                    <h5>What can I do with Kirolass Raid?</h5>
 
-                                                You can get C55 equipment material.<a href='c55'>《📘》c55-guide 
-                                            </a> 
+                                                    You can get C55 equipment material.<a href='c55'>《📘》c55-guide
+                                                    </a>
 
-                                            </p>
+                                                </p>
+                                            </div>
+
+                                            <small className="text-muted">$warp p7</small>
+
                                         </div>
 
-                                        <small className="text-muted">$warp p7</small>
-
-                                    </div>
-
-                                    <div className="flip-card-back ">
-                                        <h1 className="nosvoid-color">Kirollas Raid:</h1>
-                                        <div className="toomuchtext">
-                                        <p>150x Angel's Feathers</p>
-                                        <p>150x Full of Moon</p>
-                                        <p>150x Cella Powder</p>
-                                        <p>1x Ancient Bow</p>
-                                        <p>1x Ancient Dagger</p>
-                                        <p>1x Ancient Armour</p>
-                                        <p>1x Ancient Sword</p>
-                                        <p>1x Ancient Crossbow</p>
-                                        <p>1x Ancient Wand</p>
-                                        <p>1x Ancient Spell Gun</p>
-                                        <p>1x Ancient Gauntlet</p>
-                                        <p>1x Ancient Token</p>
-                                        <p>1x Random Amulet Box (1x)</p>
+                                        <div className="flip-card-back ">
+                                            <h1 className="nosvoid-color">Kirollas Raid:</h1>
+                                            <div className="toomuchtext">
+                                                <p>150x Angel's Feathers</p>
+                                                <p>150x Full of Moon</p>
+                                                <p>150x Cella Powder</p>
+                                                <p>1x Ancient Bow</p>
+                                                <p>1x Ancient Dagger</p>
+                                                <p>1x Ancient Armour</p>
+                                                <p>1x Ancient Sword</p>
+                                                <p>1x Ancient Crossbow</p>
+                                                <p>1x Ancient Wand</p>
+                                                <p>1x Ancient Spell Gun</p>
+                                                <p>1x Ancient Gauntlet</p>
+                                                <p>1x Ancient Token</p>
+                                                <p>1x Random Amulet Box (1x)</p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                                </div>
-                            </div>
-                            <div className="card  ">
-                                <div className="flip-card-inner ">
-                                    <div className="flip-card-front">
-                                        <img
-                                            src="asset/raids/carno2.png"
-                                            className="  card-img-top mx-auto pt-1   "
-                                            alt="..."/>
-                                        <div className="card-body ">
-                                            <h5 className="card-title nosvoid-color ">Pure Raid</h5>
-                                            <p className="card-text ">
-                                                <h5>You must be prestige 7 for Pure Raid.</h5>
+                                <div className="card  ">
+                                    <div className="flip-card-inner ">
+                                        <div className="flip-card-front">
+                                            <img
+                                                src="asset/raids/carno2.png"
+                                                className="  card-img-top mx-auto pt-1   "
+                                                alt="..." />
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">Pure Raid</h5>
+                                                <p className="card-text ">
+                                                    <h5>You must be prestige 7 for Pure Raid.</h5>
 
-                                                <h5>What can I do with Pure Raid?</h5>
+                                                    <h5>What can I do with Pure Raid?</h5>
 
-                                                You can get C55 equipment material. <a href='c55'>《📘》c55-guide 
-                                            </a> 
+                                                    You can get C55 equipment material. <a href='c55'>《📘》c55-guide
+                                                    </a>
 
-                                            </p>
+                                                </p>
+                                            </div>
+
+                                            <small className="text-muted">$warp p7</small>
+
                                         </div>
 
-                                        <small className="text-muted">$warp p7</small>
+                                        <div className="flip-card-back">
+                                            <h1 className="nosvoid-color">Pure Raid:</h1>
 
+                                            <p>150x Angel's Feathers</p>
+                                            <p>150x Full of Moon</p>
+                                            <p>200x Cella Powder</p>
+                                            <p>1x Archer's Aura</p>
+                                            <p>1x Swordsman's Aura</p>
+                                            <p>1x Mage's Aura</p>
+                                            <p>1x Martial's Aura</p>
+                                            <p>1x Obsidian</p>
+                                            <p>1x Magical Fang</p>
+                                            <p>1x Wolf Foot Print</p>
+
+
+                                        </div>
                                     </div>
 
-                                    <div className="flip-card-back">
-                                        <h1 className="nosvoid-color">Pure Raid:</h1>
-
-                                        <p>150x Angel's Feathers</p>
-                                        <p>150x Full of Moon</p>
-                                        <p>200x Cella Powder</p>
-                                        <p>1x Archer's Aura</p>
-                                        <p>1x Swordsman's Aura</p>
-                                        <p>1x Mage's Aura</p>
-                                        <p>1x Martial's Aura</p>
-                                        <p>1x Obsidian</p>
-                                        <p>1x Magical Fang</p>
-                                        <p>1x Wolf Foot Print</p>
-                                        
-
-                                    </div>
                                 </div>
+                                <div className="card">
+                                    <div className="flip-card-inner">
+                                        <div className="flip-card-front">
+                                            <img
+                                                src="asset/raids/paimon.png"
+                                                className="  card-img-top mx-auto pt-1 "
+                                                alt="..." />
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">Paimon Raid</h5>
+                                                <p className="card-text ">
+                                                    <h5>You must be prestige 8 for Paimon Raid.</h5>
 
-                            </div>
-                            <div className="card">
-                                <div className="flip-card-inner">
-                                    <div className="flip-card-front">
-                                        <img
-                                            src="asset/raids/paimon.png"
-                                            className="  card-img-top mx-auto pt-1 "
-                                            alt="..."/>
-                                        <div className="card-body ">
-                                            <h5 className="card-title nosvoid-color ">Paimon Raid</h5>
-                                            <p className="card-text ">
-                                                <h5>You must be prestige 8 for Paimon Raid.</h5>
+                                                    <h5>What can I do with Paimon Raid?</h5>
 
-                                                <h5>What can I do with Paimon Raid?</h5>
+                                                    You can get SP9(SP5 for Martial),SP9 perfection and some material(check craft stuff npc)
+                                                </p>
+                                            </div>
 
-                                                You can get SP9(SP5 for Martial),SP9 perfection and some material(check craft stuff npc)
-                                            </p>
+                                            <small className="text-muted">$warp p8</small>
+
                                         </div>
 
-                                        <small className="text-muted">$warp p8</small>
+                                        <div className="flip-card-back">
+                                            <h1 className="nosvoid-color">Paimon Raid:</h1>
 
-                                    </div>
+                                            <p>1x Sunchaser Specialist Card</p>
+                                            <p>1x Voodoo Priest Specialist Card</p>
+                                            <p>1x Waterfall Berserker Specialist Card</p>
+                                            <p>1x Flame Druid Specialist Card</p>
+                                            <p>1x Perfection 2</p>
+                                            <p>30x Orc Hero's Jewel</p>
+                                            <p>1x Ancient Orc Statue</p>
+                                            <p>1x Orc Weapon</p>
+                                            <p>30x Angel's Feather</p>
+                                            <p>30x Full of Moon</p>
+                                            <p>3x Large Lump of Gold</p>
+                                            <p>1x Fairy Booster</p>
 
-                                    <div className="flip-card-back">
-                                        <h1 className="nosvoid-color">Paimon Raid:</h1>
-
-                                        <p>1x Sunchaser Specialist Card</p>
-                                        <p>1x Voodoo Priest Specialist Card</p>
-                                        <p>1x Waterfall Berserker Specialist Card</p>
-                                        <p>1x Flame Druid Specialist Card</p>
-                                        <p>1x Perfection 2</p>
-                                        <p>30x Orc Hero's Jewel</p>
-                                        <p>1x Ancient Orc Statue</p>
-                                        <p>1x Orc Weapon</p>
-                                        <p>30x Angel's Feather</p>
-                                        <p>30x Full of Moon</p>
-                                        <p>3x Large Lump of Gold</p>
-                                        <p>1x Fairy Booster</p>
-
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
+                            </div>
+                            <div className="">
+                                <div className="card-group mt-5">
+                                    <div className="card ">
+                                        <div className="flip-card-inner">
+                                            <div className="flip-card-front">
+
+                                                <img
+                                                    src="asset/raids/belial.png"
+                                                    className=" card-img-top mx-auto pt-1 "
+                                                    alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">
+                                                        Belial Raid</h5>
+                                                    <p className="card-text ">
+                                                        <h5>You must be prestige 8 for Belial Raid.</h5>
+
+                                                        <h5>What can I do with Belial Raid?</h5>
+
+                                                        You can get SP9 perfection and some material(check craft stuff npc)
+
+                                                    </p>
+                                                </div>
+
+                                                <small className="text-muted">$warp p8</small>
+
+                                            </div>
+
+                                            <div className="flip-card-back ">
+                                                <h1 className="nosvoid-color"> Belial Raid:</h1>
+
+                                                <p>1x Ancient Orc Statue</p>
+                                                <p>5x Ancient Hero's Soul</p>
+                                                <p>2x Gleaming Ancient Hero's Soul</p>
+                                                <p>30x Orc Hero's Jewel</p>
+                                                <p>7x Orc Soulstone</p>
+                                                <p>70x Angel's Feather</p>
+                                                <p>70x Full of Moon</p>
+                                                <p>3x Large Lump of Gold</p>
+                                                <p>1x Fairy Booster</p>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+
+
+                                </div>
+
+                            </div>
                         </div>
-                        <div className="">
-                        <div className="card-group mt-5">
-                            <div className="card ">
-                                <div className="flip-card-inner">
-                                    <div className="flip-card-front">
-
-                                        <img
-                                            src="asset/raids/belial.png"
-                                            className=" card-img-top mx-auto pt-1 "
-                                            alt="..."/>
-                                        <div className="card-body ">
-                                            <h5 className="card-title nosvoid-color ">
-                                            Belial Raid</h5>
-                                            <p className="card-text ">
-                                                <h5>You must be prestige 8 for Belial Raid.</h5>
-
-                                                <h5>What can I do with Belial Raid?</h5>
-
-                                                You can get SP9 perfection and some material(check craft stuff npc)
-
-                                            </p>
-                                        </div>
-
-                                        <small className="text-muted">$warp p8</small>
-
-                                    </div>
-
-                                    <div className="flip-card-back ">
-                                        <h1 className="nosvoid-color"> Belial Raid:</h1>
-                                        
-                                        <p>1x Ancient Orc Statue</p>
-                                        <p>5x Ancient Hero's Soul</p>
-                                        <p>2x Gleaming Ancient Hero's Soul</p>
-                                        <p>30x Orc Hero's Jewel</p>
-                                        <p>7x Orc Soulstone</p>
-                                        <p>70x Angel's Feather</p>
-                                        <p>70x Full of Moon</p>
-                                        <p>3x Large Lump of Gold</p>
-                                        <p>1x Fairy Booster</p>
-                                        
-                                   
-                                </div>
-                                </div>
-                            </div>
-                           
-
-                            
-                            
-                           
-                            </div>
-
-                        </div>
-                    </div>
                     </div>
                 </div>
 

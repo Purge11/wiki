@@ -9,64 +9,64 @@ export default function Act4() {
 
                     <div className="row">
                         <h1 className=" nosvoid-color d-flex justify-content-center">What can I do in Act4?</h1>
-                        <br/>
-                  
+                        <br />
+
                         -You can craft wings.
-                        <br/>
+                        <br />
                         -You can craft some special items.
-                        <br/>
+                        <br />
                         -You can craft a title.
-                        <br/>
+                        <br />
                         -You can craft expert card.(Wedding,Chicken)
-                        <br/>
+                        <br />
                         -You can craft a wedding box.
-                        <br/>
+                        <br />
                         -You can craft Act4 raid box.
-                        <br/>
+                        <br />
                         -You can change the essences.
-                        <br/>
+                        <br />
                         - You can get Holy Light material to craft C55 equipments
-                        <br/>
+                        <br />
                         - You can craft materials for C50 Equipment
                         <a href="c50">《📘》c50-guide
                         </a>
-                        <br/>
+                        <br />
                         -You can join the Caligor raid.
 
                         <a href="schedule">《🔔》schedule
                         </a>
 
-                        <br/>
-                        <img src="asset/act4/a41.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a42.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a44.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a45.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a46.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a47.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a48.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a49.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a43.png" alt=""/>
-                        <br/>
-                        <img src="asset/act4/a4_1.png" alt=""/>
-                        <br/>
-                        
-                        
-                        
+                        <br />
+                        <img src="asset/act4/a41.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a42.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a44.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a45.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a46.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a47.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a48.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a49.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a43.png" alt="" />
+                        <br />
+                        <img src="asset/act4/a4_1.png" alt="" />
+                        <br />
+
+
+
                     </div>
 
                 </div>
-                
+
             </div>
-            
-            
+
+
         </div>
     )
 }
