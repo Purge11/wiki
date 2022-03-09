@@ -607,7 +607,7 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
-                                        - Reduces the enemy's elemental resistances by 7.
+                                        - Reduces the enemy's elemental resistances by 2.
                                     </d>
                                     <br />
                                     <br />
@@ -792,7 +792,7 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
-                                        - The equipped fairy's element increased by 10.
+                                        - All defence powers are increased by 85.
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
@@ -1130,11 +1130,9 @@ export default function Costiumes() {
                                     Costume Wings:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - Probability to receive a  critical hit is decreased by 1%.
-                                    </d>
+                                        - All defences are incresed by 2%.
                                     <br />
-                                    <d className="item-effect-shell">
-                                        - Damage from critical hits is reduced by 5%.
+                                        - Damage from critical hits is reduced by 10%.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
@@ -1160,7 +1158,7 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
-                                        - Damage from critical hits is reduced by 20%.
+                                        - Damage from critical hits is reduced by 5%.
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
@@ -1922,20 +1920,11 @@ export default function Costiumes() {
                                     Buff:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - All attacks are increased by 9%.
+                                        - All attacks are increased by 11%.
                                         <br />
-                                        - All defences are increased by 9%.
-                                        <br />
-                                        - There is a 3$ chance of causing "Slight Freeze".
+                                        - All defences are increased by 11%.
                                     </d>
                                     <hr />
-                                    <d className="text-danger">
-                                        Slight Freeze Debuff<i>(4 seconds)</i> :
-                                        <br />
-                                        - Movement impossible.
-                                        <br />
-                                        - No attack possible.
-                                    </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                         <i>Upgrade Weapon Skin Obtained: Void Mall or Hardcore Reward NPC</i>

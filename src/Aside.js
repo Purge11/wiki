@@ -66,6 +66,7 @@ import Rep from './pages/Rep';
 import Gold from './pages/Gold';
 import EvolutionEvent from './pages/EvolutionEvent';
 import SpecialItem from './pages/SpecialItem';
+import SellableItems from './pages/SellableItems';
 import ValentineEvent from './pages/ValentineEvent';
 import Damage from './pages/Damage';
 
@@ -218,6 +219,7 @@ const Aside = ({ setLocale }) => {
 
               <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
               <MenuItem> <a href='specialitem'>{intl.formatMessage({ id: 'Special Item' })}</a></MenuItem>
+              <MenuItem> <a href='sellableitems'>{intl.formatMessage({ id: 'Sellable Items' })}</a></MenuItem>
               <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
               <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
               <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
@@ -230,7 +232,7 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem>
-              <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Mate' })} </a></MenuItem>
+              <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
               <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
               <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
               <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
@@ -377,6 +379,7 @@ const Aside = ({ setLocale }) => {
           <Route path='/gold' component={Gold} />
           <Route path='/evolution' component={EvolutionEvent} />
           <Route path='/specialitem' component={SpecialItem} />
+          <Route path='/sellableitems' component={SellableItems} />
           <Route path='/valentine' component={ValentineEvent} />
           <Route path='/damage' component={Damage} />
 

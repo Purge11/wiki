@@ -18,7 +18,7 @@ export default function Exp() {
 
 
                         <d className="dcc">
-                            <b> Tarot Card (The Tower)</b>
+                            <b> Tarot Card (The Tower) </b>
                         </d>
                         ($Warp Beginner, Tarots NPC) Experience gain is increased by 10%.
                         <br />
@@ -26,7 +26,7 @@ export default function Exp() {
 
 
                         <d className="dcc">
-                            <b> Dracula Set</b>
+                            <b> Dracula Set </b>
                         </d>
                         Hat + Costume (Starter Pack, Shop & Bushi King Box) Increases champion experience received by 15%, Increases champion experience received by 15%.
                         <br />
@@ -70,6 +70,27 @@ export default function Exp() {
                             <b> Imp Cudgel / Wildflower Bow / Uchiwa / Gauntlet of Power Skins </b>
                         </d>
                         ($Warp p4, High Tier Weapon Skin NPC) Increases champion experience received by 5%.
+                        <br />
+                        <hr />
+
+                        <d className="dcc">
+                            <b> Mother Nature's Tree Rune (Green) </b>
+                        </d>
+                        ($Warp P5) Experience gain is increased by 40%.
+                        <br />
+                        <hr />
+
+                        <d className="dcc">
+                            <b> Blazing Fire Wings </b>
+                        </d>
+                        ($Warp p3, Wings NPC) Increases champion experience received by 5%.
+                        <br />
+                        <hr />
+
+                        <d className="dcc">
+                            <b> Frosty Ice Wings </b>
+                        </d>
+                        ($Warp p3, Wings NPC) Increases champion experience received by 5%.
                         <br />
                         <hr />
 

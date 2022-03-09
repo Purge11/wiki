@@ -468,11 +468,11 @@ export default function Pets() {
                                                 <h5 className="card-title nosvoid-color ">Santa Bushi</h5>
                                                 <p className="card-text item-effect  ">
                                                     <h5>Chance of inflicting critical hits is increased by 5%</h5>
-                                                    <h5>Hit rate of all attacks is increased by 200</h5>
+                                                    <h5>Hit rate of all attacks is increased by 100</h5>
                                                     <h5>All attacks are increased by 5%</h5>
 
                                                 </p>
-                                                <small className="text-muted">Can be obtained during Christmas Event and sometimes in Fortune Wheel</small>
+                                                <small className="text-muted">Can be obtained during Christmas Event and Hardcore Reward NPC</small>
                                             </div>
 
                                         </div>
@@ -518,11 +518,51 @@ export default function Pets() {
                                                     </p>
                                                     <small className="text-muted">Can be obtained during Christmas Event and sometimes in Fortune Wheel</small>
                                                 </div>
-
                                             </div>
-
                                         </div>
-
+                                    </div>
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-5">
+                                            <div className="flip-card-front">
+                                                <img src="asset/mate/Bee.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">Tame Queen Bee</h5>
+                                                    <p className="card-text item-effect ">
+                                                        <h5>All attacks are incrased by 3%</h5>
+                                                        <h5>There is a 3% chance of causing "Wasp Potion"</h5>
+                                                        <h5>Water element is increased by 20.</h5>
+                                                    </p><hr/>
+                                                    <p className="card-text text-danger ">
+                                                        <h5><b>Wasp Potion Debuff</b></h5>
+                                                        <h5>All defences are decreased by 10%.</h5>
+                                                        <h5>All elemental resistance is decreased by 20.</h5>
+                                                        <h5>Movement speed is decreased by 2%.</h5>
+                                                    </p>
+                                                    <small className="text-muted">Can be obtained on Hardcore Reward NPC</small>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-5">
+                                            <div className="flip-card-front">
+                                                <img src="asset/mate/Raptor.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">Baby Raptor Blue</h5>
+                                                    <p className="card-text item-effect ">
+                                                        <h5>All attacks are incrased by 8%</h5>
+                                                        <h5>There is a 3% chance of causing "Raptor Speed"</h5>
+                                                    </p><hr/>
+                                                    <p className="card-text text-success ">
+                                                        <h5><b>Raptor Speed Buff</b></h5>
+                                                        <h5>Chance of inflicting critical hits is increased by 10%.</h5>
+                                                        <h5>Increase damage from critical hits by 5%.</h5>
+                                                        <h5>Movement speed is increased by 2.</h5>
+                                                    </p>
+                                                    <small className="text-muted">Can be obtained on Hardcore Reward NPC</small>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

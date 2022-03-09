@@ -10,7 +10,7 @@ export default function Gold() {
                     <p>
 
                         <d className="gcc">
-                            <b> Mother Nature's Tree Rune </b>
+                            <b> Mother Nature's Tree Rune (Green) </b>
                         </d>
                         40% Gold increase (to craft $Warp P5, with fernon egg and you can get 1x fernon egg when you done with fernon raid)
                         <br />

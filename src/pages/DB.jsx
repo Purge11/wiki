@@ -54,12 +54,14 @@ export default function DB() {
                         (Evolution Event & Void Mall) When you finish Act4 and Caligor Raid you have 8% chance to get additional box.
                         <br />
                         <hr />
+
                         <d className="mcc">
-                            <b> Wonderland Costume</b>
+                            <b> Wonderland Costume </b>
                         </d>
                         (Arena of Talent & Void Mall) When you finish Act4 and Caligor Raid you have 20% chance to get additional box.
                         <br />
                         <hr />
+
                         <d className="mcc">
                             <b> Baseball Bat / Recurve Bow / Tennis Racquet / Boxing Weapon Skins </b>
                         </d>
@@ -67,6 +69,19 @@ export default function DB() {
                         <br />
                         <hr />
 
+                        <d className="mcc">
+                            <b> Raid Destroyer Tittle </b>
+                        </d>
+                        (Void Mall) When raid is finished, there's a 10% chance that box drops second time.
+                        <br />
+                        <hr />
+
+                        <d className="mcc">
+                            <b> Christmas Tittle </b>
+                        </d>
+                        (Xmas event) When raid is finished, there's a 2% chance that box drops second time.
+                        <br />
+                        <hr />
 
                     </p>
                 </div>
