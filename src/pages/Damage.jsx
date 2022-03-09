@@ -61,6 +61,12 @@ export default function Damage() {
                         <br />
                         <hr />
                         <d className="bcc">
+                            <b> Obsidian Ring </b>
+                        </d>
+                        (Tower Game Craft) Damage in Raids is increased by 7%.
+                        <br />
+                        <hr />
+                        <d className="bcc">
                             <b> Christmas Tree, Candy Bow, Christmas Bell & Candy Gauntlet Weapon Skins </b>
                         </d>
                         (Instant Combat NPC)
