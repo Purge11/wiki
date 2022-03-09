@@ -1922,9 +1922,9 @@ export default function Costiumes() {
                                     Buff:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - All attacks are increased by 9%.
+                                        - All attacks are increased by 11%.
                                         <br />
-                                        - All defences are increased by 9%.
+                                        - All defences are increased by 11%.
                                     </d>
                                     <hr />
                                     <br /><br />
