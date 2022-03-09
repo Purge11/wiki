@@ -1130,11 +1130,9 @@ export default function Costiumes() {
                                     Costume Wings:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - Probability to receive a  critical hit is decreased by 1%.
-                                    </d>
+                                        - All defences are incresed by 2%.
                                     <br />
-                                    <d className="item-effect-shell">
-                                        - Damage from critical hits is reduced by 5%.
+                                        - Damage from critical hits is reduced by 10%.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
