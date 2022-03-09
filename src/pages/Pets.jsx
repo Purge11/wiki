@@ -526,7 +526,7 @@ export default function Pets() {
                                             <div className="flip-card-front">
                                                 <img src="asset/mate/Bee.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
-                                                    <h5 className="card-title nosvoid-color ">Bee</h5>
+                                                    <h5 className="card-title nosvoid-color ">Tame Queen Bee</h5>
                                                     <p className="card-text item-effect ">
                                                         <h5>All attacks are incrased by 3%</h5>
                                                         <h5>There is a 3% chance of causing "Wasp Potion"</h5>
@@ -548,7 +548,7 @@ export default function Pets() {
                                             <div className="flip-card-front">
                                                 <img src="asset/mate/Raptor.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
-                                                    <h5 className="card-title nosvoid-color ">Raptor</h5>
+                                                    <h5 className="card-title nosvoid-color ">Baby Raptor Blue</h5>
                                                     <p className="card-text item-effect ">
                                                         <h5>All attacks are incrased by 8%</h5>
                                                         <h5>There is a 3% chance of causing "Raptor Speed"</h5>
