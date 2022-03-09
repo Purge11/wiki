@@ -426,7 +426,7 @@ export default function psp() {
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Daniel Ducat's</h5>
                                             <p className="card-text ">
-                                                <h5>Can be obtained in Christmas Event and sometimes in Fortune Wheel.</h5>
+                                                <h5>Can be obtained in Christmas Event and Hardcore Reward NPC.</h5>
 
 
 
