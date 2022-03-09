@@ -607,7 +607,7 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
-                                        - Reduces the enemy's elemental resistances by 7.
+                                        - Reduces the enemy's elemental resistances by 2.
                                     </d>
                                     <br />
                                     <br />
