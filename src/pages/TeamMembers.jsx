@@ -115,11 +115,11 @@ export default function TeamMembers() {
 
                             </tr>
 
-                            <tr className='mini-wiki-dev-color'>
+                            <tr className='wiki-editor-color'>
                                 <th scope="row">Blauker</th>
                                 <td>ESP/ENG</td>
-                                <td>Game Supporter / Mini Wiki Developer</td>
-                                <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
+                                <td>Game Supporter / Wiki Editor</td>
+                                <td className="centered"><img src="asset/team/Web.png" alt="" /></td>
 
                             </tr>
                             <tr className='supporter-color'>
