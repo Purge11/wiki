@@ -792,7 +792,7 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
-                                        - The equipped fairy's element increased by 10.
+                                        - All defence powers are increased by 85.
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
@@ -1925,17 +1925,8 @@ export default function Costiumes() {
                                         - All attacks are increased by 9%.
                                         <br />
                                         - All defences are increased by 9%.
-                                        <br />
-                                        - There is a 3$ chance of causing "Slight Freeze".
                                     </d>
                                     <hr />
-                                    <d className="text-danger">
-                                        Slight Freeze Debuff<i>(4 seconds)</i> :
-                                        <br />
-                                        - Movement impossible.
-                                        <br />
-                                        - No attack possible.
-                                    </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                         <i>Upgrade Weapon Skin Obtained: Void Mall or Hardcore Reward NPC</i>
