@@ -468,11 +468,11 @@ export default function Pets() {
                                                 <h5 className="card-title nosvoid-color ">Santa Bushi</h5>
                                                 <p className="card-text item-effect  ">
                                                     <h5>Chance of inflicting critical hits is increased by 5%</h5>
-                                                    <h5>Hit rate of all attacks is increased by 200</h5>
+                                                    <h5>Hit rate of all attacks is increased by 100</h5>
                                                     <h5>All attacks are increased by 5%</h5>
 
                                                 </p>
-                                                <small className="text-muted">Can be obtained during Christmas Event and sometimes in Fortune Wheel</small>
+                                                <small className="text-muted">Can be obtained during Christmas Event and Hardcore Reward NPC</small>
                                             </div>
 
                                         </div>
