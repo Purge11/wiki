@@ -82,7 +82,7 @@ export default function Accesory() {
                                 <th scope="row">Obsidian Ring</th>
                                 <td className="item-effect">All elemental resistance is increased by 5
                                     <br />
-                                    Damage to monster is increased by 7%
+                                    Damage in Raids is increased by 7%
                                 </td>
                                 <td ><img src="asset/accesory/accesory3_3.png" alt="" /></td>
 
@@ -90,7 +90,7 @@ export default function Accesory() {
                             </tr>
                             <tr>
                                 <th scope="row">Obsidian Necklace</th>
-                                <td className="item-effect">Icreases Gold earned by 6%
+                                <td className="item-effect">Increases Gold earned by 6%
                                     <br />
                                     Chance of inflicting critical hits is increased by 2%
                                 </td>
