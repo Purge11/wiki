@@ -1160,7 +1160,7 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
-                                        - Damage from critical hits is reduced by 20%.
+                                        - Damage from critical hits is reduced by 5%.
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
