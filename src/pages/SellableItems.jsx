@@ -19,6 +19,14 @@ export default function SellableItems() {
                     </thead>
                     <tbody>
                         <tr className="black-color">
+                            <th scope="row danger">Fernon's Energy</th>
+                            <td>80.000.000 gold.</td>
+                        </tr>
+                        <tr className="black-color">
+                            <th scope="row danger">Timespace Master</th>
+                            <td>50.000.000 gold.</td>
+                        </tr>
+                        <tr className="black-color">
                             <th scope="row danger">C50 equipment</th>
                             <td>30.000.000 gold.</td>
                         </tr>
