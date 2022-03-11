@@ -102,7 +102,6 @@ const Aside = ({ setLocale }) => {
   return (
     <div className={`app ${rtl ? 'active' : ''} ${toggled ? 'toggled' : ''}`}>
 
-
       <ProSidebar
         image={image ? sidebarBg : false}
 
@@ -200,7 +199,10 @@ const Aside = ({ setLocale }) => {
             >
               <MenuItem> <a href='valentine'>{intl.formatMessage({ id: 'Valentine' })} </a></MenuItem>
               <MenuItem><a href='evolution'>{intl.formatMessage({ id: 'Evolution' })} </a></MenuItem>
-
+              {/* 
+                <MenuItem> <a href='valentine'>{intl.formatMessage({ id: 'Valentine' })} </a></MenuItem>
+                <MenuItem><a href='evolution'>{intl.formatMessage({ id: 'Evolution' })} </a></MenuItem>
+              */}
             </SubMenu>
             <SubMenu
               suffix={<span className="badge red">5</span>}
