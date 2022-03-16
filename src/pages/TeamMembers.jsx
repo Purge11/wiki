@@ -79,6 +79,14 @@ export default function TeamMembers() {
                                 <td>Discord Admin</td>
                                 <td className="centered"><img src="asset/team/DA.png" alt="" /></td>
                             </tr>
+
+                            <tr className='wiki-editor-color'>
+                                <th scope="row">Blauker</th>    
+                                <td>ESP/ENG</td>
+                                <td>Game Master / Wiki Editor</td>
+                                <td className="centered"><img src="asset/team/Web.png" alt="" /></td>
+
+                            </tr>
                             <tr className='game-master-color'>
                                 <th scope="row">Sigma</th>
                                 <td>JAP/ENG</td>
@@ -114,19 +122,11 @@ export default function TeamMembers() {
                                 <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
 
                             </tr>
-
-                            <tr className='wiki-editor-color'>
-                                <th scope="row">Blauker</th>
-                                <td>ESP/ENG</td>
-                                <td>Game Supporter / Wiki Editor</td>
-                                <td className="centered"><img src="asset/team/Web.png" alt="" /></td>
-
-                            </tr>
-                            <tr className='supporter-color'>
-                                <th scope="row">Mae</th>
+                            <tr className='game-master-color'>
+                                <th scope="row">Cara</th>
                                 <td>DE/ENG</td>
-                                <td>Game Supporter</td>
-                                <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
+                                <td>Game Master</td>
+                                <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
 
                             </tr>
                             <tr className='supporter-color'>
