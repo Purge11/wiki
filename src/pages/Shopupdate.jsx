@@ -8,25 +8,73 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br />
                     <br />
-                    New Fortune Wheel update is alive. [11.03.2022]
+                    New Fortune Wheel update is alive. [17.03.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
                     <br />
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Special Wedding Costume Set</th>
+                                    <th scope="col"><img src="asset/shop/SpecialWeddingSet.png" alt="" /></th>
+                                </tr>
+                                <br />
+                                Hat:
+                                <hr />
+                                <d className="item-effect-shell">
+                                - All attacks are increased by 4%.
+                                    <br />
+                                - Dodge is increased by 95.
+                                </d>
+                                <br />
+                                <br />
+                                Costume:
+                                <hr />
+                                <d className="item-effect-shell">
+                                - All defences are increased by 6%.
+                                    <br />
+                                    - Up to level 4 there is a 10% chance of never getting a bad effect.
+                                    <br />
+                                    - Movement speed is increased by 1.
+                                </d>
+                                <br />
+                                <br />
+                                Wings:
+                                <hr />
+                                <d className="item-effect-shell">
+                                - Light element is increased by 50.
+                                    <br />
+                                    - Movement speed is increased by 1.
+                                    <br />
+                                    - There is a 5% chance of causing '' Bind. ''
+                                </d>
+                                <hr />
+                              
+                                <d className="text-success">
+                                Bind Debuff <i>(3 seconds)</i>:
+                                    <br />
+                                    - No defence possible
+                                    
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
 
                     <div className='mt-5'>
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Ceremonial Helmet</th>
-                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt="" /></th>
+                                    <th scope="col">Shadow King's Helmet</th>
+                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Up to 4 level there is a 15% chance of never getting a bad effect.
+                                    - Damage in Raids is increased by 8%.
                                     <br />
-                                    - Increases PvP attack power by 10%.
+                                    - All elemental resistance is increased by 7.
                                     <br />
-                                    - Reduces damage received in PvP by 5%.
+                                    - The chance of receiving a critical hit is increased by 3%.
                                 </d>
                             </thead>
                         </table>
@@ -36,11 +84,15 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Betting Costume</th>
-                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
+                                    Shadow King's Mask</th>
+                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There's 10% more of getting rarity 7-8 while betting.
+                                    - Damage to all monsters is increased by 7%.
+                                    <br />
+                                    - Damage in Raids is increased by 10%.
+                                    <br />
+                                    - Increases Gold earned by 7%.
                                 </d>
                             </thead>
                         </table>
@@ -49,31 +101,28 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">King of Void Tittle</th>
-                                    <th scope="col"><img src="asset/shop/tittle.png" alt="" /></th>
+                                    <th scope="col">Mini Blue Amora Pet </th>
+                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 5%.
+                                - All attacks increased by 5%.
                                     <br />
-                                    - All defences are increased by 5%.
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Amora Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/amora.png" alt="" /></th>
-                                </tr>
-                                <d className="item-effect-shell">
-                                    - Chance of inflicting critical hits is increased by 5%.
-                                    <br />
-                                    - Increases damage from critical hits by 5%.
+                                    - All defences are increased by 6%.
                                     <br />
                                     - Movement speed is increased by 1.
-                                </d>
+                                    <br />
+                                    - There is a 5% chance of causing Amora Heal.
+                                    </d>
+                                    <hr />
+                                    <d className="text-success">
+                                    Amora Heal : 
+                                    <br />
+                                    - HP is increased by 5% of damage given.
+                                    <br />
+                                    - MP is increased by 5% of damage given.
+                                    </d>
+                               
+                                
                             </thead>
                         </table>
                     </div>
@@ -81,25 +130,17 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Barni Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
+                                    <th scope="col"> Freya(S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/freya.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Ranged attacks are increased by 8%.
+                                - Magic attacks are increased by 12%.
                                     <br />
-                                    - Increases damage from critical hits by 15%.
+                                    - Maximum HP is increased by 1500.
+                                    <br />
+                                    - Movement Speed is increased by 1.
                                     <br />
                                     - Increases damage in Christmas Raid by 5%.
-                                    <br />
-                                    - There is a 1% chance of causing Paralysing Toxin.
-                                </d>
-                                <hr />
-                                <d className="text-danger">
-                                    Paralysing Toxin <i>(4 seconds)</i>:
-                                    <br />
-                                    - No attack possible
-                                    <br />
-                                    - Blackout occurs, in releasing at the probability of 40%
                                 </d>
                             </thead>
                         </table>
@@ -108,37 +149,23 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Plague Doctor/Nurse Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/plague.webp" alt="" /></th>
+                                    <th scope="col">Aegir (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/aegir.webp" alt="" /></th>
                                 </tr>
-                                <br />
-                                Hat:
-                                <hr />
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 4%.
+                                - Meele attacks are increased by 12%.
                                     <br />
-                                    - Hit rate of all attacks is increased by 100.
+                                    - All defence powers are increased by 150.
+                                    <br />
+                                    - Hit rate of all attacks is increased by 80.
+                                    <br />
+                                    - Increases damage in Christmas Raid by 5%.
                                 </d>
-                                <br />
-                                <br />
-                                Costume:
-                                <hr />
-                                <d className="item-effect-shell">
-                                    - All defences are increased by 4%.
-                                    <br />
-                                    - There is a 3% chance of causing Vaccine.
-                                </d>
-                                <hr />
-                                <d className="text-success">
-                                    Vaccine Buff <i>(4 seconds)</i>:
-                                    <br />
-                                    - Up to 4 level there is a 100% chance of never getting a bad effect.
-                                    <br />
-                                    - Every 2 seconds: Restores (Player Level*10) HP.
-                                </d>
+                               
                             </thead>
                         </table>
                     </div>
+               
                 </div>
             </div>
         </div>
