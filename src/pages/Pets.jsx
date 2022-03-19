@@ -971,7 +971,7 @@ export default function Pets() {
                                     <br />
                                     melee damage increased by 5% in raids.
                                     <br />
-                                    Increase 5% crit chance in raids.
+                                    Increase 15% crit chance in raids.
                                 </b>
                                 <br />
                                 <d className="white-color">

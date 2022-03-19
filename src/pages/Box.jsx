@@ -14,9 +14,9 @@ export default function Box() {
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Erenia Box = More chance to get <f className="item-effect">Soul of Erenia</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Fernon Box = More chance to get<f className="item-effect"> C50 Equipments</f> </li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Kirollas Box = More chance to get<f className="item-effect"> Amulet Boxes</f> </li>
-            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Paimon Box = More chance to get<f className="item-effect"> Orc's Jewel Hero </f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Paimon Box = More chance to get<f className="item-effect"> Orc's Jewel Hero and Paimon's Cursed Soul</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Belial Box = More chance to get <f className="item-effect">Ancient Orc Statue material and Belial's Sword</f></li>
-            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Pure Beast Box = More chance to get all primary<f className="item-effect">  Aura materials and Paimon's Cursed Soul</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Pure Beast Box = More chance to get all primary<f className="item-effect">  Aura materials</f></li>
           </ul>
 
           <ul className="list-group mt-3">
