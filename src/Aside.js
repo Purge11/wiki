@@ -193,12 +193,10 @@ const Aside = ({ setLocale }) => {
 
             </SubMenu>
             <SubMenu
-              suffix={<span className="badge yellow">2</span>}
+              suffix={<span className="badge yellow">0</span>}
               title={intl.formatMessage({ id: 'During Events' })}
               icon={<FaHeart />}
             >
-              <MenuItem> <a href='valentine'>{intl.formatMessage({ id: 'Valentine' })} </a></MenuItem>
-              <MenuItem><a href='evolution'>{intl.formatMessage({ id: 'Evolution' })} </a></MenuItem>
               {/* 
                 <MenuItem> <a href='valentine'>{intl.formatMessage({ id: 'Valentine' })} </a></MenuItem>
                 <MenuItem><a href='evolution'>{intl.formatMessage({ id: 'Evolution' })} </a></MenuItem>
