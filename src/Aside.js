@@ -207,71 +207,57 @@ const Aside = ({ setLocale }) => {
               title={intl.formatMessage({ id: 'Useful guides' })}
               icon={<FaHotjar />}
             >
-              <MenuItem> <a href='gold'>{intl.formatMessage({ id: 'Gold' })} </a></MenuItem>
+              <MenuItem><a href='damage'>{intl.formatMessage({ id: 'Damage' })} </a></MenuItem>
               <MenuItem><a href='doublebox'>{intl.formatMessage({ id: 'Double box' })} </a></MenuItem>
               <MenuItem> <a href='exp'>{intl.formatMessage({ id: 'Exp' })} </a></MenuItem>
+              <MenuItem> <a href='gold'>{intl.formatMessage({ id: 'Gold' })} </a></MenuItem>
               <MenuItem><a href='reputation'>{intl.formatMessage({ id: 'Reputation' })} </a></MenuItem>
-              <MenuItem><a href='damage'>{intl.formatMessage({ id: 'Damage' })} </a></MenuItem>
-
             </SubMenu>
+
             <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
               suffix={<span className="badge yellow">32</span>}>
-
-              <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
-              <MenuItem> <a href='specialitem'>{intl.formatMessage({ id: 'Special Item' })}</a></MenuItem>
-              <MenuItem> <a href='sellableitems'>{intl.formatMessage({ id: 'Sellable Items' })}</a></MenuItem>
-              <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
-              <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
-              <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
-              <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
-              <MenuItem ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
-              <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
-              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='costumes'>{intl.formatMessage({ id: 'Costumes' })} </a></MenuItem>
+              <MenuItem><a href='accesory'>{intl.formatMessage({ id: 'Accesory' })} </a></MenuItem>
               <MenuItem><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a> </MenuItem>
+              <MenuItem><a href='badge'>{intl.formatMessage({ id: 'Badge' })} </a></MenuItem>
               <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
-              <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
-              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
-              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem>
-              <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
               <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
-              <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
+              <MenuItem><a href='c55'>{intl.formatMessage({ id: 'C55' })}  </a></MenuItem>
+              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='costumes'>{intl.formatMessage({ id: 'Costumes' })} </a></MenuItem>
+              <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
+              <MenuItem><a href='Equipment'>{intl.formatMessage({ id: 'Equipment' })}</a> </MenuItem>
+              <MenuItem><a href='faires'>{intl.formatMessage({ id: 'Faires' })}</a> </MenuItem>
+              <MenuItem ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
+              <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
+              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem> 
               <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
               <MenuItem><a href='perfection'>{intl.formatMessage({ id: 'Perfection' })}</a>  </MenuItem>
+              <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
               <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
+              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
+              <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
               <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
+              <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
+              <MenuItem><a href='rune'>{intl.formatMessage({ id: 'Rune' })}</a> </MenuItem>
+              <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
+              <MenuItem> <a href='sellableitems'>{intl.formatMessage({ id: 'Sellable Items' })}</a></MenuItem>
+              <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
               <MenuItem><a href='shell'>{intl.formatMessage({ id: 'Shell' })} </a> </MenuItem>
+              <MenuItem> <a href='specialitem'>{intl.formatMessage({ id: 'Special Item' })}</a></MenuItem>
               <MenuItem><a href='sp'>{intl.formatMessage({ id: 'SP' })}  </a></MenuItem>
+              <MenuItem><a href='tatto'>{intl.formatMessage({ id: 'Tattos' })}</a> </MenuItem>  
+              <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>     
+              <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
               <MenuItem  ><a href='wings'>{intl.formatMessage({ id: 'Wings' })} </a></MenuItem>
-              <SubMenu title={`${intl.formatMessage({ id: 'Tattos/Runes' })} `}>
-                <MenuItem><a href='rune'>{intl.formatMessage({ id: 'Rune' })}</a> </MenuItem>
-                <MenuItem><a href='tatto'>{intl.formatMessage({ id: 'Tattos' })}</a> </MenuItem>
-              </SubMenu>
-              <SubMenu title={`${intl.formatMessage({ id: 'Equipment' })} `}>
-                <MenuItem><a href='accesory'>{intl.formatMessage({ id: 'Accesory' })} </a></MenuItem>
-                <MenuItem><a href='badge'>{intl.formatMessage({ id: 'Badge' })} </a></MenuItem>
-                <SubMenu title={`${intl.formatMessage({ id: 'Equipment' })} `}>
-                  <MenuItem><a href='c55'>{intl.formatMessage({ id: 'C55' })}  </a></MenuItem>
-                  <MenuItem><a href='faires'>{intl.formatMessage({ id: 'Faires' })}</a> </MenuItem>
-                  <MenuItem><a href='Equipment'>{intl.formatMessage({ id: 'Equipment' })}</a> </MenuItem>
-
-
-                </SubMenu>
-              </SubMenu>
             </SubMenu>
+
             <SubMenu title={intl.formatMessage({ id: 'In work...' })} icon={<FaHammer />}
               suffix={<span className="badge yellow"></span>}
             >
-
-
-
-
-
             </SubMenu>
 
             <div className='mt-5'></div>
 
             <SubMenu title={intl.formatMessage({ id: 'Setting/Dark Mode' })} icon={<FiSettings />}
-
             >
               <MenuItem> <Colapsed
                 image={image}
