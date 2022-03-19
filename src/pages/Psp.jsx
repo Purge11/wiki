@@ -6,9 +6,9 @@ export default function psp() {
             <div className="">
                 <div className="card-group   ">
                     <div className="card">
-                        <div className="flip-card-inner-psp-good">
+                        <div className="flip-card-inner-psp">
                             <div className="flip-card-front">
-                                <img src="asset/psp/1.png" className="card-img-top mx-auto pt-5 " alt="..." />
+                                <img src="asset/psp/aegir.png" className="card-img-top mx-auto pt-5 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Aegir Partner Card</h5>
                                     <p className="card-text ">
@@ -29,10 +29,10 @@ export default function psp() {
 
                     </div>
                     <div className="card">
-                        <div className="flip-card-inner-psp-good">
+                        <div className="flip-card-inner-psp">
                             <div className="flip-card-front">
                                 <img
-                                    src="asset/psp/2.png"
+                                    src="asset/psp/barni.png"
                                     className="card-img-top mx-auto pt-5 "
                                     alt="..." />
                                 <div className="card-body ">
@@ -56,9 +56,9 @@ export default function psp() {
 
                     </div>
                     <div className="card">
-                        <div className="flip-card-inner-psp-good">
+                        <div className="flip-card-inner-psp">
                             <div className="flip-card-front">
-                                <img src="asset/psp/3.png" className="card-img-top mx-auto pt-5 " alt="..." />
+                                <img src="asset/psp/freya.png" className="card-img-top mx-auto pt-5 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Freya Partner Card</h5>
                                     <p className="card-text ">
@@ -70,11 +70,6 @@ export default function psp() {
                                 </div>
 
 
-
-                            </div>
-
-                            <div className="flip-card-back">
-                                <img src="asset/psp/3_5.png" className="card-img-top mx-auto pt-1 mt-5 " alt="..." />
 
                             </div>
                         </div>

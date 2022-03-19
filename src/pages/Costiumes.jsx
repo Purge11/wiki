@@ -988,7 +988,7 @@ export default function Costiumes() {
                             <table className="table">
                                 <thead>
                                     <tr>
-                                        <th scope="col">Frost Witch Costume Set</th>
+                                        <th scope="col">Ice Witch Costume Set</th>
                                         <th scope="col"><img src="asset/costumes/6.png" alt="" /></th>
                                     </tr>
                                     <br />
@@ -1027,10 +1027,10 @@ export default function Costiumes() {
                                     <hr />
                                     <d className="item-effect-shell">
                                         - Damage in Raids is increased by 5%.
-                                    </d>
-                                    <br />
-                                    <d className="item-effect-shell">
+                                        <br/>
                                         - Movement speed is increased by 1.
+                                        <br/>
+                                        - The equipped fairy's element increases by 10.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">

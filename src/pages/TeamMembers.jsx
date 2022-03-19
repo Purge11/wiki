@@ -158,31 +158,31 @@ export default function TeamMembers() {
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
-                            <tr className='trial-supporter-color'>
+                            <tr className='supporter-color'>
                                 <th scope="row">GayBoysAdmirer </th>
                                 <td>PL/ENG</td>
-                                <td>Trial Game Supporter</td>
+                                <td>Game Supporter</td>
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
-                            <tr className='trial-supporter-color'>
+                            <tr className='supporter-color'>
                                 <th scope="row">Kurama~ </th>
                                 <td>DE/ENG/PL/RU</td>
-                                <td>Trial Game Supporter</td>
+                                <td>Game Supporter</td>
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
-                            <tr className='trial-supporter-color'>
+                            <tr className='supporter-color'>
                                 <th scope="row">~Drecker </th>
                                 <td>ITA/ENG</td>
-                                <td>Trial Game Supporter</td>
+                                <td>Game Supporter</td>
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
-                            <tr className='trial-supporter-color'>
+                            <tr className='supporter-color'>
                                 <th scope="row">Gumiho </th>
                                 <td>TR/ITA/ENG</td>
-                                <td>Trial Game Supporter</td>
+                                <td>Game Supporter</td>
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
