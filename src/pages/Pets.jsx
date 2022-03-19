@@ -924,6 +924,8 @@ export default function Pets() {
                                     Increases fame received by 10%.
                                     <br />
                                     Magic damage is increased by 5% in raids.
+                                    <br />
+                                    The equipped Fairy's element increases by 20.
                                 </b>
                                 <br />
                                 <d className="white-color">
