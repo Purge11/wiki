@@ -98,14 +98,6 @@ export default function Books() {
 
                             </tr>
                             <tr>
-                                <th scope="row">Journal of Forgotten Hero S (2)</th>
-                                <td className="item-effect">Increases agility by 100
-                                </td>
-                                <td ><img src="asset/book/book3.png" alt="" /></td>
-                                <td>P6</td>
-
-                            </tr>
-                            <tr>
                                 <th scope="row">Journal of the Unkown Hero (1)</th>
                                 <td className="item-effect">Increases maximum MP by 4000
                                 </td>
