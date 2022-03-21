@@ -190,7 +190,7 @@ export default function Raids() {
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">92-93 Eq Raid</h5>
                                     <p className="card-text ">
-                                        <h5>You must be Prestige1 level for 92-93 Eq Raid</h5>
+                                        <h5>You must be Prestige 1 level for 92-93 Eq Raid</h5>
 
                                         <h5>What can I do with the 92-93 Eq Raid?</h5>
 
@@ -562,7 +562,7 @@ export default function Raids() {
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Carno Raid</h5>
                                             <p className="card-text ">
-                                                <h5>You must be Prestige6 for the Carno raid.</h5>
+                                                <h5>You must be Prestige 6 for the Carno raid.</h5>
 
                                                 <h5>What can I do with Carno raid?</h5>
 
