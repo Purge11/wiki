@@ -24,6 +24,13 @@ export default function Damage() {
                         <br />
                         <hr />
 
+                        <d className="bcc">
+                            <b> Eliza PSP (S Buff) </b>
+                        </d>
+                        (Craft Stuff NPC, $warp p8.)  Damage in Raids is increased by 10%.
+                        <br />
+                        <hr />
+
 
                         <d className="bcc">
                             <b> Dark Knight's Mask </b>
