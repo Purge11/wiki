@@ -18,6 +18,14 @@ export default function Damage() {
 
 
                         <d className="bcc">
+                            <b> Mini Fernon </b>
+                        </d>
+                        (Can be crafted after completing Fernon marathon quest.)  Damage in Raids is increased by 7%.
+                        <br />
+                        <hr />
+
+
+                        <d className="bcc">
                             <b> Dark Knight's Mask </b>
                         </d>
                         (Hardcore Raid Reward) Damage in Raids is increased by 5%.
