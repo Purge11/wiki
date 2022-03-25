@@ -1,4 +1,5 @@
 import React from 'react'
+import { Player } from 'video-react';
 
 export default function Act4() {
     return (
@@ -213,7 +214,7 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                         - Infinity Fernon (Shadow) 12 essence of shadow, 5 fairy powder, 5 Fafnir'
                         essence, Fernon (shadow)<br/>
                         <img className="mt-3" src="asset/act4/6.png" alt=""/>
-                        <br/>
+                        <br/>   
                        
                         <h5 className="nosvoid-color">
                             Wings</h5>
@@ -270,8 +271,22 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
 
                             </tbody>
                         </table>
-
                         <img className="mt-3" src="asset/act4/7.png" alt=""/>
+                        <br/>
+                        <br/>
+                        <h5 className="nosvoid-color">
+                        Lunar Wings Effect</h5>
+                        - With 10% chance during attack you activate the following effect: "Lunar Light", +1 movement speed, +10% antimalus up to lvl 4<br/>
+- "Lunar Light" positive lvl 4 effect: Damage in A4 is increased by 25%, movement speed is increased by 2, antimalus lvl 4 is increased by 10%, duration 8 seconds<br/>
+<br/>
+<div className="d-flex p-0 justify-content-start" >
+                        <div className='col-sm-6 banner-image imgContainer'>
+                            <Player>
+                                <source src="asset/act4/lunar.mp4" />
+                            </Player>
+                        </div>
+                    </div>
+                        
                         <br/>
                         <h5 className="nosvoid-color">
                             Books</h5>
