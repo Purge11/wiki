@@ -102,6 +102,7 @@
   .raid,
   .title,
   .wings,
+  .act4,
   .pets {
 
     h2,
@@ -307,7 +308,24 @@ body {
     margin-right: 0 !important;
   }
 }
-
+.act4{
+  img {
+    
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  
+  }
+}
+.act4{
+  .flip-card-front{
+  img {
+    
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    display:inline !important;
+  }
+}
+}
   .accesory,
   .act4,
   .shop,
@@ -368,8 +386,7 @@ body {
         margin-right: 0;
       }
     }
-   
-     
+ 
     
     @media (max-width: 767.98px) {
       img {
@@ -549,6 +566,7 @@ body {
 .raid,
 .title,
 .wings,
+.act4,
 .pets {
   .card img {
     width: 20px !important;
@@ -571,6 +589,7 @@ body {
   .raid,
   .title,
   .wings,
+  .act4,
   .pets {
     * {
       font-family: 'Fuzzy Bubbles' !important;
@@ -602,7 +621,23 @@ body {
 
 }
 
+.app .act4 .card img {
+  width: 250px !important;
+  margin-left: 0;
+  margin-right: 0;
 
+
+}
+@media (max-width: 1400px) {
+  .app .act4 .card img {
+    width: 65% !important;
+    margin-left: 0;
+    margin-right: 0;
+
+
+  }
+
+}
 
 @media (max-width: 1400px) {
   .app .raid .card img {
@@ -614,9 +649,22 @@ body {
   }
 
 }
+@media (max-width: 1000px) {
+  .app .act4 .card {
+    font-size: 90%;
 
+
+  }
+}
 @media (max-width: 1000px) {
   .app .raid .card {
+    font-size: 90%;
+
+
+  }
+}
+@media (max-width: 1000px) {
+  .app .act4 .card h5 {
     font-size: 90%;
 
 
@@ -631,7 +679,7 @@ body {
   }
 }
 
-.raid {
+.raid,.act4 {
 
   .card {
     background-color: transparent;
@@ -647,9 +695,21 @@ body {
 
     }
   }
+  @media (max-width: 575px) {
+    .app .act4 .card {
+      height: 530px;
+
+    }
+  }
 
   @media (max-width: 400px) {
     .app .raid .card {
+      height: 490px;
+
+    }
+  }
+  @media (max-width: 400px) {
+    .app .act4 .card {
       height: 490px;
 
     }
@@ -661,16 +721,32 @@ body {
 
     }
   }
+  @media (max-width: 520px) {
+    .app .act4 .card {
+      height: 490px;
 
+    }
+  }
   @media (max-width: 375px) {
     .app .raid .card {
       height: 450px;
 
     }
   }
+  @media (max-width: 375px) {
+    .app .act4 .card {
+      height: 450px;
 
+    }
+  }
   @media (max-width: 1200px) and (min-width: 580px) {
     .app .raid .card {
+      height: 500px !important;
+
+    }
+  }
+  @media (max-width: 1200px) and (min-width: 580px) {
+    .app .act4 .card {
       height: 500px !important;
 
     }
@@ -678,6 +754,12 @@ body {
 
   @media (max-width: 1000px) and (min-width: 576px) {
     .app .raid .card {
+      height: 450px !important;
+
+    }
+  }
+  @media (max-width: 1000px) and (min-width: 576px) {
+    .app .act4 .card {
       height: 450px !important;
 
     }
@@ -936,6 +1018,10 @@ body {
   .toomuchtext1{
 font-size: 60% !important;
   }
+ 
+    .toomuchimg{
+  width: 10% !important;
+    }
   .card {
     background-color: transparent;
     width: auto;
@@ -1143,5 +1229,10 @@ a[class="upgraded"]:focus ~ li:not([class="upgraded"]) {
   }
   f{
     margin-left: 3px;
+  }
+}
+.act4{
+  a{
+    text-decoration: none;
   }
 }

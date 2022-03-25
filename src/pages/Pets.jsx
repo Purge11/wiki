@@ -449,7 +449,41 @@ export default function Pets() {
                                     </div>
                                 </div>
                             </div>
+                            <div className="">
+                            <div className="">
+                                <div className="card-group mt-5">
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-3">
+                                            <div className="flip-card-front">
+                                            <h5 className="card-title nosvoid-color ">Leo</h5>
+                                                <img src="asset/act4/9.png" className=" card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                 
+                                                   
+                                                    <small className="text-muted">Can be obtained from Achievement Rewards</small>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                    <div className="">
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-3">
+                                            <div className="flip-card-front">
+                                            <h5 className="card-title nosvoid-color ">Koala</h5>
+                                                <img src="asset/act4/10.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    
+                                                    <small className="text-muted">Can be obtained from Fortune Wheel</small>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </div>
                         </div>
+                       
 
                     </div>
                 </div>

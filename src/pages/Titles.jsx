@@ -731,6 +731,147 @@ export default function Titles() {
                                         </div>
 
                                     </div>
+                                    
+                                </div>
+                            </div>
+                            <div className="">
+                                <div className="card-group mt-5">
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-5">
+                                            <div className="flip-card-front">
+                                                <img src="asset/title/32.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">Git Gud title</h5>
+                                                    <p className="card-text ">
+                                                        <h5>Obtainable from Achievement Rewards (500 Kills)</h5>
+
+
+                                                    </p>
+                                                </div>
+
+
+
+                                            </div>
+
+
+                                        </div>
+
+                                    </div>
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-5">
+                                            <div className="flip-card-front">
+                                                <img src="asset/title/31.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">The Army Destroyer</h5>
+                                                    <p className="card-text ">
+                                                        <h5>Obtainable from Achievement Rewards (1000 Kills)</h5>
+
+
+                                                    </p>
+                                                </div>
+
+
+
+                                            </div>
+
+
+                                        </div>
+
+                                    </div>
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-5">
+                                            <div className="flip-card-front">
+                                                <img src="asset/title/33.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">Demigod Title</h5>
+                                                    <p className="card-text ">
+                                                        <h5>Obtainable in Lost War Helmet craft (500 items)</h5>
+
+
+                                                    </p>
+                                                </div>
+
+
+
+                                            </div>
+
+
+                                        </div>
+                                        
+
+                                    </div>
+
+
+                                </div>
+                            </div>
+                            <div className="">
+                                <div className="card-group mt-5">
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-5">
+                                            <div className="flip-card-front">
+                                                <img src="asset/title/34.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">The Power of a God</h5>
+                                                    <p className="card-text ">
+                                                        <h5>Obtainable in Lost War Helmet craft (1500 items)</h5>
+
+
+                                                    </p>
+                                                </div>
+
+
+
+                                            </div>
+
+
+                                        </div>
+
+                                    </div>
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-5">
+                                            <div className="flip-card-front">
+                                                <img src="asset/title/35.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">God of War</h5>
+                                                    <p className="card-text ">
+                                                        <h5>Obtainable in Lost War Helmet craft (3000 items)</h5>
+
+
+                                                    </p>
+                                                </div>
+
+
+
+                                            </div>
+
+
+                                        </div>
+
+                                    </div>
+                                    <div className="card">
+                                        <div className="flip-card-inner2 mt-5">
+                                            <div className="flip-card-front">
+                                                <img src="asset/title/36.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">I'm a Killer!</h5>
+                                                    <p className="card-text ">
+                                                        <h5>Obtainable in Lost War Helmet craft (5000 items)</h5>
+
+
+                                                    </p>
+                                                </div>
+
+
+
+                                            </div>
+
+
+                                        </div>
+                                        
+
+                                    </div>
+
+
                                 </div>
                             </div>
 

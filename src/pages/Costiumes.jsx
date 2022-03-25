@@ -14,7 +14,125 @@ export default function Costiumes() {
                     <a href="/costumes#" className="fist" tabindex="-1" title="fist">Fist Skins</a>
                     <a href="/costumes#" className="wand" tabindex="-1" title="wand">Wand Skins</a>
                     <a href="/costumes#" className="upgraded" tabindex="-1" title="upgraded">Upgraded Skins</a>
-
+                    <li className="sc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Sexy Bunny Set</th>
+                                        <th scope="col"><img src="asset/costumes/cat.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Hat:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        -  Increase 3% success rate while perfecting SPs.
+                                    </d>
+                                    <br />
+                                    <br />
+                                   
+                                    Costume:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - There's 3% more of getting rarity 7-8 while betting.
+                                    </d>
+                                    <br />
+                                   
+                                    <br /><br />
+                                    <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
+                                        <i>Obtained: Craft Costume A4</i>
+                                    </div></div>
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="sc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Koran Cat Set</th>
+                                        <th scope="col"><img src="asset/costumes/cat2.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Hat:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        -  Increase 3% success rate while perfecting SPs.
+                                    </d>
+                                    <br />
+                                    <br />
+                                   
+                                    Costume:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - There's 3% more of getting rarity 7-8 while betting.
+                                    </d>
+                                    <br />
+                                   
+                                    <br /><br />
+                                    <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
+                                        <i>Obtained: Craft Costume A4</i>
+                                    </div></div>
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="pc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Karate Costume Set</th>
+                                        <th scope="col"><img src="asset/costumes/karate.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Hat:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        -  All Attacks in A4 are increased by 7%
+                                    </d>
+                                    <br />
+                                    <d className="item-effect-shell">
+                                        -  Hitrate is increased by 100
+                                    </d>
+                                    <br />
+                                    <d className="item-effect-shell">
+                                        -  Movement speed is increased by 1
+                                    </d>
+                                    <br />
+                                    <br />
+                                   
+                                    Costume:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All Defence in A4 are increased by 7%
+                                    </d>
+                                    <br />
+                                    <d className="item-effect-shell">
+                                        - Up To level 4 10% of not getting bad effect in A4
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Wings:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - Critical chance increased by 5% in A4
+                                    </d>
+                                    <br />
+                                    <d className="item-effect-shell">
+                                        - Damage from critical hit is reduced by 10% in A4
+                                    </d>
+                                    <br />
+                                   
+                                    <br /><br />
+                                    <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
+                                        <i>Obtained: Achievement Reward</i>
+                                    </div></div>
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
                     <li className="sc">
                         <div className='mt-5 bordero'>
                             <table className="table">

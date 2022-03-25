@@ -172,15 +172,13 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
             </SubMenu>
             <SubMenu
-              suffix={<span className="badge yellow">3</span>}
+              suffix={<span className="badge yellow">1</span>}
               title={intl.formatMessage({ id: 'Recommended' })}
               icon={<FaHeart />}
             >
-              <MenuItem  ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
-
-              <MenuItem  ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
-              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
-              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem>
+              
+              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
+  
 
             </SubMenu>
             <SubMenu
@@ -217,7 +215,7 @@ const Aside = ({ setLocale }) => {
             <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
               suffix={<span className="badge yellow">32</span>}>
               <MenuItem><a href='accesory'>{intl.formatMessage({ id: 'Accesory' })} </a></MenuItem>
-              <MenuItem><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a> </MenuItem>
+              <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
               <MenuItem><a href='badge'>{intl.formatMessage({ id: 'Badge' })} </a></MenuItem>
               <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
               <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>

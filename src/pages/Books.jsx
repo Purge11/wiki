@@ -173,6 +173,94 @@ export default function Books() {
 
                         </tbody>
                     </table>
+                    <table className="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Books
+                                    </th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Effect</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b1.png" alt=""/></th>
+                                    <td>[Expert] PvP Damage Boost</td>
+                                    <td >Increases damage in PvP by 5%.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b2.png" alt=""/></th>
+                                    <td>[Expert] PvP Defence Boost</td>
+                                    <td >Increases defence in PvP by 5%.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b3.png" alt=""/></th>
+                                    <td>Journal of the Forgotten hero S (2)</td>
+                                    <td >Increases agility by 100.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b4.png" alt=""/></th>
+                                    <td>Journal of the Unknown Hero (2)</td>
+                                    <td >Increases MP by 6000.r</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b5.png" alt=""/></th>
+                                    <td>Strategy of Lord Cuarry's Knights (2)</td>
+                                    <td >Increasees overall defence power by 50.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b6.png" alt=""/></th>
+                                    <td>Attack Strategy of Lord Cuarry's Knights (2)</td>
+                                    <td >Increases overall attack power by 50.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b7.png" alt=""/></th>
+                                    <td>Bear Loa Tome</td>
+                                    <td >Increases max. HP by 7,000.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b8.png" alt=""/></th>
+                                    <td>Eagle Loa Tome</td>
+                                    <td >Increases agility by 120.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b9.png" alt=""/></th>
+                                    <td>Snake Loa Tome</td>
+                                    <td >Increases intelligente by 120.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b10.png" alt=""/></th>
+                                    <td>Lion Loa Tome</td>
+                                    <td >Increases physical strength by 120.</td>
+
+                                </tr>
+                                <tr>
+                                    <th scope="row"><img className="mt-3" src="asset/act4/b11.png" alt=""/></th>
+                                    <td>Spirit King Tome</td>
+                                    <td >Increases max. MP by 7,000.</td>
+
+                                </tr>
+
+                            </tbody>
+                        </table>
+                        <d className="text-danger d-flex justify-content-center">
+                            <i>
+                                These books are obtainable by A4, Books NPC.</i>
+                        </d>
+                        <d className="text-danger d-flex justify-content-center">
+                            <i>
+                                Craft 300 Magic Piece of Paper, droppable from every monster in Bitoren Tundra</i>
+                        </d>
 
                 </div>
             </div>
