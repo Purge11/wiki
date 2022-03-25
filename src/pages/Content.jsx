@@ -44,25 +44,16 @@ export default function Content() {
                                     <th scope="row danger">Maybe</th>
                                     <td className=' '> <a href='https://www.youtube.com/channel/UCl4q0dnNCWB3tjBd8rxFBOQ' className='text-danger'>Channel</a></td>
 
-
                                 </tr>
-
                                 <tr className=''>
-                                    <th scope="row danger">Blake</th>
-                                    <td className=' '> <a href='https://www.youtube.com/channel/UC6YQX9AW3jRilHgfqnmkjtA' className='text-danger'>Channel</a></td>
+                                    <th scope="row danger">Erean</th>
+                                    <td className=' '> <a href='https://www.youtube.com/channel/UC6XIq0KY90Y3LHAoPI8Xhcw' className='text-danger'>Channel</a></td>
 
 
                                 </tr>
-
                                 <tr className=''>
                                     <th scope="row danger">#Syanio94TM</th>
                                     <td className=' '> <a href='https://www.youtube.com/channel/UCk6cXyS-TojVSDwWEw3_CNA' className='text-danger'>Channel</a></td>
-
-
-                                </tr>
-                                <tr className=''>
-                                    <th scope="row danger">NosVoid Alexis_pe</th>
-                                    <td className=' '> <a href='https://www.youtube.com/channel/UCxksnZ4BNhtMrmz69uPTnEw' className='text-danger'>Channel</a></td>
 
 
                                 </tr>
