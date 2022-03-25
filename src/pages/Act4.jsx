@@ -73,13 +73,13 @@ export default function Act4() {
                         <h5 className="nosvoid-color">
                             Caligo Box</h5>
 
-                        - Shell 100-104 r7 100% drop
-                        <br/>
+
                         - Caligor's Spirit 100% drop
                         <br/>
                         * May contain:
                         <br/>
                         - Holy Light<br/>
+                        - Shell 100-104 r7<br/>
                         - Bloody-Red Ruby<br/>
                         - Blade Wings<br/>
                         <br/><br/>
