@@ -8,7 +8,7 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br />
                     <br />
-                    New Fortune Wheel update is alive. [17.03.2022]
+                    New Fortune Wheel update is alive. [26.03.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -17,46 +17,11 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Special Wedding Costume Set</th>
-                                    <th scope="col"><img src="asset/shop/SpecialWeddingSet.png" alt="" /></th>
+                                    <th scope="col">Betting Costume</th>
+                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
                                 </tr>
-                                <br />
-                                Hat:
-                                <hr />
                                 <d className="item-effect-shell">
-                                - All attacks are increased by 4%.
-                                    <br />
-                                - Dodge is increased by 95.
-                                </d>
-                                <br />
-                                <br />
-                                Costume:
-                                <hr />
-                                <d className="item-effect-shell">
-                                - All defences are increased by 6%.
-                                    <br />
-                                    - Up to level 4 there is a 10% chance of never getting a bad effect.
-                                    <br />
-                                    - Movement speed is increased by 1.
-                                </d>
-                                <br />
-                                <br />
-                                Wings:
-                                <hr />
-                                <d className="item-effect-shell">
-                                - Light element is increased by 50.
-                                    <br />
-                                    - Movement speed is increased by 1.
-                                    <br />
-                                    - There is a 5% chance of causing '' Bind. ''
-                                </d>
-                                <hr />
-                              
-                                <d className="text-success">
-                                Bind Debuff <i>(3 seconds)</i>:
-                                    <br />
-                                    - No defence possible
-                                    
+                                    - There's 10% more of getting rarity 7-8 while betting.
                                 </d>
                             </thead>
                         </table>
@@ -66,15 +31,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Shadow King's Helmet</th>
-                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
+                                    <th scope="col">Ceremonial Helmet</th>
+                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage in Raids is increased by 8%.
+                                    - Up to 4 level there is a 15% chance of never getting a bad effect.
                                     <br />
-                                    - All elemental resistance is increased by 7.
+                                    - Increases PvP attack power by 10%.
                                     <br />
-                                    - The chance of receiving a critical hit is increased by 3%.
+                                    - Reduces damage received in PvP by 5%
                                 </d>
                             </thead>
                         </table>
@@ -83,16 +48,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">
-                                    Shadow King's Mask</th>
-                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
+                                    <th scope="col">Into The Void Title (New) </th>
+                                    <th scope="col"><img src="asset/shop/tittle.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage to all monsters is increased by 7%.
+                                    - All attacks are increased by 10%.
                                     <br />
-                                    - Damage in Raids is increased by 10%.
-                                    <br />
-                                    - Increases Gold earned by 7%.
+                                    - All defences are increased by 10%.
                                 </d>
                             </thead>
                         </table>
@@ -101,28 +63,70 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Mini Blue Amora Pet </th>
-                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
+                                    <th scope="col">Koala Pet (New)</th>
+                                    <th scope="col"><img src="asset/shop/KoalaBuff.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - All attacks increased by 5%.
+                                    - When raid is finished, there's a 5% chance that box drops second time.
                                     <br />
-                                    - All defences are increased by 6%.
+                                    - When you finish Act4 and Caligor Raid you have 10% chance to get additional box.
+                                    <br />
+                                    - Increases fame received by 15%.
+                                    <br />
+                                    - Increased gold earned by 15%.
+                                    <br />
+                                    - Damage in Raids is increased by 5%.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Knight Costume Set (New)</th>
+                                    <th scope="col"><img src="asset/shop/KnightCostume.png" alt="" /></th>
+                                </tr>
+                                <br />
+                                Hat:
+                                <hr />
+                                <d className="item-effect-shell">
+                                    - All attacks are increased by 6%.
+                                    <br />
+                                    - Hit rate of all attacks is increased by 100.
+                                    <br />
+                                    - Chance of inflicting critical hits is increased by 3%.
+                                </d>
+                                <br />
+                                <br />
+                                Costume:
+                                <hr />
+                                <d className="item-effect-shell">
+                                    - All attacks are increased by 8%.
                                     <br />
                                     - Movement speed is increased by 1.
                                     <br />
-                                    - There is a 5% chance of causing Amora Heal.
-                                    </d>
-                                    <hr />
-                                    <d className="text-success">
-                                    Amora Heal : 
+                                    - Up to level 4 there is a 8% chance of never getting a bad effect.
+                                </d>
+                                <br />
+                                <br />
+                                Wings:
+                                <hr />
+                                <d className="item-effect-shell">
+                                    - All attacks are increased by 85
                                     <br />
-                                    - HP is increased by 5% of damage given.
+                                    - Maximum HP is increased by 2000.
                                     <br />
-                                    - MP is increased by 5% of damage given.
-                                    </d>
-                               
-                                
+                                    - There is a 4% chance of causing '' Last Hope  '' on attack.
+                                </d>
+                                <hr />
+                                <d className="text-success">
+                                    Last Hope Buff:
+                                    <br />
+                                    - Even if all HP are used 1 HP will remain.
+                                    <br />
+                                    - All animalus under level 99 are increased by 20%.
+                                </d>
                             </thead>
                         </table>
                     </div>
@@ -130,15 +134,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col"> Freya(S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/freya.png" alt="" /></th>
+                                    <th scope="col">Barni (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - Magic attacks are increased by 12%.
+                                    - Ranged attacks are increased by 12%.
                                     <br />
-                                    - Maximum HP is increased by 1500.
+                                    - Increases damage from critical hits by 15%.
                                     <br />
-                                    - Movement Speed is increased by 1.
+                                    - Dodge is increased by 80.
                                     <br />
                                     - Increases damage in Christmas Raid by 5%.
                                 </d>
@@ -149,23 +153,22 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Aegir (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/aegir.webp" alt="" /></th>
+                                    <th scope="col">Venus (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/venus.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - Meele attacks are increased by 12%.
+                                    - When raid is finished, there's a 5% chance that box drops second time.
                                     <br />
-                                    - All defence powers are increased by 150.
+                                    - Damage in Raids is increased by 10%.
                                     <br />
-                                    - Hit rate of all attacks is increased by 80.
+                                    - Increases champion experience received by 15%.
                                     <br />
-                                    - Increases damage in Christmas Raid by 5%.
+                                    - Movement speed is increased by 1.
                                 </d>
-                               
                             </thead>
                         </table>
                     </div>
-               
+
                 </div>
             </div>
         </div>
