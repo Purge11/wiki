@@ -178,7 +178,7 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                         <br/>
                         <h5 className="nosvoid-color">
                             Fairies NPC</h5>
-                        * Here you will be able to craft brand new fairies!<br/>
+                        * Here you will be able to craft brand new fairies! (Fairies can be up to 100%)<br/>
                         - Infinity Fernon (Fire) 12 essence of fire, 5 fairy powder, 5 Fafnir' Essence,
                         Fernon (fire)<br/>
                         - Infinity Fernon (Water) 12 essence of water, 5 fairy powder, 5 Fafnir'essence,
