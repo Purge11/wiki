@@ -75,7 +75,7 @@ export default function Act4() {
                         - Fafnir Teeth (Used for various craft in A4)<br/>
                         <br/><br/>
                         <h5 className="nosvoid-color">
-                            New A4 World Boss</h5>
+                            New A4 World Boss (World Boss is available at 16:15 and 23:00)</h5>
                         * With A4 rework, we also added an event you already saw during Christmas, A4
                         World Boss! It'll be divided into 2 parts:<br/>
                         - PvP part (faction vs faction)<br/>
