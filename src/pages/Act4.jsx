@@ -70,7 +70,7 @@ export default function Act4() {
                         - Shell r7 lvl between 98 to 102<br/>
                         - Essence with element of the raid<br/>
                         - Fairy Powder (with a low %)<br/>
-                        - Dragon Gem x3 (Used for upgrade SPs to +20)<br/>
+                        - Dragon Gem x1 (Used for upgrade SPs to +20)<br/>
                         * Also Fafnir will contain more items such as:<br/>
                         - Fafnir Teeth (Used for various craft in A4)<br/>
                         <br/><br/>
