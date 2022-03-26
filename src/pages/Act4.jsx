@@ -126,6 +126,13 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                         receive 1 Lost War Helmet, which is needed for craft various items in Lost War
                         Helmet Craft!<br/>
                         <br/><br/>
+
+                        <h5 className="nosvoid-color">
+                            Specialist Upgrade +15 to 20</h5>
+                        * To upgrade specialist cards you will need Dragon Card Protection Scroll <br/>
+                        - Dragon Card Protection Scroll : Can be obtained after completing Act4 Raids.(x5)<br/>
+                        - Dragon Gem : Can be obtained after completing Act4 Raids.(1x) Can be exchanged with 1x Blood-Red Ruby. (P.S : Dragon Gems are does not consume with fails.<br/>
+                        - Elemental Gemstones : You can craft elemental gemstones on your base and get unique buffs for your +20 specialist card! (The buff will be gone after you put specialist into card holder)<br/>
                        
                         <h5 className="nosvoid-color">
                             Lost War Helmet Craft</h5>
