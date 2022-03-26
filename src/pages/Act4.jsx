@@ -133,6 +133,7 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                         - Dragon Card Protection Scroll : Can be obtained after completing Act4 Raids.(x5)<br/>
                         - Dragon Gem : Can be exchanged with 1x Blood-Red Ruby. (P.S : Dragon Gems are does not consume with fails.<br/>
                         - Elemental Gemstones : You can craft elemental gemstones on your base and get unique buffs for your +20 specialist card! (The buff will be gone after you put specialist into card holder)<br/>
+<br/>
                        
                         <h5 className="nosvoid-color">
                             Lost War Helmet Craft</h5>
