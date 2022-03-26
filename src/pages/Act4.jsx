@@ -1,5 +1,5 @@
 import React from 'react'
-import { Player } from 'video-react';
+import {Player} from 'video-react';
 
 export default function Act4() {
     return (
@@ -8,53 +8,61 @@ export default function Act4() {
                 <div className="row">
                     <h1 className="winter-color d-flex justify-content-md-center  mt-5">A4 REWORK</h1>
                     <div class="bordero">
-                    <h2 className="nosvoid-color d-flex justify-content-md-center">Also check what we have added here 🔥</h2>
+                        <h2 className="nosvoid-color d-flex justify-content-md-center">Also check what we have added here 🔥</h2>
                         <div className='d-flex justify-content-center mt-5'>
-                        <h5 className="nosvoid-color ">
-                            Titles</h5>
-                        <a href="titles">《📑》Titles
-                    </a>
-                    </div>
+                            <h5 className="nosvoid-color ">
+                                Titles</h5>
+                            <a href="titles">《📑》Titles
+                            </a>
+                        </div>
 
                         <br/>
-                       
-                       
+
                         <div className='d-flex justify-content-center'>
-                        <h5 className="nosvoid-color">
-                            Books</h5>
-                        <a href="books">《📑》Books
-                    </a> </div>
-                    <br/>
-                        
+                            <h5 className="nosvoid-color">
+                                Books</h5>
+                            <a href="books">《📑》Books
+                            </a>
+                        </div>
+                        <br/>
+
                         <div className='d-flex justify-content-center'>
-                    <h5 className="nosvoid-color">
-                            Pets</h5>
-                        <a href="pets">《📑》Pets
-                    </a> </div>
+                            <h5 className="nosvoid-color">
+                                Pets</h5>
+                            <a href="pets">《📑》Pets
+                            </a>
+                        </div>
 
                         <br/>
-                        
+
                         <div className='d-flex justify-content-center'>
-                        <h5 className="nosvoid-color">
-                            Costumes</h5>
-                        <a href="costumes">《📑》Costumes
-                    </a> </div>
+                            <h5 className="nosvoid-color">
+                                Costumes</h5>
+                            <a href="costumes">《📑》Costumes
+                            </a>
+                        </div>
                     </div>
                     <div className='mt-5'>
                         <h5 className="nosvoid-color">
                             New Caligo's Raid</h5>
-                        New Caligor has Angel PvP Demons System. Caligor works same as before right now but you can expect a new rework in few days.
+                        Caligo will be changed in a 3 part events, it'll be:<br/>
+                        First on PvP part, where the 2 factions will fight between them for 10 minutes
+                        to decide who's the best (winner faction will get OP advantage on Caligo points)<br/>
+                        Second is PvP/PvE part, it has duration 15 minutes where the 2 factions will
+                        fight between them and against Caligo.<br/>
+                        Third is PvE part, where people will stop fightning and will reunite force
+                        against Caligo.<br/>
+                        To get rewards, you'll have to hit at least 3 times Caligo.<br/>
                         <br/><br/>
                         <h5 className="nosvoid-color">
                             Caligo Box</h5>
 
-
-                        - Caligor's Spirit 100% drop
+                        - Caligor's Spirit will be dropped at 100% chance
                         <br/>
-                        * May contain:
+                        * Box may contain:
                         <br/>
                         - Holy Light<br/>
-                        - Shell 100-104 r7<br/>
+                        - Shell r7 with level between 100 to 104<br/>
                         - Bloody-Red Ruby<br/>
                         - Blade Wings<br/>
                         <br/><br/>
@@ -89,32 +97,33 @@ export default function Act4() {
                         kill his minions.<br/>
                         After completion, people will receive A4 World Boss box, that contains splendid
                         rewards!<br/><br/>
-                       
 
-* Winner Side Box (Winner team) may contain in better %:<br/>
-- Costume Piece<br/>
-- Change SP Item<br/>
-- Change Skin 2<br/>
-- Rarify Item x2<br/>
-- Cold Heart x1<br/>
-<br/>
-* Loser Side Box (Loser team) may contain in lower %:<br/>
-- Costume Piece<br/>
-- Change SP Item<br/>
-- Change Skin 2<br/>
-- Rarify Item x2<br/>
-- Cold Heart x1<br/>
-<br/>
-* World Boss Normal Chest (all will get) may contain:<br/>
-- Fairy Powder<br/>
-- Costume Piece<br/>
-- 10x Seriously Emote<br/>
-- 10x Gotit Emote<br/>
-- Ice Witch Costume Set<br/>
-- Loa Runic Powder x50<br/>
-<br/>
-* Also with World Boss kill, all will get: <br/>
-Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x), Carve Runes Box 2 (2x)<br/><br/>
+                        * Winner Side Box (Winner team) may contain in better %:<br/>
+                        - Costume Piece<br/>
+                        - Change SP Item<br/>
+                        - Change Skin 2<br/>
+                        - Rarify Item x2<br/>
+                        - Cold Heart x1<br/>
+                        <br/>
+                        * Loser Side Box (Loser team) may contain in lower %:<br/>
+                        - Costume Piece<br/>
+                        - Change SP Item<br/>
+                        - Change Skin 2<br/>
+                        - Rarify Item x2<br/>
+                        - Cold Heart x1<br/>
+                        <br/>
+                        * World Boss Normal Chest (all will get) may contain:<br/>
+                        - Fairy Powder<br/>
+                        - Costume Piece<br/>
+                        - 10x Seriously Emote<br/>
+                        - 10x Gotit Emote<br/>
+                        - Ice Witch Costume Set<br/>
+                        - Loa Runic Powder x50<br/>
+                        <br/>
+                        * Also with World Boss kill, all will get:
+                        <br/>
+                        Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
+                        Carve Runes Box 2 (2x)<br/><br/>
                         <h5 className="nosvoid-color">
                             New Kill System</h5>
                         * With A4 Rework, we added 2 new system for killing.<br/>
@@ -129,12 +138,17 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
 
                         <h5 className="nosvoid-color">
                             Specialist Upgrade +15 to 20</h5>
-                        * To upgrade specialist cards you will need Dragon Card Protection Scroll <br/>
-                        - Dragon Card Protection Scroll : Can be obtained after completing Act4 Raids.(x20)<br/>
-                        - Dragon Gem : Can be exchanged with 1x Blood-Red Ruby. (P.S : Dragon Gems are does not consume with fails.<br/>
-                        - Elemental Gemstones : You can craft elemental gemstones on your base and get unique buffs for your +20 specialist card! (The buff will be gone after you put specialist into card holder)<br/>
-<br/>
-                       
+                        * To upgrade specialist cards you will need Dragon Card Protection Scroll
+                        <br/>
+                        - Dragon Card Protection Scroll : Can be obtained after completing Act4
+                        Raids.(x20)<br/>
+                        - Dragon Gem : Can be exchanged with 1x Blood-Red Ruby. (P.S : Dragon Gems are
+                        does not consume with fails.<br/>
+                        - Elemental Gemstones : You can craft elemental gemstones on your base and get
+                        unique buffs for your +20 specialist card! (The buff will be gone after you put
+                        specialist into card holder)<br/>
+                        <br/>
+
                         <h5 className="nosvoid-color">
                             Lost War Helmet Craft</h5>
                         * This will contain items that you can craft with Lost War Helmet!<br/>
@@ -146,10 +160,10 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                         - God of War 3000 Lost War Helmet<br/>
                         - I'm a Killer! 5000 Lost War Helemt<br/>
                         <img className="mt-3" src="asset/act4/1.png" alt=""/>
-                        
-                        <br/> 
+
+                        <br/>
                         <h5 className="nosvoid-color">
-                        Achievement Rewards</h5>
+                            Achievement Rewards</h5>
                         * This will contains items that you can craft with Achievement Rewards!<br/>
                         - Frozen Hero title 250 kills achievement rewards<br/>
                         - God of Glacernon title 500 kills achievement rewards<br/>
@@ -176,7 +190,7 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                         <img className="mt-3" src="asset/act4/4.png" alt=""/>
                         <br/>
                         <h5 className="nosvoid-color">
-                        Costume Craft</h5>
+                            Costume Craft</h5>
                         * Costumes NPC Craft, this will contain new costumes you can craft! The items
                         will be obtainable from A4 World boss/Caligor/Fafnir!<br/>
                         - Ice Witch Costume set 1 Costume Piece & 1 Bloody-Red Ruby<br/>
@@ -196,8 +210,8 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                         - Infinity Fernon (Shadow) 12 essence of shadow, 5 fairy powder, 5 Fafnir'
                         essence, Fernon (shadow)<br/>
                         <img className="mt-3" src="asset/act4/6.png" alt=""/>
-                        <br/>   
-                       
+                        <br/>
+
                         <h5 className="nosvoid-color">
                             Wings</h5>
                         <table className="table table-bordered">
@@ -257,26 +271,28 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                         <br/>
                         <br/>
                         <h5 className="nosvoid-color">
-                        Lunar Wings Effect</h5>
-                        - With 10% chance during attack you activate the following effect: "Lunar Light", +1 movement speed, +10% antimalus up to lvl 4<br/>
-- "Lunar Light" positive lvl 4 effect: Damage in A4 is increased by 25%, movement speed is increased by 2, antimalus lvl 4 is increased by 10%, duration 8 seconds<br/>
-<br/>
-<div className="d-flex p-0 justify-content-start" >
-                        <div className='col-sm-6 banner-image imgContainer'>
-                            <Player>
-                                <source src="asset/act4/lunar.mp4" />
-                            </Player>
+                            Lunar Wings Effect</h5>
+                        - With 10% chance during attack you activate the following effect: "Lunar
+                        Light", +1 movement speed, +10% antimalus up to lvl 4<br/>
+                        - "Lunar Light" positive lvl 4 effect: Damage in A4 is increased by 25%,
+                        movement speed is increased by 2, antimalus lvl 4 is increased by 10%, duration
+                        8 seconds<br/>
+                        <br/>
+                        <div className="d-flex p-0 justify-content-start">
+                            <div className='col-sm-6 banner-image imgContainer'>
+                                <Player>
+                                    <source src="asset/act4/lunar.mp4"/>
+                                </Player>
+                            </div>
                         </div>
-                    </div>
-                        
+
                         <br/>
                         <h5 className="nosvoid-color">
                             Books</h5>
                         - 300 Magic Piece of Paper each books<br/>
                         <img className="mt-3" src="asset/act4/8.png" alt=""/>
                         <br/><br/>
-                    
-                        
+
                         <h5 className="nosvoid-color">
                             Marto's Buff NPC</h5>
                         - Each account will be able to get buff once per day, with paying 50kk money.<br/>
@@ -299,28 +315,28 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                             <tbody>
                                 <tr>
                                     <th scope="row">1</th>
-                                    <td>All attacks are increased by 1%.
+                                    <td>All attacks are increased by 2%.
                                         <br></br>
                                         All defences are increased by 1%.
                                         <br></br>
                                         Attack powers are increased by 1% in Act4.
                                         <br></br>
                                         All defences are increased by 1% in Act4.</td>
-                                    <td>All attacks are increased by 1%.
+                                    <td>All attacks are increased by 2%.
                                         <br></br>
                                         All defences are increased by 1%.
                                         <br></br>
                                         Attack powers are increased by 1% in Act4.
                                         <br></br>
                                         All defences are increased by 1% in Act4.</td>
-                                    <td>All attacks are increased by 1%.
+                                    <td>All attacks are increased by 2%.
                                         <br></br>
                                         All defences are increased by 1%.
                                         <br></br>
                                         Attack powers are increased by 1% in Act4.
                                         <br></br>
                                         All defences are increased by 1% in Act4.</td>
-                                    <td>All attacks are increased by 1%.
+                                    <td>All attacks are increased by 2%.
                                         <br></br>
                                         All defences are increased by 1%.
                                         <br></br>
@@ -335,28 +351,28 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                                         <br></br>
                                         All defences are increased by 2%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
-                                        <br></br>
-                                        All defences are increased by 1% in Act4.</td>
-                                    <td>All attacks are increased by 2%.
-                                        <br></br>
-                                        All defences are increased by 2%.
-                                        <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
                                         All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 2%.
                                         <br></br>
                                         All defences are increased by 2%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
                                         All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 2%.
                                         <br></br>
                                         All defences are increased by 2%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
+                                        <br></br>
+                                        All defences are increased by 2% in Act4.</td>
+                                    <td>All attacks are increased by 2%.
+                                        <br></br>
+                                        All defences are increased by 2%.
+                                        <br></br>
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
                                         All defences are increased by 2% in Act4.</td>
 
@@ -367,30 +383,30 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                                         <br></br>
                                         All defences are increased by 3%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 3%.
                                         <br></br>
                                         All defences are increased by 3%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 3%.
                                         <br></br>
                                         All defences are increased by 3%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 3%.
                                         <br></br>
                                         All defences are increased by 3%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
 
                                 </tr>
                                 <tr>
@@ -399,30 +415,30 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                                         <br></br>
                                         All defences are increased by 4%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 4%.
                                         <br></br>
                                         All defences are increased by 4%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 4%.
                                         <br></br>
                                         All defences are increased by 4%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 4%.
                                         <br></br>
                                         All defences are increased by 4%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
 
                                 </tr>
                                 <tr>
@@ -431,90 +447,90 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                                         <br></br>
                                         All defences are increased by 5%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 5%.
                                         <br></br>
                                         All defences are increased by 5%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 5%.
                                         <br></br>
                                         All defences are increased by 5%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
                                     <td>All attacks are increased by 5%.
                                         <br></br>
                                         All defences are increased by 5%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 2% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 2% in Act4.</td>
 
                                 </tr>
                                 <tr>
                                     <th scope="row">6</th>
-                                    <td>All attacks are increased by 6%.
+                                    <td>All attacks are increased by 5%.
                                         <br></br>
-                                        All defences are increased by 6%.
+                                        All defences are increased by 5%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 3% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
-                                    <td>All attacks are increased by 6%.
+                                        All defences are increased by 3% in Act4.</td>
+                                    <td>All attacks are increased by 5%.
                                         <br></br>
-                                        All defences are increased by 6%.
+                                        All defences are increased by 5%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 3% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
-                                    <td>All attacks are increased by 6%.
+                                        All defences are increased by 3% in Act4.</td>
+                                    <td>All attacks are increased by 5%.
                                         <br></br>
-                                        All defences are increased by 6%.
+                                        All defences are increased by 5%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 3% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
-                                    <td>All attacks are increased by 6%.
+                                        All defences are increased by 3% in Act4.</td>
+                                    <td>All attacks are increased by 5%.
                                         <br></br>
-                                        All defences are increased by 6%.
+                                        All defences are increased by 5%.
                                         <br></br>
-                                        Attack powers are increased by 1% in Act4.
+                                        Attack powers are increased by 3% in Act4.
                                         <br></br>
-                                        All defences are increased by 1% in Act4.</td>
+                                        All defences are increased by 3% in Act4.</td>
 
                                 </tr>
                                 <tr>
                                     <th scope="row">7</th>
-                                    <td>All attacks are increased by 7%.
+                                    <td>All attacks are increased by 6%.
                                         <br></br>
-                                        All defences are increased by 7%.
-                                        <br></br>
-                                        Attack powers are increased by 6% in Act4.
-                                        <br></br>
-                                        All defences are increased by 6% in Act4.</td>
-                                    <td>All attacks are increased by 7%.
-                                        <br></br>
-                                        All defences are increased by 7%.
+                                        All defences are increased by 6%.
                                         <br></br>
                                         Attack powers are increased by 6% in Act4.
                                         <br></br>
                                         All defences are increased by 6% in Act4.</td>
-                                    <td>All attacks are increased by 7%.
+                                    <td>All attacks are increased by 6%.
                                         <br></br>
-                                        All defences are increased by 7%.
+                                        All defences are increased by 6%.
                                         <br></br>
                                         Attack powers are increased by 6% in Act4.
                                         <br></br>
                                         All defences are increased by 6% in Act4.</td>
-                                    <td>All attacks are increased by 7%.
+                                    <td>All attacks are increased by 6%.
                                         <br></br>
-                                        All defences are increased by 7%.
+                                        All defences are increased by 6%.
+                                        <br></br>
+                                        Attack powers are increased by 6% in Act4.
+                                        <br></br>
+                                        All defences are increased by 6% in Act4.</td>
+                                    <td>All attacks are increased by 6%.
+                                        <br></br>
+                                        All defences are increased by 6%.
                                         <br></br>
                                         Attack powers are increased by 6% in Act4.
                                         <br></br>
@@ -523,30 +539,30 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                                 </tr>
                                 <tr>
                                     <th scope="row">8</th>
-                                    <td>All attacks are increased by 7%.
+                                    <td>All attacks are increased by 6%.
                                         <br></br>
-                                        All defences are increased by 7%.
-                                        <br></br>
-                                        Attack powers are increased by 7% in Act4.
-                                        <br></br>
-                                        All defences are increased by 7% in Act4.</td>
-                                    <td>All attacks are increased by 7%.
-                                        <br></br>
-                                        All defences are increased by 7%.
+                                        All defences are increased by 6%.
                                         <br></br>
                                         Attack powers are increased by 7% in Act4.
                                         <br></br>
                                         All defences are increased by 7% in Act4.</td>
-                                    <td>All attacks are increased by 7%.
+                                    <td>All attacks are increased by 6%.
                                         <br></br>
-                                        All defences are increased by 7%.
+                                        All defences are increased by 6%.
                                         <br></br>
                                         Attack powers are increased by 7% in Act4.
                                         <br></br>
                                         All defences are increased by 7% in Act4.</td>
-                                    <td>All attacks are increased by 7%.
+                                    <td>All attacks are increased by 6%.
                                         <br></br>
-                                        All defences are increased by 7%.
+                                        All defences are increased by 6%.
+                                        <br></br>
+                                        Attack powers are increased by 7% in Act4.
+                                        <br></br>
+                                        All defences are increased by 7% in Act4.</td>
+                                    <td>All attacks are increased by 6%.
+                                        <br></br>
+                                        All defences are increased by 6%.
                                         <br></br>
                                         Attack powers are increased by 7% in Act4.
                                         <br></br>
@@ -555,65 +571,65 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                                 </tr>
                                 <tr>
                                     <th scope="row">9</th>
-                                    <td>All attacks are increased by 8%.
+                                    <td>All attacks are increased by 6%.
                                         <br></br>
-                                        All defences are increased by 8%.
-                                        <br></br>
-                                        Attack powers are increased by 9% in Act4.
-                                        <br></br>
-                                        All defences are increased by 8% in Act4.</td>
-                                    <td>All attacks are increased by 8%.
-                                        <br></br>
-                                        All defences are increased by 8%.
+                                        All defences are increased by 6%.
                                         <br></br>
                                         Attack powers are increased by 9% in Act4.
                                         <br></br>
-                                        All defences are increased by 8% in Act4.</td>
-                                    <td>All attacks are increased by 8%.
+                                        All defences are increased by 9% in Act4.</td>
+                                    <td>All attacks are increased by 6%.
                                         <br></br>
-                                        All defences are increased by 8%.
-                                        <br></br>
-                                        Attack powers are increased by 9% in Act4.
-                                        <br></br>
-                                        All defences are increased by 8% in Act4.</td>
-                                    <td>All attacks are increased by 8%.
-                                        <br></br>
-                                        All defences are increased by 8%.
+                                        All defences are increased by 6%.
                                         <br></br>
                                         Attack powers are increased by 9% in Act4.
                                         <br></br>
-                                        All defences are increased by 8% in Act4.</td>
+                                        All defences are increased by 9% in Act4.</td>
+                                    <td>All attacks are increased by 6%.
+                                        <br></br>
+                                        All defences are increased by 6%.
+                                        <br></br>
+                                        Attack powers are increased by 9% in Act4.
+                                        <br></br>
+                                        All defences are increased by 9% in Act4.</td>
+                                    <td>All attacks are increased by 6%.
+                                        <br></br>
+                                        All defences are increased by 6%.
+                                        <br></br>
+                                        Attack powers are increased by 9% in Act4.
+                                        <br></br>
+                                        All defences are increased by 9% in Act4.</td>
 
                                 </tr>
                                 <tr>
                                     <th scope="row">10</th>
-                                    <td>All attacks are increased by 9%.
+                                    <td>All attacks are increased by 7%.
                                         <br></br>
-                                        All defences are increased by 9%.
-                                        <br></br>
-                                        Attack powers are increased by 11% in Act4.
-                                        <br></br>
-                                        All defences are increased by 11% in Act4.<br></br>
-                                        When you finish Act4 and Caligor Raid you have 5% chance to get additional box.</td>
-                                    <td>All attacks are increased by 9%.
-                                        <br></br>
-                                        All defences are increased by 9%.
+                                        All defences are increased by 7%.
                                         <br></br>
                                         Attack powers are increased by 11% in Act4.
                                         <br></br>
                                         All defences are increased by 11% in Act4.<br></br>
                                         When you finish Act4 and Caligor Raid you have 5% chance to get additional box.</td>
-                                    <td>All attacks are increased by 9%.
+                                    <td>All attacks are increased by 7%.
                                         <br></br>
-                                        All defences are increased by 9%.
+                                        All defences are increased by 7%.
                                         <br></br>
                                         Attack powers are increased by 11% in Act4.
                                         <br></br>
                                         All defences are increased by 11% in Act4.<br></br>
                                         When you finish Act4 and Caligor Raid you have 5% chance to get additional box.</td>
-                                    <td>All attacks are increased by 9%.
+                                    <td>All attacks are increased by 7%.
                                         <br></br>
-                                        All defences are increased by 9%.
+                                        All defences are increased by 7%.
+                                        <br></br>
+                                        Attack powers are increased by 11% in Act4.
+                                        <br></br>
+                                        All defences are increased by 11% in Act4.<br></br>
+                                        When you finish Act4 and Caligor Raid you have 5% chance to get additional box.</td>
+                                    <td>All attacks are increased by 7%.
+                                        <br></br>
+                                        All defences are increased by 7%.
                                         <br></br>
                                         Attack powers are increased by 11% in Act4.
                                         <br></br>
@@ -625,247 +641,211 @@ Tattoo Box 1 (2x), Tattoo Box 2 (2x), Tattoo Box 3 (2x), Carve Runes Box 1 (2x),
                             </tbody>
                         </table>
                         <div className="">
-                                <div className="card-group mt-5">
-                                    <div className="card ">
-                                        <div className="flip-card-inner">
-                                            <div className="flip-card-front">
+                            <div className="card-group mt-5">
+                                <div className="card ">
+                                    <div className="flip-card-inner">
+                                        <div className="flip-card-front">
 
-                                                <img
-                                                    src="asset/act4/fafnir.png"
-                                                    className="  "
-                                                    alt="..." />
-                                                <div className="card-body ">
-                                                    <h5 className="card-title nosvoid-color ">
+                                            <img src="asset/act4/fafnir.png" className="  " alt="..."/>
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">
                                                     Fafnir Raid</h5>
-                                                    <p className="card-text ">
-                                                        <h5>Act4 No Element Raid</h5>
+                                                <p className="card-text ">
+                                                    <h5>Act4 No Element Raid</h5>
 
-                                                        <h5>What can I do with Fafnir raid?</h5>
+                                                    <h5>What can I do with Fafnir raid?</h5>
 
-                                                        You can get +20 SP materials, essence for craft and shell
+                                                    You can get +20 SP materials, essence for craft and shell
 
-                                                    </p>
-                                                </div>
-
-                                                <small className="text-muted">Glaceron</small>
-
+                                                </p>
                                             </div>
 
-                                            <div className="flip-card-back ">
-                                                <h1 className="nosvoid-color"> Fafnir Raid:</h1>
+                                            <small className="text-muted">Glaceron</small>
 
-                                                <p>Shell levels 98 to 102</p>
-                                                <p>Fairy Powder</p>
-                                                <p>Fafnir Teeth</p>
-                                                <p>Essence of Null element</p>
-                                                <p>Dragon Gem x2</p>
-                                                <p>Dragon Scrolls Upgrade x5</p>
-                                               
+                                        </div>
 
+                                        <div className="flip-card-back ">
+                                            <h1 className="nosvoid-color">
+                                                Fafnir Raid:</h1>
 
-                                            </div>
+                                            <p>Shell levels 98 to 102</p>
+                                            <p>Fairy Powder</p>
+                                            <p>Fafnir Teeth</p>
+                                            <p>Essence of Null element</p>
+                                            <p>Dragon Gem x1</p>
+                                            <p>Dragon Scrolls Upgrade x20</p>
+
                                         </div>
                                     </div>
-
-
-
-
-
                                 </div>
 
                             </div>
-                            <div className="">
-                                <div className="card-group mt-5">
-                                    <div className="card ">
-                                        <div className="flip-card-inner">
-                                            <div className="flip-card-front">
 
-                                                <img
-                                                    src="asset/act4/m.png"
-                                                    className="  "
-                                                    alt="..." />
-                                                <div className="card-body ">
-                                                    <h5 className="card-title nosvoid-color ">
+                        </div>
+                        <div className="">
+                            <div className="card-group mt-5">
+                                <div className="card ">
+                                    <div className="flip-card-inner">
+                                        <div className="flip-card-front">
+
+                                            <img src="asset/act4/m.png" className="  " alt="..."/>
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">
                                                     Morcos Raid</h5>
-                                                    <p className="card-text ">
-                                                        <h5>Act4 Fire Raid.</h5>
+                                                <p className="card-text ">
+                                                    <h5>Act4 Fire Raid.</h5>
 
-                                                        <h5>What can I do with Morcos raid?</h5>
+                                                    <h5>What can I do with Morcos raid?</h5>
 
-                                                        You can get +20 SP materials, essence for craft and shell
+                                                    You can get +20 SP materials, essence for craft and shell
 
-                                                    </p>
-                                                </div>
-
-                                                <small className="text-muted">Glaceron</small>
-
+                                                </p>
                                             </div>
 
-                                            <div className="flip-card-back ">
-                                                <h1 className="nosvoid-color"> Morcos Raid:</h1>
+                                            <small className="text-muted">Glaceron</small>
 
-                                                <p>Shell levels 98 to 102</p>
-                                                <p>Fairy Powder x1</p>
-                                                <p>Essence of Fire x1</p>
-                                                <p>Dragon Gem x2</p>
-                                                <p>Dragon Scrolls Upgrade x5</p>
-                                               
+                                        </div>
 
-                                            </div>
+                                        <div className="flip-card-back ">
+                                            <h1 className="nosvoid-color">
+                                                Morcos Raid:</h1>
+
+                                            <p>Shell levels 98 to 102</p>
+                                            <p>Fairy Powder x1</p>
+                                            <p>Essence of Fire x1</p>
+                                            <p>Dragon Gem x1</p>
+                                            <p>Dragon Scrolls Upgrade x20</p>
+
                                         </div>
                                     </div>
-
-
-
-
-
                                 </div>
 
                             </div>
-                            <div className="">
-                                <div className="card-group mt-5">
-                                    <div className="card ">
-                                        <div className="flip-card-inner">
-                                            <div className="flip-card-front">
 
-                                                <img
-                                                    src="asset/act4/b.png"
-                                                    className="  "
-                                                    alt="..." />
-                                                <div className="card-body ">
-                                                    <h5 className="card-title nosvoid-color ">
+                        </div>
+                        <div className="">
+                            <div className="card-group mt-5">
+                                <div className="card ">
+                                    <div className="flip-card-inner">
+                                        <div className="flip-card-front">
+
+                                            <img src="asset/act4/b.png" className="  " alt="..."/>
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">
                                                     Berios Raid</h5>
-                                                    <p className="card-text ">
-                                                        <h5>Act4 Light Raid</h5>
+                                                <p className="card-text ">
+                                                    <h5>Act4 Light Raid</h5>
 
-                                                        <h5>What can I do with Berios raid?</h5>
+                                                    <h5>What can I do with Berios raid?</h5>
 
-                                                        You can get +20 SP materials, essence for craft and shell
+                                                    You can get +20 SP materials, essence for craft and shell
 
-                                                    </p>
-                                                </div>
-
-                                                <small className="text-muted">Glaceron</small>
-
+                                                </p>
                                             </div>
 
-                                            <div className="flip-card-back ">
-                                                <h1 className="nosvoid-color"> Berios Raid:</h1>
+                                            <small className="text-muted">Glaceron</small>
 
-                                                <p>Shell levels 98 to 102</p>
-                                                <p>Fairy Powder x1</p>
-                                                <p>Essence of Light x1</p>
-                                                <p>Dragon Gem x2</p>
-                                                <p>Dragon Scrolls Upgrade x5</p>
+                                        </div>
 
+                                        <div className="flip-card-back ">
+                                            <h1 className="nosvoid-color">
+                                                Berios Raid:</h1>
 
-                                            </div>
+                                            <p>Shell levels 98 to 102</p>
+                                            <p>Fairy Powder x1</p>
+                                            <p>Essence of Light x1</p>
+                                            <p>Dragon Gem x1</p>
+                                            <p>Dragon Scrolls Upgrade x20</p>
+
                                         </div>
                                     </div>
-
-
-
-
-
                                 </div>
 
                             </div>
-                            <div className="">
-                                <div className="card-group mt-5">
-                                    <div className="card ">
-                                        <div className="flip-card-inner">
-                                            <div className="flip-card-front">
 
-                                                <img
-                                                    src="asset/act4/h.png"
-                                                    className="  "
-                                                    alt="..." />
-                                                <div className="card-body ">
-                                                    <h5 className="card-title nosvoid-color ">
+                        </div>
+                        <div className="">
+                            <div className="card-group mt-5">
+                                <div className="card ">
+                                    <div className="flip-card-inner">
+                                        <div className="flip-card-front">
+
+                                            <img src="asset/act4/h.png" className="  " alt="..."/>
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">
                                                     Hatus Raid</h5>
-                                                    <p className="card-text ">
-                                                        <h5>Act4 Shadow Raid</h5>
+                                                <p className="card-text ">
+                                                    <h5>Act4 Shadow Raid</h5>
 
-                                                        <h5>What can I do with Hatus raid?</h5>
+                                                    <h5>What can I do with Hatus raid?</h5>
 
-                                                        You can get +20 SP materials, essence for craft and shell
+                                                    You can get +20 SP materials, essence for craft and shell
 
-                                                    </p>
-                                                </div>
-
-                                                <small className="text-muted">Glaceron</small>
-
+                                                </p>
                                             </div>
 
-                                            <div className="flip-card-back ">
-                                                <h1 className="nosvoid-color"> Hatus Raid:</h1>
+                                            <small className="text-muted">Glaceron</small>
 
-                                                <p>Shell levels 98 to 102</p>
-                                                <p>Fairy Powder x1</p>
-                                                <p>Essence of Shadow x1</p>
-                                                <p>Dragon Gem x2</p>
-                                                <p>Dragon Scrolls Upgrade x5</p>
+                                        </div>
 
+                                        <div className="flip-card-back ">
+                                            <h1 className="nosvoid-color">
+                                                Hatus Raid:</h1>
 
-                                            </div>
+                                            <p>Shell levels 98 to 102</p>
+                                            <p>Fairy Powder x1</p>
+                                            <p>Essence of Shadow x1</p>
+                                            <p>Dragon Gem x1</p>
+                                            <p>Dragon Scrolls Upgrade x20</p>
+
                                         </div>
                                     </div>
-
-
-
-
-
                                 </div>
 
                             </div>
-                            <div className="">
-                                <div className="card-group mt-5">
-                                    <div className="card ">
-                                        <div className="flip-card-inner">
-                                            <div className="flip-card-front">
 
-                                                <img
-                                                    src="asset/act4/c.png"
-                                                    className="  "
-                                                    alt="..." />
-                                                <div className="card-body ">
-                                                    <h5 className="card-title nosvoid-color ">
+                        </div>
+                        <div className="">
+                            <div className="card-group mt-5">
+                                <div className="card ">
+                                    <div className="flip-card-inner">
+                                        <div className="flip-card-front">
+
+                                            <img src="asset/act4/c.png" className="  " alt="..."/>
+                                            <div className="card-body ">
+                                                <h5 className="card-title nosvoid-color ">
                                                     Calvinas Raid</h5>
-                                                    <p className="card-text ">
-                                                        <h5>Act4 Water Raid</h5>
+                                                <p className="card-text ">
+                                                    <h5>Act4 Water Raid</h5>
 
-                                                        <h5>What can I do with Calvinas raid?</h5>
+                                                    <h5>What can I do with Calvinas raid?</h5>
 
-                                                        You can get +20 SP materials, essence for craft and shell
+                                                    You can get +20 SP materials, essence for craft and shell
 
-                                                    </p>
-                                                </div>
-
-                                                <small className="text-muted">Glaceron</small>
-
+                                                </p>
                                             </div>
 
-                                            <div className="flip-card-back ">
-                                                <h1 className="nosvoid-color"> Calvinas Raid:</h1>
+                                            <small className="text-muted">Glaceron</small>
 
-                                                <p>Shell levels 98 to 102</p>
-                                                <p>Fairy Powder x1</p>
-                                                <p>Essence of Water x1</p>
-                                                <p>Dragon Gem x2</p>
-                                                <p>Dragon Scrolls Upgrade x5</p>
+                                        </div>
 
+                                        <div className="flip-card-back ">
+                                            <h1 className="nosvoid-color">
+                                                Calvinas Raid:</h1>
 
-                                            </div>
+                                            <p>Shell levels 98 to 102</p>
+                                            <p>Fairy Powder x1</p>
+                                            <p>Essence of Water x1</p>
+                                            <p>Dragon Gem x1</p>
+                                            <p>Dragon Scrolls Upgrade x20</p>
+
                                         </div>
                                     </div>
-
-
-
-
-
                                 </div>
 
                             </div>
+
+                        </div>
                     </div>
                 </div>
 

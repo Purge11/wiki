@@ -220,37 +220,7 @@ export default function Books() {
                                     <td >Increases overall attack power by 50.</td>
 
                                 </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b7.png" alt=""/></th>
-                                    <td>Bear Loa Tome</td>
-                                    <td >Increases max. HP by 7,000.</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b8.png" alt=""/></th>
-                                    <td>Eagle Loa Tome</td>
-                                    <td >Increases agility by 120.</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b9.png" alt=""/></th>
-                                    <td>Snake Loa Tome</td>
-                                    <td >Increases intelligente by 120.</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b10.png" alt=""/></th>
-                                    <td>Lion Loa Tome</td>
-                                    <td >Increases physical strength by 120.</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b11.png" alt=""/></th>
-                                    <td>Spirit King Tome</td>
-                                    <td >Increases max. MP by 7,000.</td>
-
-                                </tr>
-
+                                
                             </tbody>
                         </table>
                         <d className="text-danger d-flex justify-content-center">
