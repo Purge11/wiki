@@ -43,33 +43,7 @@ export default function Act4() {
                     <div className='mt-5'>
                         <h5 className="nosvoid-color">
                             New Caligo's Raid</h5>
-                        With A4 Rework Caligo has been reworked, and it'll be a new challenge for
-                        everyone! What do we need to knows:
-                        <br/>
-                        - First of all Caligor will be Angels PVP Demons, not random team. (And make
-                        everyone's reputation icon same, same as Bomb Runner Event. People wont able to
-                        know who is who.)
-                        <br/>
-                        - New Caligo will be divide into 3 parts, one full PvP and one half PvP/half
-                        PvE, and full PvE. But let's go into details.
-                        <br/>
-                        - Full PvP part is the starting one, where there'll be a circle in the middle of
-                        Caligo, just like a "capture the zone" event, players will have to stand inside
-                        the circle to acquire points. Once one of the 2 teams will reach 100/100 points,
-                        the circle will disappear, the winner team will receive 30/100 score on Caligo
-                        life and Caligo boss will appear.
-                        <br/>
-                        - Half PvP/PvE part is the middle one, where the 2 factions will have to fight
-                        Caligo, meanwhile watching out for the enemy faction! This part will end with
-                        the timing going to 5:00 (where the only PvE part will start) or by killing
-                        Caligo.
-                        <br/>
-                        - Full PvE part as for previous Caligo, we'll give a 5 minutes part (last 5
-                        minutes) where people will be free to hit Caligo boss and kill it.
-                        <br/><br/>
-                        Little detail, we added a new "Action points" system, to get rewards in Caligo
-                        you will have to hit the boss at least 3 times. No matter the damage, you just
-                        need to 3 hit it.
+                        New Caligor has Angel PvP Demons System. Caligor works same as before right now but you can expect a new rework in few days.
                         <br/><br/>
                         <h5 className="nosvoid-color">
                             Caligo Box</h5>
