@@ -238,7 +238,7 @@ export default function Wings() {
                     <div className="card">
                         <div className="flip-card-inner2 ">
                             <div className="flip-card-front">
-                                <img src="asset/wings/10.png" className="card-img-top mx-auto pt-4 " alt="..." />
+                                <img src="asset/wings/10_5.png" className="card-img-top mx-auto pt-4 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Blade Wings</h5>
                                     <p className="card-text ">
