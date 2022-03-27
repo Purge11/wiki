@@ -55,6 +55,7 @@
   .home-start,
   .content,
   .shop,
+  .spupgrade,
   .raid,
   .title,
   .pets,
@@ -284,7 +285,14 @@ body {
       }
     }
   }
+
 .p8{
+  img {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+.spupgrade{
   img {
     margin-left: 0 !important;
     margin-right: 0 !important;
@@ -329,6 +337,7 @@ body {
   .accesory,
   .act4,
   .shop,
+  .spupgrade,
   .badgee,
   .books,
   .box,
@@ -600,6 +609,12 @@ body {
 
 .toobigimg {
   max-width: 40% !important;
+}
+
+.img75p{
+  img{
+    width: 75% !important;
+  }
 }
 
 .toobigimg1 {
@@ -1221,6 +1236,11 @@ a[class="upgraded"]:focus ~ li:not([class="upgraded"]) {
 .notes{
   img{
     width: 60% !important;
+  }
+}
+.miniimg{
+  img{
+    width: 24px !important;
   }
 }
 .box{

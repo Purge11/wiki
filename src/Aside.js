@@ -59,6 +59,7 @@ import Wheel from './pages/Wheel';
 import Costiumes from './pages/Costiumes';
 import ContentCreator from './pages/ContentCreator';
 import p8 from './pages/p8';
+import SpUpgrade from './pages/SpUpgrade';
 import marathon from './pages/marathon';
 import Exp from './pages/Exp';
 import DB from './pages/DB';
@@ -232,6 +233,7 @@ const Aside = ({ setLocale }) => {
               <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
               <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
+              <MenuItem><a href='spupgrade'>{intl.formatMessage({ id: 'SP Upgrade' })}</a></MenuItem>
               <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
               <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
               <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
@@ -355,6 +357,7 @@ const Aside = ({ setLocale }) => {
           <Route path='/raids' component={Raids} />
           <Route path='/costumes' component={Costiumes} />
           <Route path='/p8' component={p8} />
+          <Route path='/spupgrade' component={SpUpgrade}/>
           <Route path='/marathon' component={marathon} />
           <Route path='/contentcreator' component={ContentCreator} />
           <Route path='/exp' component={Exp} />
