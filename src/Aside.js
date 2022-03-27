@@ -214,7 +214,7 @@ const Aside = ({ setLocale }) => {
             </SubMenu>
 
             <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-              suffix={<span className="badge yellow">32</span>}>
+              suffix={<span className="badge yellow">33</span>}>
               <MenuItem><a href='accesory'>{intl.formatMessage({ id: 'Accesory' })} </a></MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
               <MenuItem><a href='badge'>{intl.formatMessage({ id: 'Badge' })} </a></MenuItem>
@@ -233,7 +233,6 @@ const Aside = ({ setLocale }) => {
               <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
               <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
-              <MenuItem><a href='spupgrade'>{intl.formatMessage({ id: 'SP Upgrade' })}</a></MenuItem>
               <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
               <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
               <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
@@ -244,6 +243,7 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='shell'>{intl.formatMessage({ id: 'Shell' })} </a> </MenuItem>
               <MenuItem> <a href='specialitem'>{intl.formatMessage({ id: 'Special Item' })}</a></MenuItem>
               <MenuItem><a href='sp'>{intl.formatMessage({ id: 'SP' })}  </a></MenuItem>
+              <MenuItem><a href='spupgrade'>{intl.formatMessage({ id: 'SP Upgrade' })}</a></MenuItem>
               <MenuItem><a href='tatto'>{intl.formatMessage({ id: 'Tattos' })}</a> </MenuItem>  
               <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>     
               <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
