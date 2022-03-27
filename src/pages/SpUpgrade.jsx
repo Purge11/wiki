@@ -79,7 +79,7 @@ export default function SpUpgrade() {
                 <br /><br />
                 <h3><b>Bonus from 0 to 120 points</b></h3>
                 <div className='img75p'>
-                    <img src="asset/SpUpgrade/Table2.png" alt="" />
+                    <img src="asset/SpUpgrade/Table2_1.png" alt="" />
                 </div>
                 <br />
                 <d>
