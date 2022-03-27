@@ -6,7 +6,7 @@ export default function Schedule() {
             <div className="container d-flex justify-content-center">
                 <div className="row series-image-list ">
                     <ul className="list-group">
-                        <li className="list-group-item d-flex justify-content-center bg-white text-danger">The Event times are GMT+1</li>
+                        <li className="list-group-item d-flex justify-content-center bg-white text-danger">The Event times are GMT+2</li>
                     </ul>
                     <ul className="list-group mt-5">
 
