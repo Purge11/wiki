@@ -30,14 +30,14 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <br />
-                                   
+
                                     Costume:
                                     <hr />
                                     <d className="item-effect-shell">
                                         - There's 3% more of getting rarity 7-8 while betting.
                                     </d>
                                     <br />
-                                   
+
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                         <i>Obtained: Craft Costume A4</i>
@@ -62,14 +62,14 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <br />
-                                   
+
                                     Costume:
                                     <hr />
                                     <d className="item-effect-shell">
                                         - There's 3% more of getting rarity 7-8 while betting.
                                     </d>
                                     <br />
-                                   
+
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                         <i>Obtained: Craft Costume A4</i>
@@ -102,7 +102,7 @@ export default function Costiumes() {
                                     </d>
                                     <br />
                                     <br />
-                                   
+
                                     Costume:
                                     <hr />
                                     <d className="item-effect-shell">
@@ -124,7 +124,7 @@ export default function Costiumes() {
                                         - Damage from critical hit is reduced by 10% in A4
                                     </d>
                                     <br />
-                                   
+
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                         <i>Obtained: Achievement Reward</i>
@@ -1145,9 +1145,9 @@ export default function Costiumes() {
                                     <hr />
                                     <d className="item-effect-shell">
                                         - Damage in Raids is increased by 5%.
-                                        <br/>
+                                        <br />
                                         - Movement speed is increased by 1.
-                                        <br/>
+                                        <br />
                                         - The equipped fairy's element increases by 10.
                                     </d>
                                     <br /><br />
@@ -1249,7 +1249,7 @@ export default function Costiumes() {
                                     <hr />
                                     <d className="item-effect-shell">
                                         - All defences are incresed by 2%.
-                                    <br />
+                                        <br />
                                         - Damage from critical hits is reduced by 10%.
                                     </d>
                                     <br /><br />
@@ -1456,6 +1456,58 @@ export default function Costiumes() {
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
                                         <i>Obtained: P8 Hardcore Rewards NPC</i>
                                     </div></div>
+                                </thead>
+                            </table>
+                        </div>
+                    </li>
+                    <li className="pc">
+                        <div className='mt-5 bordero'>
+                            <table className="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Knight Costume Set</th>
+                                        <th scope="col"><img src="asset/shop/KnightCostume.png" alt="" /></th>
+                                    </tr>
+                                    <br />
+                                    Hat:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All attacks are increased by 6%.
+                                        <br />
+                                        - Hit rate of all attacks is increased by 100.
+                                        <br />
+                                        - Chance of inflicting critical hits is increased by 3%.
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Costume:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All attacks are increased by 8%.
+                                        <br />
+                                        - Movement speed is increased by 1.
+                                        <br />
+                                        - Up to level 4 there is a 8% chance of never getting a bad effect.
+                                    </d>
+                                    <br />
+                                    <br />
+                                    Wings:
+                                    <hr />
+                                    <d className="item-effect-shell">
+                                        - All attacks are increased by 85
+                                        <br />
+                                        - Maximum HP is increased by 2000.
+                                        <br />
+                                        - There is a 4% chance of causing '' Last Hope  '' on attack.
+                                    </d>
+                                    <hr />
+                                    <d className="text-success">
+                                        Last Hope Buff:
+                                        <br />
+                                        - Even if all HP are used 1 HP will remain.
+                                        <br />
+                                        - All animalus under level 99 are increased by 20%.
+                                    </d>
                                 </thead>
                             </table>
                         </div>
