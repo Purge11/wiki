@@ -6,6 +6,8 @@ export default function Fish() {
             <div className=''>
                 <div className="">
                     <div className=" ">
+                    <h1 className="nosvoid-color d-flex justify-content-center">Fish Guide:</h1>
+                <br />
                         <div className="d-flex justify-content-center ">
                             Hey, to start your fishing adventure you have to go to the fish area portal located
                             on the nosville map
