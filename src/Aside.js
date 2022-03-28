@@ -60,6 +60,7 @@ import Costiumes from './pages/Costiumes';
 import ContentCreator from './pages/ContentCreator';
 import p8 from './pages/p8';
 import SpUpgrade from './pages/SpUpgrade';
+import FishPrices from './pages/FishPrices';
 import marathon from './pages/marathon';
 import Exp from './pages/Exp';
 import DB from './pages/DB';
@@ -214,7 +215,7 @@ const Aside = ({ setLocale }) => {
             </SubMenu>
 
             <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-              suffix={<span className="badge yellow">33</span>}>
+              suffix={<span className="badge yellow">34</span>}>
               <MenuItem><a href='accesory'>{intl.formatMessage({ id: 'Accesory' })} </a></MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
               <MenuItem><a href='badge'>{intl.formatMessage({ id: 'Badge' })} </a></MenuItem>
@@ -227,6 +228,7 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='faires'>{intl.formatMessage({ id: 'Faires' })}</a> </MenuItem>
               <MenuItem ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
               <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
+              <MenuItem><a href='fishprices'>{intl.formatMessage({ id: 'Fish Prices' })} </a> </MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem> 
               <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
               <MenuItem><a href='perfection'>{intl.formatMessage({ id: 'Perfection' })}</a>  </MenuItem>
@@ -358,6 +360,7 @@ const Aside = ({ setLocale }) => {
           <Route path='/costumes' component={Costiumes} />
           <Route path='/p8' component={p8} />
           <Route path='/spupgrade' component={SpUpgrade}/>
+          <Route path='/fishprices' component={FishPrices}/>
           <Route path='/marathon' component={marathon} />
           <Route path='/contentcreator' component={ContentCreator} />
           <Route path='/exp' component={Exp} />
