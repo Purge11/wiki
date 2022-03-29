@@ -9,7 +9,7 @@ export default function Rep() {
                     <hr />
                     <p>
 
-                        <d className="pcc">
+                        <d className="pcc"> 
                             <b> Frankestein Partner Card </b>
                         </d>
                         (Halloween Event & Void Mall.) Increases fame received by 10%.
@@ -45,6 +45,13 @@ export default function Rep() {
                             <b> Shadow Spider </b>
                         </d>
                         (Evolution Event) Increases fame received by 10%.
+                        <br />
+                        <hr />
+
+                        <d className="pcc">
+                            <b> Koala Pet </b>
+                        </d>
+                        (Void Wheel) Increases fame received by 15%.
                         <br />
                         <hr />
 

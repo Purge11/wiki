@@ -9,7 +9,7 @@ export default function Gold() {
                     <hr />
                     <p>
 
-                        <d className="gcc">
+                        <d className="gcc"> 
                             <b> Mother Nature's Tree Rune (Green) </b>
                         </d>
                         40% Gold increase (to craft $Warp P5, with fernon egg and you can get 1x fernon egg when you done with fernon raid)
@@ -118,6 +118,13 @@ export default function Gold() {
                             <b> Shadow King's Mask </b>
                         </d>
                         7% Gold (Fortune Wheel Reward)
+                        <br />
+                        <hr />
+
+                        <d className="gcc">
+                            <b> Koala Pet </b>
+                        </d>
+                        15% Gold (Fortune Wheel Reward)
                         <br />
                         <hr />
 
