@@ -86,7 +86,7 @@ export default function DB() {
                         <d className="mcc">
                             <b> Koala Pet </b>
                         </d>
-                        (Xmas event) 
+                        (Fortune Wheel Reward) 
                         <br />When raid is finished, there's a 5% chance that box drops second time.
                         <br />When you finish Act4 and Caligor Raid you have 10% chance to get additional box.
                         <br />
