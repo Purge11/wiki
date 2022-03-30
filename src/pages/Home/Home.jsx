@@ -12,7 +12,7 @@ export default function Home() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 60,
-      strings: ["Accesory", "Act4", "Badge", "Books", "Boxes", "C50", "C55", "Equipment", "Faires", "Fishing", "Perdections", "Prestige", "Resistances",
+      strings: ["Accesory", "Act4", "Badge", "Books", "Boxes", "C50", "C55", "Equipment", "Fairies", "Fishing", "Perfections", "Prestige", "Resistances",
         "Runes", "Shells", "Sps", "Tattos", "Wings", "Pets", "Psps", "Titles", "Raids", "Costumes"],
     });
   }, []);
