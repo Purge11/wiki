@@ -189,7 +189,7 @@ const Aside = ({ setLocale }) => {
             >
               
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
-  
+              <MenuItem ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
 
             </SubMenu>
             <SubMenu
