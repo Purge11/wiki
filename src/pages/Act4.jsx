@@ -713,7 +713,6 @@ export default function Act4() {
                                             <p>Shell levels 98 to 102</p>
                                             <p>Fairy Powder x1</p>
                                             <p>Essence of Fire x1</p>
-                                            <p>Dragon Gem x1</p>
                                             <p>Dragon Scrolls Upgrade x20</p>
 
                                         </div>
@@ -754,7 +753,6 @@ export default function Act4() {
                                             <p>Shell levels 98 to 102</p>
                                             <p>Fairy Powder x1</p>
                                             <p>Essence of Light x1</p>
-                                            <p>Dragon Gem x1</p>
                                             <p>Dragon Scrolls Upgrade x20</p>
 
                                         </div>
@@ -795,7 +793,6 @@ export default function Act4() {
                                             <p>Shell levels 98 to 102</p>
                                             <p>Fairy Powder x1</p>
                                             <p>Essence of Shadow x1</p>
-                                            <p>Dragon Gem x1</p>
                                             <p>Dragon Scrolls Upgrade x20</p>
 
                                         </div>
@@ -836,7 +833,6 @@ export default function Act4() {
                                             <p>Shell levels 98 to 102</p>
                                             <p>Fairy Powder x1</p>
                                             <p>Essence of Water x1</p>
-                                            <p>Dragon Gem x1</p>
                                             <p>Dragon Scrolls Upgrade x20</p>
 
                                         </div>
