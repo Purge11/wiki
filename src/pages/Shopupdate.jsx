@@ -102,7 +102,7 @@ export default function Shopupdate() {
                                 Costume:
                                 <hr />
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 8%.
+                                    - All defence are increased by 8%.
                                     <br />
                                     - Movement speed is increased by 1.
                                     <br />
