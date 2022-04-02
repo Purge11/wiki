@@ -166,9 +166,7 @@ export default function Shopupdate() {
                                 <d className="text-success">
                                     Last Hope Buff:
                                     <br />
-                                    - Even if all HP are used 1 HP will remain.
-                                    <br />
-                                    - All animalus under level 99 are increased by 20%.
+                                    - Up to level 5 there is a 25% chance of never getting a bad effect.
                                 </d>
                             </thead>
                         </table>
