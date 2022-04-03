@@ -95,9 +95,11 @@ export default function Shopupdate() {
                                     <th scope="col"><img src="asset/shop/tittle.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 10%.
+                                    - All attacks are increased by 5%.
                                     <br />
-                                    - All defences are increased by 10%.
+                                    - All defences are increased by 5%.
+<br />
+                                    - Your specialist's overall skill points are increased by 4.
                                 </d>
                             </thead>
                         </table>
@@ -158,7 +160,7 @@ export default function Shopupdate() {
                                 <d className="item-effect-shell">
                                     - All attacks are increased by 85
                                     <br />
-                                    - Maximum HP is increased by 2000.
+                                    - Your specialist's overall skill points are increased by 3.
                                     <br />
                                     - There is a 4% chance of causing '' Last Hope  '' on attack.
                                 </d>
