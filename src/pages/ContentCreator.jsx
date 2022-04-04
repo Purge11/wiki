@@ -219,7 +219,7 @@ export default function ContentCreator() {
                         - Monthly coin prizes for Bronze, Silver, Gold, Platinum, Diamond and Master Content
                         Creators.<br />
                         <i className='text-danger'>&nbsp;&nbsp;If you dont have 5 videos/month, your coins will be calculated with the following formula:</i>
-                        <i className='text-danger'>&nbsp;&nbsp;Rank x Coins x (videos / 5) --[Gold CC and 2 videos/month]-> Gold * Coins x (2 / 5)</i>
+                        <i className='text-danger'>&nbsp;&nbsp;Rank x Coins x (videos / 5) —[Gold CC and 2 videos/month]→ Gold x Coins x (2 / 5)</i>
                         - Coin giveaways between Bronze, Silver, Gold, Platinum, Diamond and Master Creators
                         every 4 week.<br />
                         - Monthly real money giveaways for Platinum - Master Content Creators.
