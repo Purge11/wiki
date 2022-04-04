@@ -218,6 +218,8 @@ export default function ContentCreator() {
                         to their names in-game.<br />
                         - Monthly coin prizes for Bronze, Silver, Gold, Platinum, Diamond and Master Content
                         Creators.<br />
+                        <i className='text-danger'>&nbsp;&nbsp;If you dont have 5 videos/month, your coins will be calculated with the following formula:</i>
+                        <i className='text-danger'>&nbsp;&nbsp;Rank x Coins x (videos / 5) —[Gold CC and 2 videos/month]→ Gold x Coins x (2 / 5)</i>
                         - Coin giveaways between Bronze, Silver, Gold, Platinum, Diamond and Master Creators
                         every 4 week.<br />
                         - Monthly real money giveaways for Platinum - Master Content Creators.
@@ -234,7 +236,7 @@ export default function ContentCreator() {
                         <d className="youtube-color">
                             <b>Rules</b>
                         </d>
-                        - The Content Creators have to do at least 1 content every week.<br />
+                        - The Content Creators have to do at least 5 videos every month.<br />
                         - The rules from NosVoid should be applied on their contents.<br />
                         - If the Content Creator will be doing contents for any else server, it
                         shouldn't be related with NosVoid Community.<br />
