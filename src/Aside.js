@@ -72,15 +72,21 @@ import SellableItems from './pages/SellableItems';
 import ValentineEvent from './pages/ValentineEvent';
 import Damage from './pages/Damage';
 
+const getValue = (valueName, defaultValue=null) => {
+  return localStorage[valueName] ? localStorage[valueName] :  defaultValue
+}
 
+const saveValue = (valueName, newValue) => {
+  localStorage[valueName] = newValue;
+}
 
 
 const Aside = ({ setLocale }) => {
 
-  const [rtl, setRtl] = useState(false);
-  const [collapsed, setCollapsed] = useState(false);
-  const [image, setImage] = useState(true);
-  const [toggled, setToggled] = useState(false);
+  const [rtl, setRtl] = useState(getValue("rtl", "false") === "true");
+  const [collapsed, setCollapsed] = useState(getValue("collapsed", "false") === "true");
+  const [image, setImage] = useState(getValue("image", "true") === "true");
+  const [toggled, setToggled] = useState(getValue("toggled", "false") === "true");
 
 
 
@@ -91,13 +97,16 @@ const Aside = ({ setLocale }) => {
   const handleRtlChange = (checked) => {
     setRtl(checked);
     setLocale(checked ? 'ar' : 'en');
+    saveValue("rtl", String(checked))
   };
   const handleImageChange = (checked) => {
     setImage(checked);
+    saveValue("image", String(checked))
   };
 
   const handleToggleSidebar = (value) => {
     setToggled(value);
+    saveValue("toggled", String(value))
   };
 
   const intl = useIntl();
@@ -174,13 +183,13 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
             </SubMenu>
             <SubMenu
-              suffix={<span className="badge yellow">1</span>}
+              suffix={<span className="badge yellow">2</span>}
               title={intl.formatMessage({ id: 'Recommended' })}
               icon={<FaHeart />}
             >
               
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
-  
+              <MenuItem ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
 
             </SubMenu>
             <SubMenu

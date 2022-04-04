@@ -8,20 +8,45 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br />
                     <br />
-                    New Fortune Wheel update is alive. [26.03.2022]
+                    New Fortune Wheel update is alive. [03.04.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
                     <br />
                     <div className='mt-5'>
-                        <table className="table">
+                    <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Betting Costume</th>
-                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
+                                    <th scope="col"> Plague Doctor/Nurse Set</th>
+                                    <th scope="col"><img src="asset/shop/plague.webp" alt="" /></th>
                                 </tr>
+                                <br />
+                                Hat:
+                                <hr />
                                 <d className="item-effect-shell">
-                                    - There's 10% more of getting rarity 7-8 while betting.
+                                - All attacks are increased by 4%.
+                                    <br />
+                                    - Hit rate of all attacks is increased by 100. 
+                                   
+                                </d>
+                                <br />
+                                <br />
+                                Costume:
+                                <hr />
+                                <d className="item-effect-shell">
+                                - All defences are increased by 4%
+                                    <br />
+                                    - There is a 3% chance of causing Vaccine.
+                             
+                                </d>
+                               
+                                <hr />
+                                <d className="text-success">
+                                Vaccine Buff:
+                                    <br />
+                                    - Up to 4 level there is a 100% chance of never getting a bad effect.
+                                    <br />
+                                    - Every 2 seconds: Restores 0(Player Level*10) HP.
                                 </d>
                             </thead>
                         </table>
@@ -31,15 +56,33 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Ceremonial Helmet</th>
-                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt="" /></th>
+                                    <th scope="col">Shadow King's Helmet</th>
+                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Up to 4 level there is a 15% chance of never getting a bad effect.
+                                Damage in Raids is increased by 8%.
                                     <br />
-                                    - Increases PvP attack power by 10%.
+                                    All elemental resistance is increased by 7.
                                     <br />
-                                    - Reduces damage received in PvP by 5%
+                                    The chance of receiving a critical hit is increased by 3%.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Shadow King's Mask</th>
+                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - Damage to all monsters is increased by 7%.
+                                    <br />
+                                    - Damage in Raids is increased by 10%.
+                                    <br />
+                                    - Increases Gold earned by 7%.
+                               
                                 </d>
                             </thead>
                         </table>
@@ -52,9 +95,11 @@ export default function Shopupdate() {
                                     <th scope="col"><img src="asset/shop/tittle.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 10%.
+                                    - All attacks are increased by 5%.
                                     <br />
-                                    - All defences are increased by 10%.
+                                    - All defences are increased by 5%.
+<br />
+                                    - Your specialist's overall skill points are increased by 4.
                                 </d>
                             </thead>
                         </table>
@@ -63,19 +108,19 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Koala Pet (New)</th>
-                                    <th scope="col"><img src="asset/shop/KoalaBuff.png" alt="" /></th>
+                                    <th scope="col">Mini Blue Amora Pet (New)</th>
+                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - When raid is finished, there's a 5% chance that box drops second time.
+                                - All attacks increased by 5%.
                                     <br />
-                                    - When you finish Act4 and Caligor Raid you have 10% chance to get additional box.
+                                    - All defences are increased by 6%.
                                     <br />
-                                    - Increases fame received by 15%.
+                                    - Movement speed is increased by 1.
                                     <br />
-                                    - Increased gold earned by 15%.
+                                    - With 5% chance: HP is increased by 5% of damage given.
                                     <br />
-                                    - Damage in Raids is increased by 5%.
+                                    - With 5% chance: MP is increased by 5% of damage given.
                                 </d>
                             </thead>
                         </table>
@@ -102,7 +147,7 @@ export default function Shopupdate() {
                                 Costume:
                                 <hr />
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 8%.
+                                    - All defence are increased by 8%.
                                     <br />
                                     - Movement speed is increased by 1.
                                     <br />
@@ -115,7 +160,7 @@ export default function Shopupdate() {
                                 <d className="item-effect-shell">
                                     - All attacks are increased by 85
                                     <br />
-                                    - Maximum HP is increased by 2000.
+                                    - Your specialist's overall skill points are increased by 3.
                                     <br />
                                     - There is a 4% chance of causing '' Last Hope  '' on attack.
                                 </d>
@@ -123,9 +168,7 @@ export default function Shopupdate() {
                                 <d className="text-success">
                                     Last Hope Buff:
                                     <br />
-                                    - Even if all HP are used 1 HP will remain.
-                                    <br />
-                                    - All animalus under level 99 are increased by 20%.
+                                    - Up to level 5 there is a 25% chance of never getting a bad effect.
                                 </d>
                             </thead>
                         </table>
@@ -134,40 +177,21 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Barni (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
+                                    <th scope="col">Hongbi PSP (S buff) </th>
+                                    <th scope="col"><img src="asset/shop/hongbi.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Ranged attacks are increased by 12%.
+                                - All defences are increased by 10%.
                                     <br />
-                                    - Increases damage from critical hits by 15%.
-                                    <br />
-                                    - Dodge is increased by 80.
-                                    <br />
-                                    - Increases damage in Christmas Raid by 5%.
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Venus (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/venus.png" alt="" /></th>
-                                </tr>
-                                <d className="item-effect-shell">
-                                    - When raid is finished, there's a 5% chance that box drops second time.
-                                    <br />
-                                    - Damage in Raids is increased by 10%.
-                                    <br />
-                                    - Increases champion experience received by 15%.
+                                    - Up to level 4 there is a 12% chance of never getting a bad effect.
                                     <br />
                                     - Movement speed is increased by 1.
+                                   
                                 </d>
                             </thead>
                         </table>
                     </div>
+                   
 
                 </div>
             </div>

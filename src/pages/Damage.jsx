@@ -24,7 +24,7 @@ export default function Damage() {
                         <br />
                         <hr />
 
-                        <d className="bcc">
+                        <d className="bcc"> 
                             <b> Eliza PSP (S Buff) </b>
                         </d>
                         (Craft Stuff NPC, $warp p8.)  Damage in Raids is increased by 10%.
@@ -107,6 +107,13 @@ export default function Damage() {
                             <b> Ice Witch Costume Wings </b>
                         </d>
                         (Craft Stuff NPC, Act4.) Damage in Raids is increased by 5%.
+                        <br />
+                        <hr />
+
+                        <d className="bcc">
+                            <b> Koala Pet </b>
+                        </d>
+                        (Void Wheel) Damage in Raids is increased by 5%.
                         <br />
                         <hr />
 
