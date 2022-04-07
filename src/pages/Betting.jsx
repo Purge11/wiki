@@ -5,57 +5,63 @@ export default function Betting() {
         <div className='resistance'> 
             <div className="container ">
                 <div className="row mt-5 ">
-                    <h3 className='nosvoid-color'>Reputation Stuff Guide</h3>
+                    <h3 className='nosvoid-color'>Betting Stuff Guide</h3>
                     <hr />
                     <p>
 
-                        <d className="pcc"> 
-                            <b> Frankestein Partner Card </b>
+                        <d className="bcc"> 
+                            <b> Sexy Bunny Costume </b>
                         </d>
-                        (Halloween Event & Void Mall.) Increases fame received by 10%.
+                        (Craft Costume A4) There's 3% more of getting rarity 7-8 while betting.
                         <br />
                         <hr />
 
 
-                        <d className="pcc">
-                            <b> Shadow Hamster Pet </b>
+                        <d className="bcc">
+                            <b> Koran Cat Costume </b>
                         </d>
-                        (Evolution Event & Void Mall.) Increases fame received by 15%.
+                        (Craft Costume A4) There's 3% more of getting rarity 7-8 while betting.
                         <br />
                         <hr />
 
 
-                        <d className="pcc">
-                            <b> Shadow Vampie </b>
+                        <d className="bcc">
+                            <b> Police Costume </b>
                         </d>
-                        (Evolution Event) Increases fame received by 10%.
+                        (10-50Lv Fish Craft NPC and RBB Exchange) There's 4% more of getting rarity 7-8 while betting.
                         <br />
                         <hr />
 
 
-                        <d className="pcc">
-                            <b> Shadow Darkfrost </b>
+                        <d className="bcc">
+                            <b> Betting Costume </b>
                         </d>
-                        (Evolution Event) Increases fame received by 10%.
+                        (Fortune Wheel) There's 10% more of getting rarity 7-8 while betting.
+                        <br />
+                        <hr />
+
+                        <d className="bcc">
+                            <b> Betting Necklace </b>
+                        </d>
+                        (Fortune Wheel) There's 7% more of getting rarity 7-8 while betting.
                         <br />
                         <hr />
 
 
-                        <d className="pcc">
-                            <b> Shadow Spider </b>
+                        <d className="bcc">
+                            <b> Namaju's Blessing </b>
                         </d>
-                        (Evolution Event) Increases fame received by 10%.
-                        <br />
-                        <hr />
-
-                        <d className="pcc">
-                            <b> Koala Pet </b>
-                        </d>
-                        (Void Wheel) Increases fame received by 15%.
+                        (Evolution Event) There's 4% more of getting rarity 7-8 while betting.
                         <br />
                         <hr />
 
 
+                        <d className="bcc">
+                            <b> Shadow Namaju's Blessing </b>
+                        </d>
+                        (Evolution Event) There's 7% more of getting rarity 7-8 while betting.
+                        <br />
+                        <hr />
                     </p>
                 </div>
             </div>
