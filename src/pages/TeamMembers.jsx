@@ -116,13 +116,6 @@ export default function TeamMembers() {
 
                             </tr>
                             <tr className='game-master-color'>
-                                <th scope="row">MMAA</th>
-                                <td>ITA/ENG</td>
-                                <td>Game Master</td>
-                                <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
-
-                            </tr>
-                            <tr className='game-master-color'>
                                 <th scope="row">Cara</th>
                                 <td>DE/ENG</td>
                                 <td>Game Master</td>

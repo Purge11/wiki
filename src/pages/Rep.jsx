@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Rep() {
     return (
-        <div className='resistance'>
+        <div className='resistance'> 
             <div className="container ">
                 <div className="row mt-5 ">
                     <h3 className='nosvoid-color'>Reputation Stuff Guide</h3>

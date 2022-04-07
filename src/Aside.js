@@ -59,6 +59,8 @@ import Wheel from './pages/Wheel';
 import Costiumes from './pages/Costiumes';
 import ContentCreator from './pages/ContentCreator';
 import p8 from './pages/p8';
+import Buff from './pages/BuffNPC';
+import Betting from './pages/Betting';
 import SpUpgrade from './pages/SpUpgrade';
 import FishPrices from './pages/FishPrices';
 import marathon from './pages/marathon';
@@ -212,10 +214,11 @@ const Aside = ({ setLocale }) => {
               */}
             </SubMenu>
             <SubMenu
-              suffix={<span className="badge red">5</span>}
+              suffix={<span className="badge red">6</span>}
               title={intl.formatMessage({ id: 'Useful guides' })}
               icon={<FaHotjar />}
             >
+              <MenuItem><a href='betting'>{intl.formatMessage({ id: 'Betting' })} </a></MenuItem>
               <MenuItem><a href='damage'>{intl.formatMessage({ id: 'Damage' })} </a></MenuItem>
               <MenuItem><a href='doublebox'>{intl.formatMessage({ id: 'Double box' })} </a></MenuItem>
               <MenuItem> <a href='exp'>{intl.formatMessage({ id: 'Exp' })} </a></MenuItem>
@@ -224,12 +227,13 @@ const Aside = ({ setLocale }) => {
             </SubMenu>
 
             <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-              suffix={<span className="badge yellow">34</span>}>
+              suffix={<span className="badge yellow">35</span>}>
               <MenuItem><a href='accesory'>{intl.formatMessage({ id: 'Accesory' })} </a></MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
               <MenuItem><a href='badge'>{intl.formatMessage({ id: 'Badge' })} </a></MenuItem>
               <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
               <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
+              <MenuItem><a href='buffnpc'>{intl.formatMessage({ id: 'Buff NPC' })} </a></MenuItem>
               <MenuItem><a href='c55'>{intl.formatMessage({ id: 'C55' })}  </a></MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='costumes'>{intl.formatMessage({ id: 'Costumes' })} </a></MenuItem>
               <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
@@ -368,6 +372,8 @@ const Aside = ({ setLocale }) => {
           <Route path='/raids' component={Raids} />
           <Route path='/costumes' component={Costiumes} />
           <Route path='/p8' component={p8} />
+          <Route path='/buffnpc' component={Buff} />
+          <Route path='/betting' component={Betting} />
           <Route path='/spupgrade' component={SpUpgrade}/>
           <Route path='/fishprices' component={FishPrices}/>
           <Route path='/marathon' component={marathon} />

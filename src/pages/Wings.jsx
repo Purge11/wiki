@@ -396,7 +396,7 @@ export default function Wings() {
             </div>
 
             <div className="mt-3">
-                <div className="card-group   ">
+                <div className="card-group">
                     <div className="card">
                         <div className="flip-card-inner2 ">
                             <div className="flip-card-front">

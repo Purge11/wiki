@@ -58,7 +58,7 @@ export default function psp() {
                     <div className="card">
                         <div className="flip-card-inner-psp">
                             <div className="flip-card-front">
-                                <img src="asset/psp/freya.png" className="card-img-top mx-auto pt-5 " alt="..." />
+                                <img src="asset/psp/FreyaRWK.png" className="card-img-top mx-auto pt-5 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Freya Partner Card</h5>
                                     <p className="card-text ">

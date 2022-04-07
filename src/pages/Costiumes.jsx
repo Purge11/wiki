@@ -561,30 +561,20 @@ export default function Costiumes() {
                                     Hat:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - Damage to all monsters are increased by 5%.
+                                        - All attacks are increased by 2%.
+                                        <br />
+                                        - Hit rate of all attacks is increased by 85.
                                     </d>
                                     <br />
                                     <br />
                                     Costume:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - All defences are increased by 1%.
-                                    </d>
-                                    <br />
-                                    <d className="item-effect-shell">
-                                        - Damage to all monsters are increased by 5%.
-                                    </d>
-                                    <br />
-                                    <d className="item-effect-shell">
-                                        - Maximum HP is increased by 5000.
-                                    </d>
-                                    <br />
-                                    <d className="item-effect-shell">
-                                        - Dodge is increased by 40.
+                                        - There's 4% more of getting rarity 7-8 while betting.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
-                                        <i>Obtained: 10-50Lv Fish Craft NPC</i>
+                                        <i>Obtained: 10-50Lv Fish Craft NPC and RBB Exchange</i>
                                     </div></div>
                                 </thead>
                             </table>

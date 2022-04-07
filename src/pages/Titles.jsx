@@ -6,8 +6,8 @@ export default function Titles() {
             <div className="">
                 <div className="card-group   ">
                     <div className="card">
-                        <div className="flip-card-inner2 mt-5">
-                            <div className="flip-card-front">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
                                 <img src="asset/title/1.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Christmas</h5>
@@ -27,8 +27,8 @@ export default function Titles() {
 
                     </div>
                     <div className="card">
-                        <div className="flip-card-inner2 mt-5">
-                            <div className="flip-card-front">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
                                 <img src="asset/title/2.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Sugar Mommy </h5>
@@ -48,8 +48,8 @@ export default function Titles() {
 
                     </div>
                     <div className="card">
-                        <div className="flip-card-inner2 mt-5">
-                            <div className="flip-card-front">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
                                 <img src="asset/title/3.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Santa Claus</h5>
@@ -77,8 +77,8 @@ export default function Titles() {
             <div className="">
                 <div className="card-group mt-5">
                     <div className="card">
-                        <div className="flip-card-inner2 mt-5">
-                            <div className="flip-card-front">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
                                 <img src="asset/title/4.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">King of Fernon</h5>
@@ -98,8 +98,8 @@ export default function Titles() {
 
                     </div>
                     <div className="card">
-                        <div className="flip-card-inner2 mt-5">
-                            <div className="flip-card-front">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
                                 <img src="asset/title/5.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Frozen Hero</h5>
@@ -119,8 +119,8 @@ export default function Titles() {
 
                     </div>
                     <div className="card">
-                        <div className="flip-card-inner2 mt-5">
-                            <div className="flip-card-front">
+                        <div className="flip-card-inner2">
+                            <div className="flip-card-front mt-5">
                                 <img src="asset/title/6.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Peace Maker</h5>
@@ -144,8 +144,8 @@ export default function Titles() {
                 <div className="">
                     <div className="card-group mt-5">
                         <div className="card">
-                            <div className="flip-card-inner2 mt-5">
-                                <div className="flip-card-front">
+                            <div className="flip-card-inner2">
+                                <div className="flip-card-front mt-5">
                                     <img src="asset/title/7.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Rainbow Master</h5>
@@ -165,8 +165,8 @@ export default function Titles() {
 
                         </div>
                         <div className="card">
-                            <div className="flip-card-inner2 mt-5">
-                                <div className="flip-card-front">
+                            <div className="flip-card-inner2">
+                                <div className="flip-card-front mt-5">
                                     <img src="asset/title/8.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">King of Void</h5>
@@ -186,8 +186,8 @@ export default function Titles() {
 
                         </div>
                         <div className="card">
-                            <div className="flip-card-inner2 mt-5">
-                                <div className="flip-card-front">
+                            <div className="flip-card-inner2">
+                                <div className="flip-card-front mt-5">
                                     <img src="asset/title/9.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title nosvoid-color ">Master of Specialists</h5>
@@ -210,8 +210,8 @@ export default function Titles() {
                     <div className="">
                         <div className="card-group mt-5">
                             <div className="card">
-                                <div className="flip-card-inner2 mt-5">
-                                    <div className="flip-card-front">
+                                <div className="flip-card-inner2">
+                                    <div className="flip-card-front mt-5">
                                         <img src="asset/title/10.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Celestial Spire Guard</h5>
@@ -231,8 +231,8 @@ export default function Titles() {
 
                             </div>
                             <div className="card">
-                                <div className="flip-card-inner2 mt-5">
-                                    <div className="flip-card-front">
+                                <div className="flip-card-inner2">
+                                    <div className="flip-card-front mt-5">
                                         <img src="asset/title/11.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Simp</h5>
@@ -252,8 +252,8 @@ export default function Titles() {
 
                             </div>
                             <div className="card">
-                                <div className="flip-card-inner2 mt-5">
-                                    <div className="flip-card-front">
+                                <div className="flip-card-inner2">
+                                    <div className="flip-card-front mt-5">
                                         <img src="asset/title/12.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Bomb Runner</h5>
@@ -278,8 +278,8 @@ export default function Titles() {
                     <div className="">
                         <div className="card-group mt-5">
                             <div className="card">
-                                <div className="flip-card-inner2 mt-5">
-                                    <div className="flip-card-front">
+                                <div className="flip-card-inner2">
+                                    <div className="flip-card-front mt-5">
                                         <img src="asset/title/13.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Void Helper</h5>
@@ -299,8 +299,8 @@ export default function Titles() {
 
                             </div>
                             <div className="card">
-                                <div className="flip-card-inner2 mt-5">
-                                    <div className="flip-card-front">
+                                <div className="flip-card-inner2">
+                                    <div className="flip-card-front mt-5">
                                         <img src="asset/title/14.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">Pirate</h5>
@@ -321,8 +321,8 @@ export default function Titles() {
 
                             </div>
                             <div className="card">
-                                <div className="flip-card-inner2 mt-5">
-                                    <div className="flip-card-front">
+                                <div className="flip-card-inner2">
+                                    <div className="flip-card-front mt-5">
                                         <img src="asset/title/15.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                         <div className="card-body ">
                                             <h5 className="card-title nosvoid-color ">King of Raids</h5>
@@ -346,8 +346,8 @@ export default function Titles() {
                         <div className="">
                             <div className="card-group mt-5">
                                 <div className="card">
-                                    <div className="flip-card-inner2 mt-5">
-                                        <div className="flip-card-front">
+                                    <div className="flip-card-inner2">
+                                        <div className="flip-card-front mt-5">
                                             <img src="asset/title/15_5.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <div className="card-body ">
                                                 <h5 className="card-title nosvoid-color ">Queen of Raids</h5>
@@ -368,8 +368,8 @@ export default function Titles() {
                                 </div>
 
                                 <div className="card">
-                                    <div className="flip-card-inner2 mt-5">
-                                        <div className="flip-card-front">
+                                    <div className="flip-card-inner2">
+                                        <div className="flip-card-front mt-5">
                                             <img src="asset/title/16.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <div className="card-body ">
                                                 <h5 className="card-title nosvoid-color ">Fishing Student</h5>
@@ -389,8 +389,8 @@ export default function Titles() {
 
                                 </div>
                                 <div className="card">
-                                    <div className="flip-card-inner2 mt-5">
-                                        <div className="flip-card-front">
+                                    <div className="flip-card-inner2">
+                                        <div className="flip-card-front mt-5">
                                             <img src="asset/title/17.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                             <div className="card-body ">
                                                 <h5 className="card-title nosvoid-color ">God of Cylloan</h5>
@@ -415,8 +415,8 @@ export default function Titles() {
                             <div className="">
                                 <div className="card-group mt-5">
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/18.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Unicorn</h5>
@@ -436,8 +436,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/19.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Beta Tester</h5>
@@ -457,8 +457,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/20.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">King of Zenas</h5>
@@ -482,8 +482,8 @@ export default function Titles() {
                             <div className="">
                                 <div className="card-group mt-5">
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/21.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">NosVoid Support Team</h5>
@@ -503,8 +503,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/22.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">King of Erenia</h5>
@@ -524,8 +524,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/23.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Rum Drinker</h5>
@@ -550,8 +550,8 @@ export default function Titles() {
                             <div className="">
                                 <div className="card-group mt-5">
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/24.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Raid Destroyer</h5>
@@ -571,8 +571,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/25.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Annihilator</h5>
@@ -592,8 +592,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/26.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Lucky Angler</h5>
@@ -617,8 +617,8 @@ export default function Titles() {
                             <div className="">
                                 <div className="card-group mt-5">
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/27.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Real Hero</h5>
@@ -638,8 +638,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/28.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Phantom</h5>
@@ -659,8 +659,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/29.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Lucky Hunter</h5>
@@ -689,8 +689,8 @@ export default function Titles() {
                             <div className="">
                                 <div className="card-group mt-5">
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/30.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Fish Merchant</h5>
@@ -711,8 +711,8 @@ export default function Titles() {
                                     </div>
 
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/tsmaster.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Timespace Master</h5>
@@ -731,17 +731,13 @@ export default function Titles() {
                                         </div>
 
                                     </div>
-                                    
-                                </div>
-                            </div>
-                            <div className="">
-                                <div className="card-group mt-5">
+
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/32.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
-                                                    <h5 className="card-title nosvoid-color ">Git Gud title</h5>
+                                                    <h5 className="card-title nosvoid-color ">Git Gud</h5>
                                                     <p className="card-text ">
                                                         <h5>Obtainable from Achievement Rewards (500 Kills)</h5>
 
@@ -757,9 +753,15 @@ export default function Titles() {
                                         </div>
 
                                     </div>
+                                    
+                                </div>
+                            </div>
+                            <div className="">
+                                <div className="card-group mt-5">
+                                    
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/31.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">The Army Destroyer</h5>
@@ -779,8 +781,29 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
+                                                <img src="asset/title/LoseControl.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">Lose Control</h5>
+                                                    <p className="card-text ">
+                                                        <h5>Obtainable from Achievement Rewards (3000 Kills). </h5>
+
+
+                                                    </p>
+                                                </div>
+
+
+
+                                            </div>
+
+
+                                        </div>
+
+                                    </div>
+                                    <div className="card">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/33.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Demigod Title</h5>
@@ -807,8 +830,8 @@ export default function Titles() {
                             <div className="">
                                 <div className="card-group mt-5">
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/34.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">The Power of a God</h5>
@@ -828,8 +851,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/35.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">God of War</h5>
@@ -849,8 +872,8 @@ export default function Titles() {
 
                                     </div>
                                     <div className="card">
-                                        <div className="flip-card-inner2 mt-5">
-                                            <div className="flip-card-front">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
                                                 <img src="asset/title/36.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">I'm a Killer!</h5>
