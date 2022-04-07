@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Rep() {
+export default function Betting() {
     return (
         <div className='resistance'> 
             <div className="container ">
