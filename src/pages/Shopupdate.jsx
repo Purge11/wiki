@@ -8,85 +8,12 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br />
                     <br />
-                    New Fortune Wheel update is alive. [03.04.2022]
+                    New Fortune Wheel update is alive. [12.04.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
                     <br />
-                    <div className='mt-5'>
-                    <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col"> Plague Doctor/Nurse Set</th>
-                                    <th scope="col"><img src="asset/shop/plague.webp" alt="" /></th>
-                                </tr>
-                                <br />
-                                Hat:
-                                <hr />
-                                <d className="item-effect-shell">
-                                - All attacks are increased by 4%.
-                                    <br />
-                                    - Hit rate of all attacks is increased by 100. 
-                                   
-                                </d>
-                                <br />
-                                <br />
-                                Costume:
-                                <hr />
-                                <d className="item-effect-shell">
-                                - All defences are increased by 4%
-                                    <br />
-                                    - There is a 3% chance of causing Vaccine.
-                             
-                                </d>
-                               
-                                <hr />
-                                <d className="text-success">
-                                Vaccine Buff:
-                                    <br />
-                                    - Up to 4 level there is a 100% chance of never getting a bad effect.
-                                    <br />
-                                    - Every 2 seconds: Restores 0(Player Level*10) HP.
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
 
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Shadow King's Helmet</th>
-                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
-                                </tr>
-                                <d className="item-effect-shell">
-                                Damage in Raids is increased by 8%.
-                                    <br />
-                                    All elemental resistance is increased by 7.
-                                    <br />
-                                    The chance of receiving a critical hit is increased by 3%.
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Shadow King's Mask</th>
-                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
-                                </tr>
-                                <d className="item-effect-shell">
-                                    - Damage to all monsters is increased by 7%.
-                                    <br />
-                                    - Damage in Raids is increased by 10%.
-                                    <br />
-                                    - Increases Gold earned by 7%.
-                               
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
                     <div className='mt-5'>
                         <table className="table">
                             <thead>
@@ -98,7 +25,7 @@ export default function Shopupdate() {
                                     - All attacks are increased by 5%.
                                     <br />
                                     - All defences are increased by 5%.
-<br />
+                                    <br />
                                     - Your specialist's overall skill points are increased by 4.
                                 </d>
                             </thead>
@@ -108,19 +35,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Mini Blue Amora Pet (New)</th>
-                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
+                                    <th scope="col">Ceremonial Helmet</th>
+                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - All attacks increased by 5%.
+                                    - Up to 4 level there is a 15% chance of never getting a bad effect.
                                     <br />
-                                    - All defences are increased by 6%.
+                                    - Increases PvP attack power by 10%.
                                     <br />
-                                    - Movement speed is increased by 1.
-                                    <br />
-                                    - With 5% chance: HP is increased by 5% of damage given.
-                                    <br />
-                                    - With 5% chance: MP is increased by 5% of damage given.
+                                    - Reduces damage received in PvP by 5%.
                                 </d>
                             </thead>
                         </table>
@@ -173,25 +96,80 @@ export default function Shopupdate() {
                             </thead>
                         </table>
                     </div>
+
                     <div className='mt-5'>
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Hongbi PSP (S buff) </th>
-                                    <th scope="col"><img src="asset/shop/hongbi.png" alt="" /></th>
+                                    <th scope="col">
+                                        Betting Costume</th>
+                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - All defences are increased by 10%.
-                                    <br />
-                                    - Up to level 4 there is a 12% chance of never getting a bad effect.
-                                    <br />
-                                    - Movement speed is increased by 1.
-                                   
+                                    - There's 10% more of getting rarity 7-8 while betting.
                                 </d>
                             </thead>
                         </table>
                     </div>
-                   
+
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">
+                                        Betting Necklace</th>
+                                    <th scope="col"><img src="asset/shop/bettingneck.webp" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - There's 7% more of getting rarity 7-8 while betting.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Barni Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - Ranged attacks are increased by 8%.
+                                    <br />
+                                    - Increases damage from critical hits by 15%.
+                                    <br />
+                                    - Increases damage in Christmas Raid by 5%.
+                                    <br />
+                                    - There is a 1% chance of causing Paralysing Toxin.
+                                </d>
+                                <hr />
+                                <d className="text-danger">
+                                    Paralysing Toxin <i>(4 seconds)</i>:
+                                    <br />
+                                    - No attack possible
+                                    <br />
+                                    - Blackout occurs, in releasing at the probability of 40%
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Frankestein Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/frank.png" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - Increases fame received by 10.
+                                    <br />
+                                    - When you finish Act4 and Caligor Raid you have 5% chance to get additional box.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
 
                 </div>
             </div>
