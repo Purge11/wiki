@@ -135,21 +135,13 @@ export default function Shopupdate() {
                                     <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Ranged attacks are increased by 8%.
+                                    - Ranged attacks are increased by 12%.
                                     <br />
                                     - Increases damage from critical hits by 15%.
                                     <br />
+                                    - Dodge is increased by 80.
+                                    <br />
                                     - Increases damage in Christmas Raid by 5%.
-                                    <br />
-                                    - There is a 1% chance of causing Paralysing Toxin.
-                                </d>
-                                <hr />
-                                <d className="text-danger">
-                                    Paralysing Toxin <i>(4 seconds)</i>:
-                                    <br />
-                                    - No attack possible
-                                    <br />
-                                    - Blackout occurs, in releasing at the probability of 40%
                                 </d>
                             </thead>
                         </table>
