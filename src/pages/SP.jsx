@@ -57,7 +57,7 @@ export default function SP() {
                     <br />
                     <h3>Pajama SP</h3>
                     <br />
-                    - Not added to the game yet.
+                    - Christmas and Easter Event
                     <br />
                     <br />
                     <h3>Jajamaru SP</h3>
@@ -72,7 +72,7 @@ export default function SP() {
                     <br />
                     <h3>Chicken SP</h3>
                     <br />
-                    - You can get the chicken expert card from Act4.
+                    - Not yet added to the game.
                     <br />
                     <br />
                     <h3>Pirate SP</h3>
