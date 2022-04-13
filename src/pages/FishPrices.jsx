@@ -8,7 +8,7 @@ export default function FishPrices() {
                 <br />
                 <h5 className=' d-flex justify-content-center'>
                     With the&nbsp;<b className='nosvoid-color'>Fish Merchant</b>&nbsp;tittle, you will get 10% more gold.
-                </h5>
+                </h5> 
                 <br/>
 
                 <div className="card-group  justify-content-center">
