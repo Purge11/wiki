@@ -5,7 +5,9 @@ export default function EasterEvent() {
     return (
         <div className='easterevent'>
             <div className="container">
-                <h1 className="nosvoid-color d-flex justify-content-center">Easter Event Guide</h1>
+                <br/>      
+                <div className='d-flex justify-content-center img50'><img src="asset/EasterEvent/easterbannernew.jpg" alt="" /></div>
+                <br/>
                 <p className="d-flex justify-content-center">On the easter event you can do two raids:&nbsp;<b>Chicken Queen</b>&nbsp;and&nbsp;<b>Mad March Hare</b></p>
                 <br />
                 <h3><b>Chicken Queen Raid</b></h3>
@@ -53,7 +55,7 @@ export default function EasterEvent() {
                             x5 Red egg<br />
                             x5 Yellow egg<br />
                             x5 Green egg<br />
-                            x50 Angel’s feather<br />
+                            x50 Angel's feather<br />
                             x100 Full moon<br />
                             x10 Large Lump Gold<br />
                             x1 Special Easter Box<br />
@@ -79,9 +81,11 @@ export default function EasterEvent() {
                 <br /><br /><br />
 
                 <h1 className="nosvoid-color d-flex justify-content-center">Easter Event NPCs</h1>
+                <div className='d-flex justify-content-center img50'><img src="asset/EasterEvent/easterbanuwu.jpg" alt="" /></div>
+                <br/>
                 <p className="d-flex justify-content-center">There are two NPCs on this event&nbsp;<b>Easter Fairy</b>&nbsp;and&nbsp;<b>Mad March Hare NPC</b></p>
                 <br />
-                <h3><b>Easter Fairy</b>&nbsp;<i>for craftting and exchange</i></h3>
+                <h3><b>Easter Fairy</b>&nbsp;<i>for crafting and exchange</i></h3>
                 <img src="asset/EasterEvent/EasterFairy.png" alt="" />
                 <br />
                 <b>Exchange:</b><br />
@@ -320,6 +324,9 @@ export default function EasterEvent() {
                         </table>
                     </div>
                 </div>
+                <br/><br/>
+                <div className='d-flex justify-content-center '><img src="asset/EasterEvent/eastervoid.png" alt="" /></div>
+                <h1 className="d-flex justify-content-center">NosVoid Team</h1>
             </div>
         </div >
     )
