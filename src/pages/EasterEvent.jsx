@@ -81,7 +81,7 @@ export default function EasterEvent() {
                 <h1 className="nosvoid-color d-flex justify-content-center">Easter Event NPCs</h1>
                 <p className="d-flex justify-content-center">There are two NPCs on this event&nbsp;<b>Easter Fairy</b>&nbsp;and&nbsp;<b>Mad March Hare NPC</b></p>
                 <br />
-                <h3><b>Easter Fairy</b>&nbsp;<i>for crafting and exchange</i></h3>
+                <h3><b>Easter Fairy</b>&nbsp;<i>for craftting and exchange</i></h3>
                 <img src="asset/EasterEvent/EasterFairy.png" alt="" />
                 <br />
                 <b>Exchange:</b><br />
