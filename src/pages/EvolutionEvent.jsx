@@ -2,7 +2,7 @@ import React from 'react'
 import { Player } from 'video-react';
 
 export default function EvolutionEvent() {
-    return (
+    return ( 
         <div className='evolutionevent'>
             <div className="container">
                 <h1 className="nosvoid-color d-flex justify-content-center">Evolution Event Guide</h1>
