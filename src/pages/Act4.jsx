@@ -100,14 +100,12 @@ export default function Act4() {
 
                         * Winner Side Box (Winner team) may contain in better %:<br/>
                         - Costume Piece<br/>
-                        - Change SP Item<br/>
                         - Change Skin 2<br/>
                         - Rarify Item x2<br/>
                         - Cold Heart x1<br/>
                         <br/>
                         * Loser Side Box (Loser team) may contain in lower %:<br/>
                         - Costume Piece<br/>
-                        - Change SP Item<br/>
                         - Change Skin 2<br/>
                         - Rarify Item x2<br/>
                         - Cold Heart x1<br/>
