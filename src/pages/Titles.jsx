@@ -903,7 +903,7 @@ export default function Titles() {
                                     <div className="card">
                                         <div className="flip-card-inner2">
                                             <div className="flip-card-front mt-5">
-                                                <img src="asset/title/31.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <img src="asset/title/IntoTheVoid.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Into the void</h5>
                                                     <p className="card-text ">
