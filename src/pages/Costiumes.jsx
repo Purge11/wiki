@@ -896,7 +896,7 @@ export default function Costiumes() {
                                     Costume Wings:
                                     <hr />
                                     <d className="item-effect-shell">
-                                        - Maximum HP is increased by 2000.
+                                        - Overall SL increased by 3.
                                     </d>
                                     <br />
                                     <d className="item-effect-shell">
