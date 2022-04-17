@@ -257,9 +257,8 @@ export default function Act4() {
                                 </tr>
                                 <tr>
                                     <th scope="row">Change SP Item</th>
-                                    <td>2 Bloody-Red Ruby</td>
                                     <td >2 Frozen Spear</td>
-                                    <td>2 Fafnir Teeth</td>
+                                    <td>1 Fafnir Teeth</td>
                                     <td >2 Light Essence</td>
                                     <td>2 Water essence</td>
 
