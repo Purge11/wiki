@@ -121,7 +121,7 @@ export default function Pets() {
                                         <h5>All attacks are incrased by 2%</h5>
                                         <h5>All defences are incrased by 8%</h5>
                                         <h5>Change of inflicting critical hit is increased by 5%</h5>
-                                        <h5>Increases damage from critical hits by 15%.</h5>
+                                        <h5>Increases damage from critical hits by 15%.</h5> 
 
                                     </p>
                                     <small className="text-muted">1000 coins</small>
