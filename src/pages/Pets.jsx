@@ -270,10 +270,10 @@ export default function Pets() {
                                             <h5 className="card-title nosvoid-color ">Mini Belial</h5>
                                             <p className="card-text item-effect ">
                                                 <h5>All attacks are incrased by 10%</h5>
-                                                <h5>Your specialist's skill points are increased by 3</h5>
+                                                <h5>Maximum HP is increased by 3000.</h5>
                                                 <h5>Fire element is increased by 150</h5>
                                             </p>
-                                            <small className="text-muted">1000 coins or you can craft this on p8</small>
+                                            <small className="text-muted">450    coins or you can craft this on p8</small>
                                         </div>
                                     </div>
                                 </div>
