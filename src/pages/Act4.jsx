@@ -173,7 +173,7 @@ export default function Act4() {
                         - Leo pet 1500 kills achievement rewards<br/>
                         - Karate Costume Set 2000 kills achievement rewards<br/>
                         - Reset your Act4 Score item 2000 kills achievement rewards<br/>
-                        - Git Gud title 500 deaths achievement rewards<br/>
+                        - Git Gud title 1000 deaths achievement rewards<br/>
                         <img className="mt-3" src="asset/act4/2.png" alt=""/>
                         <br/>
                         <h5 className="nosvoid-color">
