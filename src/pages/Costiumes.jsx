@@ -2110,6 +2110,8 @@ export default function Costiumes() {
                                         - Damage in Raids is increased by 15%.
                                         <br />
                                         - Movement speed is increased by 1.
+                                        <br/>
+                                        - When raid is finished, there's a 2% chance that box drops second time.
                                     </d>
                                     <br /><br />
                                     <div className="d-flex p-0"><div className="alert alert-secondary" role="alert">
