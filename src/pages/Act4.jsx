@@ -100,14 +100,12 @@ export default function Act4() {
 
                         * Winner Side Box (Winner team) may contain in better %:<br/>
                         - Costume Piece<br/>
-                        - Change SP Item<br/>
                         - Change Skin 2<br/>
                         - Rarify Item x2<br/>
                         - Cold Heart x1<br/>
                         <br/>
                         * Loser Side Box (Loser team) may contain in lower %:<br/>
                         - Costume Piece<br/>
-                        - Change SP Item<br/>
                         - Change Skin 2<br/>
                         - Rarify Item x2<br/>
                         - Cold Heart x1<br/>
@@ -173,7 +171,7 @@ export default function Act4() {
                         - Leo pet 1500 kills achievement rewards<br/>
                         - Karate Costume Set 2000 kills achievement rewards<br/>
                         - Reset your Act4 Score item 2000 kills achievement rewards<br/>
-                        - Git Gud title 500 deaths achievement rewards<br/>
+                        - Git Gud title 1000 deaths achievement rewards<br/>
                         <img className="mt-3" src="asset/act4/2.png" alt=""/>
                         <br/>
                         <h5 className="nosvoid-color">
@@ -257,9 +255,8 @@ export default function Act4() {
                                 </tr>
                                 <tr>
                                     <th scope="row">Change SP Item</th>
-                                    <td>2 Bloody-Red Ruby</td>
                                     <td >2 Frozen Spear</td>
-                                    <td>2 Fafnir Teeth</td>
+                                    <td>1 Fafnir Teeth</td>
                                     <td >2 Light Essence</td>
                                     <td>2 Water essence</td>
 

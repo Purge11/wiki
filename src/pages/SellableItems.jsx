@@ -83,6 +83,10 @@ export default function SellableItems() {
                             <td>5.000.000 gold.</td>
                         </tr>
                         <tr className="black-color">
+                            <th scope="row danger">Iron Key</th>
+                            <td>5.000.000 gold.</td>
+                        </tr>
+                        <tr className="black-color">
                             <th scope="row danger">Sealed Heavenly Gloves and Shoes</th>
                             <td>4.000.000 gold.</td>
                         </tr>

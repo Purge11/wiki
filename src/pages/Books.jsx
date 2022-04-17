@@ -5,7 +5,6 @@ export default function Books() {
         <div className='books'>
             <div className="container">
                 <div className="row mt-5">
-
                     <table className="table">
                         <thead>
                             <tr>
@@ -34,11 +33,11 @@ export default function Books() {
 
                             </tr>
                             <tr>
-                                <th scope="row">Journal of Forgotten Hero S (1)</th>
-                                <td className="item-effect">Increases agility by 80
+                            <th scope="row">Journal of Forgotten Hero J (1)</th>
+                                <td className="item-effect">Increases inteligence by 80
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt="" /></td>
-                                <td>P1</td>
+                                <td>P4</td>  
 
                             </tr>
                             <tr>
@@ -90,11 +89,11 @@ export default function Books() {
 
                             </tr>
                             <tr>
-                                <th scope="row">Journal of Forgotten Hero J (1)</th>
-                                <td className="item-effect">Increases inteligence by 80
+                                <th scope="row">Journal of Forgotten Hero S (1)</th>
+                                <td className="item-effect">Increases agility by 80
                                 </td>
                                 <td ><img src="asset/book/book3.png" alt="" /></td>
-                                <td>P4</td>
+                                <td>P1</td>
 
                             </tr>
                             <tr>
@@ -162,75 +161,69 @@ export default function Books() {
                                 <td>P6</td>
 
                             </tr>
+
+                        </tbody>
+                    </table>
+                    
+                    <d className="text-danger d-flex justify-content-center mt-5">
+                        <i>
+                            These following books are obtainable by A4, Books NPC.</i>
+                    </d>
+                    <d className="text-danger d-flex justify-content-center">
+                        <i>
+                            Craft 300 Magic Piece of Paper, droppable from every monster in Bitoren Tundra</i>
+                    </d>
+
+                    <table className="table table-bordered">
+                        <thead>
                             <tr>
-                                <th scope="row">Journal of Forgotten Hero S (2)</th>
-                                <td className="item-effect">Increases agility by 100
-                                </td>
-                                <td ><img src="asset/book/book3.png" alt="" /></td>
-                                <td>P6</td>
+                                <th scope="col">Books
+                                </th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Effect</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row"><img className="mt-3" src="asset/act4/b1.png" alt="" /></th>
+                                <td>[Expert] PvP Damage Boost</td>
+                                <td >Increases damage in PvP by 5%.</td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row"><img className="mt-3" src="asset/act4/b2.png" alt="" /></th>
+                                <td>[Expert] PvP Defence Boost</td>
+                                <td >Increases defence in PvP by 5%.</td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row"><img className="mt-3" src="asset/act4/b3.png" alt="" /></th>
+                                <td>Journal of the Forgotten hero S (2)</td>
+                                <td >Increases agility by 100.</td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row"><img className="mt-3" src="asset/act4/b4.png" alt="" /></th>
+                                <td>Journal of the Unknown Hero (2)</td>
+                                <td >Increases MP by 6000.r</td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row"><img className="mt-3" src="asset/act4/b5.png" alt="" /></th>
+                                <td>Strategy of Lord Cuarry's Knights (2)</td>
+                                <td >Increasees overall defence power by 50.</td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row"><img className="mt-3" src="asset/act4/b6.png" alt="" /></th>
+                                <td>Attack Strategy of Lord Cuarry's Knights (2)</td>
+                                <td >Increases overall attack power by 50.</td>
 
                             </tr>
 
                         </tbody>
                     </table>
-                    <table className="table table-bordered">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Books
-                                    </th>
-                                    <th scope="col">Name</th>
-                                    <th scope="col">Effect</th>
-
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b1.png" alt=""/></th>
-                                    <td>[Expert] PvP Damage Boost</td>
-                                    <td >Increases damage in PvP by 5%.</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b2.png" alt=""/></th>
-                                    <td>[Expert] PvP Defence Boost</td>
-                                    <td >Increases defence in PvP by 5%.</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b3.png" alt=""/></th>
-                                    <td>Journal of the Forgotten hero S (2)</td>
-                                    <td >Increases agility by 100.</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b4.png" alt=""/></th>
-                                    <td>Journal of the Unknown Hero (2)</td>
-                                    <td >Increases MP by 6000.r</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b5.png" alt=""/></th>
-                                    <td>Strategy of Lord Cuarry's Knights (2)</td>
-                                    <td >Increasees overall defence power by 50.</td>
-
-                                </tr>
-                                <tr>
-                                    <th scope="row"><img className="mt-3" src="asset/act4/b6.png" alt=""/></th>
-                                    <td>Attack Strategy of Lord Cuarry's Knights (2)</td>
-                                    <td >Increases overall attack power by 50.</td>
-
-                                </tr>
-                                
-                            </tbody>
-                        </table>
-                        <d className="text-danger d-flex justify-content-center">
-                            <i>
-                                These books are obtainable by A4, Books NPC.</i>
-                        </d>
-                        <d className="text-danger d-flex justify-content-center">
-                            <i>
-                                Craft 300 Magic Piece of Paper, droppable from every monster in Bitoren Tundra</i>
-                        </d>
 
                 </div>
             </div>

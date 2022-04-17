@@ -716,7 +716,7 @@ export default function Titles() {
                                                 <img src="asset/title/tsmaster.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Timespace Master</h5>
-                                                    <p className="card-text ">
+                                                    <p className="card-text "> 
                                                         <h5>Can be obtained on the P8 TimeSpace. </h5>
 
 
@@ -804,7 +804,7 @@ export default function Titles() {
                                     <div className="card">
                                         <div className="flip-card-inner2">
                                             <div className="flip-card-front mt-5">
-                                                <img src="asset/title/33.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <img src="asset/title/Demigod.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">Demigod Title</h5>
                                                     <p className="card-text ">
@@ -832,7 +832,7 @@ export default function Titles() {
                                     <div className="card">
                                         <div className="flip-card-inner2">
                                             <div className="flip-card-front mt-5">
-                                                <img src="asset/title/34.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <img src="asset/title/tPoaG.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">The Power of a God</h5>
                                                     <p className="card-text ">
@@ -853,7 +853,7 @@ export default function Titles() {
                                     <div className="card">
                                         <div className="flip-card-inner2">
                                             <div className="flip-card-front mt-5">
-                                                <img src="asset/title/35.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <img src="asset/title/GoW.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">God of War</h5>
                                                     <p className="card-text ">
@@ -874,7 +874,7 @@ export default function Titles() {
                                     <div className="card">
                                         <div className="flip-card-inner2">
                                             <div className="flip-card-front mt-5">
-                                                <img src="asset/title/36.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <img src="asset/title/ImKiller.png" className="card-img-top mx-auto pt-1 " alt="..." />
                                                 <div className="card-body ">
                                                     <h5 className="card-title nosvoid-color ">I'm a Killer!</h5>
                                                     <p className="card-text ">
@@ -897,21 +897,29 @@ export default function Titles() {
 
                                 </div>
                             </div>
-
-
-
-
+                            <div className="">
+                                <div className="card-group mt-5">
+                                    
+                                    <div className="card">
+                                        <div className="flip-card-inner2">
+                                            <div className="flip-card-front mt-5">
+                                                <img src="asset/title/IntoTheVoid.png" className="card-img-top mx-auto pt-1 " alt="..." />
+                                                <div className="card-body ">
+                                                    <h5 className="card-title nosvoid-color ">Into the void</h5>
+                                                    <p className="card-text ">
+                                                        <h5>Obtainable from Fortune Wheel</h5>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
-
-
-
-
-
     )
 }
 

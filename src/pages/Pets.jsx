@@ -76,9 +76,10 @@ export default function Pets() {
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Enkidu</h5>
                                     <p className="card-text item-effect ">
-                                        <h5>All attacks are increased by 6%</h5>
+                                        <h5>All attacks are increased by 8%</h5>
                                         <h5>All defences are increased by 2%</h5>
                                         <h5>Change of inflicting critical hit is increased by 5%</h5>
+                                        <h5>Increases damage from critical hits by 15%.</h5>
 
                                     </p>
                                     <small className="text-muted">1000 coins</small>
@@ -97,8 +98,9 @@ export default function Pets() {
                                     <h5 className="card-title nosvoid-color ">Flame</h5>
                                     <p className="card-text item-effect ">
                                         <h5>All attacks are incrased by 6%</h5>
-                                        <h5>All defences are incrased by 2%</h5>
-                                        <h5>Mana for using skills is decreased by 10% (Includes magic)</h5>
+                                        <h5>All defences are incrased by 4%</h5>
+                                        <h5>All magic attacks are incrased by 4%</h5>
+                                        <h5>Maximum HP is increased by 3000.</h5>
 
                                     </p>
                                     <small className="text-muted">1000 coins</small>
@@ -116,9 +118,10 @@ export default function Pets() {
                                 <div className="card-body ">
                                     <h5 className="card-title nosvoid-color ">Raccon</h5>
                                     <p className="card-text item-effect ">
-                                        <h5>All attacks are incrased by 5%</h5>
-                                        <h5>All defences are incrased by 3%</h5>
-                                        <h5>Hit rate of all attacks is increased by 150</h5>
+                                        <h5>All attacks are incrased by 2%</h5>
+                                        <h5>All defences are incrased by 8%</h5>
+                                        <h5>Change of inflicting critical hit is increased by 5%</h5>
+                                        <h5>Increases damage from critical hits by 15%.</h5> 
 
                                     </p>
                                     <small className="text-muted">1000 coins</small>
@@ -269,10 +272,10 @@ export default function Pets() {
                                             <h5 className="card-title nosvoid-color ">Mini Belial</h5>
                                             <p className="card-text item-effect ">
                                                 <h5>All attacks are incrased by 10%</h5>
-                                                <h5>Your specialist's skill points are increased by 3</h5>
+                                                <h5>Maximum HP is increased by 3000.</h5>
                                                 <h5>Fire element is increased by 150</h5>
                                             </p>
-                                            <small className="text-muted">1000 coins or you can craft this on p8</small>
+                                            <small className="text-muted">450    coins or you can craft this on p8</small>
                                         </div>
                                     </div>
                                 </div>

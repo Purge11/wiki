@@ -7,7 +7,7 @@ export default function SpecialItem() {
             <div className="container">
                 <h1 className=" nosvoid-color d-flex justify-content-center">Special Items</h1>
                 <br />
-                <div className='mt-5 bordero'>
+                <div className='mt-5 borderoLP'>
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/FamilyHorn.png" alt="" /></div>
                         <h4 className="p-1"><b>Family Summoning Horn </b></h4>
@@ -21,7 +21,7 @@ export default function SpecialItem() {
                     </div>
                 </div>
 
-                <div className="mt-5 bordero">
+                <div className="mt-5 borderoLP">
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/ChangeSP.png" alt="" /></div>
                         <h4 className="p-1"><b>Change SP Item</b> <i>(Can be used once)</i> </h4>
@@ -41,7 +41,7 @@ export default function SpecialItem() {
                     </div>
                 </div>
 
-                <div className='mt-5 bordero'>
+                <div className='mt-5 borderoLP'>
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/ResetPerfection.png" alt="" /></div>
                         <h4 className="p-1"><b>Reset Perfection Item</b> <i>(Can be used once)</i> </h4>
@@ -51,7 +51,7 @@ export default function SpecialItem() {
                     </div></div>
                 </div>
 
-                <div className='mt-5 bordero'>
+                <div className='mt-5 borderoLP'>
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/ChangeWings.png" alt="" /></div>
                         <h4 className="p-1"><b>Change Wings Item</b> <i>(Can be used once and the item is permanently)</i> </h4>
@@ -71,7 +71,7 @@ export default function SpecialItem() {
                     </div>
                 </div>
 
-                <div className='mt-5 bordero'>
+                <div className='mt-5 borderoLP'>
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/AnglerSkin.png" alt="" /></div>
                         <h4 className="p-1"><b>Professional Angler Skin</b> <i className='text-danger'>[The skin will be deleted if you put Specialist into Card Holder]</i> </h4>
@@ -94,7 +94,7 @@ export default function SpecialItem() {
                     </div>
                 </div>
 
-                <div className='mt-5 bordero'>
+                <div className='mt-5 borderoLP'>
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/SpecialistSkinPotion.png" alt="" /></div>
                         <h4 className="p-1"><b>Specialist Skin Potion</b> <i className='text-danger'>[The skin will be deleted if you put Specialist into Card Holder]</i> </h4>
@@ -111,14 +111,18 @@ export default function SpecialItem() {
                     </div>
                 </div>
 
-                <div className='mt-5 bordero'>
+                <div className='mt-5 borderoLP'>
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/ChangeSteamSkin.png" alt="" /></div>
                         <h4 className="p-1"><b>Change Skin Item </b> <i>(Works only for Steampunk Skins)</i> </h4>
                     </div>
                     <div className="d-flex flex-row justify-content-center">
-                        <div className="p-8"><img src="asset/SpecialItem/0.png" alt="" /></div>
+                        <div className="p-8"><img src="asset/SpecialItem/changeclass2.png" alt="" /></div>
                         <h4 className="p-1"><b>Change Skin 2 Item </b> <i>(Works only for Prestige 8 Skins)</i> </h4>
+                    </div>
+                    <div className="d-flex flex-row justify-content-center">
+                        <div className="p-8"><img src="asset/SpecialItem/FrostSkinAmulet.jpg" alt="" /></div>
+                        <h4 className="p-1"><b>Change Skin 3 Item </b> <i>(Works only for Prestige 8 Skins)</i> </h4>
                     </div>
                     <div className="d-flex p-3 justify-content-center"><div className="alert alert-secondary" role="alert">
                         You can change another class skin to your own class.
@@ -132,7 +136,7 @@ export default function SpecialItem() {
                     </div>
                 </div>
 
-                <div className='mt-5 bordero'>
+                <div className='mt-5 borderoLP'>
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/UpgradeWeaponSkin.png" alt="" /></div>
                         <h4 className="p-1"><b>Upgrade Weapon Skin</b></h4>
@@ -149,7 +153,7 @@ export default function SpecialItem() {
                     </div>
                 </div>
 
-                <div className='mt-5 bordero'>
+                <div className='mt-5 borderoLP'>
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-8"><img src="asset/SpecialItem/ResetAct4.png" alt="" /></div>
                         <h4 className="p-1"><b>Reset your Act4 Score Item</b></h4>
