@@ -88,13 +88,6 @@ export default function TeamMembers() {
 
                             </tr>
                             <tr className='game-master-color'>
-                                <th scope="row">Sigma</th>
-                                <td>JAP/ENG</td>
-                                <td>Game Master</td>
-                                <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
-
-                            </tr>
-                            <tr className='game-master-color'>
                                 <th scope="row">Akita</th>
                                 <td>HK/ENG</td>
                                 <td>Game Master</td>
@@ -122,25 +115,25 @@ export default function TeamMembers() {
                                 <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
 
                             </tr>
-                            <tr className='supporter-color'>
+                            <tr className='game-master-color'>
                                 <th scope="row">Temko</th>
                                 <td>FR/ENG</td>
-                                <td>Game Supporter</td>
+                                <td>Game Master</td>
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
 
-                            <tr className='supporter-color'>
+                            <tr className='game-master-color'>
                                 <th scope="row">KryptonJH</th>
                                 <td>FR/ENG</td>
-                                <td>Game Supporter</td>
+                                <td>Game Master</td>
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
-                            <tr className='supporter-color'>
+                            <tr className='game-master-color'>
                                 <th scope="row">Fekeno</th>
                                 <td>DE/ENG</td>
-                                <td>Game Supporter</td>
+                                <td>Game Master</td>
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
