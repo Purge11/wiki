@@ -8,7 +8,7 @@ export default function Shopupdate() {
                     Hello NosVoid players,
                     <br />
                     <br />
-                    New Fortune Wheel update is alive. [12.04.2022]
+                    New Fortune Wheel update is alive. [22.04.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -35,15 +35,20 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Ceremonial Helmet</th>
-                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt="" /></th>
+                                    <th scope="col">Koala Pet</th>
+                                    <th scope="col"><img src="asset/shop/KoalaBuff.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Up to 4 level there is a 15% chance of never getting a bad effect.
+                                - When raid is finished, there's a 5% chance that box drops second time.
                                     <br />
-                                    - Increases PvP attack power by 10%.
+                                    - When you finish Act4 and Caligor Raid you have 10% chance to get additional box.
                                     <br />
-                                    - Reduces damage received in PvP by 5%.
+                                    - Increases fame received by 15%.
+                                    <br />
+                                    - Increased gold earned by 15%.
+                                    <br />
+                                    - Damage in Raids is increased by 5%.
+                                    <br />
                                 </d>
                             </thead>
                         </table>
@@ -102,11 +107,18 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Betting Costume</th>
-                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
+                                    Aegir (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/aegir.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There's 10% more of getting rarity 7-8 while betting.
+                                - Meele attacks are increased by 12%.
+                                
+                                <br />
+                                - All defence powers are increased by 150.
+                                <br />
+                                - Increases damage in Christmas Raid by 5%.
+                                <br />
+                                - Hit rate of all attacks is increased by 80.
                                 </d>
                             </thead>
                         </table>
@@ -117,47 +129,51 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Betting Necklace</th>
-                                    <th scope="col"><img src="asset/shop/bettingneck.webp" alt="" /></th>
+                                    Freya(S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/freya.png  " alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There's 7% more of getting rarity 7-8 while betting.
+                                - Magic attacks are increased by 12%.
+                                <br />
+                                - All defence powers are increased by 80.
+                                <br />
+                                - Movement Speed is increased by 1.
+                                <br />
+                                - Increases damage in Christmas Raid by 5%.
+                               
                                 </d>
                             </thead>
                         </table>
                     </div>
 
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Barni Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
-                                </tr>
-                                <d className="item-effect-shell">
-                                    - Ranged attacks are increased by 12%.
-                                    <br />
-                                    - Increases damage from critical hits by 15%.
-                                    <br />
-                                    - Dodge is increased by 80.
-                                    <br />
-                                    - Increases damage in Christmas Raid by 5%.
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
+                
 
                     <div className='mt-5'>
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Frankestein Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/frank.png" alt="" /></th>
+                                <th scope="col">Mini Blue Amora Pet (New)</th>
+                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Increases fame received by 10.
+                                - All attacks increased by 5%.
                                     <br />
-                                    - When you finish Act4 and Caligor Raid you have 5% chance to get additional box.
+                                    - All defences are increased by 6%.
+                                    <br />
+                                    - Movement speed is increased by 1.
+                                    <br />
+                                    - There is a 5% chance of causing Amora Heal.
+                                </d>
+                                <br />
+                               
+                                <hr/>
+                                <d className="text-success">
+                                Amora Heal :
+                                <br />
+                        - HP is increased by 5% of damage given.
+                        <br />
+                        - MP is increased by 5% of damage given.
+                        <br />
                                 </d>
                             </thead>
                         </table>
