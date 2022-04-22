@@ -178,6 +178,32 @@ export default function Shopupdate() {
                             </thead>
                         </table>
                     </div>
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                <th scope="col">Easter Random Box </th>
+                                    <th scope="col"><img src="asset/shop/easterbox.png" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                - Maru Partner Card
+                                    <br />
+                                    - Amora Partner Card
+                                    <br />
+                                    - Beach Costume Set
+                                    <br />
+                                    - Pumpkin Witch Costume Set
+                                    <br />
+                                    - Simp Title
+                                    <br />
+                                    - Change Skin x2
+                                    <br />
+                                    - Mini Pete
+                                </d>
+                              
+                            </thead>
+                        </table>
+                    </div>
 
                 </div>
             </div>
