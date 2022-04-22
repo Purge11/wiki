@@ -184,7 +184,7 @@ export default function Act4() {
                         <h5 className="nosvoid-color">
                             Fortune Box</h5>
                         * This will produce Caligor Fortune Bow with Caligor's Spirit!<br/>
-                        - Caligor Fortune Box 100 Caligor's Spirit<br/>
+                        - Caligor Fortune Box 10 Caligor's Spirit<br/>
                         <img className="mt-3" src="asset/act4/4.png" alt=""/>
                         <br/>
                         <h5 className="nosvoid-color">
