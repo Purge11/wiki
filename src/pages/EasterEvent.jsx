@@ -171,29 +171,29 @@ export default function EasterEvent() {
                                 Hat:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - All defences are increased by 4%.
+                                    - When raid is finished, there's a 2% chance that box drops second time.
                                     <br />
-                                    - Maximum HP is increased by 2000.
+                                    - Increased damage by 10% against raid bosses.
                                 </d>
                                 <br />
                                 <br />
                                 Costume:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - Increases fame received by 8%.
+                                    - All defences are increased by 4%.
                                     <br />
-                                    - Movement speed is increased by 1.
-                                    <br />
-                                    - Maximum HP is increased by 200.
+                                    - Maximum HP is increased by 2000.
                                 </d>
                                 <br />
                                 <br />
                                 Wings:
                                 <br />
                                 <d className="item-effect-shell">
-                                    - When a raid is finished, there's a 2% chance that box drops second time.
+                                    - Increases fame received by 5%.
                                     <br />
-                                    - Increases damage by 10% against raid bosses.
+                                    - Movement speed is increased by 1.
+                                    <br />
+                                    - Maximum HP is increased by 2000.
                                 </d>
                                 <br />
                                 <d className="white-color">___________________________________________________________________________________________</d>
