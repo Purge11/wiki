@@ -94,7 +94,7 @@ export default function EasterEvent() {
                             x15 Red egg<br />
                             x15 Yellow egg<br />
                             x15 Green egg<br />
-                            Special Title “Fox Ladyr”<br />
+                            Special Title “Fox Lady”<br />
                             Special Title “Chicken Queen”<br />
                             x1 Bunny Ears<br />
                             x1 Chicken Wing<br />
