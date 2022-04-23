@@ -345,7 +345,7 @@ export default function EasterEvent() {
                             <thead>
                                 <tr>
                                     <th scope="col">
-                                        Bunny Master</th>
+                                        Fox Lady</th>
                                     <th scope="col"><img src="asset/EasterEvent/BunnyMasterTitle.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
