@@ -75,7 +75,7 @@ export default function EasterEvent() {
                             x100 Full moon<br />
                             x10 Large Lump Gold<br />
                             x1 Special Easter Box<br />
-                            Special Title “Bunny Master” <br />
+                            Special Title “Fox Lady” <br />
                             x1 Bunny Ears<br />
                         </div>
                     </div>
@@ -94,7 +94,7 @@ export default function EasterEvent() {
                             x15 Red egg<br />
                             x15 Yellow egg<br />
                             x15 Green egg<br />
-                            Special Title “Bunny Master”<br />
+                            Special Title “Fox Ladyr”<br />
                             Special Title “Chicken Queen”<br />
                             x1 Bunny Ears<br />
                             x1 Chicken Wing<br />
