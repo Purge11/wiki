@@ -218,19 +218,19 @@ export default function EasterEvent() {
                                 Reworked: Lucy Lopear's 3rd Skill <b>Hip Swing</b><br />
                                 <d className="item-effect-shell">
                                     <b>- Rank S:</b> There is 10% chances to cause <i>"Dance with Bunny"</i> Buff<br />
-                                    Your attack has reduces the enemy elemental resistances by 10%<br />
+                                    Your attack has reduces the enemy elemental resistances by 10<br />
                                     <b>- Rank A:</b> There is 8% chances to cause <i>"Dance with Bunny"</i> Buff<br />
-                                    Your attack has reduces the enemy elemental resistances by 8%<br />
+                                    Your attack has reduces the enemy elemental resistances by 8<br />
                                     <b>- Rank B:</b> There is 7% chances to cause <i>"Dance with Bunny"</i> Buff<br />
-                                    Your attack has reduces the enemy elemental resistances by 7%<br />
+                                    Your attack has reduces the enemy elemental resistances by 7<br />
                                     <b>- Rank C:</b> There is 5% chances to cause <i>"Dance with Bunny"</i> Buff<br />
-                                    Your attack has reduces the enemy elemental resistances by 5%<br />
+                                    Your attack has reduces the enemy elemental resistances by 5<br />
                                     <b>- Rank D:</b> There is 4% chances to cause <i>"Dance with Bunny"</i> Buff<br />
-                                    Your attack has reduces the enemy elemental resistances by 4%<br />
+                                    Your attack has reduces the enemy elemental resistances by 4<br />
                                     <b>- Rank E:</b> There is 3% chances to cause <i>"Dance with Bunny"</i> Buff<br />
-                                    Your attack has reduces the enemy elemental resistances by 3%<br />
+                                    Your attack has reduces the enemy elemental resistances by 3<br />
                                     <b>- Rank F:</b> There is 2% chances to cause <i>"Dance with Bunny"</i> Buff<br />
-                                    Your attack has reduces the enemy elemental resistances by 2%<br />
+                                    Your attack has reduces the enemy elemental resistances by 2<br />
                                 </d>
                                 <br />
                                 <d className="white-color">___________________________________________________________________________________________</d>
@@ -252,16 +252,6 @@ export default function EasterEvent() {
                                     <br />
                                     - Damage to all monsters is increased by 20%.
                                 </d><br /><br />
-                                Reworked: Mad March Hare 3rd Skill <b>Rotten Egg Bomb</b><br />
-                                <d className="item-effect-shell">
-                                    <b>- Rank S:</b> Lure all mobs in 3 cells, and stunt them for 1.5 seconds.<br />
-                                    <b>- Rank A:</b> Lure all mobs in 2 cells<br />
-                                    <b>- Rank B:</b> Lure all mobs in 2 cells<br />
-                                    <b>- Rank C:</b> Lure all mobs in 2 cells<br />
-                                    <b>- Rank D:</b> Lure all mobs in 1 cells<br />
-                                    <b>- Rank E:</b> Lure all mobs in 1 cells<br />
-                                    <b>- Rank F:</b> Lure all mobs in 1 cells<br />
-                                </d>
                                 <br />
                                 <d className="white-color">___________________________________________________________________________________________</d>
                             </thead>
