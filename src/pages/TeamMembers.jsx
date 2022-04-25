@@ -60,12 +60,7 @@ export default function TeamMembers() {
                                 <td className="centered"><img src="asset/team/Web.png" alt="" /></td>
 
                             </tr>
-                            <tr className='admin-color'>
-                                <th scope="row">Nyx</th>
-                                <td>PL/ENG</td>
-                                <td>Super Game Master</td>
-                                <td className="centered"><img src="asset/team/SuperGamemaster.png" alt="" /></td>
-                            </tr>
+                           
                             <tr className='event-manager-color'>
                                 <th scope="row">Dark Legend</th>
                                 <td>ITA/ENG</td>
@@ -119,7 +114,7 @@ export default function TeamMembers() {
                                 <th scope="row">Temko</th>
                                 <td>FR/ENG</td>
                                 <td>Game Master</td>
-                                <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
+                                <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
 
                             </tr>
 
@@ -127,14 +122,21 @@ export default function TeamMembers() {
                                 <th scope="row">KryptonJH</th>
                                 <td>FR/ENG</td>
                                 <td>Game Master</td>
-                                <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
+                                <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
 
                             </tr>
                             <tr className='game-master-color'>
                                 <th scope="row">Fekeno</th>
                                 <td>DE/ENG</td>
                                 <td>Game Master</td>
-                                <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
+                                <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
+
+                            </tr>
+                            <tr className='game-master-color'>
+                                <th scope="row">GayBoysAdmirer </th>
+                                <td>PL/ENG</td>
+                                <td>Game Master</td>
+                                <td className="centered"><img src="asset/team/Gamemaster.png" alt="" /></td>
 
                             </tr>
                             <tr className='supporter-color'>
@@ -144,13 +146,7 @@ export default function TeamMembers() {
                                 <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
 
                             </tr>
-                            <tr className='supporter-color'>
-                                <th scope="row">GayBoysAdmirer </th>
-                                <td>PL/ENG</td>
-                                <td>Game Supporter</td>
-                                <td className="centered"><img src="asset/team/Supporter.png" alt="" /></td>
-
-                            </tr>
+                            
                             <tr className='supporter-color'>
                                 <th scope="row">Kurama~ </th>
                                 <td>DE/ENG/PL/RU</td>

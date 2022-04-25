@@ -9,7 +9,7 @@ export default function C50() {
 
                     <h4 className=" nosvoid-color d-flex justify-content-center">C50 Equipment Guide</h4>
                     <br />
-                    Can be found in Fernon Boxes.
+                    Can be found in Fernon Boxes    .
                     <br />
                 </div>
             </div>
