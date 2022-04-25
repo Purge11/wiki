@@ -323,7 +323,7 @@ export default function EasterEvent() {
                                     <th scope="col"><img src="asset/EasterEvent/tittle.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - You gold decreased by 0% from a gold digger e-girl...
+                                    - Your gold decreased by 0% from a gold digger e-girl...
                                 </d>
                                 <br />
                                 <d className="white-color">___________________________________________________________________________________________</d>
