@@ -1,7 +1,7 @@
 import { useIntl } from 'react-intl';
 import { FaBars } from 'react-icons/fa';
 import { FaDiscord, FaHammer, FaCat, FaShopify, FaHotjar, FaHeart } from 'react-icons/fa';
-import { FaPaw, FaUsers, FaHatWizard, FaGavel, FaTicketAlt } from 'react-icons/fa';
+import { FaPaw, FaUsers, FaHatWizard, FaGavel, FaTicketAlt, FaIdBadge } from 'react-icons/fa';
 import React, { useState } from 'react';
 import { FaRegFileAlt } from 'react-icons/fa';
 import { FaYoutube } from 'react-icons/fa';
@@ -193,6 +193,7 @@ const Aside = ({ setLocale }) => {
             >
               <MenuItem ><a href='CustomFeatures'>{intl.formatMessage({ id: 'Features ⭐' })}</a> </MenuItem>
               <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
+              <MenuItem> <a href='specialitem'>{intl.formatMessage({ id: 'Special Item' })}</a></MenuItem>
               <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
             </SubMenu>
             <SubMenu
@@ -225,27 +226,13 @@ const Aside = ({ setLocale }) => {
               */}
               <MenuItem><a href='easterevent'>{intl.formatMessage({ id: 'Easter Event' })} </a></MenuItem>
             </SubMenu>
-            <SubMenu
-              suffix={<span className="badge red">6</span>}
-              title={intl.formatMessage({ id: 'Useful guides' })}
-              icon={<FaHotjar />}
-            >
-              <MenuItem><a href='betting'>{intl.formatMessage({ id: 'Betting' })} </a></MenuItem>
-              <MenuItem><a href='damage'>{intl.formatMessage({ id: 'Damage' })} </a></MenuItem>
-              <MenuItem><a href='doublebox'>{intl.formatMessage({ id: 'Double box' })} </a></MenuItem>
-              <MenuItem> <a href='exp'>{intl.formatMessage({ id: 'Exp' })} </a></MenuItem>
-              <MenuItem> <a href='gold'>{intl.formatMessage({ id: 'Gold' })} </a></MenuItem>
-              <MenuItem><a href='reputation'>{intl.formatMessage({ id: 'Reputation' })} </a></MenuItem>
-            </SubMenu>
 
-            <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />}
-              suffix={<span className="badge yellow">34</span>}>
+            <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />} suffix={<span className="badge yellow">45</span>}>
 
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
 
               <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
               <MenuItem><a href='buffnpc'>{intl.formatMessage({ id: 'Buff NPC' })} </a></MenuItem>
-              <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
 
               <SubMenu suffix={<span className="badge yellow">6</span>} title={intl.formatMessage({ id: 'Equipment' })} icon={<FaHatWizard />}>
                 <MenuItem><a href='accesory'>{intl.formatMessage({ id: 'Accesory' })} </a></MenuItem>
@@ -259,15 +246,13 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='fish'>{intl.formatMessage({ id: 'Fish' })} </a> </MenuItem>
               <MenuItem><a href='fishprices'>{intl.formatMessage({ id: 'Fish Prices' })} </a> </MenuItem>
               <MenuItem><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem>
-              
+
               <SubMenu suffix={<span className="badge yellow">4</span>} title={intl.formatMessage({ id: 'Partners' })} icon={<FaUsers />}>
                 <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
                 <MenuItem ><a href='pspfish'>{intl.formatMessage({ id: 'Partner for Fish' })} </a></MenuItem>
                 <MenuItem ><a href='psppve'>{intl.formatMessage({ id: 'Partner for PvE' })} </a></MenuItem>
                 <MenuItem ><a href='psppvp'>{intl.formatMessage({ id: 'Partner for PvP' })} </a></MenuItem>
               </SubMenu >
-
-              <MenuItem><a href='perfection'>{intl.formatMessage({ id: 'Perfection' })}</a>  </MenuItem>
 
               <SubMenu suffix={<span className="badge yellow">4</span>} title={intl.formatMessage({ id: 'Pets' })} icon={<FaPaw />}>
                 <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
@@ -277,22 +262,25 @@ const Aside = ({ setLocale }) => {
               </SubMenu >
 
               <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
-              <MenuItem><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>    
+              <MenuItem><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
 
               <SubMenu suffix={<span className="badge yellow">2</span>} title={intl.formatMessage({ id: 'Raids' })} icon={<FaTicketAlt />}>
                 <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
                 <MenuItem><a href='box'>{intl.formatMessage({ id: 'Raid Boxes' })}  </a></MenuItem>
               </SubMenu >
-              
+
               <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
               <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
               <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
               <MenuItem> <a href='sellableitems'>{intl.formatMessage({ id: 'Sellable Items' })}</a></MenuItem>
               <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
               <MenuItem><a href='shell'>{intl.formatMessage({ id: 'Shell' })} </a> </MenuItem>
-              <MenuItem> <a href='specialitem'>{intl.formatMessage({ id: 'Special Item' })}</a></MenuItem>
-              <MenuItem><a href='sp'>{intl.formatMessage({ id: 'SP' })}  </a></MenuItem>
-              <MenuItem><a href='spupgrade'>{intl.formatMessage({ id: 'SP Upgrade' })}</a></MenuItem>
+
+              <SubMenu suffix={<span className="badge yellow">3</span>} title={intl.formatMessage({ id: 'Specialist' })} icon={<FaIdBadge />}>
+                <MenuItem><a href='sp'>{intl.formatMessage({ id: 'SP Cards' })}  </a></MenuItem>
+                <MenuItem><a href='spupgrade'>{intl.formatMessage({ id: 'SP Upgrade' })}</a></MenuItem>
+                <MenuItem><a href='perfection'>{intl.formatMessage({ id: 'Perfection' })}</a>  </MenuItem>
+              </SubMenu >
 
               <SubMenu suffix={<span className="badge yellow">4</span>} title={intl.formatMessage({ id: 'Tattoo & Runes' })} icon={<FaGavel />}>
                 <MenuItem><a href='tatto'>{intl.formatMessage({ id: 'Tattoos' })}</a> </MenuItem>
@@ -302,9 +290,17 @@ const Aside = ({ setLocale }) => {
               </SubMenu >
 
               <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
-              <MenuItem  ><a href='wings'>{intl.formatMessage({ id: 'Wings' })} </a></MenuItem>
 
-              
+              <SubMenu suffix={<span className="badge red">6</span>} title={intl.formatMessage({ id: 'Useful guides' })} icon={<FaHotjar />}>
+                <MenuItem><a href='betting'>{intl.formatMessage({ id: 'Betting' })} </a></MenuItem>
+                <MenuItem><a href='damage'>{intl.formatMessage({ id: 'Damage' })} </a></MenuItem>
+                <MenuItem><a href='doublebox'>{intl.formatMessage({ id: 'Double box' })} </a></MenuItem>
+                <MenuItem> <a href='exp'>{intl.formatMessage({ id: 'Exp' })} </a></MenuItem>
+                <MenuItem> <a href='gold'>{intl.formatMessage({ id: 'Gold' })} </a></MenuItem>
+                <MenuItem><a href='reputation'>{intl.formatMessage({ id: 'Reputation' })} </a></MenuItem>
+              </SubMenu>
+
+              <MenuItem  ><a href='wings'>{intl.formatMessage({ id: 'Wings' })} </a></MenuItem>
 
             </SubMenu>
 
