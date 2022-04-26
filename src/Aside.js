@@ -41,7 +41,7 @@ import Titles from './pages/Titles';
 import Pets from './pages/Pets';
 import PetsFish from './pages/PetsFish';
 import PetsPvE from './pages/PetsPvE';
-import PetsPvP from './pages/PetsPvP';
+import PetsPvP from './pages/PetsPvP'; 
 import Raids from './pages/Raids';
 import Psp from './pages/Psp';
 import PspFish from './pages/PspFish';
