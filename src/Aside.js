@@ -1,7 +1,7 @@
 import { useIntl } from 'react-intl';
 import { FaBars } from 'react-icons/fa';
 import { FaDiscord, FaHammer, FaCat, FaShopify, FaHotjar, FaHeart } from 'react-icons/fa';
-import { FaPaw, FaUserSecret, FaHatWizard, FaGavel } from 'react-icons/fa';
+import { FaPaw, FaUsers, FaHatWizard, FaGavel, FaTicketAlt } from 'react-icons/fa';
 import React, { useState } from 'react';
 import { FaRegFileAlt } from 'react-icons/fa';
 import { FaYoutube } from 'react-icons/fa';
@@ -25,10 +25,12 @@ import Perfection from './pages/Perfection';
 import Prestige from './pages/Prestige';
 import Resistance from './pages/Resistance';
 import Rune from './pages/Rune';
+import RunesToUse from './pages/RunesToUse';
 import Server from './pages/Server';
 import Shell from './pages/Shell';
 import SP from './pages/SP';
 import Tatto from './pages/Tatto';
+import TattoToUse from './pages/TattoToUse';
 import Wings from './pages/Wings';
 import TeamMembers from './pages/TeamMembers';
 import Schedule from './pages/Schedule';
@@ -242,7 +244,6 @@ const Aside = ({ setLocale }) => {
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
 
               <MenuItem><a href='books'>{intl.formatMessage({ id: 'Books' })} </a> </MenuItem>
-              <MenuItem><a href='box'>{intl.formatMessage({ id: 'Boxes' })}  </a></MenuItem>
               <MenuItem><a href='buffnpc'>{intl.formatMessage({ id: 'Buff NPC' })} </a></MenuItem>
               <MenuItem><a href='contentCreators'>{intl.formatMessage({ id: 'Creators' })} </a></MenuItem>
 
@@ -259,7 +260,7 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='fishprices'>{intl.formatMessage({ id: 'Fish Prices' })} </a> </MenuItem>
               <MenuItem><a href='marathon'>{intl.formatMessage({ id: 'Marathon' })} </a></MenuItem>
               
-              <SubMenu suffix={<span className="badge yellow">4</span>} title={intl.formatMessage({ id: 'Partners' })} icon={<FaUserSecret />}>
+              <SubMenu suffix={<span className="badge yellow">4</span>} title={intl.formatMessage({ id: 'Partners' })} icon={<FaUsers />}>
                 <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
                 <MenuItem ><a href='pspfish'>{intl.formatMessage({ id: 'Partner for Fish' })} </a></MenuItem>
                 <MenuItem ><a href='psppve'>{intl.formatMessage({ id: 'Partner for PvE' })} </a></MenuItem>
@@ -276,11 +277,15 @@ const Aside = ({ setLocale }) => {
               </SubMenu >
 
               <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
-              <MenuItem><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
-              <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
+              <MenuItem><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>    
+
+              <SubMenu suffix={<span className="badge yellow">2</span>} title={intl.formatMessage({ id: 'Raids' })} icon={<FaTicketAlt />}>
+                <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
+                <MenuItem><a href='box'>{intl.formatMessage({ id: 'Raid Boxes' })}  </a></MenuItem>
+              </SubMenu >
+              
               <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
               <MenuItem><a href='rules'>  {intl.formatMessage({ id: 'Rules' })}  </a></MenuItem>
-              <MenuItem><a href='rune'>{intl.formatMessage({ id: 'Rune' })}</a> </MenuItem>
               <MenuItem><a href='schedule'>{intl.formatMessage({ id: 'Schedule' })}</a> </MenuItem>
               <MenuItem> <a href='sellableitems'>{intl.formatMessage({ id: 'Sellable Items' })}</a></MenuItem>
               <MenuItem> <a href='server'>{intl.formatMessage({ id: 'Server' })}</a> </MenuItem>
@@ -289,12 +294,13 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='sp'>{intl.formatMessage({ id: 'SP' })}  </a></MenuItem>
               <MenuItem><a href='spupgrade'>{intl.formatMessage({ id: 'SP Upgrade' })}</a></MenuItem>
 
-              <SubMenu title={intl.formatMessage({ id: 'Tattoo & Runes' })} icon={<FaGavel />}>
-                <MenuItem><a href='tatto'>{intl.formatMessage({ id: 'Tattos' })}</a> </MenuItem>
+              <SubMenu suffix={<span className="badge yellow">4</span>} title={intl.formatMessage({ id: 'Tattoo & Runes' })} icon={<FaGavel />}>
+                <MenuItem><a href='tatto'>{intl.formatMessage({ id: 'Tattoos' })}</a> </MenuItem>
+                <MenuItem><a href='tattotouse'>{intl.formatMessage({ id: 'What Tattoo should I use?' })}</a> </MenuItem>
                 <MenuItem><a href='rune'>{intl.formatMessage({ id: 'Rune' })}</a> </MenuItem>
+                <MenuItem><a href='runestouse'>{intl.formatMessage({ id: 'What Runes should I use?' })}</a> </MenuItem>
               </SubMenu >
 
-              <MenuItem> <a href='teammembers'>{intl.formatMessage({ id: 'Team Members' })} </a></MenuItem>
               <MenuItem ><a href='titles'>{intl.formatMessage({ id: 'Titles' })} </a></MenuItem>
               <MenuItem  ><a href='wings'>{intl.formatMessage({ id: 'Wings' })} </a></MenuItem>
 
@@ -393,11 +399,13 @@ const Aside = ({ setLocale }) => {
           <Route path='/prestige' component={Prestige} />
           <Route path='/resistance' component={Resistance} />
           <Route path='/rune' component={Rune} />
+          <Route path='/runestouse' component={RunesToUse} />
           <Route path='/schedule' component={Schedule} />
           <Route path='/server' component={Server} />
           <Route path='/shell' component={Shell} />
           <Route path='/sp' component={SP} />
           <Route path='/tatto' component={Tatto} />
+          <Route path='/tattotouse' component={TattoToUse} />
           <Route path='/titles' component={Titles} />
           <Route path='/wings' component={Wings} />
           <Route path='/winter' component={Winter} />
