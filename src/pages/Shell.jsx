@@ -15,14 +15,14 @@ We have four types of shells: PvP, Special, Full, Perfect.<br></br>
   <strong>Weapon shells:</strong>
 <br></br>
 <figure class="figure">
-  <img src="asset/shells/shel1.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure."/>
+  <img src="asset/shells/shel1.png" class="figure-img img-fluid rounded" alt="A generic square placeholder with rounded corners in a figure."/>
   <figcaption class="figure-caption"></figcaption>
 </figure>
 <br></br>
   <strong>Armor shells:</strong>
 <br></br>
 <figure class="figure">
-  <img src="asset/shells/shel2.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure."/>
+  <img src="asset/shells/shel2.png" class="figure-img img-fluid rounded" alt="A generic square placeholder with rounded corners in a figure."/>
   <figcaption class="figure-caption"></figcaption>
 </figure>
 </div>
@@ -37,7 +37,7 @@ Sample screen of the R7 Weapon shell with high option:
 <br></br>
 <br></br>
 <figure class="figure">
-  <img src="asset/shells/shel3.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure."/>
+  <img src="asset/shells/shel3.png" class="figure-img img-fluid rounded" alt="A generic square placeholder with rounded corners in a figure."/>
   <figcaption class="figure-caption"></figcaption>
 </figure>
 <br></br>
@@ -56,7 +56,7 @@ You can buy perfume at the alchemist for 75.200 each. The higher rarity and leve
 <br></br>
 <br></br>
 <figure class="figure">
-  <img src="asset/shells/shel4.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure."/>
+  <img src="asset/shells/shel4.png" class="figure-img img-fluid rounded" alt="A generic square placeholder with rounded corners in a figure."/>
   <figcaption class="figure-caption"></figcaption>
 </figure>
 </div>
