@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Pets() {
+export default function PetsPvP() {
     return (
         <div className='pets'>
             

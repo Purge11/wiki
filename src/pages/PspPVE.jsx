@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function psp() {
+export default function pspPvE() {
     return (
         <div className='raid'>
             

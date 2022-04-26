@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function psp() {
+export default function pspFish() {
     return (
         <div className='raid'>
             
