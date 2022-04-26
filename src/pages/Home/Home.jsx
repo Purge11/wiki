@@ -23,13 +23,13 @@ export default function Home() {
         <div className='col-sm-6 banner-info'>
             <div className="wrapper">
               <img src="asset/home2.png" className="imghome" alt="" />
-              <h2>Welcome to Void </h2>
-              <h1>a place where everything is possible</h1>
+              <h2>Welcome to Void! </h2>
+              <h1>A place where everything is possible</h1>
               <h3>
                 Discover <span ref={textRef}></span>
               </h3>
             </div>
-            <h1>adventure will not wait!</h1>
+            <h1>Adventure will not wait!</h1>
             <a className="btn btn-first" href='rules'>Let's start</a>
           </div>
           <div className='col-sm-6 banner-image imgContainer'>
