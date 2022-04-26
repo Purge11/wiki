@@ -45,7 +45,6 @@ import PetsPvP from './pages/PetsPvP';
 import Raids from './pages/Raids';
 import psp from './pages/Psp';
 import pspFish from './pages/PspFish';
-import pspPvE from './pages/PspPvE';
 import pspPvP from './pages/PspPvP';
 import { FiSettings } from "react-icons/fi";
 
@@ -241,7 +240,6 @@ const Aside = ({ setLocale }) => {
               <SubMenu suffix={<span className="badge yellow">4</span>} title={intl.formatMessage({ id: 'Partners' })} icon={<FaUsers />}>
                 <MenuItem ><a href='psp'>{intl.formatMessage({ id: 'Partner Cards' })} </a></MenuItem>
                 <MenuItem ><a href='pspfish'>{intl.formatMessage({ id: 'Partner for Fish' })} </a></MenuItem>
-                <MenuItem ><a href='psppve'>{intl.formatMessage({ id: 'Partner for PvE' })} </a></MenuItem>
                 <MenuItem ><a href='psppvp'>{intl.formatMessage({ id: 'Partner for PvP' })} </a></MenuItem>
               </SubMenu >
 
@@ -402,7 +400,6 @@ const Aside = ({ setLocale }) => {
           <Route path='/petspvp' component={PetsPvP} />
           <Route path='/psp' component={psp} />
           <Route path='/pspfish' component={pspFish} />
-          <Route path='/psppve' component={pspPvE} />
           <Route path='/psppvp' component={pspPvP} />
           <Route path='/shop' component={Shopupdate} />
           <Route path='/wheel' component={Wheel} />
