@@ -43,8 +43,8 @@ import PetsFish from './pages/PetsFish';
 import PetsPvE from './pages/PetsPvE';
 import PetsPvP from './pages/PetsPvP'; 
 import Raids from './pages/Raids';
-import psp from './pages/Psp';
-import pspFish from './pages/PspFish';
+import Psp from './pages/Psp';
+import PspFish from './pages/PspFish';
 import { FiSettings } from "react-icons/fi";
 
 
@@ -396,8 +396,8 @@ const Aside = ({ setLocale }) => {
           <Route path='/petsfish' component={PetsFish} />
           <Route path='/petspve' component={PetsPvE} />
           <Route path='/petspvp' component={PetsPvP} />
-          <Route path='/psp' component={psp} />
-          <Route path='/pspfish' component={pspFish} />
+          <Route path='/psp' component={Psp} />
+          <Route path='/pspfish' component={PspFish} />
           <Route path='/shop' component={Shopupdate} />
           <Route path='/wheel' component={Wheel} />
           <Route path='/raids' component={Raids} />
