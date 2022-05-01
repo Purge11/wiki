@@ -7,8 +7,7 @@ export default function Shopupdate() {
                 <div className="row series-image-list ">
                     Hello NosVoid players,
                     <br />
-                    <br />
-                    New Fortune Wheel update is alive. [22.04.2022]
+                    New Fortune Wheel update is alive. [01.05.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -35,20 +34,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Koala Pet</th>
-                                    <th scope="col"><img src="asset/shop/KoalaBuff.png" alt="" /></th>
+                                    <th scope="col">Shadow King's Helmet</th>
+                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - When raid is finished, there's a 5% chance that box drops second time.
+                                    - Damage in Raids is increased by 8%.
                                     <br />
-                                    - When you finish Act4 and Caligor Raid you have 10% chance to get additional box.
+                                    - All elemental resistance is increased by 7.
                                     <br />
-                                    - Increases fame received by 15%.
-                                    <br />
-                                    - Increased gold earned by 15%.
-                                    <br />
-                                    - Damage in Raids is increased by 5%.
-                                    <br />
+                                    - The chance of receiving a critical hit is increased by 3%.
                                 </d>
                             </thead>
                         </table>
@@ -57,46 +51,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Knight Costume Set (New)</th>
-                                    <th scope="col"><img src="asset/shop/KnightCostume.png" alt="" /></th>
+                                    <th scope="col">Shadow King's Mask</th>
+                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
                                 </tr>
-                                <br />
-                                Hat:
-                                <hr />
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 6%.
+                                    - Damage to all monsters is increased by 7%.
                                     <br />
-                                    - Hit rate of all attacks is increased by 100.
+                                    - Damage in Raids is increased by 10%.
                                     <br />
-                                    - Chance of inflicting critical hits is increased by 3%.
-                                </d>
-                                <br />
-                                <br />
-                                Costume:
-                                <hr />
-                                <d className="item-effect-shell">
-                                    - All defence are increased by 8%.
-                                    <br />
-                                    - Movement speed is increased by 1.
-                                    <br />
-                                    - Up to level 4 there is a 8% chance of never getting a bad effect.
-                                </d>
-                                <br />
-                                <br />
-                                Wings:
-                                <hr />
-                                <d className="item-effect-shell">
-                                    - All attacks are increased by 85
-                                    <br />
-                                    - Your specialist's overall skill points are increased by 3.
-                                    <br />
-                                    - There is a 4% chance of causing '' Last Hope  '' on attack.
-                                </d>
-                                <hr />
-                                <d className="text-success">
-                                    Last Hope Buff:
-                                    <br />
-                                    - Up to level 5 there is a 25% chance of never getting a bad effect.
+                                    - Increases Gold earned by 7%.
                                 </d>
                             </thead>
                         </table>
@@ -106,19 +69,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">
-                                    Aegir (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/aegir.webp" alt="" /></th>
+                                    <th scope="col">Ceremonial Helmet</th>
+                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - Meele attacks are increased by 12%.
-                                
-                                <br />
-                                - All defence powers are increased by 150.
-                                <br />
-                                - Increases damage in Christmas Raid by 5%.
-                                <br />
-                                - Hit rate of all attacks is increased by 80.
+                                    - Up to 4 level there is a 15% chance of never getting a bad effect.
+                                    <br />
+                                    - Increases PvP attack power by 10%.
+                                    <br />
+                                    - Reduces damage received in PvP by 5%
                                 </d>
                             </thead>
                         </table>
@@ -128,52 +87,11 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">
-                                    Freya(S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/freya.png  " alt="" /></th>
+                                    <th scope="col">Raid Ring</th>
+                                    <th scope="col"><img src="asset/shop/raidring.webp  " alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - Magic attacks are increased by 12%.
-                                <br />
-                                - All defence powers are increased by 80.
-                                <br />
-                                - Movement Speed is increased by 1.
-                                <br />
-                                - Increases damage in Christmas Raid by 5%.
-                               
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
-
-                
-
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                <th scope="col">Mini Blue Amora Pet (New)</th>
-                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
-                                </tr>
-                                <d className="item-effect-shell">
-                                - All attacks increased by 5%.
-                                    <br />
-                                    - All defences are increased by 6%.
-                                    <br />
-                                    - Movement speed is increased by 1.
-                                    <br />
-                                    - There is a 5% chance of causing Amora Heal.
-                                </d>
-                                <br />
-                               
-                                <hr/>
-                                <d className="text-success">
-                                Amora Heal :
-                                <br />
-                        - HP is increased by 5% of damage given.
-                        <br />
-                        - MP is increased by 5% of damage given.
-                        <br />
+                                    - When raid is finishes, there's a 7% chance that box drops second time.
                                 </d>
                             </thead>
                         </table>
@@ -182,29 +100,36 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                <th scope="col">Easter Random Box </th>
-                                    <th scope="col"><img src="asset/shop/easterbox.png" alt="" /></th>
+                                    <th scope="col">Frankestein Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/frank.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                - Maru Partner Card
+                                    - Increases fame received by 10.
                                     <br />
-                                    - Amora Partner Card
-                                    <br />
-                                    - Beach Costume Set
-                                    <br />
-                                    - Pumpkin Witch Costume Set
-                                    <br />
-                                    - Simp Title
-                                    <br />
-                                    - Change Skin x2
-                                    <br />
-                                    - Mini Pete
+                                    - When you finish Act4 and Caligor Raid you have 5% chance to get additional box.
                                 </d>
-                              
                             </thead>
                         </table>
                     </div>
-
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Barni Partner Card (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - Ranged attacks are increased by 12%.
+                                    <br />
+                                    - Increases damage from critical hits by 15%.
+                                    <br />
+                                    - Dodge is increased by 80.
+                                    <br />
+                                    - Increases damage in Christmas Raid by 5%
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
                 </div>
             </div>
         </div>
