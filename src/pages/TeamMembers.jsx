@@ -53,18 +53,18 @@ export default function TeamMembers() {
                                 <td>PL/ENG</td>
                                 <td>Web Developer</td>
                                 <td className="centered"><img src="asset/team/Web.webp" alt="" /></td>
-                            </tr>      
+                            </tr>
+                            <tr className='discord-admin-color'>
+                                <th scope="row">Astraea</th>
+                                <td>FR/ENG</td>
+                                <td>Discord Admin / Game Designer</td>
+                                <td className="centered"><img src="asset/team/Disc.webp" alt="" /></td>
+                            </tr>           
                             <tr className='event-manager-color'>
                                 <th scope="row">Dark Legend</th>
                                 <td>ITA/ENG</td>
                                 <td>Game Designer</td>
                                 <td className="centered"><img src="asset/team/GameD.webp" alt="" /></td>
-                            </tr>
-                            <tr className='discord-admin-color'>
-                                <th scope="row">Astraea</th>
-                                <td>FR/ENG</td>
-                                <td>Discord Admin</td>
-                                <td className="centered"><img src="asset/team/Disc.webp" alt="" /></td>
                             </tr>
                             <tr className='wiki-editor-color'>
                                 <th scope="row">Blauker</th>    
