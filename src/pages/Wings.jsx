@@ -7,6 +7,32 @@ export default function Wings() {
             <br />
             <div className=''>
                 <div className='borderoLP'>
+                    <h3 className='d-flex justify-content-center'><b>Arena Wings</b></h3>
+                    <br />
+                    <div className="d-flex flex-row justify-content-center">
+                        <div className="p-0">
+                            <img src="asset/Wings/ArenaW.PNG" alt="" />
+                        </div>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <div className="p-0">
+                            <div className='borderoNos'>
+                                <div className='justify-content-center'>
+                                    <h5 className="p-2"><b>Arena Wings Buff</b></h5>
+                                    <br />
+                                    - No buffs
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div className="d-flex p-0 justify-content-center"><div className="alert alert-secondary" role="alert">
+                        <i>Obtained: Top PvP</i>
+                    </div></div>
+                </div>
+            </div>
+
+            <div className=''>
+                <div className='borderoLP'>
                     <h3 className='d-flex justify-content-center'><b>Base Wings</b></h3>
                     <br />
                     <div className="d-flex flex-row justify-content-center">
