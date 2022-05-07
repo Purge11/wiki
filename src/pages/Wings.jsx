@@ -11,7 +11,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/ArenaW.PNG" alt="" />
+                            <img src="asset/wings/ArenaW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -37,7 +37,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/BaseW.PNG" alt="" />
+                            <img src="asset/wings/BaseW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -63,7 +63,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/AngelW.PNG" alt="" />
+                            <img src="asset/wings/AngelW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -90,7 +90,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/DemonW.PNG" alt="" />
+                            <img src="asset/wings/DemonW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -117,7 +117,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/FireW.PNG" alt="" />
+                            <img src="asset/wings/FireW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -146,7 +146,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/IceW.PNG" alt="" />
+                            <img src="asset/wings/IceW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -175,7 +175,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/DraculaW.PNG" alt="" />
+                            <img src="asset/wings/DraculaW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -207,7 +207,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/ArchDemonW.PNG" alt="" />
+                            <img src="asset/wings/ArchDemonW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -234,7 +234,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/BlazingW.PNG" alt="" />
+                            <img src="asset/wings/BlazingW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -263,7 +263,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/FrostyW.PNG" alt="" />
+                            <img src="asset/wings/FrostyW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -292,7 +292,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/GoldenW.PNG" alt="" />
+                            <img src="asset/wings/GoldenW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -321,7 +321,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/OnyxW.PNG" alt="" />
+                            <img src="asset/wings/OnyxW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -351,7 +351,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/TitanW.PNG" alt="" />
+                            <img src="asset/wings/TitanW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -379,7 +379,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/MegaTitanW.PNG" alt="" />
+                            <img src="asset/wings/MegaTitanW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -406,7 +406,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/VoidW.PNG" alt="" />
+                            <img src="asset/wings/VoidW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -434,7 +434,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/ZephyrW.PNG" alt="" />
+                            <img src="asset/wings/ZephyrW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -465,7 +465,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/LightningW.PNG" alt="" />
+                            <img src="asset/wings/LightningW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -502,7 +502,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/BladeW.PNG" alt="" />
+                            <img src="asset/wings/BladeW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -535,7 +535,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/CrystalW.PNG" alt="" />
+                            <img src="asset/wings/CrystalW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -568,7 +568,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/PetalW.PNG" alt="" />
+                            <img src="asset/wings/PetalW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
@@ -607,7 +607,7 @@ export default function Wings() {
                     <br />
                     <div className="d-flex flex-row justify-content-center">
                         <div className="p-0">
-                            <img src="asset/Wings/LunarW.PNG" alt="" />
+                            <img src="asset/wings/LunarW.PNG" alt="" />
                         </div>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <div className="p-0">
