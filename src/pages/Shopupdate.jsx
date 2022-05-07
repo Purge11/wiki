@@ -7,7 +7,7 @@ export default function Shopupdate() {
                 <div className="row series-image-list ">
                     Hello NosVoid players,
                     <br />
-                    New Fortune Wheel update is alive. [01.05.2022]
+                    New Fortune Wheel update is alive. [07.05.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -17,7 +17,7 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Into The Void Title (New) </th>
+                                    <th scope="col">Into The Void Title </th>
                                     <th scope="col"><img src="asset/shop/tittle.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
@@ -69,15 +69,25 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Ceremonial Helmet</th>
-                                    <th scope="col"><img src="asset/shop/ceremonial.webp" alt="" /></th>
+                                    <th scope="col">Mini Blue Amora Pet</th>
+                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Up to 4 level there is a 15% chance of never getting a bad effect.
+                                    - All attacks increased by 5%.
                                     <br />
-                                    - Increases PvP attack power by 10%.
+                                    - All defences are increased by 6%.
                                     <br />
-                                    - Reduces damage received in PvP by 5%
+                                    - Movement speed is increased by 1.
+                                    <br />
+                                    - There is a 5% chance of causing Amora Heal.
+                                    <br />
+                                    <br />
+
+                                    Amora Heal :
+                                    <br />
+                                    - HP is increased by 5% of damage given.
+                                    <br />
+                                    - MP is increased by 5% of damage given.
                                 </d>
                             </thead>
                         </table>
@@ -87,11 +97,14 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Raid Ring</th>
-                                    <th scope="col"><img src="asset/shop/raidring.webp  " alt="" /></th>
+                                    <th scope="col">Aegir (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/aegir.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - When raid is finishes, there's a 7% chance that box drops second time.
+                                    - Meele attacks are increased by 12%.<br />
+                                    - All defence powers are increased by 150.<br />
+                                    - Increases damage in Christmas Raid by 5%.<br />
+                                    - Hit rate of all attacks is increased by 80.
                                 </d>
                             </thead>
                         </table>
@@ -100,32 +113,46 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Frankestein Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/frank.png" alt="" /></th>
+                                    <th scope="col">Freya (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/freya.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Increases fame received by 10.
-                                    <br />
-                                    - When you finish Act4 and Caligor Raid you have 5% chance to get additional box.
+                                    - Magic attacks are increased by 12%.<br />
+                                    - All defence powers are increased by 80.<br />
+                                    - Movement Speed is increased by 1.<br />
+                                    - Increases damage in Christmas Raid by 5%.
                                 </d>
                             </thead>
                         </table>
                     </div>
+
                     <div className='mt-5'>
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Barni Partner Card (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>
+                                    <th scope="col">Knight Costume Set</th>
+                                    <th scope="col"><img src="asset/shop/KnightCostume.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Ranged attacks are increased by 12%.
+                                    Hat:<br />
+                                    - All attacks are increased by 6%<br />
+                                    - Hit rate of all attacks is increased by 100.<br />
+                                    - Chance of inflicting critical hits is increased by 3%<br />
                                     <br />
-                                    - Increases damage from critical hits by 15%.
+                                    Costume:<br />
+                                    - All defences are increased by 8%.<br />
+                                    - Movement Speed is increased by 1.<br />
+                                    - Up to level 4 there is a 8% chance of never getting a bad effect.<br />
                                     <br />
-                                    - Dodge is increased by 80.
+                                    Costume Wings:<br />
+                                    - All attacks are increased by 85.<br />
+                                    - Your specialist's overall skill points are increased by 3.<br />
+                                    - There is a 4% chance of causing Last Hope.<br />
                                     <br />
-                                    - Increases damage in Christmas Raid by 5%
+                                    < d className="text-success">
+                                    Last Hope :<br />
+                                    - Up to level 5 there is a 25% chance of never getting a bad effect.
+                                    </d>
                                 </d>
                             </thead>
                         </table>
