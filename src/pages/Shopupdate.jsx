@@ -121,9 +121,9 @@ export default function Shopupdate() {
                                 </tr>
                                 <d className="item-effect-shell">
                                     Hat:<br />
-                                    - All attacks are increased by 6%<br />
+                                    - All attacks are increased by 6%.<br />
                                     - Hit rate of all attacks is increased by 100.<br />
-                                    - Chance of inflicting critical hits is increased by 3%<br />
+                                    - Chance of inflicting critical hits is increased by 3%.<br />
                                     <br />
                                     Costume:<br />
                                     - All defences are increased by 8%.<br />
