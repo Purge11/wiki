@@ -90,7 +90,7 @@ export default function Shopupdate() {
                                 </tr>
                                 <d className="item-effect-shell">
                                     - Ranged attacks are increased by 12%.<br />
-                                    - Increases damage from critical hits by 15%..<br />
+                                    - Increases damage from critical hits by 15%.<br />
                                     - Increases damage in Christmas Raid by 5%.<br />
                                     - Dodge is increased by 80.
                                 </d>
