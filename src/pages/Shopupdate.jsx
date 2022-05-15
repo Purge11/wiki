@@ -7,7 +7,7 @@ export default function Shopupdate() {
                 <div className="row series-image-list ">
                     Hello NosVoid players,
                     <br />
-                    New Fortune Wheel update is alive. [07.05.2022]
+                    New Fortune Wheel update is alive. [16.05.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
@@ -34,15 +34,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Shadow King's Helmet</th>
-                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>
+                                    <th scope="col">Fluffy Bally Pet</th>
+                                    
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage in Raids is increased by 8%.
+                                    - All attacks are increased by 5%.
                                     <br />
-                                    - All elemental resistance is increased by 7.
+                                    - All defences are increased by 5%.
                                     <br />
-                                    - The chance of receiving a critical hit is increased by 3%.
+                                    - Reduces damage received in PvP by 10%.
                                 </d>
                             </thead>
                         </table>
@@ -51,43 +51,19 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Shadow King's Mask</th>
-                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
+                                    <th scope="col">Koala Pet</th>
+                                    <th scope="col"><img src="asset/shop/Koala.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage to all monsters is increased by 7%.
+                                    - When raid is finished, there's a 5% chance that box drops second time.
                                     <br />
-                                    - Damage in Raids is increased by 10%.
+                                    - When you finish Act4 and Caligor Raid you have 10% chance to get additional box.
                                     <br />
-                                    - Increases Gold earned by 7%.
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
-
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Mini Blue Amora Pet</th>
-                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
-                                </tr>
-                                <d className="item-effect-shell">
-                                    - All attacks increased by 5%.
+                                    - Increases Gold earned by 15%.
                                     <br />
-                                    - All defences are increased by 6%.
+                                   - Increases fame received by 15%.
                                     <br />
-                                    - Movement speed is increased by 1.
-                                    <br />
-                                    - There is a 5% chance of causing Amora Heal.
-                                    <br />
-                                    <br />
-
-                                    Amora Heal :
-                                    <br />
-                                    - HP is increased by 5% of damage given.
-                                    <br />
-                                    - MP is increased by 5% of damage given.
+                                   - Damage in Raids is increased by 5%.
                                 </d>
                             </thead>
                         </table>
@@ -97,14 +73,26 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Aegir (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/aegir.webp" alt="" /></th>
+                                    <th scope="col">Raid Ring</th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Meele attacks are increased by 12%.<br />
-                                    - All defence powers are increased by 150.<br />
+                                    - When raid is finished, there's a 7% chance that box drops second time.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Barni (S Buff)</th>                                 
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - Ranged attacks are increased by 12%.<br />
+                                    - Increases damage from critical hits by 15%..<br />
                                     - Increases damage in Christmas Raid by 5%.<br />
-                                    - Hit rate of all attacks is increased by 80.
+                                    - Dodge is increased by 80.
                                 </d>
                             </thead>
                         </table>
@@ -113,14 +101,12 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Freya (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/freya.png" alt="" /></th>
+                                    <th scope="col">Hongbi (S Buff)</th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Magic attacks are increased by 12%.<br />
-                                    - All defence powers are increased by 80.<br />
+                                    - All defences are increased by 10%.<br />
+                                    - Up to level 4 there is a 12% chance of never getting a bad effect..<br />
                                     - Movement Speed is increased by 1.<br />
-                                    - Increases damage in Christmas Raid by 5%.
                                 </d>
                             </thead>
                         </table>
