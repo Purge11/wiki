@@ -105,7 +105,7 @@ export default function Shopupdate() {
                                 </tr>
                                 <d className="item-effect-shell">
                                     - All defences are increased by 10%.<br />
-                                    - Up to level 4 there is a 12% chance of never getting a bad effect..<br />
+                                    - Up to level 4 there is a 12% chance of never getting a bad effect.<br />
                                     - Movement Speed is increased by 1.<br />
                                 </d>
                             </thead>
