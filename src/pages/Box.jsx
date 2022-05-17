@@ -21,8 +21,8 @@ export default function Box() {
 
           <ul className="list-group">
           <li className="list-group-item d-flex justify-content-center"><h5 > Raid Points</h5></li>
-            <li className="list-group-item d-flex"> <span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Maru Raid <f className="item-effect">0.1 Points.</f></li>
-            <li className="list-group-item d-flex"> <span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Glacerus Raid <f className="item-effect">0.2 Points.</f></li>
+            <li className="list-group-item d-flex"> <span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Maru Raid <f className="text-success">0.1 Points.</f></li>
+            <li className="list-group-item d-flex"> <span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Glacerus Raid <f className="text-success">0.2 Points.</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Draco Raid <f className="text-success">0.2 Points.</f> </li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Laurena Raid<f className="text-success"> 0.2 Points</f></li>
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Zenas Raid <f className="text-success">0.4 Points.</f></li>
