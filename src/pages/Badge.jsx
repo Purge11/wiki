@@ -23,6 +23,9 @@ function Badge() {
                                 <i>You will be able to craft 3x Rarify Items after you got materials that mentioned above.
                                     </i>
                             </d>
+                            <br />
+                            <br />
+                            
 
                             <d className="mcc d-flex justify-content-center"> How to craft Upgrade Item ?</d>
                             <hr />
@@ -42,6 +45,8 @@ function Badge() {
                                 <i>You will be able to craft 5x Upgrade Items after you got materials that mentioned above.
                                     </i>
                             </d>
+                            <br />
+                            <br />
 
                             <d className="mcc d-flex justify-content-center"> Whats chances of upgrade and rarify?</d>
                             <hr />
