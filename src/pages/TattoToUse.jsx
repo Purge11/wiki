@@ -33,7 +33,7 @@ Information of buffs:
 <div className='borderoLP'> 
 <p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h5>Swordsman</h5></div></p>
 First Tattoo :  <br></br>
-<div class="text-danger"></div>- Eagle pattern: Piercing Gaze (Good PVE and PVP)<br></br>
+<div class="text-danger">- Eagle pattern: Piercing Gaze (Good PVE and PVP)<br></br>
 Second Tattoo : <br></br></div>
 <div class="text-danger"></div>- Snake pattern: Arcane wisdom (Good PVE and PVP)<br></br>
 <br></br>
@@ -87,7 +87,9 @@ Information of buffs:
 
 
                 </div>
-            </div>           
+            </div>     
+
+            </div>      
             
     )
 }
