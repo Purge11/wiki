@@ -19,6 +19,24 @@ export default function Box() {
             <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>MVP Pure Beast Box = More chance to get all primary<f className="item-effect">  Aura materials</f></li>
           </ul>
 
+          <ul className="list-group">
+          <li className="list-group-item d-flex justify-content-center"><h5 > Raid Points</h5></li>
+            <li className="list-group-item d-flex"> <span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Maru Raid <f className="item-effect">0.1 Points.</f></li>
+            <li className="list-group-item d-flex"> <span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Glacerus Raid <f className="item-effect">0.2 Points.</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Draco Raid <f className="text-success">0.2 Points.</f> </li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Laurena Raid<f className="text-success"> 0.2 Points</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Zenas Raid <f className="text-success">0.4 Points.</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Erenia Raid <f className="text-success">0.4 Points.</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Mad March Hare Raid<f className="text-success">  0.5 Points.</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Chicken Queen Raid<f className="text-success">  0.5 Points.</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Fernon Raid<f className="text-success"> 0.6 Points.</f> </li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Kirollas Raid<f className="text-success"> 0.6 Points.</f> </li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Carno Raid<f className="text-success">  0.6 Points.</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Belial Raid<f className="text-success"> 1 Points.</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Paimon Raid <f className="text-success">1.2 Points.</f></li>
+            <li className="list-group-item d-flex"><span className="badge badge-primary badge-pill"><img src="asset/mvpbox.png" alt="" /></span>Hardcore Raid<f className="text-success">  2 Points.</f></li>            
+          </ul>
+
           <ul className="list-group mt-3">
             <li className="list-group-item d-flex justify-content-center"><h5 > Lord Draco</h5></li>
             <li className="list-group-item">50x Full of Moon</li>
@@ -184,6 +202,18 @@ export default function Box() {
             <li className="list-group-item">3x Large Lump of Gold</li>
             <li className="list-group-item">1x Orc Weapon</li>
             <li className="list-group-item">1x Fairy Booster</li>
+          </ul>
+
+          <ul className="list-group mt-3">
+            <li className="list-group-item d-flex justify-content-center"> <h5>Hardcore</h5></li>
+            <li className="list-group-item">1x Holy Light</li>
+            <li className="list-group-item">1x Broken Yertirand Wand</li>
+            <li className="list-group-item">1x Winter Costume Box</li>
+            <li className="list-group-item">3x Rarify Upgrade</li>
+            <li className="list-group-item">1x Upgrade Item</li>
+            <li className="list-group-item">1x Partner Ticket Skill (All)</li>
+            <li className="list-group-item">30x Giant Lump of Gold</li>
+            <li className="list-group-item">10x Black Titanium Bar</li>
           </ul>
 
 
