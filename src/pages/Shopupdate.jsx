@@ -35,6 +35,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Fluffy Bally Pet</th>
+                                    <th scope="col"><img src="asset/EasterEvent/fluff.png" alt="" /></th>
                                     
                                 </tr>
                                 <d className="item-effect-shell">
@@ -53,6 +54,7 @@ export default function Shopupdate() {
                                 <tr>
                                     <th scope="col">Koala Pet</th>
                                     <th scope="col"><img src="asset/shop/Koala.png" alt="" /></th>
+                                    <th scope="col"><img src="asset/shop/KoalaBuff.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - When raid is finished, there's a 5% chance that box drops second time.
@@ -74,6 +76,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Raid Ring</th>
+                                    <th scope="col"><img src="asset/shop/raidring.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - When raid is finished, there's a 7% chance that box drops second time.
@@ -86,7 +89,8 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Barni (S Buff)</th>                                 
+                                    <th scope="col">Barni (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>                                 
                                 </tr>
                                 <d className="item-effect-shell">
                                     - Ranged attacks are increased by 12%.<br />
@@ -102,6 +106,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Hongbi (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/hongbi.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - All defences are increased by 10%.<br />
