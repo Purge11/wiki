@@ -53,7 +53,7 @@ Information of buffs:
 First Tattoo :  <br></br>
 <div class="text-danger"> - Eagle pattern: Piercing Gaze (Good PVE and PVP)<br></br>
 Second Tattoo : <br></br></div>
-<div class="text-danger">- Snake pattern: Arcane wisdom (Good PVE and PVP)<br></br>
+<div class="text-danger"></div>- Snake pattern: Arcane wisdom (Good PVE and PVP)<br></br>
 <br></br>
 Information of buffs:
 <br></br>
@@ -88,8 +88,7 @@ Information of buffs:
 
                 </div>
             </div>     
-
-            </div>      
+    
             
     )
 }
