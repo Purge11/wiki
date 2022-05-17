@@ -19,8 +19,7 @@ export default function SP() {
                         </thead>
                         <tbody>
                             <tr>
-                                <th scope="row danger">SP1</th> 
-                                <th scope="col"><img src="https://itempicker.atlagaming.eu/api/items/icon/901" alt="" /></th>                               
+                                <th scope="row danger">SP1</th>                              
                                 <td>You can get SP1's from Starter Pack NPC.</td>
                             </tr>
                             <tr>
