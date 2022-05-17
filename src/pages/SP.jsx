@@ -5,90 +5,77 @@ export default function SP() {
     return (
         <div className='sp'>
             <div className="container">
-                <div className="row  ">
+            <h1 className="nosvoid-color d-flex justify-content-center">How do i get SP's ? </h1>
+                <br />
+                <br />
 
-                    <h2 className="nosvoid-color d-flex justify-content-center">How ​​do I get SP cards?</h2>
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-
-                    <h3>Sp1</h3>
-                    <br />
-                    - You can buy it from the starting Npc.
-                    <br />
-                    <br />
-                    <h3>Sp2-4</h3>
-                    <br />
-                    - You can have the red zone determined on the map by entering the portal and
-                    killing the monsters.
-                    <br />
-                    <br />
-                    <h3>Sp5</h3>
-                    <br />
-                    - Lord Draco Raid box.
-                    <br />
-                    <br />
-                    <h3>Sp6</h3>
-                    <br />
-                    - Glacerus Raid box. (Sp2 for Martial Artist)
-                    <br />
-                    <br />
-                    <h3>Sp7-8</h3>
-                    <br />
-                    - Witch Lauren raid box (Sp3 and Sp4 for Martial Artist)
-                    <br />
-                    <br />
-                    <h3>Sp9</h3>
-                    - $Warp P8 Paimon Raid or craft "Craft Specialist 9" NPC
-                    <br />
-                    <br />
-                    <h3>Wedding SP</h3>
-                    <br />
-                    - You can get the wedding expert card from Act4.
-                    <br />
-                    <br />
-                    <h3>Fish SP</h3>
-                    <br />
-                    <div>
-                        - You can have it by reading the guide.<a href="fish">《📘》fish-guide</a>
-                    </div>
-                    <br />
-                    <br />
-                    <h3>Pajama SP</h3>
-                    <br />
-                    - Christmas and Easter Event
-                    <br />
-                    <br />
-                    <h3>Jajamaru SP</h3>
-                    <br />
-                    -《🎃》halloween-event
-                    <br />
-                    <br />
-                    <h3>Cook SP</h3>
-                    <br />
-                    - Not yet added to the game
-                    <br />
-                    <br />
-                    <h3>Chicken SP</h3>
-                    <br />
-                    - Not yet added to the game.
-                    <br />
-                    <br />
-                    <h3>Pirate SP</h3>
-                    <br />
-                    - You can get the pirate expert card through the summer event.
-                    <br />
-                    <br />
-                    <div className=""></div>
-                    <img className="" src="asset/sp/sp2.png" alt="" />
-                    <img className="mt-3" src="asset/sp/sp1.png" alt="" />
-
-
-
+                <div className='borderoLP'>
+                    <table className="table">
+                        <thead className="thead-dark">
+                            <tr>
+                                <th scope="col">Specialist</th>
+                                <th scope="col">From where to get?</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row danger">SP1</th> 
+                                <th scope="col"><img src="https://itempicker.atlagaming.eu/api/items/icon/901" alt="" /></th>                               
+                                <td>You can get SP1's from Starter Pack NPC.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">SP2 - 4</th>
+                                <td>You can have the red zone determined on the map by entering the portal and killing the monsters.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">SP5</th>
+                                <td>Lord Draco Raid Box [$Warp raidarea].</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">SP6</th>
+                                <td>Glacerus Raid Box [$Warp raidarea].</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">SP7 - 8</th>
+                                <td>Laurena Raid Box [$Warp raidarea].</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">SP9</th>
+                                <td>Craft Specialist 9 NPC [$Warp p8].</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Wedding SP</th>
+                                <td>From Valentine's Day Event.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Fish SP</th>
+                                <td>You can get it from Fish Area with a quest.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Pyjama SP</th>
+                                <td>From Christmas and Easter Event.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Jajamaru SP</th>
+                                <td>From Halloween and Easter Event</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Chicken SP</th>
+                                <td>From Easter Event</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Pirate SP</th>
+                                <td>From Summer Event.</td>
+                            </tr>
+                            <tr>
+                                <th scope="row danger">Chef SP</th>
+                                <td>Not available yet.</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
-
         </div>
-    )
+
+)
 }
