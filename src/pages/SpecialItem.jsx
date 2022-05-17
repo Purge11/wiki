@@ -142,7 +142,7 @@ export default function SpecialItem() {
                         <h4 className="p-1"><b>Upgrade Weapon Skin</b></h4>
                     </div>
                     <div className="d-flex p-3 justify-content-center"><div className="alert alert-secondary" role="alert">
-                        Works only for prestige 8 and christmas skins.
+                        Works only for prestige 8, christmas and frost skins.
                     </div></div>
                     <div className="d-flex p-0 justify-content-center" >
                         <div className='col-sm-5 banner-image imgContainer'>
