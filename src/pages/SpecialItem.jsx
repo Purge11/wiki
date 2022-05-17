@@ -121,8 +121,8 @@ export default function SpecialItem() {
                         <h4 className="p-1"><b>Change Skin 2 Item </b> <i>(Works only for Prestige 8 Skins)</i> </h4>
                     </div>
                     <div className="d-flex flex-row justify-content-center">
-                        <div className="p-8"><img src="asset/SpecialItem/FrostSkinAmulet.jpg" alt="" /></div>
-                        <h4 className="p-1"><b>Change Skin 3 Item </b> <i>(Works only for Prestige 8 Skins)</i> </h4>
+                        <div className="p-8"><img src="asset/SpecialItem/ChangeSkin3.png" alt="" /></div>
+                        <h4 className="p-1"><b>Change Skin 3 Item </b> <i>(Works only for Frost skins)</i> </h4>
                     </div>
                     <div className="d-flex p-3 justify-content-center"><div className="alert alert-secondary" role="alert">
                         You can change another class skin to your own class.
