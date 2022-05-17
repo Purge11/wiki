@@ -7,60 +7,56 @@ function Badge() {
 
                 <div className="row  ">
 
-                    <h3 className=" nosvoid-color d-flex justify-content-center">What is Badge? </h3><div className='text-danger mt-2'>(you can buy only three badges per character!)</div>
+                <d className="mcc d-flex justify-content-center"> How to craft Rarify Item ?</d>
+                            <hr />
+                            <p>
+                                - Fairy King's Essence : You can craft it with 20x Fernon Eggs. You can get Fernon Egg after completing a Fernon Raid. (1 raid = 1 egg)
+                                <br />
+                                - Turik's Essence : You can craft it with 1x Zenas Fairy (You have different NPC's for each elements)
+                                <br />
+                                - Varik's Essence : You can craft it with 1x Erenia Fairy (You have different NPC's for each elements)
+                                <br />
 
-                    <br />
+                            </p>
 
-                    The Badge is a special equipment item that you can purchase for 1b in the Badge
-                    Room. It helps you a lot in PVP or PVE (depending on stats) if you rarify and
-                    increase its upgrade...
-                    <br />
-                    <br />
-                    <img src="asset/badge/badge1.png" alt="" />
-                    <h3 className=" nosvoid-color d-flex justify-content-center mt-3">How can I create and use rarify items?</h3>
-                    <br />
+                            <d className="text-danger d-flex justify-content-center">
+                                <i>You will be able to craft 3x Rarify Items after you got materials that mentioned above.
+                                    </i>
+                            </d>
 
-                    To craft 3x Rarify items, you need:
-                    <br />
-                    <br />
-                    <h5>Zenas Fairies for Rarify</h5>
-                    You can get them from the Zenas Raid box (P2) and trade them in the Badge Room.
-                    All elements have a special NPC in the room.
-                    <br />
-                    <br />
-                    <h5>Erenia Fairys for the Essences</h5>
-                    You can get them from the Erenia Raid box (P3) and they are the same as in Zenas
-                    Fairys. You need the same element Erenia and the Fairy of Zenas to create Rarify
-                    items. 20x Fernon Eggs for
-                    <br />
-                    <br />
-                    <h5>Fairy King's Essence</h5>
-                    You get them in Fernon Raid (1 Raid x1 Egg) and you can craft Essence in every
-                    elemental NPC in the badge room..
-                    <br />
-                    <h5 className="mt-3">To craft x5 upgrade items, you need:</h5>
-                    1x Grail's Pattern - Lord Draco Raid Box
-                    <br />
-                    1x Broken Key - Glacerus Raid Box
-                    <br />
-                    1x Upgrade Stone - Maru Raid Box
-                    <br />
-                    1x Soul of Innocence - Laurena Raid Box
-                    <br />
-                    <h5 className="mt-3">How are my chances to upgrade and upgrade badges?</h5>
-                    Badge can be upgraded 10 times and you can upgrade up to r8 (Phenomenal).
-                    <br />
-                    Rare chance = 20%
-                    <br />
-                    Chance to upgrade = (29 - current upgrade * 3%)
-                    <br />
-                    Once you have the r8 the item for rarify becomes the mussel modifier which will
-                    randomize your options. It will no longer fail.
-                    <br />
-                    Effect values ​​scale with effect level (C, B, A, S) and item upgrade.
-                    <br />
-                    <br />
-                    <h1 className='d-flex justify-content-center mt-5 mb-5 nosvoid-color '>Perfect badge bonuses<div className="youtube-icn"></div> </h1>
+                            <d className="mcc d-flex justify-content-center"> How to craft Upgrade Item ?</d>
+                            <hr />
+                            <p>
+                                - Grail's Pattern : You can get them from Lord Draco Raid Boxes
+                                <br />
+                                - Broken Key : You can get them from Glacerus Raid Boxes
+                                <br />
+                                - Upgrade Stone : You can get them from Maru Raid Boxes
+                                <br />
+                                - Soul of Innocence : You can get them from Laurena Raid Boxes
+                                <br />
+
+                            </p>
+
+                            <d className="text-danger d-flex justify-content-center">
+                                <i>You will be able to craft 5x Upgrade Items after you got materials that mentioned above.
+                                    </i>
+                            </d>
+
+                            <d className="mcc d-flex justify-content-center"> Whats chances of upgrade and rarify?</d>
+                            <hr />
+                            <p>
+                                - Badge can be upgraded 10 times and you can upgrade up to r8 (Phenomenal).
+                                <br />
+                                - Rare Chance = 20%
+                                <br />
+                                - Chance to upgrade = (29 - current upgrade * 3%)
+                                <br />
+                                - Once you have the r8 the item for rarify becomes the mussel modifier which will randomize your options. It will no longer fail.
+                               Effect values ​​scale with effect level (C, B, A, S) and item upgrade.
+                                <br />
+
+                            </p>
 
                     <ul className="list-group mt-3 ">
 

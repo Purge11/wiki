@@ -30,6 +30,13 @@ export default function Content() {
                                 </tr>
 
                                 <tr className=''>
+                                    <th scope="row danger">Yanki</th>
+                                    <td className=' '> <a href='https://www.youtube.com/channel/UCJKN4sCE4_ENIKBrrA6MiSw ' className='text-danger'>Channel</a></td>
+
+
+                                </tr>
+
+                                <tr className=''>
                                     <th scope="row danger">pedro tapia nosvoid español</th>
                                     <td className=' '> <a href='https://www.youtube.com/channel/UCgphfXMIFVhfd7VS5zlCErQ/videos' className='text-danger'>Channel</a></td>
 
@@ -51,7 +58,9 @@ export default function Content() {
                                     <td className=' '> <a href='https://www.youtube.com/channel/UCReA8noJWBmuPsqlsDuf58w' className='text-danger'>Channel</a></td>
 
 
-                                </tr>                           
+                                </tr>            
+                                
+                                               
 
 
                             </tbody>
