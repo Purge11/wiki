@@ -22,6 +22,11 @@ import Faires from './pages/Faires';
 import Fish from './pages/Fish';
 import Perfection from './pages/Perfection';
 import Prestige from './pages/Prestige';
+import Prestige81 from './pages/Prestige81';
+import Prestige81Books from './pages/Prestige81Books';
+import Prestige81DailyQuests from './pages/Prestige81DailyQuests';
+import Prestige81LotteryRework from './pages/Prestige81LotteryRework';
+import Prestige81Raids from './pages/Prestige81Raids';
 import Resistance from './pages/Resistance';
 import Rune from './pages/Rune';
 import Server from './pages/Server';
@@ -249,6 +254,7 @@ const Aside = ({ setLocale }) => {
               <MenuItem><a href='perfection'>{intl.formatMessage({ id: 'Perfection' })}</a>  </MenuItem>
               <MenuItem ><a href='pets'>{intl.formatMessage({ id: 'Pets' })} </a></MenuItem>
               <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
+              <MenuItem><a href='prestige81'>{intl.formatMessage({ id: 'Prestige81' })}</a> </MenuItem>
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
               <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
               <MenuItem><a href='resistance'>{intl.formatMessage({ id: 'Resistance' })} </a> </MenuItem>
@@ -357,6 +363,11 @@ const Aside = ({ setLocale }) => {
           <Route path='/fish' component={Fish} />
           <Route path='/perfection' component={Perfection} />
           <Route path='/prestige' component={Prestige} />
+          <Route path='/prestige81' component={Prestige81} />
+          <Route path='/prestige81Books' component={Prestige81Books} />
+          <Route path='/prestige81DailyQuests' component={Prestige81DailyQuests} />
+          <Route path='/prestige81LotteryRework' component={Prestige81LotteryRework} />
+          <Route path='/prestige81Raids' component={Prestige81Raids} />
           <Route path='/resistance' component={Resistance} />
           <Route path='/rune' component={Rune} />
           <Route path='/schedule' component={Schedule} />
