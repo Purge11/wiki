@@ -37,7 +37,7 @@ export default function Shopupdate() {
 <br></br>
 </div>
 <hr></hr>
-                <img src="asset/prestige81/p811.png" class="figure-img img-fluid " alt="A generic square placeholder with rounded corners in a figure."/>
+                <img src="asset/prestige81/materials.png" class="figure-img img-fluid borderoLP" alt="A generic square placeholder with rounded corners in a figure."/>
                 <hr></hr>
                 </div>
                 </div>
