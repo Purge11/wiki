@@ -15,6 +15,21 @@ export default function Shopupdate() {
     <li class="page-item"><a class="page-link" href="Prestige81Raids">RAIDS</a></li>
     <li class="page-item"><a class="page-link" href="Prestige81DailyQuests">DAILY QUESTS</a></li>
     <li class="page-item"><a class="page-link" href="Prestige81LotteryRework">LOTTERY REWORK</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81FamilyTower">FAMILY TOWER</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81WeaponSkin">WEAPON SKIN</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81MiniWB">MINI WORLDBOSS</a></li>
+    
+  </ul>
+</nav>
+</div>
+<div className='d-flex justify-content-center'>
+<nav aria-label="Page navigation example ">
+  <ul class="pagination  ">
+    <li class="page-item"><a class="page-link" href="Prestige81FamilyDungeon">FAMILY DUNGEON</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81NewJewel">NEW JEWELS</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81NewItems">NEW ITEMS</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81Materials">MATERIALS</a></li>
+    
   </ul>
 </nav>
 <br></br>
@@ -22,7 +37,7 @@ export default function Shopupdate() {
 <br></br>
 </div>
 <div className="borderoLP">
-                 <p class="text-center">You can buy Lottery Tickets for 24kk per one. After buying you get Lottery Box. <p class="youtube-color">You can buy only 500 Lottery Boxes per week. </p></p>
+                 <p class="text-center">You can buy Lottery Tickets for 24kk each. After buying, you get the Lottery Box. <p class="youtube-color">You can buy only 500 Lottery Boxes per week. </p></p>
                  <img src="asset/prestige81/lottery1.png" class="figure-img img-fluid " alt="A generic square placeholder with rounded corners in a figure."/>
                  <hr></hr>
 <br></br>
@@ -69,7 +84,7 @@ export default function Shopupdate() {
 
                 <hr></hr>
  <br></br>
-                <p class=" text-center"><u>After opening the 500th box, you will receive a <b>Gold Lottery Box</b><br></br>There will be two <b>additionaly</b> items from the wheel in the Gold Lottery box, which will be changed every few weeks.</u></p>
+                <p class=" text-center"><u>After opening the 500th box, you will receive a <b>Gold Lottery Box</b><br></br>There will be two <b>additionaly</b> ''NosWheel'' items in the Gold Lottery Box. This will be switched every few weeks.</u></p>
                 <p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white "><h7>Gold Lottery Box drop</h7></div></p>
   <img src="asset/prestige81/lottery3.png" class="figure-img img-fluid toobigimg  " alt=""/>
   <ul class="list-group">
@@ -103,6 +118,21 @@ export default function Shopupdate() {
     <li class="page-item"><a class="page-link" href="Prestige81Raids">RAIDS</a></li>
     <li class="page-item"><a class="page-link" href="Prestige81DailyQuests">DAILY QUESTS</a></li>
     <li class="page-item"><a class="page-link" href="Prestige81LotteryRework">LOTTERY REWORK</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81FamilyTower">FAMILY TOWER</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81WeaponSkin">WEAPON SKIN</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81MiniWB">MINI WORLDBOSS</a></li>
+    
+  </ul>
+</nav>
+</div>
+<div className='d-flex justify-content-center'>
+<nav aria-label="Page navigation example ">
+  <ul class="pagination  ">
+    <li class="page-item"><a class="page-link" href="Prestige81FamilyDungeon">FAMILY DUNGEON</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81NewJewel">NEW JEWELS</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81NewItems">NEW ITEMS</a></li>
+    <li class="page-item"><a class="page-link" href="Prestige81Materials">MATERIALS</a></li>
+    
   </ul>
 </nav>
 <br></br>

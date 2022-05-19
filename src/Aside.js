@@ -26,8 +26,15 @@ import Prestige from './pages/Prestige';
 import Prestige81 from './pages/Prestige81';
 import Prestige81Books from './pages/Prestige81Books';
 import Prestige81DailyQuests from './pages/Prestige81DailyQuests';
+import Prestige81FamilyDungeon from './pages/Prestige81FamilyDungeon';
+import prestige81FamilyTower from './pages/Prestige81FamilyTower';
 import Prestige81LotteryRework from './pages/Prestige81LotteryRework';
+import Prestige81Materials from './pages/Prestige81Materials';
+import Prestige81MiniWB from './pages/Prestige81MiniWB';
+import Prestige81NewItems from './pages/Prestige81NewItems';
+import Prestige81NewJewel from './pages/Prestige81NewJewel';
 import Prestige81Raids from './pages/Prestige81Raids';
+import Prestige81WeaponSkin from './pages/Prestige81WeaponSkin';
 import Resistance from './pages/Resistance';
 import Rune from './pages/Rune';
 import RunesToUse from './pages/RunesToUse';
@@ -387,8 +394,15 @@ const Aside = ({ setLocale }) => {
           <Route path='/prestige81' component={Prestige81} />
           <Route path='/prestige81Books' component={Prestige81Books} />
           <Route path='/prestige81DailyQuests' component={Prestige81DailyQuests} />
+          <Route path='/prestige81FamilyDungeon' component={Prestige81FamilyDungeon} />
+          <Route path='/prestige81FamilyTower' component={prestige81FamilyTower} />
           <Route path='/prestige81LotteryRework' component={Prestige81LotteryRework} />
+          <Route path='/prestige81Materials' component={Prestige81Materials} />
+          <Route path='/prestige81MiniWB' component={Prestige81MiniWB} />
+          <Route path='/prestige81NewItems' component={Prestige81NewItems} />
+          <Route path='/prestige81NewJewel' component={Prestige81NewJewel} />
           <Route path='/prestige81Raids' component={Prestige81Raids} />
+          <Route path='/prestige81WeaponSkin' component={Prestige81WeaponSkin} />
           <Route path='/resistance' component={Resistance} />
           <Route path='/rune' component={Rune} />
           <Route path='/runestouse' component={RunesToUse} />
