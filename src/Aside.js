@@ -23,6 +23,11 @@ import Faires from './pages/Faires';
 import Fish from './pages/Fish';
 import Perfection from './pages/Perfection';
 import Prestige from './pages/Prestige';
+import Prestige81 from './pages/Prestige81';
+import Prestige81Books from './pages/Prestige81Books';
+import Prestige81DailyQuests from './pages/Prestige81DailyQuests';
+import Prestige81LotteryRework from './pages/Prestige81LotteryRework';
+import Prestige81Raids from './pages/Prestige81Raids';
 import Resistance from './pages/Resistance';
 import Rune from './pages/Rune';
 import RunesToUse from './pages/RunesToUse';
@@ -379,6 +384,11 @@ const Aside = ({ setLocale }) => {
           <Route path='/fish' component={Fish} />
           <Route path='/perfection' component={Perfection} />
           <Route path='/prestige' component={Prestige} />
+          <Route path='/prestige81' component={Prestige81} />
+          <Route path='/prestige81Books' component={Prestige81Books} />
+          <Route path='/prestige81DailyQuests' component={Prestige81DailyQuests} />
+          <Route path='/prestige81LotteryRework' component={Prestige81LotteryRework} />
+          <Route path='/prestige81Raids' component={Prestige81Raids} />
           <Route path='/resistance' component={Resistance} />
           <Route path='/rune' component={Rune} />
           <Route path='/runestouse' component={RunesToUse} />
