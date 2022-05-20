@@ -41,17 +41,17 @@ export default function Shopupdate() {
 <br></br>
 <div class='borderoLP'>
                  <div class="alert alert-secondary nosvoid-color text-center" role="alert">
-                 <b>Family Tower is a new instance for the whole family where you can get new items, buffs and climb the Family Tower ranking.<br></br>
-Your task is to defeat every boss on the floor. There are <u className='youtube-color'>11</u> floors.<br></br> Each next level will be more difficult. Remember that on each floor your time is limited to <u className='youtube-color'>180 sec</u>. <br></br>Entry to the Family Tower resets daily at <u className='youtube-color'>10:00 PM</u>. To go there, <u className='youtube-color'>Leader / Co-Leader</u> must enter the starting portal, everyone on the map will be teleported to the instance. <br></br>
-After every floor you can get some Family Tower Coins which you need to craft Tower stuff.<br></br>
-If you die in Family Tower you can use Tower Salvation Potion to revive. You can get Tower Salvation Potion after finishing floors and from Daily Quest.</b><br></br>
+                 <b className='justify-content-center'>Family Tower is a new instance for the whole family where you can get new items, buffs and climb the Family Tower ranking.<br></br>
+Your task is to defeat every boss on the floor. There are <u className='youtube-color'>11</u> floors.<br></br> The Floors will progressively get harder. Remember that on each floor your time is limited to <u className='youtube-color'>180 sec</u>. <br></br>Entry to the Family Tower resets daily at <u className='youtube-color'>00:00</u>. To go there, <u className='youtube-color'>Leader / Co-Leader</u> must enter the starting portal, everyone on the map will be teleported into the instance. <br></br>
+After every floor you'll be rewarded with some Family Tower Coins which you can use to craft new Items.<br></br>
+If you die in Family Tower you can use Tower Salvation Potion to revive. You can get Tower Salvation Potion after finishing floors and from Daily Quest.<br></br>When Co Leader or Any Leader go in via NPC "Family Tower Game" it will teleport all members from prestige 8.1 map. If you're not in 8.1 Prestige map, you wont be teleported.</b>
 <br></br>
 <img src="asset/prestige81/tower3.png" class="rounded-circle border border-danger toobigimg" alt="A generic square placeholder with rounded corners in a figure."/>
 </div>
 <p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h5>Family Tower Buffs</h5></div></p>
 <div class="alert alert-secondary nosvoid-color text-center" role="alert">
                  <b>After the floors are completed, all those members on family tower will gain buffs that last until the next Family Tower reset. <br>
-                 </br>This means that attending every day there is a buff that can be permanent.</b><hr></hr>
+                 </br>Meaning attending Family Tower everyday could basically get you a permanent Buff.</b><hr></hr>
              
                    
                        
@@ -77,7 +77,7 @@ If you die in Family Tower you can use Tower Salvation Potion to revive. You can
                     <hr></hr>
                     <div class="row">
                                     <div class="col-6 p-0 order-1 black-color"><b>Family Tower Floor 9 Buff</b></div>
-    <div class="col-6 p-0 order-1"><img src="asset/prestige81/tower1.png" alt="" /></div>
+    <div class="col-6 p-0 order-1"><img src="asset/prestige81/tower2.png" alt="" /></div>
     
 </div>
 
@@ -122,7 +122,7 @@ If you die in Family Tower you can use Tower Salvation Potion to revive. You can
     </tr>
     <tr>
       <th scope="row"><img src="asset/prestige81/toweritem3.png" class="figure-img img-fluid rounded mx-auto d-block" alt="A generic square placeholder with rounded corners in a figure."/></th>
-      <td><th scope="row ">Sandstorm Slayer Tittle</th></td>
+      <td><th scope="row ">Sandstorm Slayer Title</th></td>
       <td><f className='winter-color'>* All attacks in Family Tower increased by 15%.<br></br>
       * Overall SL increased by 4.<br></br>
       * Movement Speed increased by 1.</f></td>
@@ -277,8 +277,8 @@ If you die in Family Tower you can use Tower Salvation Potion to revive. You can
   <li class="list-group-item d-flex justify-content-center">Large Lump of Gold x50</li>
   <li class="list-group-item d-flex justify-content-center">KekW Emote x3</li>
   <li class="list-group-item d-flex justify-content-center">Cellon 10 x2</li>
-  <li class="list-group-item d-flex justify-content-center">Simp Tittle x1</li>
-  <li class="list-group-item d-flex justify-content-center">Suggar Mommy Tittle x1</li>
+  <li class="list-group-item d-flex justify-content-center">Simp Title x1</li>
+  <li class="list-group-item d-flex justify-content-center">Sugar Mommy Title x1</li>
 </ul>
                 
 </div>
