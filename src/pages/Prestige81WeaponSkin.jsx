@@ -41,7 +41,7 @@ export default function Shopupdate() {
                  <div className='borderoLP'>
                  <p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h5>Frost Weapon Skins Craft</h5></div></p>
                  <div class="alert alert-secondary text-center" role="alert">
-  You can find it in Family Tower Game Lobby.<br></br>
+                 The Craft NPC can be found inside the Family Tower Game Lobby.<br></br>
   <img src="asset/prestige81/weaponskin3.png" class="figure-img img-fluid border border-danger " alt="A generic square placeholder with rounded corners in a figure."/>
 </div>
                  <img src="asset/prestige81/weaponskin1.png" class="figure-img img-fluid border border-danger " alt="A generic square placeholder with rounded corners in a figure."/>
@@ -62,8 +62,8 @@ export default function Shopupdate() {
 
                  <p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h5>Upgrade Weapon Skin Craft</h5></div></p>
                  <div class="alert alert-secondary text-center" role="alert">
-  You can find it in Family Tower Game Lobby.<br></br>
-  With this item you can upgrade your Weapon Skins.
+                 The Craft NPC can also be found inside the Family Tower Game Lobby.<br></br>
+                 Upgrade Skin allowes you to upgrade all of your Weapon Skins.
 </div>
                  <img src="asset/prestige81/weaponskin2.png" class="figure-img img-fluid border border-danger " alt="A generic square placeholder with rounded corners in a figure."/>
                  <br></br>

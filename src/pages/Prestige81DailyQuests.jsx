@@ -95,7 +95,7 @@ export default function Shopupdate() {
 </div>
 <div className='borderoLP'>
                      
-                     <strong><p class="text-primary">Successfully complete Monstrous Golden Sandstorm Raid 1 (0/15)</p></strong>
+                     <strong><p class="text-primary">Successfully complete Monstrous Golden Sandstorm Raid 1 (0/10)</p></strong>
                      <ul class="list-group">
                        <li class="list-group-item">8x Random Amulet Box (x4)</li>
                        <li class="list-group-item">50.000 Reputation</li>

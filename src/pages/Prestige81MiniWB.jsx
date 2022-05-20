@@ -52,7 +52,7 @@ export default function Shopupdate() {
                  <b>Strange Chests will spawn in random locations.</b>
                  </div>
                  <br></br>
-<p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h10>Mini Wolrd Boss Rewards</h10></div></p>
+<p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h10>Mini World Boss Rewards</h10></div></p>
 <br></br>
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-center ">Shiny Sky Blue Gem x1 </li>

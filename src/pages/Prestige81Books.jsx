@@ -53,19 +53,19 @@ export default function Shopupdate() {
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td><th scope="row"><img src="asset/prestige81/eagleloatome.png" class="figure-img img-fluid" alt="A generic square placeholder with rounded corners in a figure."/></th></td>
+      <td><th scope="row"><img src="asset/prestige81/eagleloatome.png" class="figure-img img-fluid rounded mx-auto d-block" alt="A generic square placeholder with rounded corners in a figure."/></th></td>
       <td>Eagle Loa Tome</td>
       <td>Increases agility by 120.</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td><th scope="row"><img src="asset/prestige81/snakeloatome.png" class="figure-img img-fluid" alt="A generic square placeholder with rounded corners in a figure."/></th></td>
+      <td><th scope="row"><img src="asset/prestige81/snakeloatome.png" class="figure-img img-fluid rounded mx-auto d-block" alt="A generic square placeholder with rounded corners in a figure."/></th></td>
       <td>Snake Loa Tome</td>
       <td>Increases intelligence by 120.</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td><th scope="row"><img src="asset/prestige81/lionloatome.png" class="figure-img img-fluid" alt="A generic square placeholder with rounded corners in a figure."/></th></td>
+      <td><th scope="row"><img src="asset/prestige81/lionloatome.png" class="figure-img img-fluid rounded mx-auto d-block" alt="A generic square placeholder with rounded corners in a figure."/></th></td>
       <td>Lion Loa Tome</td>
       <td>Increases physical strength by 120.</td>
     </tr>
