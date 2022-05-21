@@ -34,14 +34,14 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Fluffy Bally Pet</th>
-                                    <th scope="col"><img src="asset/EasterEvent/fluff.png" alt="" /></th>
+                                    <th scope="col">Caligor's Golden Horn (New)</th>
+                                    <th scope="col"><img src="asset/shop/caligorhelmet.png" alt="" /></th>
                                     
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All attacks are increased by 5%.
+                                    - Increases PvP attack power by 10%.
                                     <br />
-                                    - All defences are increased by 5%.
+                                    - Up to level 4 there is a 15% chance of never getting a bad effect.
                                     <br />
                                     - Reduces damage received in PvP by 10%.
                                 </d>
@@ -75,11 +75,14 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Raid Ring</th>
-                                    <th scope="col"><img src="asset/shop/raidring.webp" alt="" /></th>
+                                    <th scope="col">Lucy Lopear (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/lucy.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - When raid is finished, there's a 7% chance that box drops second time.
+                                    - Damage in Raids is increased by 15%.<br />
+                                    - Reduces the enemy's elemental resistances by 10.<br />
+                                    - The equipped fairy's element increases by 10.<br />
+                                    - Movement speed is increased by 1.
                                 </d>
                             </thead>
                         </table>
@@ -105,17 +108,34 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Hongbi (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/hongbi.webp" alt="" /></th>
+                                    <th scope="col">Mad March (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/march.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - All defences are increased by 10%.<br />
-                                    - Up to level 4 there is a 12% chance of never getting a bad effect.<br />
-                                    - Movement Speed is increased by 1.<br />
+                                    - There is 5% chance that picked up gold will be doubled.<br />
+                                    - Increases Gold earned by 20%.<br />
+                                    - Damage to all monsters is increased by 20%.<br />
+                                    - Movement Speed is increased by 1.
                                 </d>
                             </thead>
                         </table>
                     </div>
+
+                    <div className='mt-5'>
+                        <table className="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Betting Costume</th>
+                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
+                                </tr>
+                                <d className="item-effect-shell">
+                                    - There's 10% more chance of getting rarity 7-8 while betting.
+                                </d>
+                            </thead>
+                        </table>
+                    </div>
+
+                    
 
                     <div className='mt-5'>
                         <table className="table">
