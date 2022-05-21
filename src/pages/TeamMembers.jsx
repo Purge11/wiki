@@ -48,6 +48,12 @@ export default function TeamMembers() {
                                 <td>Team Manager</td>
                                 <td className="centered"><img src="asset/team/TeamM.webp" alt="" /></td>
                             </tr>
+                            <tr className='admin-color'>
+                                <th scope="row">nayla</th>
+                                <td>DE/ENG</td>
+                                <td>Super Game Master</td>
+                                <td className="centered"><img src="asset/team/SGM.webp" alt="" /></td>
+                            </tr>
                             <tr className='web-dev-color'>
                                 <th scope="row">Killrog</th>
                                 <td>PL/ENG</td>
@@ -85,22 +91,16 @@ export default function TeamMembers() {
                                 <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
                             </tr>
                             <tr className='game-master-color'>
-                                <th scope="row">nayla</th>
-                                <td>DE/ENG</td>
-                                <td>Game Master</td>
-                                <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
-                            </tr>
-                            <tr className='game-master-color'>
                                 <th scope="row">Cara</th>
                                 <td>DE/ENG</td>
                                 <td>Game Master</td>
                                 <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
                             </tr>
-                            <tr className='game-master-color'>
+                            <tr className='rule-color'>
                                 <th scope="row">Temko</th>
                                 <td>FR/ENG</td>
-                                <td>Game Master</td>
-                                <td className="centered"><img src="asset/team/GM.webp" alt="" /></td>
+                                <td>Game Master / Rule Designer</td>
+                                <td className="centered"><img src="asset/team/Rule.png" alt="" /></td>
                             </tr>
                             <tr className='game-master-color'>
                                 <th scope="row">Krypton69</th>
