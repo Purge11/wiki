@@ -76,7 +76,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Lucy Lopear (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/lucy.png" alt="" /></th>
+                                    <th scope="col"><img src="asset/EasterEvent/lucy.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - Damage in Raids is increased by 15%.<br />
@@ -109,7 +109,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Mad March (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/march.png" alt="" /></th>
+                                    <th scope="col"><img src="asset/EasterEvent/march.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - There is 5% chance that picked up gold will be doubled.<br />
