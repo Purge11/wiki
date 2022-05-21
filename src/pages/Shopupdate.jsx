@@ -7,7 +7,7 @@ export default function Shopupdate() {
                 <div className="row series-image-list ">
                     Hello NosVoid players,
                     <br />
-                    New Fortune Wheel update is alive. [16.05.2022]
+                    New Fortune Wheel update is alive. [21.05.2022]
                     <br />
                     <br />
                     <h3>What can i get from the Fortune Wheel?</h3>
