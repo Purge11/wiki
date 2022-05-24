@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Shopupdate() {
+export default function Prestige81MiniWB() {
   return (
     <div className='shop'>
       <div className="container">

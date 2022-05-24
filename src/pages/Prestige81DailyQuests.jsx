@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Shopupdate() {
+export default function Prestige81DailyQuests() {
   return (
     <div className='shop'>
       <div className="container">
