@@ -228,7 +228,7 @@ const Aside = ({ setLocale }) => {
               
             </SubMenu>
 
-            <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />} suffix={<span className="badge yellow">41</span>}>
+            <SubMenu title={intl.formatMessage({ id: 'Guides' })} icon={<FaList />} suffix={<span className="badge yellow">43</span>}>
 
               <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>}><a href='act4'>{intl.formatMessage({ id: 'Act4' })} </a></MenuItem>
 
@@ -259,6 +259,7 @@ const Aside = ({ setLocale }) => {
 
               <MenuItem><a href='prestige'>{intl.formatMessage({ id: 'Prestige' })}</a> </MenuItem>
               <MenuItem><a href='p8'>{intl.formatMessage({ id: 'Prestige 8' })} </a></MenuItem>
+              <MenuItem><a href='prestige81'>{intl.formatMessage({ id: 'Prestige 8.1' })} </a></MenuItem>
 
               <SubMenu suffix={<span className="badge yellow">3</span>} title={intl.formatMessage({ id: 'Raids' })} icon={<FaTicketAlt />}>
                 <MenuItem ><a href='raids'>{intl.formatMessage({ id: 'Raids' })} </a></MenuItem>
