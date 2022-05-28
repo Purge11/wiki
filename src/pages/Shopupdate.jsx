@@ -70,14 +70,14 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Lucy Lopear (S Buff)</th>
-                                    <th scope="col"><img src="asset/EasterEvent/lucy.png" alt="" /></th>
+                                    <th scope="col">Aegir (S Buff)</th>
+                                    <th scope="col"><img src="asset/shop/aegir.webp" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Damage in Raids is increased by 15%.<br />
-                                    - Reduces the enemy's elemental resistances by 10.<br />
-                                    - The equipped fairy's element increases by 10.<br />
-                                    - Movement speed is increased by 1.
+                                    - Meele attacks are increased by 12%<br />
+                                    - All defence powers are increased by 150.<br />
+                                    - Hit rate of all attacks is increased by 80.<br />
+                                    - Increases damage in Christmas Raid by 5%.
                                 </d>
                             </thead>
                         </table>
