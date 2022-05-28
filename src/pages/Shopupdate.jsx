@@ -52,20 +52,15 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Koala Pet</th>
-                                    <th scope="col"><img src="asset/shop/Koala.png" alt="" /></th>
-                                    <th scope="col"><img src="asset/shop/KoalaBuff.png" alt="" /></th>
+                                    <th scope="col">Fluffy Pet</th>
+                                    <th scope="col"><img src="asset/EasterEvent/fluffy.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - When raid is finished, there's a 5% chance that box drops second time.
+                                    - All attacks are increased by 5%.
                                     <br />
-                                    - When you finish Act4 and Caligor Raid you have 10% chance to get additional box.
+                                    - All defences are increased by 5%.
                                     <br />
-                                    - Increases Gold earned by 15%.
-                                    <br />
-                                   - Increases fame received by 15%.
-                                    <br />
-                                   - Damage in Raids is increased by 5%.
+                                   - Reduces damage received in PvP by 10%.
                                 </d>
                             </thead>
                         </table>
@@ -92,14 +87,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Barni (S Buff)</th>
-                                    <th scope="col"><img src="asset/shop/barni.webp" alt="" /></th>                                 
+                                    <th scope="col">Shadow King's Helmet</th>
+                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>                                 
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - Ranged attacks are increased by 12%.<br />
-                                    - Increases damage from critical hits by 15%.<br />
-                                    - Increases damage in Christmas Raid by 5%.<br />
-                                    - Dodge is increased by 80.
+                                    - Damage in Raids is increased by 8%.<br />
+                                    - All elemental resistance is increased by 7.<br />
+                                    - The chance of inflicting a critical hit is increased by 3%.
                                 </d>
                             </thead>
                         </table>
@@ -108,14 +102,13 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Mad March (S Buff)</th>
-                                    <th scope="col"><img src="asset/EasterEvent/march.png" alt="" /></th>
+                                    <th scope="col">Shadow King's Mask</th>
+                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There is 5% chance that picked up gold will be doubled.<br />
-                                    - Increases Gold earned by 20%.<br />
-                                    - Damage to all monsters is increased by 20%.<br />
-                                    - Movement Speed is increased by 1.
+                                    - Damage to all monsters is increased by 7%.<br />
+                                    - Damage in Raids is increased by 10%.<br />
+                                    - Increases Gold earned by 7%.
                                 </d>
                             </thead>
                         </table>
@@ -125,11 +118,20 @@ export default function Shopupdate() {
                         <table className="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">Betting Costume</th>
-                                    <th scope="col"><img src="asset/shop/beting.webp" alt="" /></th>
+                                    <th scope="col">Amora Pet</th>
+                                    <th scope="col"><img src="asset/shop/amorablue.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
-                                    - There's 10% more chance of getting rarity 7-8 while betting.
+                                    - All defences are increased by 5%.<br />
+                                    - All attacks are increased by 5%.<br />
+                                    - Movement speed is increased by 1.<br />
+                                    - There is a 5% chance of causing Amora Heal.<br />
+                                    <br />
+                                    < d className="text-success">
+                                    Amora Heal :<br />
+                                    - MP is increased by 5% of damage given. <br />
+                                    - HP is increased by 5% of damage given.
+                                    </d>
                                 </d>
                             </thead>
                         </table>
