@@ -53,7 +53,7 @@ export default function Shopupdate() {
                             <thead>
                                 <tr>
                                     <th scope="col">Fluffy Pet</th>
-                                    <th scope="col"><img src="asset/EasterEvent/fluffy.png" alt="" /></th>
+                                    <th scope="col"><img src="asset/EasterEvent/fluff.png" alt="" /></th>
                                 </tr>
                                 <d className="item-effect-shell">
                                     - All attacks are increased by 5%.
