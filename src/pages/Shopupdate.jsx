@@ -83,36 +83,6 @@ export default function Shopupdate() {
                         </table>
                     </div>
 
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Shadow King's Helmet</th>
-                                    <th scope="col"><img src="asset/shop/shadowhelmet.png" alt="" /></th>                                 
-                                </tr>
-                                <d className="item-effect-shell">
-                                    - Damage in Raids is increased by 8%.<br />
-                                    - All elemental resistance is increased by 7.<br />
-                                    - The chance of inflicting a critical hit is increased by 3%.
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
-                    <div className='mt-5'>
-                        <table className="table">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Shadow King's Mask</th>
-                                    <th scope="col"><img src="asset/shop/shadowmask.png" alt="" /></th>
-                                </tr>
-                                <d className="item-effect-shell">
-                                    - Damage to all monsters is increased by 7%.<br />
-                                    - Damage in Raids is increased by 10%.<br />
-                                    - Increases Gold earned by 7%.
-                                </d>
-                            </thead>
-                        </table>
-                    </div>
 
                     <div className='mt-5'>
                         <table className="table">
