@@ -212,7 +212,7 @@ export default function ContentCreator() {
                         <d className="nosvoid-color ">
                             <b>The rewards:</b>
                         </d>
-                        - In-game title for their own content ranking.<br />
+                        - In-game title for every rank until Gold. Plat, Diamond and master can't be given. <br />
                         - Title on discord for their own content ranking.<br />
                         - If the content creator wants [BCC] - [SCC] - [GCC] - [PCC] - [DCC] - [MCC] Roles next
                         to their names in-game.<br />
