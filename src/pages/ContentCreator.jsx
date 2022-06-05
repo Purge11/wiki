@@ -222,8 +222,6 @@ export default function ContentCreator() {
                         <i className='text-danger'>&nbsp;&nbsp;Rank x Coins x (videos / 5) —[Gold CC and 2 videos/month]→ Gold x Coins x (2 / 5)</i>
                         - Coin giveaways between Bronze, Silver, Gold, Platinum, Diamond and Master Creators
                         every 4 week.<br />
-                        - Monthly real money giveaways for Platinum - Master Content Creators.
-                        (Depending on their activity)<br />
                         <br />
 
                         <d className="youtube-color">
