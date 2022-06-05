@@ -224,13 +224,6 @@ export default function ContentCreator() {
                         every 4 week.<br />
                         - Monthly real money giveaways for Platinum - Master Content Creators.
                         (Depending on their activity)<br />
-                        <p>
-                            - Additional prizes for
-                            <d className="mcc">
-                                <b> Master  </b>
-                            </d>
-                            Content Creator
-                        </p>
                         <br />
 
                         <d className="youtube-color">
