@@ -74,8 +74,7 @@ export default function Prestige81Raids() {
 
           </div>
           <div className='borderoLP'><img src="asset/prestige81/raid5.png" class="figure-img img-fluid toobigimg  " alt="" /><p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white"><h5>Monstrous Golden Sandstorm Raid<br></br></h5></div></p>
-            <p class="text-center">After dealing 50% of max boss hp, Monstrous Sandstorm will spawn predators with one safe spot on the map when you can gather and kill them one by one from the distance.<br></br>
-              Predators will stun you all the time, so you have to kill them. </p>
+            <p class="text-center">Kill the Boss. </p>
             <img src="asset/prestige81/raid6.png" class="figure-img img-fluid  " alt="" />
             <hr></hr>
             <p class="text-center"><div class="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white "><h7>Box Drop</h7></div></p>
