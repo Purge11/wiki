@@ -1,7 +1,7 @@
 import { useIntl } from 'react-intl';
 import { FaBars } from 'react-icons/fa';
 import { FaDiscord, FaHammer, FaCat, FaShopify, FaHotjar, FaHeart } from 'react-icons/fa';
-import { FaPaw, FaUsers, FaHatWizard, FaGavel, FaTicketAlt, FaIdBadge } from 'react-icons/fa';
+import { FaPaw, FaUsers, FaHatWizard, FaGavel, FaTicketAlt, FaIdBadge, FaCheck } from 'react-icons/fa';
 import React, { useState } from 'react';
 import { FaRegFileAlt } from 'react-icons/fa';
 import { FaYoutube } from 'react-icons/fa';
@@ -22,6 +22,7 @@ import Equipment from './pages/Equipment';
 import Faires from './pages/Faires';
 import Fish from './pages/Fish';
 import Perfection from './pages/Perfection';
+import WhiteDLL from './pages/WhiteDLL';
 import Prestige from './pages/Prestige';
 import Prestige81 from './pages/Prestige81';
 import Prestige81Books from './pages/Prestige81Books';
@@ -189,6 +190,8 @@ const Aside = ({ setLocale }) => {
             <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'new' })}</span>} icon={<FaShopify />}><a href='shop'>  {intl.formatMessage({ id: 'Shop Update' })}  </a></MenuItem>
 
             <MenuItem icon={<FaYoutube />}><a href='contentcreator'>  {intl.formatMessage({ id: 'Content Creator' })}  </a></MenuItem>
+
+            <MenuItem suffix={<span className="badge red">{intl.formatMessage({ id: 'How to fix' })}</span>} icon={<FaCheck />}><a href='whitedll'>  {intl.formatMessage({ id: 'Whitelist DLL' })}  </a></MenuItem>
           </Menu>
 
 
@@ -379,6 +382,7 @@ const Aside = ({ setLocale }) => {
           <Route path='/Rules' exact component={Rules} />
           <Route path='/' exact component={Home} />
           <Route path='/teammembers' component={TeamMembers} />
+          <Route path='/whitedll' component={WhiteDLL} />
           <Route path='/contentCreators' exact component={Content} />
           <Route path='/customFeatures' component={CustomFeatures} />
           <Route path='/accesory' component={Accesory} />
