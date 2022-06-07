@@ -94,6 +94,15 @@ export default function Schedule() {
                         <li className="list-group-item d-flex justify-content-center">17:00</li>
                     </ul>
 
+                    <ul className="list-group mt-5">
+                        <li className="list-group-item d-flex justify-content-center bg-primary  text-white">[Meteorite Game]</li>
+                        <li className="list-group-item d-flex justify-content-center">01:15</li>
+                        <li className="list-group-item d-flex justify-content-center">06:00</li>
+                        <li className="list-group-item d-flex justify-content-center">14:30</li>
+                        <li className="list-group-item d-flex justify-content-center">19:00</li>
+                        <li className="list-group-item d-flex justify-content-center">23:00</li>
+                    </ul>
+
                 </div>
             </div>
 
