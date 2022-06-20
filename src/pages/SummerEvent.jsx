@@ -166,6 +166,7 @@ export default function SummerEvent() {
                         <d className='d-flex justify-content-center'>
                             On this map you can get gold, Clouds and Sparkles of Light</d>
                         <div className='imgSummerNPC d-flex justify-content-center'><img src="asset/SummerEvent/summer-farm-map2.png" alt="" /></div>
+                        <br/>
                         <b className='d-flex justify-content-center'>
                             Also there are a map boss who drops:</b>
                         <div className="d-flex flex-row align-items-center justify-content-center">
@@ -230,7 +231,7 @@ export default function SummerEvent() {
                     <h1 className="p-3 mb-2 bg-warning text-dark borderoLP table-void text-white">Summer World Boss</h1>
 
                     <div className='borderoLP'>
-                        <h3 className='d-flex justify-content-center'><b>Captain Pete O'Peng World Boss</b></h3>
+                        <h3 className='d-flex justify-content-center'><b>Captain Pete O'Peng World Boss [16:25]</b></h3>
                         <div className='imgSummerNPC d-flex justify-content-center'><img src="asset/SummerEvent/summer-wb.png" alt="" /></div>
                         <br />
                         <d className='d-flex justify-content-center'>
