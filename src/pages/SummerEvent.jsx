@@ -368,12 +368,11 @@ export default function SummerEvent() {
                                         </tr>
                                         <d className="item-effect-shell">
                                             - 10% chance of double box.<br />
-                                            - Your specialist's overall skill points are increased by 4.<br />
-                                            - All element energies are increased by 70.
+                                            - Your specialist's elemental skill points are increased by 4.<br />
                                         </d>
                                         <br />
                                         <br />
-                                        Skill: <i>colldown 40 seconds</i>
+                                        Skill "Smackeroo": <i>colldown 40 seconds</i>
                                         <br />
                                         <d className="item-effect-shell">
                                             - There is 100% chance of causing "Delicious Tuna"<br />
